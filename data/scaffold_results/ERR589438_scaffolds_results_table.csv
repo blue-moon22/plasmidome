@@ -1,0 +1,49 @@
+NODE_1_length_41603_cov_20.890864_cutoff_0,Plasmid,5.83,DUF1642 DUF1660 DUF1140 Phage_integrase Phage_int_SAM_3 HTH_3 ANT Bro-N HTH_3 Phage_SSB ERF DUF1125 Phage_capsid PhageMin_Tail Phage_TAC_3 zinc_ribbon_2 DUF806 Phage_TTP_1 Phage_H_T_join HK97-gp10_like Collagen Collagen DUF2913 Prophage_tail Glyco_hydro_25 Phage_holin_6_1 Sipho_tail Phage_portal CLP_protease Terminase_1 DUF1056 HNH Terminase_4 DUF722 DUF1359 Rep_Org_C DUF1064 DUF1031 DUF1497 DUF658
+NODE_2_length_5093_cov_27.960925_cutoff_0,Plasmid,5.35,Rep_3 OMP_b-brl_2
+NODE_3_length_4645_cov_2.412653_cutoff_0,Plasmid,11.80,Rep_3 MobA_MobL TraD
+NODE_4_length_4401_cov_1.971785_cutoff_0,Chromosome,0,ParE_toxin
+NODE_5_length_3714_cov_9.181193_cutoff_0,Plasmid,5.35,RelB YafQ_toxin Rep_3 PemK_toxin
+NODE_6_length_3607_cov_3.920113_cutoff_0,Plasmid,9.00,MobA_MobL Rep_3
+NODE_7_length_3495_cov_2.958748_cutoff_0,Plasmid,10.69,Rep_3 Rep_3 YoeB_toxin
+NODE_8_length_3152_cov_2.167805_cutoff_0,Plasmid,5.48,Rep_1 HTH_Tnp_Tc3_1
+NODE_9_length_2835_cov_1.965555_cutoff_0,Plasmid,5.48,Rep_1
+NODE_10_length_2565_cov_1.915595_cutoff_0,Plasmid,5.48,Rep_1
+NODE_11_length_2152_cov_3.026988_cutoff_0,Plasmid,5.48,Rep_1
+NODE_12_length_1894_cov_2.108420_cutoff_0,Chromosome,--
+NODE_13_length_1700_cov_1.480591_cutoff_0,Chromosome,0,Aminotran_5
+NODE_14_length_1613_cov_2.225260_cutoff_0,Chromosome,--
+NODE_15_length_1397_cov_2.992424_cutoff_0,Chromosome,--
+NODE_16_length_1287_cov_363.921488_cutoff_0,Chromosome,--
+NODE_17_length_1154_cov_2.599814_cutoff_0,Chromosome,0,TQ TQ SpaA TQ
+NODE_18_length_1068_cov_1.769929_cutoff_0,Chromosome,--
+NODE_19_length_1022_cov_3.110053_cutoff_0,Chromosome,0,YadA_stalk
+NODE_20_length_985_cov_1.895374_cutoff_0,Chromosome,--
+NODE_21_length_890_cov_2.680197_cutoff_0,Chromosome,--
+NODE_22_length_887_cov_1.455556_cutoff_0,Chromosome,--
+NODE_23_length_818_cov_1.584345_cutoff_0,Chromosome,0,DUF11 DUF11 LRR_adjacent
+NODE_24_length_776_cov_1.442060_cutoff_0,Chromosome,--
+NODE_25_length_758_cov_1.074890_cutoff_0,Chromosome,--
+NODE_26_length_740_cov_2.699849_cutoff_0,Chromosome,--
+NODE_27_length_710_cov_1.570300_cutoff_0,Chromosome,-4.952176548756018,DUF1542 DUF1542
+NODE_28_length_707_cov_5.673016_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_29_length_701_cov_5.676282_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_30_length_651_cov_4.120209_cutoff_0,Chromosome,--
+NODE_31_length_641_cov_1.710993_cutoff_0,Chromosome,0,MucBP MucBP
+NODE_32_length_638_cov_5.962567_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_33_length_635_cov_5.818996_cutoff_0,Chromosome,--
+NODE_34_length_629_cov_0.601449_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 Mub_B2
+NODE_35_length_608_cov_3.885122_cutoff_0,Chromosome,0,Collagen Collagen Collagen
+NODE_36_length_587_cov_6.056863_cutoff_0,Chromosome,--
+NODE_37_length_584_cov_0.919132_cutoff_0,Chromosome,--
+NODE_38_length_582_cov_1.542574_cutoff_0,Chromosome,--
+NODE_1_length_13758_cov_21.622250_cutoff_26,Plasmid,3.20,TpcC Lysozyme_like NLPC_P60 TcpE AAA_10 ArdA DBD_HTH GTP_EFTU EFG_IV EFG_C EFG_II DDE_Tnp_ISL3 zf-ISL3 RrnaAD
+NODE_1_length_1287_cov_363.921488_cutoff_42,Chromosome,--
+NODE_1_length_184661_cov_8.949416_cutoff_5,Chromosome,-3.1102649935545372,Prok-E2_D SpoVG Whirly Fer2_BFD Hydrolase_2 ATP_bind_3 AAA_28 RVT_1 RecA Toprim_2 DnaB_C Toprim_N Radical_SAM Spermine_synth PRA-PH PHP DNA_pol3_alpha DHFR_1 Bac_DNA_binding AdoMet_dc DNA_pol3_finger HHH_6 PDDEXK_1 Thymidylat_synt RNA_ligase Ribonuc_red_sm Metallophos RNA_lig_T4_1 Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN AAA_33 Glutaredoxin Terminase_6 Tn7_Tnp_TnsA_N Intein_splicing AAA PG_binding_1 Glyco_hydro_19 DNA_ligase_OB_2 DNA_ligase_A_M YqeY NAPRTase DUF5598 NAPRTase Peptidase_M23 RuvC SNase RNase_H YadA_anchor YadA_stalk YadA_head RecA
+NODE_2_length_44411_cov_12.631141_cutoff_5,Chromosome,-8.36689378808235,HicA_toxin N6_N4_Mtase SDH_sah Phage_integrase Phage_int_SAM_5 DUF5053 Phage_integrase Phage_int_SAM_5 HTH_26 zf-CHC2 Toprim_N Toprim_2 Toprim_4 Peptidase_S49 Amidase_3
+NODE_3_length_7076_cov_4.831547_cutoff_5,Plasmid,6.61,Peripla_BP_3 LacI AMP-binding AMP-binding_C APH Rop
+NODE_4_length_2971_cov_3.181755_cutoff_5,Chromosome,0,LXG
+NODE_5_length_2880_cov_3.675705_cutoff_5,Plasmid,3.86,Toprim_2 Mob_Pre
+NODE_6_length_2846_cov_3.291802_cutoff_5,Chromosome,0,DUF2201_N
+NODE_7_length_1791_cov_1.427655_cutoff_5,Chromosome,0,TonB_C
+NODE_8_length_1766_cov_3.916519_cutoff_5,Chromosome,--
+NODE_9_length_1139_cov_3.179849_cutoff_5,Chromosome,0,MucBP_2 Mub_B2

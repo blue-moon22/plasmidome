@@ -1,0 +1,8 @@
+NODE_1_length_6869_cov_103.233363_cutoff_118,Chromosome,0,DUF4988 DUF234 DUF3874 AAA_14
+NODE_1_length_2767_cov_602.852788_cutoff_564,Chromosome,0,DUF4065
+NODE_1_length_2880_cov_20.007849_cutoff_20,Plasmid,10.53,Methyltransf_11 RrnaAD Omega_Repress Epsilon_antitox Zeta_toxin
+NODE_1_length_30913_cov_8.171909_cutoff_0,Plasmid,17.63,DUF3575 DUF5119 Mfa_like_1 AAA_31 Abi_2 Resolvase HTH_7 Fic PLCC GerE DUF1738 MPTase-PolyVal Peptidase_M23 TraO SprT-like Rep_3 T4SS-DNA_transf DUF4138 DUF4138 Transposon_TraM
+NODE_2_length_6168_cov_6.452307_cutoff_0,Chromosome,0,Phage_F Peptidase_M15_3
+NODE_3_length_6080_cov_15.077794_cutoff_0,Chromosome,--
+NODE_4_length_5048_cov_61.274391_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_5_length_4225_cov_20.488187_cutoff_0,Plasmid,8.86,YoeB_toxin Relaxase Rep_3 YoeB_toxin

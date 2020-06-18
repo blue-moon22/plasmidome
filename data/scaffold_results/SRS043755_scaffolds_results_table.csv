@@ -1,0 +1,29 @@
+NODE_1_length_1104_cov_16.474197_cutoff_10,Chromosome,--
+NODE_1_length_59324_cov_139.530525_cutoff_0,Chromosome,0,CHAP HTH_24 Phage_portal Terminase_1 Phage_capsid Peptidase_S78 CHAP SH3_5 Collagen_bind Big_8 Gram_pos_anchor Phage_holin_1 Prophage_tail DUF859 DUF1366 Sipho_tail DUF1599
+NODE_2_length_5048_cov_2.100181_cutoff_0,Chromosome,0,FtsK_SpoIIIE YoeB_toxin
+NODE_3_length_2845_cov_4.011561_cutoff_0,Plasmid,2.91,DUF4189 TrbL DUF4189 DUF4189
+NODE_4_length_2366_cov_21.948449_cutoff_0,Chromosome,0,Beta_helix DUF1565
+NODE_5_length_1670_cov_1.466416_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_1430_cov_2.428677_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_1301_cov_0.870098_cutoff_0,Chromosome,0,HisKA_3
+NODE_8_length_1244_cov_2.079692_cutoff_0,Chromosome,0,adh_short adh_short_C2
+NODE_9_length_1091_cov_3.339250_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_972_cov_2.430168_cutoff_0,Chromosome,--
+NODE_11_length_875_cov_4.025063_cutoff_0,Chromosome,0,Rib Rib
+NODE_12_length_797_cov_2.606944_cutoff_0,Chromosome,--
+NODE_13_length_761_cov_1.257310_cutoff_0,Chromosome,--
+NODE_14_length_716_cov_2.442879_cutoff_0,Chromosome,0,SpaA
+NODE_15_length_704_cov_7.065391_cutoff_0,Chromosome,--
+NODE_16_length_683_cov_0.679868_cutoff_0,Chromosome,--
+NODE_17_length_676_cov_1.196995_cutoff_0,Chromosome,--
+NODE_18_length_647_cov_1.847368_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_1_length_42582_cov_13.264322_cutoff_5,Chromosome,-3.438125028037641,HNHc_6 HTH_3 SSB IstB_IS21 DnaI_N YopX Phage_integrase Phage_int_SAM_3 DUF1492 HNH Phg_2220_C HTH_36 Methyltransf_11 FlbD Phage_H_T_join Terminase_4 Phage_holin_1 PhageMin_Tail Phage_capsid Glutaredoxin DUF1642 DUF1599 Terminase_1 DUF1642 Peptidase_S24 HTH_26 HTH_3 CW_7 Glucosaminidase CHAP CW_binding_1 CW_binding_1 Gp58 Peptidase_S78 Phage_portal ORF6C Bro-N
+NODE_2_length_33538_cov_8.957204_cutoff_5,Plasmid,3.57,Phage_capsid AAA_24 dUTPase_2 PDDEXK_1 Prophage_tail Thymidylat_synt Terminase_6C Terminase_6 Helicase_C SNF2_N DNA_pol_A DNA_pol_A_exo1 Amidase_2 AAA_25 RepB_primase
+NODE_3_length_3216_cov_5.920994_cutoff_5,Chromosome,0,Transposase_mut RrnaAD
+NODE_4_length_2182_cov_1.915439_cutoff_5,Chromosome,0,RloB AAA_21
+NODE_5_length_1685_cov_5.223881_cutoff_5,Chromosome,--
+NODE_6_length_1488_cov_8.771793_cutoff_5,Chromosome,--
+NODE_7_length_1307_cov_10.237398_cutoff_5,Chromosome,0,Endonuclea_NS_2
+NODE_8_length_1253_cov_2.454082_cutoff_5,Chromosome,--
+NODE_9_length_1097_cov_6.317647_cutoff_5,Chromosome,0,LRR_5
+NODE_1_length_6814_cov_28.332938_cutoff_33,Chromosome,0,CbiA

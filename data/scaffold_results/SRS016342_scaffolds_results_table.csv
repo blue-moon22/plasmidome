@@ -1,0 +1,29 @@
+NODE_1_length_8892_cov_6.274872_cutoff_10,Chromosome,0,Imm59 Imm59 Imm59 Imm59 Imm59 DUF1310 DUF1310
+NODE_2_length_4438_cov_5.989452_cutoff_10,Chromosome,0,GrpB GyrI-like HTH_18 Acetyltransf_1
+NODE_3_length_1367_cov_13.782171_cutoff_10,Chromosome,--
+NODE_1_length_842_cov_66.674510_cutoff_20,Chromosome,--
+NODE_1_length_33722_cov_56.412929_cutoff_15,Plasmid,3.54,DUF3310 HTH_3 HTH_3 CBM_4_9 DnaB_C DnaB RepA_N Phg_2220_C IstB_IS21 DUF1642 DUF1642 DUF1642 Peptidase_M78 SH3_5 CHAP Phage_holin_6_1 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 Phage_holin_4_1 SSB Phage_integrase HNH HeH Phage_Gp19 DUF4355 Phage_capsid Phage_prot_Gp6 DUF5361
+NODE_1_length_33782_cov_44.900994_cutoff_0,Chromosome,0,Minor_capsid_1 Minor_capsid_3 Minor_capsid_2 Phage_GP20 HTH_3 ANT AntA RecT Phage_Gp15 Prophage_tail Sipho_tail DUF1366 DUF859 Phage_holin_1 HTH_3 SH3_5 CHAP Phage_holin_1 DUF1492 Phage_terminase DUF1372 Phage_min_cap2 Terminase_3 Terminase_3C Phage_prot_Gp6 DUF1351 SSB RusA
+NODE_2_length_31739_cov_2.923852_cutoff_0,Chromosome,0,Phage_prot_Gp6 Terminase_6C ParBc Phage_Mu_F HK97-gp10_like Phage_TTP_12 DUF4355 HTH_36 RecT FtsK_SpoIIIE PDDEXK_1 FtsK_alpha DUF3799 CW_7 LysM DUF859
+NODE_3_length_8775_cov_11.673028_cutoff_0,Plasmid,4.09,MobC
+NODE_4_length_7816_cov_37.844812_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_5_length_4924_cov_31.716113_cutoff_0,Chromosome,0,FtsK_SpoIIIE AAA_19 UvrD_C_2
+NODE_6_length_4544_cov_5.856279_cutoff_0,Plasmid,3.65,MobA_MobL
+NODE_7_length_4406_cov_2.869254_cutoff_0,Plasmid,7.61,PemK_toxin Relaxase MobC
+NODE_8_length_3878_cov_10.137069_cutoff_0,Chromosome,0,ParE_toxin
+NODE_9_length_3375_cov_14.407216_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_10_length_2242_cov_1.589376_cutoff_0,Chromosome,--
+NODE_11_length_2203_cov_2.230009_cutoff_0,Chromosome,0,Sigma70_r4_2 Sigma70_r2
+NODE_12_length_1754_cov_2.645200_cutoff_0,Chromosome,0,Rib
+NODE_13_length_1022_cov_1.340741_cutoff_0,Chromosome,0,YadA_stalk
+NODE_14_length_758_cov_0.908957_cutoff_0,Chromosome,--
+NODE_15_length_731_cov_1.032110_cutoff_0,Chromosome,--
+NODE_16_length_701_cov_0.915064_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_17_length_698_cov_6.011272_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP_2
+NODE_18_length_668_cov_0.446701_cutoff_0,Chromosome,--
+NODE_19_length_664_cov_1.100511_cutoff_0,Chromosome,--
+NODE_20_length_626_cov_2.036430_cutoff_0,Chromosome,--
+NODE_21_length_619_cov_1.405904_cutoff_0,Chromosome,--
+NODE_22_length_610_cov_2.836773_cutoff_0,Chromosome,--
+NODE_23_length_590_cov_2.001949_cutoff_0,Chromosome,--
+NODE_1_length_1460_cov_6.466377_cutoff_5,Chromosome,--

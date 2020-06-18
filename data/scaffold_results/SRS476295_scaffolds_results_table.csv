@@ -1,0 +1,29 @@
+NODE_1_length_22323_cov_360.723051_cutoff_153,Plasmid,18.04,Resolvase HTH_7 Resolvase AAA_31 Arm-DNA-bind_5 Mfa_like_1 Mob_Pre DUF4134 AbiEii Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_5 Rep_3 OMP_b-brl_3 HTH_27
+NODE_1_length_13787_cov_59.863311_cutoff_70,Chromosome,0,Pkinase FHA Trypsin_2 Pkinase FHA DZR zinc_ribbon_2 FHA NusG PP2C_2
+NODE_2_length_1119_cov_90.616123_cutoff_70,Chromosome,--
+NODE_1_length_61113_cov_25.240628_cutoff_0,Plasmid,4.95,MUG113 YAcAr MazG DUF2737 Phage_Mu_F MUG113 Peptidase_S78_2 T5orf172 DUF2815 DUF2800 ResIII Helicase_C DUF5051 D5_N Phage_tail_NK DUF4406 DUF2591 N6_N4_Mtase Phage_lysozyme dUTPase RdgC
+NODE_2_length_55530_cov_19.304420_cutoff_0,Plasmid,13.41,DUF551 AAA_31 Big_2 Glyco_hydro_25 Lipase_GDSL_2 Phage_cap_E Phage_prot_Gp6 HNH_3 ERF SSB Phage_pRha ANT HTH_3 HTH_3 Rep_3 DUF551 HTH_19 Big_2 DUF5055 Resolvase Phage_pRha ANT DnaB_C
+NODE_3_length_6958_cov_7.615754_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_6688_cov_12.621994_cutoff_0,Plasmid,3.86,Mob_Pre Peptidase_C92
+NODE_5_length_4721_cov_13.125754_cutoff_0,Plasmid,5.48,Phage_integrase Rep_1
+NODE_6_length_4369_cov_313.601118_cutoff_0,Plasmid,5.35,Rep_3 ORF6N
+NODE_7_length_3992_cov_9.495019_cutoff_0,Plasmid,6.61,Rop AAA_21 RloB
+NODE_8_length_3699_cov_5.665654_cutoff_0,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_9_length_3202_cov_25.637120_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_10_length_3038_cov_124.098278_cutoff_0,Plasmid,5.35,ORF6N Rep_3
+NODE_11_length_2973_cov_353.967541_cutoff_0,Plasmid,5.35,Rep_3
+NODE_12_length_2837_cov_2.457609_cutoff_0,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_13_length_2053_cov_19.919534_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_14_length_2036_cov_2.602348_cutoff_0,Chromosome,0,HTH_21 rve
+NODE_15_length_1831_cov_1.548461_cutoff_0,Chromosome,0,HATPase_c_4 AlbA_2 T5orf172
+NODE_16_length_1690_cov_6.226286_cutoff_0,Plasmid,5.20,RepL
+NODE_17_length_975_cov_1.512249_cutoff_0,Chromosome,0,adh_short_C2
+NODE_18_length_752_cov_2.536296_cutoff_0,Chromosome,--
+NODE_19_length_713_cov_2.650943_cutoff_0,Chromosome,--
+NODE_20_length_626_cov_6.899818_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_1_length_55530_cov_19.304420_cutoff_5,Plasmid,13.41,Lipase_GDSL_2 Glyco_hydro_25 Phage_pRha ANT HTH_3 HTH_3 HNH_3 ERF SSB DUF551 HTH_19 DnaB_C Resolvase Phage_pRha ANT Phage_prot_Gp6 Phage_cap_E DUF551 AAA_31 Rep_3 DUF5055 Big_2 Big_2
+NODE_2_length_7419_cov_6.750341_cutoff_5,Plasmid,7.61,Relaxase MobC
+NODE_3_length_3814_cov_1.824458_cutoff_5,Chromosome,0,DDE_Tnp_1 PAP2
+NODE_4_length_1871_cov_6.883501_cutoff_5,Chromosome,--
+NODE_5_length_1733_cov_52.294686_cutoff_5,Chromosome,0,DEDD_Tnp_IS110 Transposase_20
+NODE_6_length_1111_cov_2.798839_cutoff_5,Chromosome,0,RelB ParE_toxin

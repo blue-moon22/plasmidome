@@ -1,0 +1,24 @@
+NODE_1_length_51174_cov_4.863456_cutoff_5,Chromosome,0,DUF3310 DNA_pol_A DUF2815 Phage_cap_E VirE SNF2_N VirE DUF2800 DUF2800 Pectate_lyase_3 Amidase_2 DUF2746
+NODE_2_length_2660_cov_4.340302_cutoff_5,Plasmid,5.48,Rep_1
+NODE_3_length_2142_cov_6.599516_cutoff_5,Plasmid,5.48,Rep_1
+NODE_1_length_90498_cov_9.420002_cutoff_10,Plasmid,3.02,ArdA Collagen Helicase_C ResIII Thy1 G5 DUF4494 DUF3310 DUF3310 HNH_3 DnaB_C AAA_24 DUF3799 DUF1064
+NODE_1_length_4383_cov_1.849512_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_2_length_3333_cov_22.328931_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_3_length_3193_cov_2.988768_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_2911_cov_15.612915_cutoff_0,Chromosome,--
+NODE_5_length_2739_cov_1.968820_cutoff_0,Plasmid,2.52,Rep_2
+NODE_6_length_2229_cov_20.743494_cutoff_0,Plasmid,5.48,Rep_1
+NODE_7_length_1960_cov_2.764737_cutoff_0,Chromosome,0,SUFU
+NODE_8_length_1660_cov_3.535692_cutoff_0,Chromosome,--
+NODE_9_length_1209_cov_1.650177_cutoff_0,Chromosome,--
+NODE_10_length_887_cov_3.444444_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_11_length_881_cov_0.936567_cutoff_0,Chromosome,0,Rib Rib
+NODE_12_length_853_cov_1.885309_cutoff_0,Chromosome,0,DUF4253 DUF4253
+NODE_13_length_810_cov_1.320600_cutoff_0,Chromosome,--
+NODE_14_length_701_cov_3.259615_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_15_length_698_cov_3.246377_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_16_length_671_cov_1.479798_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_17_length_644_cov_2.047619_cutoff_0,Chromosome,0,DUF4189
+NODE_18_length_638_cov_4.632799_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_19_length_632_cov_3.500901_cutoff_0,Chromosome,--
+NODE_20_length_611_cov_1.979401_cutoff_0,Chromosome,0,Mub_B2 MucBP_2

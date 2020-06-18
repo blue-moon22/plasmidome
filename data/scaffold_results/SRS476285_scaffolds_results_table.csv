@@ -1,0 +1,19 @@
+NODE_1_length_60278_cov_2.246159_cutoff_0,Chromosome,0,RdgC Muraidase Ribonuc_red_sm Thy1 Phage_cap_E VRR_NUC Phage-tail_3 YadA_anchor YadA_stalk YadA_head YadA_head DUF5051 DUF1653 DUF2800 Beta_helix Phage_portal_2 dUTPase Peptidase_S49 SNF2_N Terminase_GpA DUF1441 Bac_DNA_binding Phage_BR0599 DUF2163 PriCT_2 Prim-Pol DUF2815
+NODE_2_length_58191_cov_2.708797_cutoff_0,Chromosome,0,DUF1599 Prophage_tail Amidase_5 Phage_portal Phage_holin_6_1 RdRP Peptidase_S78 Terminase_1
+NODE_3_length_49165_cov_2.814741_cutoff_0,Chromosome,0,DUF4055 Phage_min_tail NLPC_P60 Prok-JAB Phage_tail_L Phage-tail_3 DUF4376 AAA_24 Phage_lysozyme VRR_NUC ResIII Hom_end_hint Helicase_C LAGLIDADG_3 Hom_end DNA_pol_B Dam DUF3310
+NODE_4_length_5611_cov_1.346404_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_5_length_4284_cov_3.311386_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_6_length_3510_cov_1.929799_cutoff_0,Plasmid,3.86,ParE_toxin Mob_Pre
+NODE_7_length_2701_cov_2.850991_cutoff_0,Chromosome,0,YafQ_toxin
+NODE_8_length_1967_cov_1.999471_cutoff_0,Plasmid,2.52,Rep_2
+NODE_9_length_1723_cov_2.243013_cutoff_0,Chromosome,0,Rep_trans
+NODE_10_length_1552_cov_2.444746_cutoff_0,Chromosome,--
+NODE_11_length_1019_cov_2.065817_cutoff_0,Chromosome,0,Mub_B2
+NODE_12_length_1007_cov_4.921505_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_13_length_931_cov_1.540984_cutoff_0,Chromosome,--
+NODE_14_length_734_cov_1.576865_cutoff_0,Chromosome,0,G5 G5
+NODE_15_length_701_cov_0.737179_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP_2 BTRD1 BTRD1
+NODE_16_length_686_cov_1.241379_cutoff_0,Chromosome,--
+NODE_17_length_635_cov_4.241935_cutoff_0,Chromosome,--
+NODE_18_length_605_cov_4.318182_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_1_length_39572_cov_9.096595_cutoff_5,Chromosome,0,Phage_portal Terminase_1 HNH_3 Amidase_2 Pox_D5 Phage_capsid HK97-gp10_like Phage_holin_Dp1

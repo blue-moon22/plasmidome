@@ -1,0 +1,28 @@
+NODE_1_length_2989_cov_133.240728_cutoff_118,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1
+NODE_1_length_2461_cov_141.187919_cutoff_42,Chromosome,0,Glyco_transf_25 Glyco_transf_25
+NODE_2_length_1615_cov_116.206112_cutoff_42,Chromosome,0,Lactamase_B
+NODE_1_length_3654_cov_20.959463_cutoff_26,Chromosome,--
+NODE_2_length_956_cov_43.026166_cutoff_26,Chromosome,--
+NODE_1_length_38121_cov_176.327726_cutoff_153,Chromosome,0,Phage_holin_1 Phage_holin_4_1 Gp58 Prophage_tail Sipho_tail HeH Phage_capsid Phage_connect_1 HK97-gp10_like Phage_TAC_12 Phage_tail_2 DUF1351 SSB Big_8 Collagen_bind RecT Bro-N ANT DUF739 HTH_3 Peptidase_M78 bPH_3 SHOCT Phage_integrase ZoocinA_TRD Amidase_5 Phage_Mu_F DUF4355 SSB DUF1642 HTH_3 YopX DUF1340 Terminase_2 Terminase_3 Terminase_3C Phage_prot_Gp6
+NODE_1_length_7184_cov_387.376671_cutoff_20,Plasmid,9.21,Rep_3 HTH_3 Mob_Pre
+NODE_1_length_1833_cov_54.169704_cutoff_54,Chromosome,0,CW_binding_1 CW_binding_1
+NODE_1_length_1866_cov_172.523197_cutoff_70,Chromosome,0,ABC_tran ABC_tran
+NODE_2_length_1405_cov_82.664157_cutoff_70,Chromosome,0,IAT_beta
+NODE_1_length_4044_cov_43.944038_cutoff_15,Chromosome,0,AAA_23
+NODE_2_length_2688_cov_38.440827_cutoff_15,Chromosome,--
+NODE_3_length_1252_cov_18.157447_cutoff_15,Chromosome,--
+NODE_1_length_9510_cov_2.288243_cutoff_0,Plasmid,3.65,ABC_tran ABC_membrane ParE_toxin MobA_MobL Radical_SAM
+NODE_2_length_7804_cov_32.059402_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_3_length_4651_cov_3.730433_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_4032_cov_4.889507_cutoff_0,Plasmid,5.35,ParE_toxin Rep_3
+NODE_5_length_2938_cov_67.859839_cutoff_0,Chromosome,0,ABC_tran ABC_membrane HTH_3
+NODE_6_length_1516_cov_143.034051_cutoff_0,Chromosome,--
+NODE_7_length_704_cov_0.397129_cutoff_0,Chromosome,--
+NODE_8_length_695_cov_1.187702_cutoff_0,Chromosome,--
+NODE_1_length_57293_cov_7.485336_cutoff_5,Plasmid,49.46,VirB3 TrbC HipA_C SLT TrbL T4SS CagE_TrbE_VirB T2SSE SLH YadA_stalk YadA_anchor YadA_stalk YadA_head YadA_head DUF4065 HicB_lk_antitox HicA_toxin Peptidase_S26 Resolvase LemA CbiA Fic MobA_MobL Rep_3 Toprim_2 TrbI T4SS-DNA_transf T4SS-DNA_transf VirB8 CagX SLT OrfB_Zn_ribbon HTH_3 UvrD_C AAA_19 UvrD-helicase RRXRR HNH MPTase-PolyVal DUF1738 Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom RE_Bsp6I DNA_methylase
+NODE_2_length_3329_cov_13.353321_cutoff_5,Chromosome,0,DUF2273 CsbD Transgly_assoc Asp23
+NODE_3_length_2320_cov_3.350869_cutoff_5,Chromosome,--
+NODE_4_length_1852_cov_3.278310_cutoff_5,Chromosome,--
+NODE_5_length_1731_cov_8.922007_cutoff_5,Chromosome,0,RVT_1
+NODE_6_length_1392_cov_9.082129_cutoff_5,Chromosome,0,RAP
+NODE_7_length_1312_cov_14.948178_cutoff_5,Chromosome,0,Peptidase_S8

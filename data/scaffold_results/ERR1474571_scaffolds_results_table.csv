@@ -1,0 +1,27 @@
+NODE_1_length_38961_cov_9.730892_cutoff_5,Plasmid,2.61,DUF2213 Terminase_2 Terminase_6C DNA_methylase RNase_H_2 DUF2184 DUF3277 ResIII Helicase_C DUF1073 DUF3383 Phage_Mu_F AAA_24 Peptidase_M15_4 CCDC53 Glutaredoxin Beta_helix
+NODE_1_length_59031_cov_19.286749_cutoff_0,Chromosome,0,Prophage_tail Terminase_1 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_6_1 Phage_portal Peptidase_S78 DUF1599
+NODE_2_length_35576_cov_4.326122_cutoff_0,Plasmid,2.67,Phage_GP20 Minor_capsid_1 Minor_capsid_2 Minor_capsid_3 Phage_Gp15 DUF859 Amidase_5 CW_7 CW_7 Phage_holin_Dp1 HTH_3 DUF2786 SSB Sipho_tail N6_N4_Mtase ParBc Phage_min_cap2 Phage_prot_Gp6 Terminase_3 Terminase_3C Prophage_tail Phage_holin_4_1 DUF1351 ERF Phg_2220_C Phage_rep_org_N HTH_3
+NODE_3_length_4437_cov_3.396560_cutoff_0,Plasmid,15.29,Replicase PriCT_1 ParE_toxin MobA_MobL TraD
+NODE_4_length_4150_cov_24.296833_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_5_length_3739_cov_11.949208_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_6_length_3290_cov_7.197323_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_7_length_3128_cov_3.387742_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_8_length_2862_cov_8.600359_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_9_length_2236_cov_2.163965_cutoff_0,Chromosome,0,Phage_X Phage_CRI Phage_CRI
+NODE_10_length_2215_cov_134.815248_cutoff_0,Plasmid,5.48,Rep_1
+NODE_11_length_2151_cov_5.168274_cutoff_0,Plasmid,5.48,Rep_1
+NODE_12_length_1745_cov_13.504197_cutoff_0,Chromosome,--
+NODE_13_length_1218_cov_1.662577_cutoff_0,Chromosome,-3.048789301861362,DTW
+NODE_14_length_1215_cov_2.422671_cutoff_0,Chromosome,--
+NODE_15_length_1013_cov_1.081197_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_16_length_1001_cov_2.290043_cutoff_0,Chromosome,--
+NODE_17_length_984_cov_1.144432_cutoff_0,Chromosome,--
+NODE_18_length_885_cov_2.528465_cutoff_0,Chromosome,0,DDE_Tnp_1_2 DUF4096
+NODE_19_length_788_cov_2.673699_cutoff_0,Chromosome,--
+NODE_20_length_701_cov_1.070513_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_21_length_699_cov_2.186495_cutoff_0,Chromosome,--
+NODE_22_length_638_cov_6.295900_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_23_length_638_cov_4.729055_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_24_length_638_cov_2.629234_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_25_length_638_cov_1.996435_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_26_length_602_cov_0.996190_cutoff_0,Chromosome,0,FIVAR

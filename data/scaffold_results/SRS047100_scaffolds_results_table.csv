@@ -1,0 +1,21 @@
+NODE_1_length_1089_cov_50.980237_cutoff_54,Chromosome,--
+NODE_1_length_5599_cov_11.910359_cutoff_10,Chromosome,--
+NODE_2_length_1094_cov_18.103245_cutoff_10,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_34499_cov_3.819418_cutoff_0,Plasmid,2.67,ERF Whib CHAP DUF4214 SSB Phage_connect_1 Phage_portal Phage_Mu_F Sipho_tail PhageMin_Tail Phage_lysozyme2 ParBc HTH_36 Phage_capsid
+NODE_2_length_13085_cov_23.274370_cutoff_0,Plasmid,11.93,Replicase HTH_5 Type_ISP_C N6_Mtase RHH_1 TrwC AAA_30 AAA_19 Resolvase HTH_28 CbiA
+NODE_3_length_6993_cov_3.762869_cutoff_0,Chromosome,0,DnaB GspH N_methyl DnaB_C N_methyl ComP_DUS AMP-binding AMP-binding_C N_methyl PilX PilX_N
+NODE_4_length_1170_cov_1.612992_cutoff_0,Chromosome,0,PT-HINT
+NODE_5_length_1139_cov_1.546139_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_1058_cov_1.918451_cutoff_0,Chromosome,--
+NODE_7_length_938_cov_7.229965_cutoff_0,Chromosome,0,YadA_stalk
+NODE_8_length_680_cov_4.205638_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_9_length_651_cov_11.820557_cutoff_0,Chromosome,--
+NODE_10_length_638_cov_1.115865_cutoff_0,Chromosome,0,CW_binding_1 CW_binding_1
+NODE_11_length_632_cov_3.093694_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related
+NODE_1_length_37633_cov_13.596496_cutoff_5,Chromosome,-2.4971416835774463,DnaB_2 Phage_integrase Arm-DNA-bind_4 Phage_int_SAM_3 Phage_int_SAM_5 Peptidase_S24 HNH_3 Amidase_5 ZoocinA_TRD ZoocinA_TRD Phage_r1t_holin Minor_capsid_2 Minor_capsid_3 Phage_Gp15 Sipho_tail Gp58 Terminase_3 Terminase_3C Terminase_2 Minor_capsid_1 Phage_GP20 Phage_min_cap2 Phage_prot_Gp6 DUF1372 HTH_26 IstB_IS21 DUF3799 RecT RusA DUF1642 MazG
+NODE_2_length_1788_cov_8.151373_cutoff_5,Chromosome,0,MarR Y_phosphatase
+NODE_3_length_1665_cov_4.826196_cutoff_5,Chromosome,--
+NODE_4_length_1522_cov_2.619377_cutoff_5,Chromosome,0,Porin_4 Porin_4
+NODE_5_length_1466_cov_5.588913_cutoff_5,Chromosome,--
+NODE_6_length_1329_cov_6.067093_cutoff_5,Chromosome,0,Glycos_transf_1 Glyco_transf_4
+NODE_1_length_38719_cov_15.844289_cutoff_15,Plasmid,2.91,RecT YopX HNH_5 DUF1372 Terminase_2 Terminase_6 DUF1492 DUF1642 Glyco_hydro_25 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_1 HTH_3 Peptidase_S24 Minor_capsid_1 Rho_N Phage_min_cap2 ADPrib_exo_Tox Phage_prot_Gp6 DUF1366 Resolvase Recombinase Zn_ribbon_recom DUF859 HTH_3 Phage_Gp15 Prophage_tail Sipho_tail DUF859 Minor_capsid_3 Minor_capsid_2 DUF3799 DUF1351 N6_N4_Mtase DNA_methylase DUF3882

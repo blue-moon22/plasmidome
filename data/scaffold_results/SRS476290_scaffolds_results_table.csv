@@ -1,0 +1,30 @@
+NODE_1_length_5536_cov_448.630885_cutoff_118,Plasmid,5.35,ORF6N Rep_3
+NODE_1_length_12330_cov_15.779646_cutoff_20,Chromosome,0,CarboxypepD_reg CARDB Omp28 PEGA
+NODE_2_length_2371_cov_24.104621_cutoff_20,Chromosome,0,DNase_NucA_NucB
+NODE_1_length_1857_cov_118.920787_cutoff_26,Chromosome,0,DDE_Tnp_1
+NODE_1_length_2752_cov_178.530467_cutoff_54,Chromosome,0,DEDD_Tnp_IS110 Transposase_20 Transposase_20 DEDD_Tnp_IS110
+NODE_1_length_3366_cov_76.739130_cutoff_91,Chromosome,0,DUF285 DUF285 DUF285 DUF285 LRR_5 LRR_5 LRR_5
+NODE_1_length_43348_cov_44.964295_cutoff_70,Chromosome,0,RRXRR HNH HNH_2 HTH_31 OrfB_IS605 OrfB_Zn_ribbon RRXRR HNH DUF1653 HicA_toxin Thy1 RNase_H ANT AntA HTH_3 WYL_2 ASCH HTH_3 WYL_2 DUF4884
+NODE_2_length_2997_cov_729.250342_cutoff_70,Plasmid,5.35,Rep_3 ORF6N
+NODE_3_length_1457_cov_62.128261_cutoff_70,Chromosome,0,PDDEXK_2
+NODE_1_length_10620_cov_6.675994_cutoff_10,Chromosome,0,Glyco_hydro_65m Glyco_hydro_65N Glyco_hydro_65C DUF3791 Response_reg HTH_18 HTH_AraC HTH_AraC His_kinase HATPase_c BPD_transp_1 BPD_transp_1 SBP_bac_8 DUF3990
+NODE_1_length_4078_cov_7.021745_cutoff_0,Plasmid,10.69,Rep_3 Rep_3
+NODE_2_length_3290_cov_2.299409_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_3_length_3170_cov_2.085354_cutoff_0,Chromosome,0,Autotransporter HTH_3
+NODE_4_length_2854_cov_16.416997_cutoff_0,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_5_length_2534_cov_2.301180_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_6_length_1871_cov_24.002787_cutoff_0,Chromosome,--
+NODE_7_length_1441_cov_20.375367_cutoff_0,Chromosome,--
+NODE_8_length_1397_cov_3.927273_cutoff_0,Chromosome,0,Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_9_length_602_cov_2.880000_cutoff_0,Chromosome,0,Collagen
+NODE_10_length_602_cov_0.876190_cutoff_0,Chromosome,--
+NODE_1_length_72000_cov_7.806988_cutoff_5,Plasmid,2.35,DNA_pol_A AAA_24 AAA_30 UvrD_C_2 Viral_helicase1 DNA_ligase_A_M Endonuclease_7 NRDD ATP-cone Phage_holin_3_3 dUTPase Fer4_12 AAA_5 RNA_pol DUF2201 DUF2201_N DUF2201_N Hc1 Terminase_6C Fer4_14 DUF3310 NAD_binding_8 Thy1 DNA_pol_A DNA_pol_A_exo1
+NODE_2_length_40733_cov_10.208456_cutoff_5,Plasmid,5.39,Terminase_1 Phage_portal CLP_protease Phage_capsid Terminase_4 Phage_connect_1 AAA_31 DUF3850 ParBc PemK_toxin SSB Dam Dam SLT VRR_NUC HTH_3 RNase_T HTH_3 Resolvase Zn_ribbon_recom BppU_N Phage_TTP_1 Prophage_tail PhageMin_Tail Phage_XkdX RVT_1
+NODE_3_length_3776_cov_2.437686_cutoff_5,Chromosome,--
+NODE_4_length_3147_cov_3.426710_cutoff_5,Chromosome,0,Imm-NTF2-2
+NODE_5_length_2804_cov_4.143381_cutoff_5,Chromosome,0,Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_6_length_2741_cov_1.717718_cutoff_5,Chromosome,0,Sulfatase
+NODE_7_length_2491_cov_3.547225_cutoff_5,Chromosome,0,DUF4143 AAA_14 EamA
+NODE_8_length_2162_cov_1.851319_cutoff_5,Chromosome,0,LPD24
+NODE_9_length_1131_cov_12.508539_cutoff_5,Chromosome,0,PDDEXK_2
+NODE_10_length_1117_cov_3.058654_cutoff_5,Chromosome,--

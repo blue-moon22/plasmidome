@@ -1,0 +1,23 @@
+NODE_1_length_39546_cov_27.159568_cutoff_0,Chromosome,0,HK97-gp10_like Amidase_2 Terminase_1 Phage_capsid Peptidase_S78 Phage_portal HNH_3 Pox_D5 DUF2800 HTH_23 Phage_holin_Dp1
+NODE_2_length_11251_cov_4.423394_cutoff_0,Chromosome,-0.8879944028003202,AAA_31 Phage_integrase Phage_int_SAM_1 Phage_int_SAM_4 DnaB_C Toprim_2 Toprim_4
+NODE_3_length_6841_cov_28.935985_cutoff_0,Plasmid,2.91,Resolvase
+NODE_4_length_4457_cov_15.433333_cutoff_0,Chromosome,0,YoeB_toxin
+NODE_5_length_3585_cov_2.255701_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_6_length_3244_cov_5.404168_cutoff_0,Chromosome,0,HTH_36
+NODE_7_length_2944_cov_3.229857_cutoff_0,Plasmid,5.35,Rep_3 Rep_trans
+NODE_8_length_2465_cov_64.637772_cutoff_0,Chromosome,--
+NODE_9_length_1652_cov_2.034921_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_1441_cov_408.762463_cutoff_0,Chromosome,--
+NODE_11_length_1437_cov_44.357353_cutoff_0,Chromosome,--
+NODE_12_length_1119_cov_1.237044_cutoff_0,Chromosome,--
+NODE_13_length_807_cov_1.597260_cutoff_0,Chromosome,--
+NODE_14_length_638_cov_3.278075_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_15_length_635_cov_0.758065_cutoff_0,Chromosome,--
+NODE_16_length_632_cov_1.181982_cutoff_0,Chromosome,--
+NODE_17_length_599_cov_2.289272_cutoff_0,Chromosome,0,FIVAR
+NODE_18_length_587_cov_1.031373_cutoff_0,Chromosome,--
+NODE_1_length_185752_cov_11.746875_cutoff_5,Chromosome,-3.1102649935545514,RuvC YadA_stalk Toprim_2 DnaB_C Toprim_N PRA-PH SpoVG DNA_pol3_finger DNA_pol3_alpha Bac_DNA_binding PDDEXK_1 HHH_6 RNase_H RNA_ligase Terminase_6 Tn7_Tnp_TnsA_N Intein_splicing AAA_33 DUF2829 ATP_bind_3 AdoMet_dc Spermine_synth Thymidylat_synt Prok-E2_D Whirly PHP DNA_pol3_alpha Glyco_hydro_19 PG_binding_1 DHFR_1 Glutaredoxin RecA SNase Hydrolase_2 RVT_1 Fer2_BFD RNA_lig_T4_1 NAPRTase DUF5598 AAA YqeY YadA_anchor Pribosyltran_N DUF1768 Radical_SAM Peptidase_M23 ThiF Ribonuc_red_sm DNA_ligase_A_M DNA_ligase_OB_2 Metallophos Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN Ribonuc_red_lgC
+NODE_2_length_29040_cov_9.390429_cutoff_5,Chromosome,0,HNH Glyco_hydro_25 LysM LysM Sipho_tail Phage_Gp19 RusA Phage_capsid MethyltransfD12 ParBc
+NODE_3_length_3292_cov_9.328149_cutoff_5,Plasmid,2.52,Rep_2
+NODE_4_length_2083_cov_10.755234_cutoff_5,Plasmid,8.13,RHH_3 Rep_1
+NODE_5_length_1312_cov_1.587045_cutoff_5,Chromosome,--

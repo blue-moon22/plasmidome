@@ -1,0 +1,38 @@
+NODE_1_length_1360_cov_131.672642_cutoff_198,Chromosome,0,Ntox35
+NODE_1_length_3448_cov_123.887570_cutoff_153,Chromosome,-2.3636102909510015,DDE_5 GTP_EFTU EFG_IV EFG_C EFG_II
+NODE_1_length_3982_cov_101.638156_cutoff_91,Chromosome,0,Sigma70_r4_2
+NODE_1_length_13968_cov_5.073213_cutoff_10,Chromosome,0,Phage_integrase Phage_integrase NACHT
+NODE_2_length_4233_cov_11.057748_cutoff_10,Chromosome,0,CarbopepD_reg_2
+NODE_1_length_7592_cov_169.702329_cutoff_70,Plasmid,11.47,MobC Relaxase Aminoglyc_resit Transposase_mut RrnaAD
+NODE_1_length_7994_cov_6.370216_cutoff_0,Plasmid,3.51,Relaxase
+NODE_2_length_5877_cov_24.657069_cutoff_0,Plasmid,16.45,RelE Relaxase MobC dCMP_cyt_deam_1 Replicase PriCT_1 HTH_3
+NODE_3_length_5835_cov_1.700590_cutoff_0,Chromosome,-17.76166422858516,Asp23 Spore_III_AB SpoIIIAC SpoIIIAC SpoIIIAC Spore_III_AE Spore_III_AF SpoIIIAH
+NODE_4_length_4560_cov_6.403971_cutoff_0,Plasmid,9.06,Mob_Pre Pentapeptide Pentapeptide RepL
+NODE_5_length_4495_cov_252.531010_cutoff_0,Plasmid,5.35,ORF6N Rep_3
+NODE_6_length_4402_cov_5.314220_cutoff_0,Chromosome,--
+NODE_7_length_4394_cov_6.206857_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_8_length_3632_cov_6.187342_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_9_length_2876_cov_51.605573_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_10_length_1902_cov_1.196164_cutoff_0,Chromosome,--
+NODE_11_length_1400_cov_1.925170_cutoff_0,Chromosome,--
+NODE_12_length_1394_cov_3.066819_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_13_length_1382_cov_3.662835_cutoff_0,Plasmid,10.41,RepL RepL
+NODE_14_length_1205_cov_1.778369_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_15_length_1058_cov_1.487258_cutoff_0,Chromosome,0,AgI_II_C2 FctA
+NODE_16_length_781_cov_3.169034_cutoff_0,Chromosome,0,HSP20
+NODE_17_length_758_cov_0.976505_cutoff_0,Chromosome,--
+NODE_18_length_730_cov_1.771822_cutoff_0,Chromosome,--
+NODE_19_length_711_cov_1.228707_cutoff_0,Chromosome,--
+NODE_20_length_599_cov_2.145594_cutoff_0,Chromosome,--
+NODE_1_length_6275_cov_36.553082_cutoff_26,Plasmid,6.61,Rop Wzz
+NODE_1_length_15877_cov_35.383291_cutoff_42,Chromosome,0,Glycos_transf_2 Glycos_transf_2 Gly_transf_sug Glycos_transf_2 NTP_transferase Aldo_ket_red Glycos_transf_2 Acyl_transf_3 FrhB_FdhB_C Fer4_7 FrhB_FdhB_N Hexapep PP-binding MatE PS_pyruv_trans
+NODE_1_length_12879_cov_25.756288_cutoff_20,Chromosome,0,DUF624 Peripla_BP_3 LacI BPD_transp_1 BPD_transp_1 SBP_bac_1 TAT_signal Glyco_hydro_32N Glyco_hydro_32C Phage_integrase Alpha-amylase PfkB
+NODE_1_length_14341_cov_2.012619_cutoff_5,Chromosome,0,SusD_RagB SusD-like_3 Ureide_permease Ureide_permease PfkB IU_nuc_hydro DNA_pol_A TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg
+NODE_2_length_6554_cov_22.954609_cutoff_5,Plasmid,9.00,Rep_3 DDE_Tnp_IS1595 MobA_MobL
+NODE_3_length_6368_cov_7.507074_cutoff_5,Plasmid,5.35,Gp49 HTH_3 Rep_3 PAP2
+NODE_4_length_2829_cov_5.955305_cutoff_5,Chromosome,--
+NODE_5_length_2322_cov_3.831626_cutoff_5,Chromosome,0,Amidohydro_1 Amidohydro_1
+NODE_6_length_2031_cov_1.724667_cutoff_5,Chromosome,0,Dockerin_1 Glug
+NODE_7_length_1950_cov_3.172985_cutoff_5,Chromosome,0,Glyco_hydro_1 Glyco_hydro_1 AAA_14 DUF4143
+NODE_8_length_1734_cov_1.374774_cutoff_5,Chromosome,0,YhcG_C DUF1016_N
+NODE_9_length_1690_cov_2.693738_cutoff_5,Chromosome,0,SLH

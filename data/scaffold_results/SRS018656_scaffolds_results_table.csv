@@ -1,0 +1,15 @@
+NODE_1_length_23951_cov_5.039667_cutoff_10,Chromosome,-3.9754263257916342,SurE PDDEXK_2 GFO_IDH_MocA DUF1080 PDDEXK_2 DUF4492 Cyt_bd_oxida_II Cyt_bd_oxida_I Lactamase_B Lactamase_B_2 Peptidase_M28 PA Sigma70_r2 Sigma70_r4_2 PDDEXK_2 LpxB Sigma70_r2 Sigma70_r4_2 NigD_C NigD_N DoxX GFO_IDH_MocA
+NODE_1_length_40850_cov_43.947490_cutoff_0,Plasmid,2.91,HTH_3 AP2 Recombinase Resolvase Zn_ribbon_recom HTH_3 RecT YqaJ HTH_26 ANT AntA Phage_Mu_F Terminase_2 Phage_terminase Terminase_5 Phage_prot_Gp6 Terminase_6 Phage_rep_org_N HNH_5 HNH Inhibitor_G39P Phage_r1t_holin Peptidase_C39_2 PG_binding_1 Sipho_Gp37 H_lectin NUMOD4
+NODE_2_length_35134_cov_4.306330_cutoff_0,Plasmid,2.91,SSB IstB_IS21 Resolvase Recombinase HTH_3 HTH_3 HTH_3 Phage_min_cap2 Terminase_6 Peptidase_S74 Phage_Gp15 PhageMin_Tail Phage_holin_1 Amidase_2 RusA Minor_capsid_2 Minor_capsid_3 Phage_prot_Gp6 HicB
+NODE_3_length_9123_cov_18.304997_cutoff_0,Chromosome,0,ParE_toxin Sigma70_r4 Sigma70_r2 HTH_3 Phage_integrase HTH_26 HTH_3
+NODE_4_length_8397_cov_10.748317_cutoff_0,Plasmid,5.35,PhdYeFM_antitox Rep_3 Glycos_transf_2
+NODE_5_length_6082_cov_36.727227_cutoff_0,Plasmid,3.86,Mob_Pre YafQ_toxin RelB
+NODE_6_length_5410_cov_7.094131_cutoff_0,Plasmid,5.48,YoeB_toxin Rep_1
+NODE_7_length_4656_cov_1.863944_cutoff_0,Chromosome,--
+NODE_8_length_2827_cov_113.449455_cutoff_0,Chromosome,--
+NODE_1_length_46733_cov_86.113104_cutoff_42,Chromosome,0.16968594686650817,Terminase_3C Terminase_3 GP3_package Phage_portal DUF4468 GerE Peptidase_M15_3 Phage_capsid HNH_3 YopX Phage_integrase Phage_int_SAM_4 N6_Mtase Dam Hexapep Hexapep Hexapep HNH_3 NUMOD4 Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_5 HTH_17 SSB ERF NinG
+NODE_1_length_5216_cov_4.566842_cutoff_5,Plasmid,2.52,Zot Phage_integrase Phage_int_SAM_1 Phage_int_SAM_4 Rep_2
+NODE_2_length_2946_cov_2.489021_cutoff_5,Chromosome,--
+NODE_3_length_1695_cov_2.741038_cutoff_5,Chromosome,0,fn3 fn3
+NODE_4_length_1092_cov_3.161576_cutoff_5,Chromosome,--
+NODE_1_length_40553_cov_44.022112_cutoff_33,Plasmid,2.91,Peptidase_C39_2 PG_binding_1 HTH_3 AP2 Recombinase Resolvase Zn_ribbon_recom Phage_Mu_F NUMOD4 Sipho_Gp37 H_lectin RecT YqaJ ANT AntA HTH_26 Phage_r1t_holin Terminase_2 Phage_terminase Terminase_5 Terminase_6 Phage_prot_Gp6 Inhibitor_G39P Phage_rep_org_N HNH_5 HNH HTH_3

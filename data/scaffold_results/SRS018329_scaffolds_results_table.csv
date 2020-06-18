@@ -1,0 +1,17 @@
+NODE_1_length_1022_cov_48.059259_cutoff_15,Chromosome,--
+NODE_1_length_1868_cov_66.703518_cutoff_42,Chromosome,0,Big_6
+NODE_1_length_2747_cov_96.006367_cutoff_70,Chromosome,0,DUF389 Ion_trans_2 DUF1211
+NODE_1_length_1133_cov_11.482955_cutoff_10,Chromosome,--
+NODE_1_length_4507_cov_119.980135_cutoff_20,Plasmid,5.35,Rep_3 Integrase_1 Phage_int_SAM_1 HTH_3
+NODE_1_length_2253_cov_3.764706_cutoff_5,Plasmid,5.48,Rep_1
+NODE_2_length_2123_cov_2.302542_cutoff_5,Chromosome,0,AzlD SpoU_sub_bind CMD DUF302
+NODE_3_length_1532_cov_5.585567_cutoff_5,Chromosome,--
+NODE_4_length_1184_cov_12.666667_cutoff_5,Chromosome,0,YadA_stalk
+NODE_5_length_1091_cov_15.867850_cutoff_5,Chromosome,0,YadA_stalk
+NODE_1_length_57976_cov_29.839980_cutoff_0,Chromosome,0,RdRP Terminase_1 Phage_portal DUF1599 Phage_holin_6_1 Amidase_5 Prophage_tail Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_capsid Peptidase_S78
+NODE_2_length_3280_cov_1.683734_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_3_length_1519_cov_1.938280_cutoff_0,Chromosome,--
+NODE_4_length_1070_cov_5.144008_cutoff_0,Chromosome,0,Trp_ring
+NODE_5_length_887_cov_1.229630_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_6_length_878_cov_3.515605_cutoff_0,Chromosome,0,Methylase_S
+NODE_7_length_612_cov_1.960748_cutoff_0,Chromosome,--

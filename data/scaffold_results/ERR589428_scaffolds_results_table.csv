@@ -1,0 +1,35 @@
+NODE_1_length_1276_cov_6.047540_cutoff_10,Chromosome,--
+NODE_1_length_35893_cov_17.124693_cutoff_0,Chromosome,0,VirE VRR_NUC Phage_prot_Gp6 DUF2786 Phage_Gp19 DNA_pol_A DUF5309 PG_binding_1 NLPC_P60 SNF2_N fn3 Collar NLPC_P60 DUF2800 DUF2815
+NODE_2_length_7076_cov_5.820546_cutoff_0,Plasmid,6.61,Peripla_BP_3 LacI AMP-binding AMP-binding_C Rop APH AMP-binding
+NODE_3_length_5705_cov_12.190121_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_5558_cov_2.646232_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_5_length_4880_cov_2.469706_cutoff_0,Chromosome,0,AAA_19 UvrD_C UvrD_C_2 FtsK_SpoIIIE
+NODE_6_length_4398_cov_5.971072_cutoff_0,Plasmid,15.29,Replicase PriCT_1 TraD MobA_MobL ParE_toxin HTH_11
+NODE_7_length_4144_cov_2.479223_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_8_length_3317_cov_15.400617_cutoff_0,Chromosome,0,ParE_toxin
+NODE_9_length_2880_cov_2.635034_cutoff_0,Plasmid,3.86,Mob_Pre Toprim_2
+NODE_10_length_2478_cov_1.234069_cutoff_0,Chromosome,0,Na_H_antiporter
+NODE_11_length_2163_cov_4.230585_cutoff_0,Plasmid,5.48,Rep_1
+NODE_12_length_1894_cov_2.276830_cutoff_0,Chromosome,--
+NODE_13_length_1731_cov_1.155985_cutoff_0,Chromosome,--
+NODE_14_length_1575_cov_6.355140_cutoff_0,Plasmid,2.52,Rep_2
+NODE_15_length_1328_cov_2.314149_cutoff_0,Chromosome,--
+NODE_16_length_964_cov_1.936866_cutoff_0,Chromosome,--
+NODE_17_length_927_cov_169.664706_cutoff_0,Chromosome,--
+NODE_18_length_922_cov_5.107692_cutoff_0,Chromosome,--
+NODE_19_length_921_cov_3.522512_cutoff_0,Chromosome,--
+NODE_20_length_903_cov_1.377724_cutoff_0,Chromosome,--
+NODE_21_length_836_cov_1.566535_cutoff_0,Chromosome,--
+NODE_22_length_833_cov_1.667989_cutoff_0,Chromosome,0,FctA FctA
+NODE_23_length_797_cov_2.811111_cutoff_0,Chromosome,--
+NODE_24_length_781_cov_1.873580_cutoff_0,Chromosome,--
+NODE_25_length_760_cov_2.166911_cutoff_0,Chromosome,--
+NODE_26_length_749_cov_2.339286_cutoff_0,Chromosome,0,FctA FctA Cna_B
+NODE_27_length_698_cov_1.054750_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_28_length_683_cov_6.740924_cutoff_0,Chromosome,0,MucBP MucBP
+NODE_29_length_652_cov_2.149565_cutoff_0,Chromosome,--
+NODE_30_length_617_cov_2.500000_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_1_length_657_cov_142.131034_cutoff_26,Chromosome,--
+NODE_1_length_41603_cov_26.285484_cutoff_5,Plasmid,5.83,DUF806 DUF1497 ERF HK97-gp10_like Rep_Org_C Phage_SSB DUF1064 Phage_TAC_3 Phage_TTP_1 PhageMin_Tail zinc_ribbon_2 Prophage_tail DUF2913 Terminase_4 HNH Sipho_tail CLP_protease HTH_3 HTH_3 ANT Bro-N DUF1642 DUF1125 DUF658 DUF1031 Phage_H_T_join Terminase_1 Collagen Collagen DUF1660 Glyco_hydro_25 Phage_holin_6_1 Phage_capsid Phage_integrase Phage_int_SAM_3 Phage_portal DUF1140 DUF1056 DUF722 DUF1359
+NODE_2_length_3356_cov_3.122293_cutoff_5,Plasmid,5.48,Rep_1
+NODE_3_length_3022_cov_2.691681_cutoff_5,Chromosome,--

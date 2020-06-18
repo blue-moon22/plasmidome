@@ -1,0 +1,23 @@
+NODE_1_length_63645_cov_33.527624_cutoff_42,Plasmid,10.03,DUF2201_N DHHA1 RecJ_OB DHH Replicase PriCT_1 TraG-D_C TrwB_AAD_bind MS_channel OmpA OmpA Ribonuc_red_sm Ribosomal_S30AE OmpA SmpA_OmlA Couple_hipA HipA_C OrfB_Zn_ribbon YadA_stalk YadA_stalk YadA_anchor YadA_stalk YadA_stalk YadA_stalk YadA_stalk OMP_b-brl DHHA1
+NODE_1_length_18193_cov_8.841577_cutoff_5,Chromosome,0,Peptidase_S78 TMP TMP TMP TMP HNH Phage_portal Amidase_2
+NODE_2_length_6817_cov_7.101632_cutoff_5,Chromosome,0,FtsX FtsX ABC_tran Defensin_2 Defensin_2 Transposase_mut Transposase_mut Transposase_mut
+NODE_3_length_4156_cov_1.457220_cutoff_5,Chromosome,0,ABC_tran FtsX MacB_PCD FtsX ABC_tran
+NODE_4_length_1965_cov_2.836864_cutoff_5,Chromosome,--
+NODE_5_length_1685_cov_8.814677_cutoff_5,Chromosome,0,DUF559
+NODE_6_length_1220_cov_1.428696_cutoff_5,Chromosome,--
+NODE_7_length_1212_cov_3.909251_cutoff_5,Chromosome,--
+NODE_8_length_1105_cov_3.511673_cutoff_5,Chromosome,--
+NODE_1_length_46637_cov_54.244738_cutoff_54,Chromosome,0,Glutaredoxin RNA_pol RNase_H_2 Head-tail_con Tube Toprim_2 DNA_ligase_A_M DNA_pol_A AAA_25 Beta_helix Phage_lysozyme
+NODE_1_length_1365_cov_29.849379_cutoff_26,Chromosome,0,DUF1707
+NODE_1_length_56673_cov_62.881281_cutoff_0,Chromosome,0,Big_8 Collagen_bind Gram_pos_anchor Phage_portal Terminase_1 Phage_capsid Peptidase_S78 Phage_holin_6_1 Gp58 Prophage_tail Amidase_5 HK97-gp10_like DUF1599
+NODE_2_length_44211_cov_99.370961_cutoff_0,Plasmid,2.67,HTH_8 LAGLIDADG_3 SSB Spherulin4 HNH DnaB_C HNH Phage_prot_Gp6 LAGLIDADG_3 Phage_r1t_holin Glyco_hydro_25 Collar ERF DUF3310 DUF5403 Phage_capsid Phage_Gp19
+NODE_3_length_40201_cov_12.786836_cutoff_0,Plasmid,2.61,AAA_24 Terminase_2 Terminase_6C DUF1073 DUF2213 DUF2184 RNase_H_2 Helicase_C ResIII Beta_helix Glutaredoxin DUF669 Phage_Mu_F Peptidase_M15_4 DUF3277 DUF3383
+NODE_4_length_14833_cov_198.890214_cutoff_0,Chromosome,0,Whib HTH_3 Amidase_2 Phage_portal HNH
+NODE_5_length_4413_cov_3.669280_cutoff_0,Plasmid,12.49,MobA_MobL Replicase PriCT_1 ParE_toxin
+NODE_6_length_4123_cov_8.880623_cutoff_0,Plasmid,5.48,AAA Rep_1
+NODE_7_length_2221_cov_2.148787_cutoff_0,Chromosome,0,Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S Methylase_S
+NODE_8_length_1708_cov_2.598406_cutoff_0,Chromosome,-2.7167074135389324,Maf
+NODE_9_length_938_cov_1.029036_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_858_cov_1.101152_cutoff_0,Chromosome,--
+NODE_11_length_739_cov_2.889728_cutoff_0,Chromosome,--
+NODE_12_length_710_cov_1.480253_cutoff_0,Chromosome,--

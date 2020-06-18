@@ -1,0 +1,12 @@
+NODE_1_length_1103_cov_268.493177_cutoff_54,Chromosome,0,MucBP MucBP MucBP MucBP MucBP
+NODE_1_length_56928_cov_7.775167_cutoff_10,Chromosome,0,Phage_portal Peptidase_S78 L_lactis_ph-MCP Terminase_1 Phage_holin_6_1 DUF1599 RdRP Collagen DUF1366 Amidase_5 Gp58 Prophage_tail Collagen_bind Big_8
+NODE_2_length_1532_cov_26.638488_cutoff_10,Chromosome,--
+NODE_1_length_9167_cov_30.984378_cutoff_0,Plasmid,5.35,Rep_3 RelB DUF1269
+NODE_2_length_2880_cov_6.621834_cutoff_0,Chromosome,0,Rep_trans
+NODE_3_length_1091_cov_5.020710_cutoff_0,Chromosome,0,YadA_stalk
+NODE_4_length_1022_cov_2.380952_cutoff_0,Chromosome,0,YadA_stalk
+NODE_1_length_1302_cov_174.362449_cutoff_42,Chromosome,0,Big_11 Big_11 Big_11 Big_11 Big_11
+NODE_1_length_33317_cov_22.322714_cutoff_20,Chromosome,0,DUF2190 Mu-like_gpT HK97-gp10_like Dam HTH_17 YqaJ RecT Terminase_6C Terminase_6 PhageMin_Tail
+NODE_1_length_1488_cov_2.536499_cutoff_5,Chromosome,0,OmpA_membrane OmpA_membrane OmpA
+NODE_2_length_1085_cov_4.369048_cutoff_5,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_33407_cov_22.315242_cutoff_15,Chromosome,0,RecT HTH_17 YqaJ PhageMin_Tail Terminase_6C Terminase_6 DUF2190 Dam HK97-gp10_like Mu-like_gpT

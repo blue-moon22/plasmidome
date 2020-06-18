@@ -1,0 +1,19 @@
+NODE_1_length_1305_cov_27.298860_cutoff_20,Chromosome,-2.9697460945196408,DUF5128
+NODE_1_length_14784_cov_284.737540_cutoff_198,Chromosome,0,T2SS-T3SS_pil_N TonB_dep_Rec Plug NlpE Peptidase_C11
+NODE_1_length_2880_cov_19.347128_cutoff_15,Plasmid,10.53,Omega_Repress Epsilon_antitox Methyltransf_11 Zeta_toxin RrnaAD
+NODE_1_length_16260_cov_27.061670_cutoff_33,Chromosome,-2.4971416835774463,N6_Mtase Phage_integrase Arm-DNA-bind_5 DUF2971 Acetyltransf_3 Arm-DNA-bind_5 ORF6N Transposase_mut Phage_int_SAM_5
+NODE_1_length_12849_cov_38.691356_cutoff_26,Chromosome,-4.9942833671548925,Mrr_cat AAA_14 DUF4143 Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_5 Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5 Lipocalin_4 DDE_Tnp_1 DUF4372
+NODE_1_length_111884_cov_12.072536_cutoff_10,Chromosome,-5.859280804636651,dCMP_cyt_deam_1 RNA_ligase Phage_int_SAM_5 Terminase_3 Hint_2 Band_7 AntA ANT Phage_integrase Phage_integrase SNAD4 DUF2829 RNase_T Guanylate_kin DUF2442 MutS_I YoeB_toxin DUF4373 DNA_pol3_alpha PHP DnaB_C Toprim_2 DNA_pol3_finger DNA_pol3_alpha HHH_6 PIF1 Herpes_Helicase CRISPR_Cas2 Thy1 Phage_pRha Ribonuc_red_lgC Ribonuc_red_lgN DUF4160 CLP_protease Glycos_transf_1 PhageMin_Tail Peptidase_M15_3 DUF4494 Big_2 DUF935 DNA_methylase DNA_methylase KilA-N ANT dUTPase ANT DNA_ligase_aden DNA_ligase_OB BRCT PTCB-BRCT HHH_5
+NODE_2_length_3903_cov_7.562729_cutoff_10,Chromosome,0,FCD FmdA_AmdA FmdA_AmdA Dak1 DDE_Tnp_1
+NODE_3_length_2188_cov_25.727617_cutoff_10,Chromosome,0,DDE_Tnp_1
+NODE_1_length_7699_cov_3.166361_cutoff_0,Chromosome,0,Phage_rep_org_N Sigma70_r4 Sigma70_r2 HTH_3 Phage_integrase Phage_int_SAM_3 HTH_26
+NODE_2_length_6825_cov_747.510966_cutoff_0,Plasmid,8.52,CRISPR_Cas2 Rep_3 T4SS-DNA_transf
+NODE_3_length_6153_cov_55.679888_cutoff_0,Plasmid,3.86,YafQ_toxin Mob_Pre RelB
+NODE_4_length_5671_cov_1719.021273_cutoff_0,Plasmid,5.48,PemK_toxin Rep_1
+NODE_5_length_5239_cov_4.559861_cutoff_0,Plasmid,12.49,MobA_MobL Replicase PriCT_1
+NODE_6_length_4225_cov_1890.681774_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin
+NODE_7_length_3832_cov_4.325699_cutoff_0,Chromosome,0,DDE_Tnp_IS1 GNVR
+NODE_8_length_2174_cov_1.447306_cutoff_0,Chromosome,0,Na_Ala_symp Na_Ala_symp
+NODE_9_length_1968_cov_4.678477_cutoff_0,Plasmid,5.20,RepL
+NODE_10_length_875_cov_0.758145_cutoff_0,Chromosome,--
+NODE_1_length_1352_cov_2.468235_cutoff_5,Chromosome,0,FUR Rubrerythrin

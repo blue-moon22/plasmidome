@@ -1,0 +1,26 @@
+NODE_1_length_14785_cov_5.998640_cutoff_10,Chromosome,0,T2SS-T3SS_pil_N TonB_dep_Rec Plug Peptidase_C11 NlpE
+NODE_2_length_11026_cov_11.473377_cutoff_10,Plasmid,3.43,DUF3871 Resolvase HTH_7 Phage_int_SAM_5 Arm-DNA-bind_5 Phage_integrase Lipocalin_4
+NODE_3_length_10544_cov_6.423426_cutoff_10,Chromosome,0,HTH_3 Fe-ADH Aldedh Methyltransf_23 ALGX Glyco_transf_8 Glycos_transf_2 Glyco_tranf_2_2 Glyco_tranf_2_3 MBOAT
+NODE_1_length_14724_cov_70.543319_cutoff_70,Plasmid,2.46,SusD-like_3 SusD_RagB TonB_dep_Rec Plug AAA_14 DUF4143 AAA_14 SusD-like_3 SusD_RagB Zeta_toxin TonB_dep_Rec Plug
+NODE_1_length_36057_cov_22.535881_cutoff_0,Plasmid,31.35,PLCC MipZ TraO DUF3791 AbiEii T4SS-DNA_transf VirB8 TrbL bPH_2 Resolvase HTH_7 DUF4138 DUF4138 Resolvase ACP_syn_III_C TetR_N Toprim_2 MobC Relaxase DUF3945 DUF3945 DUF3990 MPTase-PolyVal DUF1738 SSB Transposon_TraM DUF3875
+NODE_2_length_8691_cov_4.596123_cutoff_0,Chromosome,-5.492197372537305,LptC SurA_N_2 Rotamase_2 Rotamase_2 Rotamase_3 DUF21 CorC_HlyC CBS PdxA Radical_SAM Sacchrp_dh_C Sacchrp_dh_NADP
+NODE_3_length_2164_cov_2.181600_cutoff_0,Plasmid,6.35,Y2_Tnp Zn_Tnp_IS91
+NODE_4_length_1462_cov_2.275090_cutoff_0,Chromosome,--
+NODE_5_length_1320_cov_2.110217_cutoff_0,Chromosome,0,rve
+NODE_6_length_1025_cov_0.899789_cutoff_0,Chromosome,0,HTH_Tnp_1
+NODE_7_length_998_cov_2.243214_cutoff_0,Chromosome,--
+NODE_8_length_764_cov_1.066958_cutoff_0,Chromosome,0,SBP_bac_3 SBP_bac_3
+NODE_9_length_611_cov_2.121723_cutoff_0,Chromosome,--
+NODE_1_length_7493_cov_68.103830_cutoff_42,Plasmid,5.35,Gp49 Rep_3 HTH_3 DNA_methylase
+NODE_1_length_9111_cov_4.129289_cutoff_5,Chromosome,0,bMG6 bMG3 MG2 bMG10 A2M_BRD bMG5 A2M LytTR HTH_18 YoeB_toxin PhdYeFM_antitox
+NODE_2_length_6061_cov_14.310662_cutoff_5,Plasmid,7.61,Relaxase MobC Trypsin_2
+NODE_3_length_5284_cov_8.516612_cutoff_5,Plasmid,5.35,Rep_3 DUF3990 DUF3791
+NODE_4_length_4067_cov_2.960652_cutoff_5,Chromosome,--
+NODE_5_length_3754_cov_3.518901_cutoff_5,Chromosome,--
+NODE_6_length_2571_cov_4.088212_cutoff_5,Chromosome,-3.170652889617654,tRNA-synt_1c
+NODE_7_length_2241_cov_3.244455_cutoff_5,Chromosome,0,Peptidase_S66 Peptidase_S66C
+NODE_8_length_2184_cov_3.373991_cutoff_5,Chromosome,0,DUF3784 HTH_3 MerR_1
+NODE_9_length_2159_cov_2.462536_cutoff_5,Chromosome,0,PDDEXK_9 AAA-ATPase_like PDDEXK_9
+NODE_10_length_1734_cov_3.424864_cutoff_5,Chromosome,0,YhcG_C DUF1016_N
+NODE_11_length_1703_cov_3.095326_cutoff_5,Chromosome,--
+NODE_1_length_16163_cov_15.167972_cutoff_15,Chromosome,0,Phage_prot_Gp6 HTH_Tnp_1_2 SSB DUF4406 IstB_IS21

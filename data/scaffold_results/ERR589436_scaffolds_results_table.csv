@@ -1,0 +1,88 @@
+NODE_1_length_1907_cov_26.406011_cutoff_118,Chromosome,--
+NODE_1_length_3216_cov_65.299458_cutoff_10,Chromosome,0,RrnaAD Transposase_mut
+NODE_2_length_770_cov_31.803752_cutoff_10,Chromosome,--
+NODE_1_length_7076_cov_5.770682_cutoff_0,Plasmid,6.61,Rop APH AMP-binding AMP-binding_C Peripla_BP_3 LacI
+NODE_2_length_6993_cov_2.935801_cutoff_0,Chromosome,--
+NODE_3_length_5828_cov_1.891845_cutoff_0,Plasmid,9.00,ParE_toxin MobA_MobL Rep_3
+NODE_4_length_5762_cov_3.121724_cutoff_0,Plasmid,5.20,RepL FtsK_SpoIIIE Rep_trans Rol_Rep_N
+NODE_5_length_5629_cov_2.850144_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_6_length_5598_cov_35.259373_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_7_length_5032_cov_10.641372_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_8_length_4750_cov_28.949497_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_9_length_4511_cov_8.934145_cutoff_0,Plasmid,3.86,RNA_helicase Mob_Pre
+NODE_10_length_4471_cov_4.605599_cutoff_0,Plasmid,2.52,FtsK_SpoIIIE Rep_2 RNA_helicase
+NODE_11_length_4403_cov_1.241331_cutoff_0,Chromosome,0,SSB Cauli_VI RNase_H RVT_3
+NODE_12_length_4276_cov_3.084782_cutoff_0,Plasmid,2.52,Rep_2
+NODE_13_length_4202_cov_17.438788_cutoff_0,Plasmid,5.35,Rep_3 PhdYeFM_antitox
+NODE_14_length_4164_cov_2.410081_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_15_length_4140_cov_9.021905_cutoff_0,Plasmid,5.35,Rep_3
+NODE_16_length_3732_cov_2.596170_cutoff_0,Plasmid,9.06,Mob_Pre RepL
+NODE_17_length_3492_cov_1.763104_cutoff_0,Plasmid,2.52,Rep_2
+NODE_18_length_3477_cov_38.950882_cutoff_0,Plasmid,2.52,Rep_2
+NODE_19_length_3163_cov_13.578743_cutoff_0,Plasmid,5.35,Rep_3
+NODE_20_length_2917_cov_5.112676_cutoff_0,Plasmid,2.52,Rep_2
+NODE_21_length_2691_cov_20.026396_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_22_length_2685_cov_1.510736_cutoff_0,Chromosome,0,DUF4280
+NODE_23_length_2528_cov_3.850265_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_24_length_2325_cov_6.602313_cutoff_0,Plasmid,5.48,Rep_1
+NODE_25_length_2307_cov_16.995516_cutoff_0,Chromosome,--
+NODE_26_length_2104_cov_3.060187_cutoff_0,Plasmid,8.84,Replicase PriCT_1 HTH_11
+NODE_27_length_2047_cov_1.176142_cutoff_0,Chromosome,--
+NODE_28_length_1894_cov_1.822234_cutoff_0,Chromosome,--
+NODE_29_length_1762_cov_1.572107_cutoff_0,Chromosome,0,Phage_int_SAM_4 Phage_integrase
+NODE_30_length_1628_cov_1.488717_cutoff_0,Chromosome,--
+NODE_31_length_1622_cov_2.205825_cutoff_0,Chromosome,--
+NODE_32_length_1604_cov_1.685658_cutoff_0,Chromosome,--
+NODE_33_length_1500_cov_2.191848_cutoff_0,Chromosome,0,DUF2142
+NODE_34_length_1186_cov_2.052299_cutoff_0,Chromosome,--
+NODE_35_length_1085_cov_9.738095_cutoff_0,Chromosome,0,Fibrinogen_BP
+NODE_36_length_1076_cov_1.814815_cutoff_0,Chromosome,--
+NODE_37_length_1034_cov_2.284222_cutoff_0,Chromosome,0,DDE_Tnp_1 DDE_Tnp_1_2
+NODE_38_length_1022_cov_1.336508_cutoff_0,Chromosome,0,Cna_B Cna_B
+NODE_39_length_980_cov_2.222591_cutoff_0,Chromosome,--
+NODE_40_length_965_cov_8.904279_cutoff_0,Chromosome,0,Mub_B2 Mub_B2
+NODE_41_length_914_cov_1.751493_cutoff_0,Chromosome,0,Cna_B Cna_B Cna_B
+NODE_42_length_887_cov_14.224691_cutoff_0,Chromosome,--
+NODE_43_length_880_cov_1.070984_cutoff_0,Chromosome,--
+NODE_44_length_769_cov_66.455202_cutoff_0,Chromosome,--
+NODE_45_length_767_cov_18.557971_cutoff_0,Chromosome,0,Cna_B Cna_B Cna_B
+NODE_46_length_767_cov_7.504348_cutoff_0,Chromosome,0,Cna_B Cna_B
+NODE_47_length_749_cov_2.836310_cutoff_0,Chromosome,0,FctA FctA
+NODE_48_length_739_cov_1.753776_cutoff_0,Chromosome,--
+NODE_49_length_728_cov_2.826421_cutoff_0,Chromosome,--
+NODE_50_length_713_cov_1.498428_cutoff_0,Chromosome,--
+NODE_51_length_713_cov_1.121069_cutoff_0,Chromosome,--
+NODE_52_length_698_cov_1.146538_cutoff_0,Chromosome,--
+NODE_53_length_678_cov_0.970050_cutoff_0,Chromosome,--
+NODE_54_length_677_cov_3.738333_cutoff_0,Chromosome,--
+NODE_55_length_665_cov_1.787415_cutoff_0,Chromosome,--
+NODE_56_length_635_cov_164.958781_cutoff_0,Chromosome,--
+NODE_57_length_633_cov_0.724820_cutoff_0,Chromosome,--
+NODE_58_length_631_cov_1.864621_cutoff_0,Chromosome,--
+NODE_59_length_611_cov_1.091760_cutoff_0,Chromosome,0,Cna_B Cna_B Cna_B
+NODE_60_length_599_cov_1.890805_cutoff_0,Chromosome,0,Mub_B2
+NODE_61_length_598_cov_1.992322_cutoff_0,Chromosome,--
+NODE_62_length_587_cov_1.929412_cutoff_0,Chromosome,--
+NODE_63_length_581_cov_2.168651_cutoff_0,Chromosome,0,YadA_head YadA_head YadA_head YadA_head YadA_head YadA_head
+NODE_1_length_44588_cov_15.720833_cutoff_5,Chromosome,0,Pox_D5 Sipho_tail Phage_holin_Dp1 Collagen Collagen Collagen Sipho_Gp37 CHAP Terminase_1 HNH_3 Phage_portal
+NODE_2_length_41603_cov_24.575663_cutoff_5,Plasmid,5.83,HTH_3 Phage_integrase Phage_int_SAM_3 HTH_3 ANT Bro-N ERF Phage_SSB Rep_Org_C DUF806 HK97-gp10_like Phage_TAC_3 Phage_TTP_1 Phage_capsid CLP_protease Phage_H_T_join PhageMin_Tail Phage_holin_6_1 DUF2913 Sipho_tail Glyco_hydro_25 Collagen Collagen DUF1140 DUF1642 DUF1660 Prophage_tail DUF1056 Phage_portal HNH Terminase_4 Terminase_1 DUF1359 DUF722 DUF1064 DUF1497 DUF1031 DUF658 DUF1125 zinc_ribbon_2
+NODE_3_length_32559_cov_8.202266_cutoff_5,Plasmid,42.02,SLT MobA_MobL VirB8 CagX TrbI T4SS-DNA_transf CagE_TrbE_VirB Resolvase Zeta_toxin CbiA Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom TrbC VirB3 T4SS-DNA_transf T2SSE HTH_3 ArdA Rep_3 Peptidase_M23
+NODE_4_length_10141_cov_18.369734_cutoff_5,Plasmid,5.35,PrsW-protease Rep_3 RelB
+NODE_5_length_9740_cov_14.928387_cutoff_5,Chromosome,0,HTH_3 DnaB_C Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_6_length_7280_cov_6.938359_cutoff_5,Chromosome,0,SHMT AMP-binding PP-binding AMP-binding TetR_N DoxX_2
+NODE_7_length_3673_cov_2.793660_cutoff_5,Chromosome,0,MethyltransfD12 DDE_Tnp_1 N6_N4_Mtase DpnII
+NODE_8_length_3130_cov_13.225352_cutoff_5,Plasmid,5.48,HTH_Tnp_Tc3_1 Rep_1
+NODE_9_length_3039_cov_1.676570_cutoff_5,Chromosome,0,DUF4391 AAA_21
+NODE_10_length_2990_cov_1.878133_cutoff_5,Chromosome,0,LRR_1 LRR_1 LRR_1 LRR_1 LRR_1
+NODE_11_length_2496_cov_2.486978_cutoff_5,Chromosome,--
+NODE_12_length_2293_cov_2.392599_cutoff_5,Chromosome,--
+NODE_13_length_1791_cov_2.325554_cutoff_5,Chromosome,0,Abhydrolase_4 Abhydrolase_1
+NODE_14_length_1646_cov_5.511154_cutoff_5,Chromosome,--
+NODE_15_length_1633_cov_2.312339_cutoff_5,Chromosome,0,OmpA
+NODE_16_length_1406_cov_2.361174_cutoff_5,Chromosome,--
+NODE_17_length_1337_cov_7.716667_cutoff_5,Chromosome,0,Antigen_C AgI_II_C2 MucBP AgI_II_C2
+NODE_18_length_1304_cov_1.713121_cutoff_5,Chromosome,--
+NODE_19_length_1121_cov_6.184866_cutoff_5,Chromosome,0,Mub_B2 MucBP_2
+NODE_20_length_1110_cov_2.752178_cutoff_5,Chromosome,0,OmpA
+NODE_21_length_1098_cov_2.406464_cutoff_5,Chromosome,0,DUF1310 DUF1310
+NODE_22_length_1080_cov_8.105683_cutoff_5,Chromosome,0,Glycos_transf_2 Glycos_transf_2

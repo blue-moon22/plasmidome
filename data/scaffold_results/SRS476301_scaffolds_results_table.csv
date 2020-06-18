@@ -1,0 +1,45 @@
+NODE_1_length_62593_cov_5.702716_cutoff_5,Plasmid,3.57,DUF3882 CHAP BspA_v HNH_3 NUMOD4 Phage_holin_Dp1 HNH_3 Phage_lysozyme2 Amidase_2 ZoocinA_TRD HTH_3 DHFR_1 MucBP MucBP DUF3310 PDDEXK_1 AAA_24 dUTPase Collagen_bind Big_8 AAA_25 RepB_primase DNA_pol_A DNA_pol_A_exo1
+NODE_2_length_7133_cov_7.589002_cutoff_5,Plasmid,5.35,ABC2_membrane_3 ABC_tran ComR_TPR HTH_31 HTH_3 Rep_3
+NODE_3_length_3657_cov_2.346927_cutoff_5,Chromosome,--
+NODE_4_length_3605_cov_5.242063_cutoff_5,Plasmid,9.21,Mob_Pre Rep_3
+NODE_5_length_3584_cov_3.477046_cutoff_5,Chromosome,0,Transposase_mut LytTR
+NODE_6_length_2480_cov_2.464003_cutoff_5,Chromosome,0,Rib Rib Rib Rib Rib Rib
+NODE_7_length_2475_cov_1.728941_cutoff_5,Chromosome,0,Abi_2
+NODE_8_length_2011_cov_13.744054_cutoff_5,Plasmid,10.96,Rep_1 Rep_1
+NODE_9_length_1619_cov_1.973411_cutoff_5,Chromosome,--
+NODE_1_length_94364_cov_4.211037_cutoff_0,Chromosome,0,HNH_3 TROVE Myb_DNA-bind_6 ResIII Helicase_C DUF3310 Thy1 AAA_24 Prok-JAB Radical_SAM RNA_ligase Phage_lysozyme DNA_pol_A_exo1 DNA_pol_A Cpn60_TCP1 ThiF DUF1064 DUF3799 dUTPase DNA_pol_A
+NODE_2_length_92800_cov_5.038211_cutoff_0,Chromosome,0,Glyco_hydro_108 PG_binding_3 dUTPase DNA_pol3_alpha DNA_pol3_finger HHH_6 PHP Thymidylat_synt RecA RecA Metallophos Bac_DNA_binding RNase_T Band_7 5_3_exonuc_N AAA_19 UvrD_C UvrD_C_2 DUF1599 SPASM Radical_SAM aGPT-Pplase1 aGPT-Pplase1 Phage_portal ResIII Helicase_C zf-CHC2 DnaB_C Peptidase_M23 VASP_tetra Baseplate_J
+NODE_3_length_60459_cov_21.299046_cutoff_0,Plasmid,6.59,DUF3882 HNH_3 HTH_38 HTH_23 HTH_7 Phage_Mu_F CW_binding_1 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_Dp1 Phage_lysozyme2 MucBP MucBP BspA_v DUF3310 AAA_24 dUTPase PDDEXK_1 DUF1642 DHFR_1 aGPT-Pplase1 HTH_3 DNA_pol_A DNA_pol_A_exo1 AAA_25 RepB_primase DUF1642
+NODE_4_length_59738_cov_4.593537_cutoff_0,Chromosome,0,Terminase_1 Phage_portal Peptidase_S78 L_lactis_ph-MCP RdRP Phage_holin_6_1 DUF1599 Collagen Collagen_bind Big_8 Gram_pos_anchor Amidase_5 DUF1366 Gp58 Prophage_tail
+NODE_5_length_6755_cov_5.735100_cutoff_0,Plasmid,5.35,Rep_3
+NODE_6_length_5445_cov_4.031669_cutoff_0,Plasmid,8.01,Rep_1 FtsK_SpoIIIE Rep_2
+NODE_7_length_5420_cov_3.172001_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE Rep_trans
+NODE_8_length_5245_cov_3.907508_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase DUF2075
+NODE_9_length_4781_cov_2.340136_cutoff_0,Plasmid,5.35,HTH_3 Phage_int_SAM_1 Rep_3
+NODE_10_length_4550_cov_2.950592_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_11_length_4500_cov_6.901650_cutoff_0,Chromosome,0,FtsK_SpoIIIE
+NODE_12_length_4475_cov_2.706912_cutoff_0,Plasmid,9.00,MobA_MobL PemK_toxin Rep_3
+NODE_13_length_4411_cov_12.540609_cutoff_0,Plasmid,9.00,Rep_3 MobA_MobL
+NODE_14_length_4347_cov_15.181967_cutoff_0,Plasmid,3.86,RNA_helicase Mob_Pre
+NODE_15_length_4136_cov_10.847499_cutoff_0,Plasmid,5.35,Rep_3 Integrase_1
+NODE_16_length_3912_cov_5.618253_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_17_length_3857_cov_2.250265_cutoff_0,Chromosome,0,LRR_5 LRR_5 Big_2 LRR_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_18_length_3757_cov_9.937772_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_19_length_3396_cov_7.234107_cutoff_0,Chromosome,0,HTH_36
+NODE_20_length_3367_cov_21.218541_cutoff_0,Plasmid,5.48,Rep_1
+NODE_21_length_3193_cov_2.038511_cutoff_0,Plasmid,13.07,Mob_Pre Mob_Pre Rep_3
+NODE_22_length_2280_cov_47.975034_cutoff_0,Chromosome,--
+NODE_23_length_2168_cov_62.310378_cutoff_0,Plasmid,5.48,Rep_1
+NODE_24_length_1885_cov_2.658739_cutoff_0,Chromosome,--
+NODE_25_length_1697_cov_1.521605_cutoff_0,Chromosome,0,WXG100
+NODE_26_length_1441_cov_450.285191_cutoff_0,Chromosome,--
+NODE_27_length_1220_cov_26.594051_cutoff_0,Chromosome,--
+NODE_28_length_1013_cov_1.728632_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_29_length_736_cov_1.159332_cutoff_0,Chromosome,--
+NODE_30_length_713_cov_1.194969_cutoff_0,Chromosome,0,Big_6
+NODE_31_length_690_cov_1.455139_cutoff_0,Chromosome,--
+NODE_32_length_684_cov_1.093904_cutoff_0,Chromosome,--
+NODE_33_length_668_cov_2.401015_cutoff_0,Chromosome,0,DUF5104 DUF5104
+NODE_34_length_638_cov_4.190731_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_35_length_635_cov_1.387097_cutoff_0,Chromosome,--
+NODE_36_length_587_cov_0.766667_cutoff_0,Chromosome,--

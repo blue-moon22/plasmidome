@@ -1,0 +1,9 @@
+NODE_1_length_31160_cov_19.727407_cutoff_10,Chromosome,0,Amidase_2 SH3_5 Phage_holin_4_1 HNH SH3_5 Phage_portal Terminase_1 L_lac_phage_MSP
+NODE_2_length_1640_cov_45.351248_cutoff_10,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_8193_cov_6.724002_cutoff_0,Plasmid,5.35,Rep_3
+NODE_2_length_3895_cov_6.366684_cutoff_0,Plasmid,5.35,Rep_3 Phage_int_SAM_1
+NODE_3_length_1272_cov_5.399163_cutoff_0,Chromosome,--
+NODE_1_length_32034_cov_97.984667_cutoff_26,Chromosome,0,HK97-gp10_like Mu-like_gpT DUF2190 Terminase_6C Terminase_6 HTH_17 DUF3310 YqaJ Amidase_2 PhageMin_Tail RecT
+NODE_1_length_2489_cov_6.828358_cutoff_5,Chromosome,0,Trp_ring Trp_ring
+NODE_2_length_1079_cov_6.974052_cutoff_5,Chromosome,--
+NODE_1_length_8155_cov_24.059173_cutoff_33,Chromosome,0,Isochorismatase FtsX ABC_tran AAA_28 AvrD AvrD GerE Response_reg

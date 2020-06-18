@@ -1,0 +1,11 @@
+NODE_1_length_41751_cov_4.489610_cutoff_0,Plasmid,17.92,Gram_pos_anchor AAA_2 AAA_lid_9 ClpB_D2-small AAA Topoisom_bac Toprim TrbC PBECR4 LPD25 Toprim_2 Endonuclea_NS_2 MobL AAA_31 BRCT DUF5592 TraG-D_C T4SS-DNA_transf Resolvase HTH_23 PriCT_1 Glucosaminidase
+NODE_2_length_826_cov_0.846462_cutoff_0,Chromosome,0,CarbopepD_reg_2
+NODE_3_length_776_cov_0.706724_cutoff_0,Chromosome,--
+NODE_4_length_760_cov_3.090776_cutoff_0,Chromosome,--
+NODE_5_length_742_cov_1.112782_cutoff_0,Chromosome,--
+NODE_6_length_731_cov_0.756881_cutoff_0,Chromosome,--
+NODE_7_length_701_cov_1.296474_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP
+NODE_8_length_578_cov_2.093812_cutoff_0,Chromosome,0,Mub_B2
+NODE_1_length_6721_cov_2.855960_cutoff_5,Chromosome,0,HAD_2 NUDIX Epimerase DDE_Tnp_1_3 DegT_DnrJ_EryC1 HTH_3 HAD_2
+NODE_2_length_3156_cov_3.412147_cutoff_5,Chromosome,0,HTH_3
+NODE_1_length_1085_cov_41.564484_cutoff_15,Chromosome,--

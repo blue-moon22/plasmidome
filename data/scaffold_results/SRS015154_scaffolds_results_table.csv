@@ -1,0 +1,13 @@
+NODE_1_length_1866_cov_11.482392_cutoff_10,Chromosome,0,ABC_tran ABC_tran
+NODE_1_length_34063_cov_22.649591_cutoff_0,Plasmid,36.75,CbiA DUF1456 SLT VirB3 CagE_TrbE_VirB T4SS CbiA ToxN_toxin Topoisom_bac Toprim_Crpt Toprim TrbL DnaJ LPD7 CagX TrbM SSB Resolvase HTH_7 HTH_psq Fic VbhA VirB8 T4SS-DNA_transf TrbI T2SSE
+NODE_2_length_8251_cov_1.869342_cutoff_0,Chromosome,0,Putative_G5P Phage_X Phage_CRI DUF3892 DUF2523 Zot Secretin Putative_G5P
+NODE_3_length_5262_cov_1.798650_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_4_length_3293_cov_3.632463_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_5_length_1499_cov_1.601969_cutoff_0,Chromosome,--
+NODE_6_length_1185_cov_1.168773_cutoff_0,Chromosome,0,Pirin_C Pirin
+NODE_7_length_1022_cov_1.773545_cutoff_0,Chromosome,0,YadA_stalk
+NODE_8_length_989_cov_10.128289_cutoff_0,Chromosome,-9.904353097512036,DUF1542 DUF1542 DUF1542 DUF1542
+NODE_9_length_986_cov_1.770077_cutoff_0,Chromosome,--
+NODE_1_length_33342_cov_22.727852_cutoff_20,Plasmid,36.75,TrbL CbiA DUF1456 Resolvase HTH_7 HTH_psq T4SS-DNA_transf TrbM TrbI VbhA T2SSE VirB8 CagE_TrbE_VirB CbiA LPD7 Topoisom_bac Toprim_Crpt Toprim ToxN_toxin Fic CagX SSB SLT VirB3 T4SS
+NODE_1_length_1244_cov_2.386461_cutoff_5,Chromosome,--
+NODE_2_length_1079_cov_8.790419_cutoff_5,Chromosome,0,YadA_stalk

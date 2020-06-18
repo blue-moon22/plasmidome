@@ -1,0 +1,12 @@
+NODE_1_length_3280_cov_23.355916_cutoff_10,Chromosome,0,HicA_toxin HicB-like_2
+NODE_1_length_5701_cov_9.114865_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_2_length_3076_cov_2.540180_cutoff_0,Plasmid,6.39,RHH_1 Rep_2 Mob_Pre
+NODE_3_length_2703_cov_34.543412_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_1892_cov_2.160882_cutoff_0,Plasmid,5.20,RepL
+NODE_5_length_1001_cov_66.425325_cutoff_0,Chromosome,--
+NODE_6_length_938_cov_4.513357_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_830_cov_1.885790_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_8_length_818_cov_1.443995_cutoff_0,Chromosome,--
+NODE_9_length_638_cov_3.623886_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_10_length_604_cov_1.166983_cutoff_0,Chromosome,--
+NODE_1_length_2926_cov_4.941734_cutoff_5,Chromosome,0,TbpB_B_D FGAR-AT_N FGAR-AT_linker Methyltransf_25

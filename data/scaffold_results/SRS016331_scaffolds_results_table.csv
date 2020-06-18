@@ -1,0 +1,44 @@
+NODE_1_length_42656_cov_14.222880_cutoff_10,Plasmid,5.81,DNA_pol_A DNA_pol_A_exo1 DUF2744 Metallophos_2 DUF3310 PDDEXK_1 Toprim_3 Endonuclease_7 AAA_25 Glutaredoxin Spherulin4 Amidase_2 HNH Phage_prot_Gp6 Phage_Gp19 Phage_capsid
+NODE_2_length_41278_cov_49.299774_cutoff_10,Chromosome,0,Phage_holin_Dp1 Sipho_tail Sipho_Gp37 Sipho_Gp37 Peptidase_S78 Phage_capsid Glyco_hydro_25 Phage_portal Terminase_1
+NODE_3_length_22065_cov_5.401037_cutoff_10,Plasmid,6.84,N6_N4_Mtase Bro-N DUF261 PDDEXK_2 PhageMin_Tail DUF4469 HU-HIG
+NODE_4_length_1488_cov_9.350106_cutoff_10,Chromosome,--
+NODE_1_length_4343_cov_4.381857_cutoff_15,Chromosome,0,Peptidase_S8 SLH SLH SLH
+NODE_1_length_39969_cov_60.155846_cutoff_5,Chromosome,-3.914207703359528,Phage_portal Terminase_1 DUF2800 YtxH Peptidase_S78 Phage_holin_Dp1 Sipho_tail Sipho_Gp37
+NODE_2_length_11911_cov_12.909076_cutoff_5,Plasmid,11.93,ParE_toxin PhdYeFM_antitox TetR_C_6 TetR_N Replicase TrwC AAA_30 AAA_19 RHH_1 CbiA Resolvase HTH_28 CENP-B_N
+NODE_3_length_2916_cov_4.120113_cutoff_5,Chromosome,0,TIR_2
+NODE_4_length_2002_cov_11.525195_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_5_length_1766_cov_6.762581_cutoff_5,Chromosome,--
+NODE_6_length_1748_cov_20.342908_cutoff_5,Chromosome,--
+NODE_7_length_1691_cov_5.103470_cutoff_5,Chromosome,0,Transposase_20 DEDD_Tnp_IS110
+NODE_8_length_1618_cov_22.465931_cutoff_5,Chromosome,--
+NODE_9_length_1179_cov_2.334846_cutoff_5,Chromosome,0,Methylase_S
+NODE_10_length_1132_cov_2.726066_cutoff_5,Chromosome,--
+NODE_11_length_1115_cov_2.826590_cutoff_5,Chromosome,0,TauE
+NODE_1_length_11810_cov_78.437654_cutoff_70,Chromosome,0,PP2C_2 VWA_2 DDE_Tnp_4 HTH_Tnp_4 DDE_Tnp_4 Excalibur
+NODE_1_length_268272_cov_11.386916_cutoff_0,Chromosome,0,Helicase_C LRR_5 LRR_5 LRR_5 LRR_5 Ribonuc_red_lgC Ribonuc_red_lgC Intein_splicing Ribonuc_red_lgC Ribonuc_red_sm Ribonuc_red_sm dUTPase DHFR_1 RNase_H Thymidylate_kin phiKZ_IP Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom RyR Thymidylat_synt RNA_pol_Rpb1_2 DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT HHH_5 PTCB-BRCT
+NODE_2_length_64073_cov_42.452606_cutoff_0,Plasmid,3.57,DUF3310 PDDEXK_1 AAA_25 RepB_primase DNA_pol_A DNA_pol_A DNA_pol_A_exo1 DUF1642 Big_8 Collagen_bind YopX RuvC Glucosaminidase BspA_v BspA_v Glyco_hydro_25 Phage_holin_Dp1 GbpC dUTPase AAA_24
+NODE_3_length_56819_cov_55.755631_cutoff_0,Chromosome,0,Amidase_5 DUF1599 Big_8 Collagen_bind Gram_pos_anchor Gp58 Prophage_tail HK97-gp10_like Phage_capsid Peptidase_S78 Phage_holin_6_1 Phage_portal Terminase_1
+NODE_4_length_50830_cov_15.186945_cutoff_0,Chromosome,0,Phage_cap_E AAA_33 Phage_prot_Gp6 DUF2746 Amidase_2 Pectate_lyase_3 Spherulin4 DUF3310 VirE DUF2800 DUF2800 DUF2815 DNA_pol_A DNA_pol_A_exo1 SNF2_N Hexapep
+NODE_5_length_5052_cov_2.323618_cutoff_0,Chromosome,0,YoeB_toxin FtsK_SpoIIIE
+NODE_6_length_3281_cov_3.052122_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_7_length_2418_cov_1.272533_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_8_length_1932_cov_1.537466_cutoff_0,Plasmid,2.91,Resolvase
+NODE_9_length_1859_cov_3.519641_cutoff_0,Chromosome,--
+NODE_10_length_1798_cov_2.627542_cutoff_0,Chromosome,0,BAAT_C
+NODE_11_length_1563_cov_2.582100_cutoff_0,Chromosome,--
+NODE_12_length_1368_cov_1.291247_cutoff_0,Chromosome,--
+NODE_13_length_1341_cov_1.253956_cutoff_0,Chromosome,--
+NODE_14_length_1223_cov_2.608202_cutoff_0,Chromosome,0,Fic
+NODE_15_length_1002_cov_0.777297_cutoff_0,Chromosome,--
+NODE_16_length_992_cov_1.584699_cutoff_0,Chromosome,0,YadA_stalk
+NODE_17_length_959_cov_1.408163_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_18_length_870_cov_2.505675_cutoff_0,Chromosome,--
+NODE_19_length_847_cov_2.603896_cutoff_0,Chromosome,--
+NODE_20_length_803_cov_1.067493_cutoff_0,Chromosome,--
+NODE_21_length_786_cov_1.251058_cutoff_0,Chromosome,--
+NODE_22_length_760_cov_0.896047_cutoff_0,Chromosome,0,Acetyltransf_1
+NODE_23_length_686_cov_5.789819_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_24_length_677_cov_3.106667_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_25_length_650_cov_9.006981_cutoff_0,Chromosome,--
+NODE_26_length_629_cov_2.119565_cutoff_0,Chromosome,--
+NODE_27_length_593_cov_1.230620_cutoff_0,Chromosome,--

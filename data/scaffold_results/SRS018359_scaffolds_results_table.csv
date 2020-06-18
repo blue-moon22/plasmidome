@@ -1,0 +1,11 @@
+NODE_1_length_5712_cov_16.950488_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_2_length_4866_cov_20.681144_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N AAA_22
+NODE_3_length_4530_cov_4.395239_cutoff_0,Plasmid,3.51,Relaxase
+NODE_4_length_3128_cov_9.536873_cutoff_0,Plasmid,10.69,Rep_3 VbhA Rep_3
+NODE_5_length_1476_cov_2.279485_cutoff_0,Chromosome,--
+NODE_6_length_1381_cov_83.924080_cutoff_0,Plasmid,5.20,RepL
+NODE_7_length_959_cov_4.870748_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 Mub_B2
+NODE_8_length_696_cov_1.972536_cutoff_0,Chromosome,--
+NODE_9_length_671_cov_6.742424_cutoff_0,Chromosome,0,Mub_B2 Mub_B2 Mub_B2
+NODE_1_length_1923_cov_3.614301_cutoff_5,Chromosome,0,Amidase_3 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_2_length_1487_cov_7.749645_cutoff_5,Chromosome,--

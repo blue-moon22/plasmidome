@@ -1,0 +1,39 @@
+NODE_1_length_1513_cov_181.750696_cutoff_42,Chromosome,0,DDE_Tnp_ISL3 DDE_Tnp_ISL3
+NODE_1_length_5813_cov_128.481695_cutoff_54,Chromosome,0,DUF285 DUF285 DUF285 DUF285 DUF285 PDDEXK_2
+NODE_1_length_22356_cov_10.463351_cutoff_10,Plasmid,14.13,AAA_31 HTH_26 rve HTH_21 T4SS-DNA_transf Amidase_6 Resolvase HTH_Tnp_1 DDE_Tnp_IS66_C Transposase_31 MPTase-PolyVal DUF1738 RadC
+NODE_2_length_19833_cov_11.942397_cutoff_10,Chromosome,-131.59324964127217,SecY ribosomal_L24 KOW Ribosomal_L16 Ribosomal_L22 Ribosomal_S19 Ribosomal_L4 Ribosomal_L3 Ribosomal_L2_C Ribosomal_L2 Ribosomal_L23 HTH_38 rve Ribosomal_S10 RuvB_N AAA_lid_4 RuvB_C Ribosomal_L6 Ribosomal_L6 Ribosomal_S8 Ribosomal_L14 Ribosomal_S14 Ribosomal_L5_C Ribosomal_L5 Ribosomal_S3_C KH_2 Ribosomal_S17 Ribosomal_L29 Ribosomal_S13 Ribosomal_S13 Ribosomal_S11 Ribosomal_L18p Ribosomal_L30 Ribosomal_L27A ADK eIF-1a Ribosomal_L36 F_bP_aldolase Ribosomal_L17 RNA_pol_A_CTD RNA_pol_A_bac RNA_pol_L Ribosomal_S5 Ribosomal_S5_C
+NODE_3_length_2910_cov_4.555595_cutoff_10,Chromosome,0,PadR
+NODE_4_length_1640_cov_31.718490_cutoff_10,Chromosome,0,Big_6 Big_6 Big_6 Big_6 Big_6
+NODE_1_length_49162_cov_34.215035_cutoff_0,Chromosome,-13.33142373818498,Phage_Mu_F Big_2 HNH_3 Phage_HK97_TLTM Terminase_6C DUF2280 DUF1073 Metallophos NinG NinE Phage_holin_8 Phage_holin_3_7 Antiterm Antiterm Glyco_hydro_108 PG_binding_3 Nmad5 DNA_pol3_theta DUF551 IstB_IS21 Lambda_Kil YqaJ RecT DUF1317 DUF4406 Dam DNA_methylase DNA_methylase DUF1382 HNH_3 zf-dskA_traR DUF1233 Arm-DNA-bind_2 Phage_integrase NLPC_P60 Acyl_transf_3 Tail_spike_N Lipase_GDSL_2 Phage_rep_O zf-C4_ClpX YdaT_toxin YdaS_antitoxin Peptidase_S24 HTH_3
+NODE_2_length_8511_cov_7.621058_cutoff_0,Chromosome,0,PrmC_N MTS DUF1385 RecX RecA HATPase_c HisKA HAMP Response_reg Trans_reg_C
+NODE_3_length_7557_cov_4.682620_cutoff_0,Plasmid,12.02,Rep_3 MobA_MobL HTH_7
+NODE_4_length_6728_cov_3.817170_cutoff_0,Plasmid,3.65,ParE_toxin MobA_MobL
+NODE_5_length_6424_cov_42.110761_cutoff_0,Plasmid,3.65,MobA_MobL DUF5348
+NODE_6_length_6341_cov_88.222542_cutoff_0,Plasmid,8.26,Rep_3 Resolvase
+NODE_7_length_5454_cov_39.047424_cutoff_0,Plasmid,3.86,RelB Mob_Pre CAT CAT YafQ_toxin
+NODE_8_length_4489_cov_63.600861_cutoff_0,Plasmid,5.48,Phage_integrase Rep_1
+NODE_9_length_4443_cov_3.764544_cutoff_0,Chromosome,0,HTH_11
+NODE_10_length_4225_cov_3.524590_cutoff_0,Plasmid,8.86,Rep_3 Relaxase YoeB_toxin
+NODE_11_length_4223_cov_8.061264_cutoff_0,Plasmid,14.27,Mob_Pre RepL RepL
+NODE_12_length_3894_cov_5.347655_cutoff_0,Chromosome,--
+NODE_13_length_3753_cov_12.896355_cutoff_0,Plasmid,9.00,Rep_3 MobA_MobL
+NODE_14_length_3420_cov_1.350583_cutoff_0,Chromosome,0,Glycos_transf_1 Glyco_transf_4 Methyltransf_21
+NODE_15_length_3254_cov_13.476865_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_16_length_3097_cov_40.052318_cutoff_0,Plasmid,6.39,Mob_Pre ParE_toxin Rep_2
+NODE_17_length_3033_cov_2.082882_cutoff_0,Chromosome,0,SBP_bac_3 HATPase_c Response_reg HisKA SBP_bac_3
+NODE_18_length_2973_cov_1254.652624_cutoff_0,Plasmid,5.35,Rep_3
+NODE_19_length_2915_cov_1.844257_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_20_length_2868_cov_18.181655_cutoff_0,Plasmid,5.48,Rep_1
+NODE_21_length_2856_cov_16.719323_cutoff_0,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_22_length_2662_cov_15.373694_cutoff_0,Plasmid,8.91,Rep_2 Rep_2 Mob_Pre
+NODE_23_length_1612_cov_1.176547_cutoff_0,Chromosome,0,GIY-YIG
+NODE_24_length_1518_cov_7.824427_cutoff_0,Chromosome,--
+NODE_25_length_1430_cov_1.271249_cutoff_0,Chromosome,0,TIR_2
+NODE_26_length_1262_cov_3.619409_cutoff_0,Chromosome,--
+NODE_27_length_1221_cov_2.414336_cutoff_0,Chromosome,-3.27193285317664,Ribosomal_L19
+NODE_28_length_962_cov_4.449718_cutoff_0,Chromosome,0,MucBP MucBP MucBP
+NODE_29_length_920_cov_11.845789_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP_2
+NODE_1_length_5702_cov_6.834311_cutoff_5,Plasmid,3.65,MobA_MobL HTH_23
+NODE_2_length_5646_cov_4.062130_cutoff_5,Plasmid,9.00,Rep_3 DUF5348 MobA_MobL
+NODE_3_length_5553_cov_8.179876_cutoff_5,Chromosome,0,Chlamy_scaf Phage_F
+NODE_4_length_1444_cov_4.626189_cutoff_5,Chromosome,0,Transposase_20 DEDD_Tnp_IS110

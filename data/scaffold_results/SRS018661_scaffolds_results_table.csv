@@ -1,0 +1,19 @@
+NODE_1_length_12104_cov_63.086971_cutoff_54,Chromosome,-20.101656427108146,Rnf-Nqr FMN_bind Fer2 FAD_binding_6 ApbE NAD_binding_1 Rnf-Nqr Ribosomal_L19 tRNA_Me_trans RimM PRC tRNA_m1G_MT Ribosomal_S16 NQR2_RnfD_RnfE 5_nucleotid_C Metallophos NqrM
+NODE_1_length_8282_cov_2.649482_cutoff_0,Chromosome,-2.5577663053942086,Phage_DNA_bind Secretin DUF2523 Zot Phage_CRI Phage_X DUF1496
+NODE_2_length_4245_cov_2.649472_cutoff_0,Plasmid,20.77,MbeB_N MobC Relaxase CRISPR_Cas2 Replicase PriCT_1 HTH_11
+NODE_3_length_2866_cov_11.715310_cutoff_0,Plasmid,5.05,ParE_toxin Rep_2 Rep_2
+NODE_4_length_1460_cov_1.721620_cutoff_0,Chromosome,--
+NODE_5_length_1097_cov_3.252941_cutoff_0,Chromosome,0,AgI_II_C2 FctA
+NODE_6_length_1073_cov_1.364458_cutoff_0,Chromosome,0,Lipoprotein_9 Lipoprotein_9
+NODE_7_length_887_cov_1.422222_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_8_length_869_cov_2.241162_cutoff_0,Chromosome,--
+NODE_9_length_869_cov_0.883838_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_10_length_679_cov_0.760797_cutoff_0,Chromosome,0,DUF4853 DUF4853
+NODE_11_length_677_cov_1.645000_cutoff_0,Chromosome,--
+NODE_12_length_608_cov_3.250471_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_13_length_590_cov_1.126706_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind
+NODE_1_length_54533_cov_12.757713_cutoff_5,Plasmid,3.96,Methyltransf_23 CHAP DUF2829 Thymidylat_synt Phage_lysozyme dCMP_cyt_deam_1 DUF3854 Collagen LPD38 SNF2_N Helicase_C PDDEXK_1 DUF5051 DNA_ligase_OB_2 DNA_ligase_A_M PRA-PH Phage_holin_3_3 DNA_pol_A
+NODE_2_length_52808_cov_5.224119_cutoff_5,Plasmid,6.41,SNF2_N Helicase_C PDDEXK_1 dUTPase_2 AAA_24 DUF669 Phage_GP20 Phage_prot_Gp6 Terminase_6 HK97-gp10_like NTP_transferase Spherulin4 DUF932 Glyco_transf_25 PhageMin_Tail Thy1 DNA_pol_A DNA_pol_A_exo1 dCMP_cyt_deam_1 Collagen DUF4185 Glyco_hydro_25 Peptidase_M23 Phage_r1t_holin Phage_r1t_holin Thymidylat_synt Prim-Pol D5_N PriCT_1
+NODE_3_length_17941_cov_2.700851_cutoff_5,Chromosome,0,Phage_portal HNH Peptidase_S78 Amidase_2
+NODE_4_length_2345_cov_6.062610_cutoff_5,Chromosome,--
+NODE_5_length_1091_cov_4.508876_cutoff_5,Chromosome,0,YadA_stalk

@@ -1,0 +1,22 @@
+NODE_1_length_40630_cov_15.074791_cutoff_10,Chromosome,0,Peptidase_S78 Phage_capsid Phage_portal Amidase_2 CW_7 Pox_D5 Terminase_1 DUF3310 DUF2800 Phage_holin_Dp1
+NODE_2_length_5421_cov_12.733346_cutoff_10,Plasmid,9.21,Mob_Pre Rep_3
+NODE_1_length_7197_cov_2.430618_cutoff_0,Chromosome,0,AMP-binding AMP-binding TetR_N DoxX_2 SHMT AMP-binding PP-binding
+NODE_2_length_1866_cov_1.646171_cutoff_0,Chromosome,0,ABC_tran
+NODE_3_length_1811_cov_2.604960_cutoff_0,Chromosome,--
+NODE_4_length_1727_cov_2.756364_cutoff_0,Chromosome,--
+NODE_5_length_1601_cov_2.523622_cutoff_0,Chromosome,--
+NODE_6_length_1381_cov_2.824387_cutoff_0,Chromosome,--
+NODE_7_length_1095_cov_663.706287_cutoff_0,Chromosome,--
+NODE_8_length_1053_cov_1.335041_cutoff_0,Chromosome,--
+NODE_9_length_927_cov_104.989412_cutoff_0,Chromosome,--
+NODE_10_length_887_cov_9.502469_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_11_length_755_cov_1.957227_cutoff_0,Chromosome,--
+NODE_12_length_749_cov_3.662202_cutoff_0,Chromosome,0,FctA FctA
+NODE_13_length_698_cov_2.489533_cutoff_0,Chromosome,--
+NODE_14_length_627_cov_1.834545_cutoff_0,Chromosome,--
+NODE_15_length_612_cov_2.168224_cutoff_0,Chromosome,--
+NODE_16_length_602_cov_0.857143_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_17_length_596_cov_2.674374_cutoff_0,Chromosome,--
+NODE_18_length_583_cov_1.462451_cutoff_0,Chromosome,--
+NODE_1_length_41402_cov_14.925009_cutoff_5,Chromosome,0,Amidase_2 CW_7 Peptidase_S78 Phage_capsid DUF2800 Phage_portal Terminase_1 Pox_D5 Phage_holin_Dp1 DUF3310
+NODE_2_length_1319_cov_7.143317_cutoff_5,Chromosome,0,Ion_trans_2 DUF389

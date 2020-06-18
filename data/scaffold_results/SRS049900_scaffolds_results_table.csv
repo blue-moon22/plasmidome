@@ -1,0 +1,18 @@
+NODE_1_length_13913_cov_33.967982_cutoff_54,Chromosome,0,AAA-ATPase_like PDDEXK_9 Mfa2 DUF3874 VirE DUF4988 Peptidase_C11 ATPase_2 DUF234 Mfa_like_1
+NODE_1_length_3228_cov_18.406220_cutoff_10,Chromosome,0,TonB_dep_Rec Plug DUF4198
+NODE_1_length_1924_cov_33.640498_cutoff_26,Plasmid,4.35,YafQ_toxin DDE_Tnp_Tn3
+NODE_1_length_2296_cov_243.952681_cutoff_153,Chromosome,--
+NODE_1_length_10025_cov_9.735726_cutoff_5,Chromosome,-2.4971416835774463,TIR_2 Fic HTH_24 FaeA Lipocalin_4 Phage_int_SAM_5 Arm-DNA-bind_5 Phage_integrase
+NODE_2_length_2449_cov_1.898398_cutoff_5,Chromosome,0,fn3 Big_2 Glug
+NODE_3_length_2193_cov_6.876181_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_4_length_1295_cov_2.412972_cutoff_5,Chromosome,--
+NODE_1_length_5864_cov_36.211681_cutoff_33,Chromosome,0,SusD-like_2 SusD-like SusD-like_2 TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg
+NODE_1_length_29889_cov_12.267308_cutoff_15,Chromosome,0,OMP_b-brl_3 CarboxypepD_reg CarbopepD_reg_2 Response_reg HTH_18 HATPase_c Y_Y_Y HisKA HTH_AraC Reg_prop Reg_prop Acetyltransf_1 Methyltransf_11 DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 Thioredoxin DUF4858 TonB_dep_Rec CarbopepD_reg_2 CarboxypepD_reg Plug MacB_PCD FtsX HATPase_c Response_reg HisKA HATPase_c NUDIX zf-NADH-PPase Methyltransf_30 Sigma54_activat Response_reg HTH_8
+NODE_2_length_2764_cov_181.228508_cutoff_15,Chromosome,0,DUF4065
+NODE_3_length_1784_cov_6.911541_cutoff_15,Chromosome,0,AAA-ATPase_like AAA-ATPase_like PDDEXK_9
+NODE_1_length_2764_cov_181.228508_cutoff_198,Chromosome,0,DUF4065
+NODE_1_length_14783_cov_142.156943_cutoff_118,Chromosome,0,T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug Peptidase_C11
+NODE_2_length_2382_cov_144.771800_cutoff_118,Chromosome,0,Arm-DNA-bind_5 Polbeta GGGtGRT DUF86
+NODE_1_length_7492_cov_33.401888_cutoff_0,Plasmid,5.35,DNA_methylase Rep_3 HTH_3 Gp49
+NODE_2_length_4391_cov_128.695874_cutoff_0,Plasmid,8.86,Rep_3 Relaxase YoeB_toxin
+NODE_3_length_2656_cov_1.340442_cutoff_0,Chromosome,0,N6_Mtase

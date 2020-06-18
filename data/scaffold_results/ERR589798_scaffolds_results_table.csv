@@ -1,0 +1,23 @@
+NODE_1_length_2950_cov_735.738253_cutoff_54,Plasmid,5.35,Rep_3 ORF6N
+NODE_1_length_26457_cov_4.813685_cutoff_0,Plasmid,7.16,DnaB_C Toprim_2 Toprim_3 Toprim_4 AAA_31 ParBc AAA_14 DUF4143 Amidohydro_1 Peripla_BP_4 BPD_transp_2 FCD HTH_12 Epimerase AAA_31 HTH_3 HTH_31 HTH_19 HTH_26 ABC_tran ABC_tran DDE_Tnp_1_6 DUF772 DDE_Tnp_1 BNR_2 Resolvase AAA_14 DUF4143 HTH_3 DUF3990 AAA_14 DUF4143
+NODE_2_length_5887_cov_15.680723_cutoff_0,Plasmid,16.45,DUF262 DUF1524 Relaxase Replicase PriCT_1 HTH_3 RelE MobC
+NODE_3_length_5671_cov_1.756525_cutoff_0,Plasmid,5.48,PemK_toxin Rep_1 PemK_toxin
+NODE_4_length_5410_cov_6.690043_cutoff_0,Plasmid,7.03,Mob_Pre T4SS-DNA_transf
+NODE_5_length_4652_cov_1.874098_cutoff_0,Chromosome,0,CitF CitMHS ACP HpcH_HpaI CitF
+NODE_6_length_3802_cov_2.089396_cutoff_0,Chromosome,0,DNA_methylase RE_HpaII
+NODE_7_length_3399_cov_1.937989_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_8_length_2237_cov_2.051852_cutoff_0,Chromosome,0,ATP-synt_DE AAA-ATPase_like PDDEXK_9
+NODE_9_length_1710_cov_3.304960_cutoff_0,Chromosome,0,NUDIX
+NODE_10_length_1622_cov_2.921683_cutoff_0,Plasmid,6.35,Y2_Tnp Zn_Tnp_IS91
+NODE_11_length_934_cov_0.703617_cutoff_0,Chromosome,--
+NODE_12_length_898_cov_2.660171_cutoff_0,Chromosome,0,Y1_Tnp
+NODE_13_length_719_cov_3.906542_cutoff_0,Chromosome,0,Big_9
+NODE_14_length_638_cov_1.274510_cutoff_0,Chromosome,--
+NODE_15_length_620_cov_1.068140_cutoff_0,Chromosome,--
+NODE_16_length_611_cov_0.897004_cutoff_0,Chromosome,--
+NODE_1_length_1850_cov_27.956007_cutoff_26,Chromosome,0,Peptidase_M18
+NODE_1_length_3575_cov_1.536592_cutoff_5,Chromosome,0,Methylase_S Methylase_S DUF3990 DUF3791 Phage_integrase Phage_int_SAM_4
+NODE_2_length_2572_cov_5.395190_cutoff_5,Plasmid,6.61,Rop DUF903
+NODE_3_length_2289_cov_2.835443_cutoff_5,Chromosome,0,LRR_5 LRR_5 LRR_5 Pkinase
+NODE_4_length_1945_cov_4.621520_cutoff_5,Chromosome,--
+NODE_1_length_16010_cov_15.541518_cutoff_15,Chromosome,0,NIR_SIR NIR_SIR_ferr PAPS_reduct Fer4_9 SBP_bac_11 BPD_transp_1 BPD_transp_1 FAD_binding_2 ABC_tran TOBE_2 Cys_Met_Meta_PP TusA ThiS Thioredoxin Prok-JAB ThiF Pyr_redox_2 MgtE GTP_EFTU

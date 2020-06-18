@@ -1,0 +1,25 @@
+NODE_1_length_4812_cov_81.402957_cutoff_118,Chromosome,--
+NODE_1_length_80741_cov_138.137372_cutoff_0,Plasmid,3.98,HTH_3 DUF3310 Thymidylat_synt AAA_24 Glutaredoxin YadA_anchor YadA_stalk YadA_head YadA_head RNA_pol DUF551 DNA_pol_A RNase_H_2 DNA_pol_A_exo1 PriCT_1 RlaP Collagen DUF2201_N DUF2201 DHFR_1
+NODE_2_length_7252_cov_20.690592_cutoff_0,Plasmid,14.21,Rep_3 ORF6N Relaxase Rep_3
+NODE_3_length_4854_cov_16.398995_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_4_length_4226_cov_11.770306_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2 RNA_helicase
+NODE_5_length_3726_cov_4.221156_cutoff_0,Plasmid,2.91,Methylase_S Resolvase N6_Mtase
+NODE_6_length_3148_cov_8.942364_cutoff_0,Plasmid,14.83,Rep_1 Rep_1 Mob_Pre
+NODE_7_length_2954_cov_322.773027_cutoff_0,Plasmid,5.35,Rep_3 HTH_3 HigB-like_toxin
+NODE_8_length_1828_cov_2.289549_cutoff_0,Chromosome,--
+NODE_9_length_1670_cov_2.564344_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_10_length_1163_cov_1.749540_cutoff_0,Chromosome,--
+NODE_11_length_1136_cov_1.655335_cutoff_0,Chromosome,0,Trp_ring Trp_ring
+NODE_12_length_1096_cov_0.825319_cutoff_0,Chromosome,--
+NODE_13_length_1016_cov_2.287540_cutoff_0,Chromosome,--
+NODE_14_length_925_cov_0.869104_cutoff_0,Chromosome,--
+NODE_15_length_863_cov_1.843511_cutoff_0,Chromosome,0,G5
+NODE_16_length_710_cov_1.165877_cutoff_0,Chromosome,--
+NODE_17_length_605_cov_1.367424_cutoff_0,Chromosome,--
+NODE_1_length_7623_cov_5.901935_cutoff_5,Chromosome,0,TNT
+NODE_2_length_3898_cov_3.514787_cutoff_5,Chromosome,0,AhpC-TSA FMN_dh
+NODE_3_length_2268_cov_4.615701_cutoff_5,Chromosome,0,Methylase_S Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_4_length_2254_cov_2.021130_cutoff_5,Chromosome,0,DpnD-PcfM
+NODE_5_length_1097_cov_22.438235_cutoff_5,Chromosome,0,AgI_II_C2 FctA AgI_II_C2
+NODE_6_length_1093_cov_7.707677_cutoff_5,Chromosome,--
+NODE_1_length_3723_cov_11.982447_cutoff_15,Chromosome,0,Methylase_S N6_Mtase HsdM_N

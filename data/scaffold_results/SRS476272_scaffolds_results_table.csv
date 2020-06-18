@@ -1,0 +1,45 @@
+NODE_1_length_11009_cov_3.048207_cutoff_5,Plasmid,9.21,TfoX_N ABC_tran ComR_TPR HTH_3 Mob_Pre Rep_3 DnaB_2 AbiEii
+NODE_2_length_2733_cov_2.678840_cutoff_5,Chromosome,0,Glycos_transf_2 Glycos_transf_2 Glyco_tranf_2_3 Glyco_tranf_2_2 Glycos_transf_2
+NODE_3_length_2163_cov_9.826462_cutoff_5,Plasmid,5.48,Rep_1
+NODE_4_length_1434_cov_1.155490_cutoff_5,Chromosome,0,CitMHS CitMHS
+NODE_5_length_1249_cov_2.108362_cutoff_5,Chromosome,--
+NODE_1_length_183014_cov_9.663759_cutoff_0,Chromosome,-5.761557356954668,VbhA Glutaredoxin Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN Ribonuc_red_lgC YqeY DNA_ligase_A_M DNA_ligase_OB_2 RNase_H SmpA_OmlA YadA_anchor YadA_stalk YadA_head DUF1768 Spermine_synth Fer2_BFD Whirly Bac_DNA_binding AdoMet_dc SpoVG DHFR_1 DUF2829 Glyco_hydro_19 PG_binding_1 Peptidase_M23 SNase RVT_1 Prok-E2_D Hydrolase_2 HNH_3 RecA RuvC PHP DNA_pol3_alpha PRA-PH AAA_33 RNA_ligase Thymidylat_synt Terminase_6 Tn7_Tnp_TnsA_N Intein_splicing DNA_pol3_alpha DNA_pol3_finger Radical_SAM HHH_6 PDDEXK_1 Toprim_2 DnaB_C Toprim_N Ribonuc_red_sm RNA_lig_T4_1 Metallophos ATP_bind_3 NAPRTase DUF5598 AAA
+NODE_2_length_66955_cov_6.369180_cutoff_0,Chromosome,-6.7943416391899305,SSB Thy1 Macro RNR_Alpha ATP-cone Ribonuc_red_lgC LAGLIDADG_3 SNF2_N Rad52_Rad22 DNA_pol3_alpha DNA_pol3_finger PHP HTH_24 DnaB_C zf-CHC2 Toprim_2 Toprim_N Toprim_4 Phage_lysozyme2 Amidase_2 DUF370 Terminase_6C DUF5309 Helicase_C dUTPase YadA_stalk YadA_anchor YadA_head
+NODE_3_length_51717_cov_34.700097_cutoff_0,Chromosome,0,Hom_end Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 DNA_pol_A DNA_pol_A_exo1 SNF2_N dCMP_cyt_deam_1 AAA_24 DUF3987 Whib PhageMin_Tail dUTPase Glutaredoxin
+NODE_4_length_6824_cov_7.985920_cutoff_0,Plasmid,5.93,Resolvase HTH_7 HTH_3 FtsK_SpoIIIE
+NODE_5_length_6818_cov_9.741136_cutoff_0,Plasmid,5.48,DUF2523 Rep_1 Zot HTH_3
+NODE_6_length_5360_cov_8.271247_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_7_length_4982_cov_2.522528_cutoff_0,Plasmid,7.61,MobC Relaxase
+NODE_8_length_4969_cov_12.384710_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_9_length_4888_cov_6.276242_cutoff_0,Plasmid,10.69,Rep_3 Rep_3
+NODE_10_length_4881_cov_2.277893_cutoff_0,Chromosome,0,FtsK_SpoIIIE AAA_19 UvrD_C
+NODE_11_length_4807_cov_1.879281_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_12_length_3994_cov_6.314016_cutoff_0,Chromosome,--
+NODE_13_length_3735_cov_2.828321_cutoff_0,Plasmid,8.86,Rep_3 Relaxase
+NODE_14_length_3492_cov_55.434846_cutoff_0,Chromosome,--
+NODE_15_length_3228_cov_2.458902_cutoff_0,Plasmid,5.35,Rep_3
+NODE_16_length_3150_cov_1.799544_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_17_length_2694_cov_5.810088_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_18_length_2599_cov_6.588025_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N Rep_trans
+NODE_19_length_2570_cov_2.663057_cutoff_0,Chromosome,--
+NODE_20_length_2191_cov_4.800851_cutoff_0,Plasmid,5.48,Rep_1
+NODE_21_length_1954_cov_130.949920_cutoff_0,Chromosome,--
+NODE_22_length_1862_cov_5.102521_cutoff_0,Chromosome,--
+NODE_23_length_1607_cov_1.970588_cutoff_0,Plasmid,5.20,RepL
+NODE_24_length_1437_cov_50.505882_cutoff_0,Chromosome,--
+NODE_25_length_1323_cov_3.512039_cutoff_0,Chromosome,--
+NODE_26_length_1034_cov_3.742947_cutoff_0,Chromosome,0,YadA_stalk
+NODE_27_length_927_cov_31.464706_cutoff_0,Chromosome,--
+NODE_28_length_893_cov_0.666667_cutoff_0,Chromosome,--
+NODE_29_length_890_cov_2.349323_cutoff_0,Chromosome,--
+NODE_30_length_875_cov_4.040100_cutoff_0,Chromosome,0,Rib Rib
+NODE_31_length_815_cov_2.765583_cutoff_0,Chromosome,--
+NODE_32_length_737_cov_0.963636_cutoff_0,Chromosome,0,FctA FctA FctA
+NODE_33_length_655_cov_0.536332_cutoff_0,Chromosome,--
+NODE_34_length_635_cov_10.467742_cutoff_0,Chromosome,--
+NODE_35_length_615_cov_1.185874_cutoff_0,Chromosome,--
+NODE_36_length_614_cov_0.985102_cutoff_0,Chromosome,0,LTD LTD
+NODE_37_length_611_cov_5.520599_cutoff_0,Chromosome,--
+NODE_38_length_611_cov_2.481273_cutoff_0,Chromosome,--
+NODE_39_length_602_cov_2.845714_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_40_length_588_cov_0.759295_cutoff_0,Chromosome,--

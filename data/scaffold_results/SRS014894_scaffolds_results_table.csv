@@ -1,0 +1,24 @@
+NODE_1_length_418260_cov_16.405205_cutoff_10,Chromosome,-7.01047876006831,YdjM Radical_SAM ATPase ChlI Lon_C Fer4_12 Gly_radical HNH_5 Bax1-I Flavodoxin_NdrI Peptidase_M50 HD OrfB_Zn_ribbon Pkinase PP2C_2 VWA Ribonuc_red_lgC RNR_N Ribonuc_red_lgN AAA_2 AAA_lid_9 ClpB_D2-small AAA DNA_gyraseB DNA_gyraseB_C Toprim OrfB_Zn_ribbon Phage_lysozyme2 Sigma70_r2 Zeta_toxin RecA DnaB_C DnaB Transgly Transpeptidase PASTA Sortase SpaA SpaA SpaA SpaA SpaA SpaA OrfB_Zn_ribbon Macro T2SSE TraG-D_C TpcC TadE PhoH PIN_4 DUF1524 OrfB_Zn_ribbon Peptidase_S26 AAA_2 ClpB_D2-small Helicase_C DEAD RecG_wedge ResIII DUF805 Nuc_deoxyri_tr2 LRR_5 LRR_5 LRR_5 LRR_5 HATPase_c_3 Peptidase_S24 Glutaredoxin Toprim_N zf-CHC2 Toprim_4 Toprim_2 DnaB_bind Metallophos NLPC_P60 G5 DUF2201_N DUF2201 HTH_7 SNF2_N Radical_SAM OrfB_Zn_ribbon dCMP_cyt_deam_1 TROVE PolyA_pol OrfB_Zn_ribbon NUDIX SpaA GramPos_pilinD1 Gram_pos_anchor NAD_synthase CPBP Zeta_toxin Isochorismatase PRA-PH PASTA PASTA PASTA Imp-YgjV NRDD OrfB_Zn_ribbon PHP DNA_pol3_alpha DNA_pol3_delta2 NAPRTase_N AAA_33 RNase_T AAA_23 T2SSE Bac_DNA_binding NAD_synthase MT-A70 PDDEXK_1 HAD DUF1565 NosD PIF1 NERD G5 SLT Resolvase HTH_17 MerR MerR_1 SSB OrfB_Zn_ribbon SpoU_methylase FtsK_SpoIIIE AAA_31 DNA_topoisoIV DNA_gyraseA_C DNA_gyraseA_C AAA_10 TcpE T2SSE RecX T2SSF DNA_pol3_alpha DNA_pol3_finger HHH_6 DNA_pol3_finger Intein_splicing Intein_splicing YpsA MethyltransfD12
+NODE_2_length_33542_cov_13.079038_cutoff_10,Chromosome,0,Helicase_C SNF2_N dUTPase_2 PDDEXK_1 AAA_24 DNA_pol_A Amidase_2 AAA_25 Prophage_tail Thymidylat_synt Terminase_6C Terminase_6 Phage_capsid
+NODE_3_length_31854_cov_7.279542_cutoff_10,Chromosome,-2.7530750577096477,Phage_CI_repr Phage_CI_C Phage_integrase YidD Phage_GPL Phage_tail_S P2_Phage_GpR Phage_cap_P2 Phage_term_smal Terminase_6 Terminase_6C Terminase_5 Phage_portal HicA_toxin HicB_lk_antitox Phage_GPA Dam Phage_holin_2_3 DUF2597 DUF2586 DUF3751 Phage_fiber_2 Phage_fiber_2 Tail_P2_I Baseplate_J DUF2590 PhageMin_Tail Phage_TAC_10 Phage_lysozyme Phage_GPO
+NODE_1_length_4211_cov_6.466134_cutoff_0,Chromosome,--
+NODE_2_length_3128_cov_14.209440_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_3_length_2420_cov_10.731968_cutoff_0,Chromosome,--
+NODE_4_length_1535_cov_2.344307_cutoff_0,Chromosome,--
+NODE_5_length_1433_cov_7.535398_cutoff_0,Chromosome,--
+NODE_6_length_1244_cov_3.068552_cutoff_0,Chromosome,0,adh_short_C2
+NODE_7_length_1223_cov_2.354276_cutoff_0,Chromosome,0,Fic
+NODE_8_length_1218_cov_2.276074_cutoff_0,Chromosome,--
+NODE_9_length_1027_cov_9.393684_cutoff_0,Chromosome,0,Inhibitor_I36
+NODE_10_length_687_cov_1.380328_cutoff_0,Chromosome,--
+NODE_11_length_651_cov_2.391986_cutoff_0,Chromosome,--
+NODE_12_length_578_cov_1.173653_cutoff_0,Chromosome,--
+NODE_1_length_13214_cov_32.117074_cutoff_42,Chromosome,0,Peptidase_S9 ABC_tran Response_reg GerE HisKA_3 Peptidase_S9 FtsX UTRA GntR ABC_tran
+NODE_1_length_173978_cov_8.859472_cutoff_5,Chromosome,-1.6020108811419895,Pkinase MPTase-PolyVal DUF1738 DnaB_C zf-CHC2 Phage_lysozyme2 DUF1653 5_3_exonuc_N AgI_II_C2 Antigen_C Antigen_C Gram_pos_anchor Methyltransf_23 RNA_pol_A_CTD RNA_pol_A_CTD Sigma70_r4 PC4 Metallophos Peptidase_S24 Endonuclea_NS_2 DNA_pol_A DNA_pol_A_exo1 SpoVG Metallophos AAA_27 PALP CHAP Glycos_transf_1 dUTPase DnaJ DUF3310 Cauli_VI RNase_H Helicase_C ResIII DNA_pol3_delta2 DNA_topoisoIV Bac_DNA_binding Collagen_bind Big_8 DNA_gyraseB DNA_gyraseB_C Toprim FtsK_SpoIIIE HNH Toprim_2 UvrD-helicase UvrD_C UvrD_C_2 DUF1002 Glutaredoxin YdjM FHA PP2C_2 DNA_ligase_aden
+NODE_2_length_1413_cov_3.773204_cutoff_5,Chromosome,--
+NODE_3_length_1304_cov_2.105134_cutoff_5,Chromosome,0,RelA_SpoT
+NODE_4_length_1174_cov_9.089335_cutoff_5,Chromosome,0,TENA_THI-4
+NODE_5_length_913_cov_8.663876_cutoff_5,Chromosome,0,PepSY_like
+NODE_1_length_18731_cov_30.054626_cutoff_33,Chromosome,-41.353031778371445,RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 NusG KOW SecE Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosom_S12_S23 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2
+NODE_2_length_1831_cov_88.923033_cutoff_33,Chromosome,0,DDE_Tnp_1
+NODE_1_length_1599_cov_14.304862_cutoff_15,Chromosome,0,DUF418

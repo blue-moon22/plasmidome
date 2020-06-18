@@ -1,0 +1,4 @@
+NODE_1_length_40775_cov_4.513096_cutoff_5,Chromosome,0,RNase_H_2 Head-tail_con Whib PIF1 HIRAN HNH CHAP DUF4214
+NODE_1_length_64537_cov_31.071688_cutoff_0,Plasmid,3.57,DNA_pol_A DNA_pol_A_exo1 HTH_19 DUF1642 DUF3882 Phage_lysozyme2 CW_binding_1 CW_binding_1 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_Dp1 AAA_25 RepB_primase AAA_24 PDDEXK_1 DHFR_1 DUF3310 dUTPase
+NODE_2_length_4423_cov_2.212379_cutoff_0,Plasmid,5.35,HTH_3 Rep_3 Integrase_1 Phage_int_SAM_1
+NODE_3_length_887_cov_4.067901_cutoff_0,Chromosome,0,MucBP_2 Mub_B2

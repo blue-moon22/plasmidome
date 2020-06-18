@@ -1,0 +1,47 @@
+NODE_1_length_85840_cov_15.535056_cutoff_10,Chromosome,0,BACON BACON Peptidase_S74 Cpn10 DnaB_C Neugrin DNA_methylase AAA_23 SbcCD_C gp32 dUTPase_2 HTH_38 Helicase_C ResIII SWI2_SNF2 dUTPase KTSC HNH_3 Muraidase HNH_3 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt RecA Collar 5_3_exonuc_N 5_3_exonuc AAA_28 HNH_3 Metallophos GPW_gp25 PhageMin_Tail Phage_T4_gp19 LysM Baseplate_J PKD
+NODE_2_length_14485_cov_5.093629_cutoff_10,Chromosome,0,Phage_integrase Phage_int_SAM_3 Sigma70_r4 Sigma70_r2 ParE_toxin Arc
+NODE_3_length_7066_cov_18.976678_cutoff_10,Plasmid,12.02,Colicin Relaxase MobC
+NODE_1_length_85840_cov_15.535056_cutoff_0,Chromosome,0,PhageMin_Tail LysM Baseplate_J AAA_23 SbcCD_C DNA_methylase Muraidase DnaB_C PKD RecA Cpn10 gp32 HNH_3 AAA_28 HNH_3 Metallophos 5_3_exonuc_N 5_3_exonuc BACON BACON Neugrin Peptidase_S74 Helicase_C ResIII SWI2_SNF2 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt HTH_38 dUTPase_2 dUTPase HNH_3 Collar GPW_gp25 Phage_T4_gp19 KTSC
+NODE_2_length_65101_cov_6.383581_cutoff_0,Chromosome,-2.4971416835774463,DUF4494 VRR_NUC Bac_DNA_binding AAA_29 Phage_int_SAM_5 InPase LPD14 LPD38 ddrB-ParB Helicase_C Amidase_3 RVT_1 HTH_3 Gp49 Rhomboid DNA_methylase DNA_methylase PAPS_reduct DUF4373
+NODE_3_length_46593_cov_3.350417_cutoff_0,Chromosome,0.16968594686650817,PAPS_reduct ERF VRR_NUC Terminase_3 Phage_portal GP3_package HTH_3 HTH_3 Pentapeptide Pentapeptide Peptidase_S78 Phage_capsid Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_5 HTH_39 MethyltransfD12
+NODE_4_length_14793_cov_274.194074_cutoff_0,Plasmid,8.91,AAA_31 PIF1 Resolvase Relaxase DNA_methylase RE_HpaII AlbA_2
+NODE_5_length_14341_cov_2.355020_cutoff_0,Chromosome,0,Ureide_permease Ureide_permease SusD_RagB SusD-like_3 TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg PfkB DNA_pol_A IU_nuc_hydro
+NODE_6_length_10306_cov_1.967641_cutoff_0,Plasmid,13.65,Rep_3 PhdYeFM_antitox YoeB_toxin SHOCT AAA_31 Resolvase Resolvase
+NODE_7_length_6534_cov_2.538330_cutoff_0,Chromosome,0,adh_short_C2 SusD_RagB SusD-like_3 Plug CarbopepD_reg_2 CarboxypepD_reg TonB_dep_Rec
+NODE_8_length_6420_cov_136.633927_cutoff_0,Plasmid,7.38,Mob_Pre ParE_toxin RelB TraX PhdYeFM_antitox
+NODE_9_length_6125_cov_11.874008_cutoff_0,Plasmid,3.65,MobA_MobL Fic
+NODE_10_length_5394_cov_160.213090_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin
+NODE_11_length_4394_cov_2.376650_cutoff_0,Chromosome,0,NAGPA
+NODE_12_length_2982_cov_1.990017_cutoff_0,Plasmid,5.20,RepL
+NODE_13_length_2915_cov_1.909091_cutoff_0,Chromosome,--
+NODE_14_length_2538_cov_2.785859_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_15_length_2366_cov_2.120140_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_16_length_2178_cov_14.211328_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_17_length_1642_cov_5.256230_cutoff_0,Chromosome,0,CitMHS
+NODE_18_length_1249_cov_3.450512_cutoff_0,Chromosome,0,Thioredoxin_8
+NODE_19_length_1229_cov_8.545139_cutoff_0,Chromosome,--
+NODE_20_length_1088_cov_3.156281_cutoff_0,Chromosome,--
+NODE_21_length_908_cov_1.506619_cutoff_0,Chromosome,--
+NODE_22_length_764_cov_1.069869_cutoff_0,Chromosome,0,Glyco_hydro_16 Glyco_hydro_16
+NODE_23_length_665_cov_2.081633_cutoff_0,Chromosome,--
+NODE_24_length_626_cov_1.663024_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_25_length_607_cov_0.292453_cutoff_0,Chromosome,--
+NODE_26_length_602_cov_1.133333_cutoff_0,Chromosome,--
+NODE_27_length_581_cov_1.640873_cutoff_0,Chromosome,0,HSP20 HSP20
+NODE_1_length_12779_cov_16.534010_cutoff_26,Chromosome,0,Glyco_hydro_39 AAA_14 DUF4143 MatE MatE AAA_18 Alpha-L-AF_C Glyco_hydro_43 HTH_18 FMN_red
+NODE_1_length_9205_cov_92.906113_cutoff_42,Plasmid,5.35,GerE Rep_3 Gp49 HTH_3
+NODE_1_length_59131_cov_21.310885_cutoff_20,Chromosome,0.7094991075033406,HTH_23 Terminase_1 Peptidase_S78 Thy1 Spo0A_C DUF3846 Spo0A_C Phage_portal Spo0A_C Phage_integrase Phage_int_SAM_5 Phage_int_SAM_1 HK97-gp10_like Peptidase_M15_3 Phage_XkdX Holin_SPP1 Prophage_tail
+NODE_2_length_17229_cov_15.107451_cutoff_20,Chromosome,0,LysM Phage_T4_gp19 Baseplate_J GPW_gp25 PhageMin_Tail
+NODE_1_length_99591_cov_13.018892_cutoff_5,Chromosome,-3.37261042092746,DUF1064 NUMOD4 HNH_3 DnaB_C AAA_24 zf-CHC2 Toprim_4 Metallophos Phage_holin_4_1 AAA_30 DUF1768 DUF3799 Sigma70_r4_2 Sigma70_r2 RVT_1 dUTPase Metallophos
+NODE_2_length_65101_cov_6.383581_cutoff_5,Chromosome,-2.4971416835774463,DNA_methylase DNA_methylase PAPS_reduct VRR_NUC Bac_DNA_binding DUF4494 Rhomboid Phage_int_SAM_5 Gp49 Amidase_3 AAA_29 InPase LPD14 LPD38 ddrB-ParB Helicase_C DUF4373 HTH_3 RVT_1
+NODE_3_length_42364_cov_4.703550_cutoff_5,Plasmid,2.60,Phage_integrase SHOCT HTH_3 DnaB_2 SSB RecT DUF1351 ANT Phage_pRha HTH_3 HTH_3 DUF4417 Phage_Mu_F Terminase_6 Phage_prot_Gp6 DUF1492 RusA Glyco_hydro_25 Collagen Phage_holin_6_1
+NODE_4_length_4647_cov_14.140700_cutoff_5,Plasmid,3.89,RepA_C
+NODE_5_length_4058_cov_2.075609_cutoff_5,Chromosome,0,Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S Methylase_S Polbeta NTase_sub_bind DUF3990
+NODE_6_length_2849_cov_10.130592_cutoff_5,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_7_length_2316_cov_11.392586_cutoff_5,Chromosome,0,DDE_Tnp_1 Spore_YtfJ
+NODE_8_length_2210_cov_3.866854_cutoff_5,Chromosome,0,MORN MORN MORN MORN MORN MORN MORN MORN Pkinase
+NODE_9_length_1909_cov_2.456332_cutoff_5,Chromosome,--
+NODE_10_length_1467_cov_2.589209_cutoff_5,Chromosome,0,Transposase_mut
+NODE_11_length_1338_cov_4.929421_cutoff_5,Chromosome,0,GGGtGRT
+NODE_12_length_1294_cov_3.785538_cutoff_5,Chromosome,--
+NODE_1_length_10526_cov_11.469901_cutoff_15,Chromosome,0,GFO_IDH_MocA Sulfatase Radical_SAM SPASM Bac_rhamnosid_C TauE Bac_rhamnosid6H Peripla_BP_3 LacI HipA_C DDE_3

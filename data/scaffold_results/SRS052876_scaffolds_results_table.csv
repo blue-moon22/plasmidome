@@ -1,0 +1,31 @@
+NODE_1_length_2217_cov_14.134112_cutoff_10,Chromosome,-3.669365789584665,TPR_2 TPR_2 TPR_16 TPR_16 TPR_8 TPR_8 TPR_6 TPR_8 TPR_8 TPR_7 TPR_7 TPR_8 TPR_8
+NODE_1_length_6569_cov_2.451171_cutoff_5,Chromosome,0,LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5 LRR_5
+NODE_2_length_3262_cov_4.058399_cutoff_5,Chromosome,0,DDE_Tnp_1 LtrA
+NODE_3_length_2732_cov_8.200377_cutoff_5,Chromosome,0,PS_pyruv_trans Polysacc_synt_C
+NODE_4_length_2407_cov_5.665665_cutoff_5,Chromosome,0,DUF3800
+NODE_5_length_1791_cov_2.471412_cutoff_5,Chromosome,0,GrpB Acetyltransf_7
+NODE_6_length_1766_cov_3.605092_cutoff_5,Chromosome,--
+NODE_7_length_1643_cov_2.496169_cutoff_5,Chromosome,0,YadA_stalk
+NODE_8_length_1488_cov_2.994330_cutoff_5,Chromosome,--
+NODE_9_length_1270_cov_5.875105_cutoff_5,Chromosome,0,DUF2931
+NODE_1_length_1571_cov_49.829317_cutoff_54,Chromosome,0,DUF1232
+NODE_1_length_1675_cov_210.444931_cutoff_33,Chromosome,0,Transposase_20 DEDD_Tnp_IS110
+NODE_1_length_118188_cov_81.464080_cutoff_0,Chromosome,-4.641729013751645,Peptidase_S8 NRDD Flavodoxin_NdrI Phage_holin_6_1 RNase_T DNA_methylase Hydrolase_2 RNase_H DNA_gyraseB HATPase_c DNA_topoisoIV DNA_methylase CW_7 CW_binding_1 CW_binding_1 CW_binding_1 HTH_19 DNA_ligase_A_M DNA_ligase_OB_2 Peptidase_M20 Nuc_deoxyrib_tr AAA_30 HHH_4 UvrD_C_2 DHH RecJ_OB DUF1599 Ribonuc_red_sm Ribonuc_red_sm Fer4_12 Phage_integrase Phage_int_SAM_1 Ribonuc_red_lgC DNA_methylase Pyr_redox_2 PQ-loop Ribonuc_red_lgC RNR_N Ribonuc_red_lgN AAA_24 RuvC Hexapep PhageMin_Tail LysM Gram_pos_anchor ArfA TK Glutaredoxin Toprim_N Phage_integrase Phage_int_SAM_4 DNA_pol3_finger DNA_pol3_alpha PHP Intein_splicing Amidase_5 Glucosaminidase Amidase_3 LysM DUF4258
+NODE_2_length_28942_cov_7.507154_cutoff_0,Plasmid,2.65,Toprim_3 CbiA HipA_C CHASE2 HicA_toxin Phage_integrase DUF285 PIN RE_BsaWI CHAT TPR_7 TPR_8 HipA_C
+NODE_3_length_6714_cov_4.436040_cutoff_0,Chromosome,0,SIS GATase_6 GATase_7 SIS GATase_4 Aldedh cNMP_binding DUF3267 SIS
+NODE_4_length_1603_cov_1.463303_cutoff_0,Chromosome,--
+NODE_5_length_1325_cov_7.585737_cutoff_0,Chromosome,0,Methylase_S Methylase_S
+NODE_6_length_1075_cov_2.566132_cutoff_0,Chromosome,--
+NODE_7_length_858_cov_3.682458_cutoff_0,Chromosome,--
+NODE_8_length_856_cov_2.418485_cutoff_0,Chromosome,--
+NODE_9_length_824_cov_3.038822_cutoff_0,Chromosome,--
+NODE_10_length_779_cov_3.847578_cutoff_0,Chromosome,--
+NODE_11_length_713_cov_0.533019_cutoff_0,Chromosome,--
+NODE_12_length_701_cov_13.136218_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_13_length_686_cov_4.119869_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_14_length_680_cov_8.888889_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_15_length_651_cov_1.008711_cutoff_0,Chromosome,--
+NODE_16_length_648_cov_55.218914_cutoff_0,Chromosome,--
+NODE_17_length_602_cov_1.918095_cutoff_0,Chromosome,--
+NODE_18_length_593_cov_5.416667_cutoff_0,Chromosome,0,RicinB_lectin_2
+NODE_19_length_587_cov_1.333333_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT

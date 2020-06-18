@@ -1,0 +1,35 @@
+NODE_1_length_43668_cov_315.239361_cutoff_91,Plasmid,2.67,SSB ERF zf-CHC2 ERCC4 DDE_Tnp_1 Phage_min_cap2 DUF927 HTH_56 NUMOD3 HTH_23 Phage_Gp15 Collagen Collagen Phage_holin_5_2 Minor_capsid_2 S-l_SbsC_C Phage_GP20 HTH_3 Glyco_hydro_25 CHAP Terminase_3 Terminase_3C
+NODE_1_length_57592_cov_31.025472_cutoff_10,Plasmid,13.65,HTH_26 Phage_prot_Gp6 Phage_pRha ANT DnaB_C DUF551 Phage_cap_E DUF5055 Resolvase HTH_psq AAA_24 Glyco_hydro_25 Lar_restr_allev AAA_31 Rep_3 HTH_3 HTH_3 Resolvase Phage_holin_6_1
+NODE_2_length_39437_cov_26.634705_cutoff_10,Plasmid,5.58,Resolvase Zn_ribbon_recom HTH_3 HTH_26 Phage_H_T_join Glyco_hydro_25 PG_binding_1 Phage_holin_4_1 PhageMin_Tail DUF1064 DNA_methylase DUF4352 Terminase_6 Phage_prot_Gp6 Phage_Mu_F HK97-gp10_like HTH_23 Bro-N ORF6C HTH_36 Inhibitor_G39P Sipho_Gp157 ERF
+NODE_3_length_13400_cov_5.623658_cutoff_10,Chromosome,0,PP2C_2 zinc_ribbon_2 Phos_pyr_kin Pkinase Pkinase DUF4147 MOFRL Peptidase_C15
+NODE_1_length_59995_cov_8.152976_cutoff_0,Chromosome,0,Lactamase_B HNH_3 SSB GP17 Dam Inhibitor_G39P Phage_XkdX DUF4352 Alanine_zipper Phage_cap_E Phage_integrase Phage_int_SAM_3 Integrase_DNA Phage_holin_5_2 HTH_26 DUF3310 Phage_Mu_F Phage_prot_Gp6 Glyco_hydro_25 Tn916-Xis GerE HTH_3 DUF739 RVT_1 ORF6C Bro-N HTH_3 RecT
+NODE_2_length_41754_cov_3.414209_cutoff_0,Chromosome,-0.02687452412626712,LysM PBECR5 DUF2829 Phage_r1t_holin Phage_lysozyme PG_binding_1 Collagen Peptidase_Prp Terminase_2 Phage_terminase Terminase_6 N6_N4_Mtase N6_N4_Mtase DUF4406 DUF551 SSB HTH_19 Recombinase Resolvase HTH_3 Rubrerythrin SSB
+NODE_3_length_38666_cov_23.556946_cutoff_0,Chromosome,0,SSB HicB Phage_integrase CHB_HEX_C_1 Terminase_6 Phage_gp49_66 Phage_holin_4_1 Phage_XkdX Peptidase_M15_3 NAGPA HTH_3 HTH_3 Thy1 HTH_30
+NODE_4_length_6466_cov_17.362498_cutoff_0,Plasmid,5.35,AAA_14 DUF4143 Rep_3
+NODE_5_length_5899_cov_15.046376_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_6_length_5671_cov_36.654987_cutoff_0,Plasmid,5.48,PemK_toxin Rep_1
+NODE_7_length_5391_cov_22.551750_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin
+NODE_8_length_5343_cov_2.583555_cutoff_0,Plasmid,9.00,Rep_3 MobA_MobL
+NODE_9_length_4863_cov_4.287505_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin PhdYeFM_antitox
+NODE_10_length_4394_cov_44.827658_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_11_length_4087_cov_17.301496_cutoff_0,Plasmid,3.86,HTH_23 Mob_Pre
+NODE_12_length_2507_cov_2.959259_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_13_length_2195_cov_1.242682_cutoff_0,Chromosome,--
+NODE_14_length_2078_cov_1.412294_cutoff_0,Chromosome,0,Peptidase_S41
+NODE_15_length_2038_cov_174.829169_cutoff_0,Plasmid,5.20,RepL
+NODE_16_length_1743_cov_253.790516_cutoff_0,Plasmid,5.20,RepL
+NODE_17_length_1626_cov_12.682376_cutoff_0,Chromosome,0,HTH_36
+NODE_18_length_1574_cov_2.143621_cutoff_0,Chromosome,--
+NODE_19_length_759_cov_3.184751_cutoff_0,Chromosome,--
+NODE_20_length_740_cov_1.708899_cutoff_0,Chromosome,0,FctA
+NODE_1_length_14847_cov_33.718822_cutoff_42,Chromosome,0,AAA-ATPase_like PDDEXK_9 C_GCAxxG_C_C FMN_bind DUF21 CBS CBS Macro FMN_bind Fer4_5 Fer4_5 Fer4_5 Fer4_5 Fer4_5 Fer4_5 ResIII Helicase_C
+NODE_1_length_15183_cov_17.356679_cutoff_20,Chromosome,0,Glyco_hydro_66 SusF_SusE SusE SusF_SusE Glyco_hydro_97 GH97_N GH97_C TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg Glyco_hydro_31 Gal_mutarotas_2 DUF4968 DUF5110 SusD_RagB SusD-like_3
+NODE_1_length_57592_cov_31.025472_cutoff_5,Plasmid,13.65,DUF5055 Phage_holin_6_1 Rep_3 AAA_31 HTH_3 DUF551 HTH_26 Phage_pRha ANT Resolvase Phage_prot_Gp6 AAA_24 Phage_cap_E Resolvase HTH_psq HTH_3 Glyco_hydro_25 DnaB_C Phage_prot_Gp6 Lar_restr_allev
+NODE_2_length_7228_cov_9.252552_cutoff_5,Chromosome,0,Phage_F Phage_F
+NODE_3_length_6029_cov_3.985887_cutoff_5,Chromosome,-2.4971416835774463,Phage_int_SAM_5 Phage_integrase OmpA
+NODE_4_length_3217_cov_12.971338_cutoff_5,Chromosome,0,RrnaAD Transposase_mut
+NODE_5_length_2650_cov_2.379324_cutoff_5,Chromosome,0,Peptidase_C10 Inhibitor_I69
+NODE_6_length_1748_cov_2.119689_cutoff_5,Chromosome,0,CitMHS CitMHS
+NODE_7_length_1441_cov_17.406158_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_8_length_1082_cov_1.940299_cutoff_5,Chromosome,--
+NODE_1_length_1996_cov_12.290776_cutoff_15,Chromosome,0,Glyco_hydro_16

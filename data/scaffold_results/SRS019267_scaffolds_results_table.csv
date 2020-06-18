@@ -1,0 +1,18 @@
+NODE_1_length_1848_cov_55.307736_cutoff_54,Chromosome,--
+NODE_1_length_5205_cov_358.141966_cutoff_153,Chromosome,0,DUF1016_N YhcG_C DUF1016_N MarR DUF169 Fic Phage_integrase DDE_Tnp_1_3
+NODE_1_length_5205_cov_358.141966_cutoff_257,Chromosome,0,DUF169 DUF1016_N Fic Phage_integrase DDE_Tnp_1_3 YhcG_C DUF1016_N MarR
+NODE_1_length_84305_cov_147.952166_cutoff_33,Chromosome,0,DNA_pol_A DNA_pol_A_exo1 Metallophos dUTPase Thymidylat_synt RecA 5_3_exonuc_N 5_3_exonuc GPW_gp25 Baseplate_J PhageMin_Tail LysM Collar Phage_T4_gp19 PKD Peptidase_S74 BACON BACON AAA_23 SbcCD_C gp32 AAA_28 KTSC Cpn10 Muraidase DNA_methylase Helicase_C ResIII SWI2_SNF2 DnaB_C
+NODE_1_length_2764_cov_522.902493_cutoff_564,Chromosome,0,DUF4065
+NODE_1_length_64728_cov_10.462947_cutoff_0,Plasmid,2.71,DUF2190 DUF5026 Baseplate_J DUF2634 LysM PhageMin_Tail Gly-zipper_Omp Phage_sheath_1 Phage_TAC_5 DUF3799 Phage_rep_org_N HTH_3 HTH_3 Hydrolase_2 RecT DUF2313 Phage_XkdX RVT_1 DUF3751 Glyco_hydro_25 LysM HNH_3 HTH_37 DUF4313 RusA DUF1351 IstB_IS21 ParBc PAPS_reduct SSB HTH_3 Phage_integrase Phage_CI_repr Peptidase_S78_2 Phage_Mu_F Terminase_6 Terminase_6C ParBc
+NODE_2_length_5897_cov_1751.386770_cutoff_0,Plasmid,8.86,Relaxase PhdYeFM_antitox YoeB_toxin Rep_3
+NODE_3_length_4225_cov_1762.087994_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_4_length_3959_cov_22.453375_cutoff_0,Chromosome,--
+NODE_5_length_2174_cov_0.848832_cutoff_0,Chromosome,0,Na_Ala_symp
+NODE_6_length_877_cov_1.315000_cutoff_0,Chromosome,--
+NODE_7_length_637_cov_1.983929_cutoff_0,Chromosome,0,Methylase_S
+NODE_1_length_85680_cov_10.352791_cutoff_5,Chromosome,0,HNH_3 KTSC Cpn10 gp32 AAA_28 Metallophos RecA 5_3_exonuc_N 5_3_exonuc SMC_N dUTPase DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt DnaB_C Helicase_C ResIII SWI2_SNF2 Rubrerythrin Baseplate_J GPW_gp25 Collar Phage_holin_4_1 LysM Muraidase DNA_methylase PhageMin_Tail Phage_T4_gp19 Peptidase_S74 BACON BACON PKD
+NODE_2_length_15080_cov_4.136706_cutoff_5,Chromosome,0,S1-P1_nuclease BACON MetallophosC MetallophosN Metallophos BACON SusD-like_2 TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg FecR DUF4974 Sigma70_r4_2 Sigma70_r2
+NODE_3_length_8898_cov_2.755130_cutoff_5,Chromosome,0,LRR_5 LRR_5 PP-binding AMP-binding LRR_5 LRR_5 Peptidase_S8
+NODE_4_length_6258_cov_4.689532_cutoff_5,Chromosome,0,Peptidase_M15_3 Phage_F Phage_F
+NODE_5_length_3062_cov_1.997320_cutoff_5,Chromosome,0,Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 TPR_16 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_6_length_1858_cov_2.008422_cutoff_5,Chromosome,0,AlbA_2 SASP

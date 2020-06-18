@@ -1,0 +1,30 @@
+NODE_1_length_67904_cov_213.476256_cutoff_198,Chromosome,0,PKD Muraidase DNA_methylase Helicase_C ResIII SWI2_SNF2 Peptidase_S74 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt dUTPase Metallophos Collar BACON BACON AAA_23 SbcCD_C DnaB_C Cpn10 gp32 AAA_28 RecA 5_3_exonuc_N 5_3_exonuc KTSC
+NODE_1_length_16163_cov_77.939699_cutoff_91,Chromosome,0,IstB_IS21 HTH_Tnp_1_2 Phage_prot_Gp6 SSB DUF4406
+NODE_1_length_14341_cov_20.297462_cutoff_15,Chromosome,0,IU_nuc_hydro DNA_pol_A SusD_RagB SusD-like_3 Ureide_permease Ureide_permease PfkB TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg
+NODE_2_length_8108_cov_9.545387_cutoff_15,Chromosome,-2.4971416835774463,Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5 HTH_17 LysM SH3_3 NT5C
+NODE_1_length_85083_cov_207.301214_cutoff_118,Chromosome,0,Cpn10 RecA 5_3_exonuc_N 5_3_exonuc AAA_28 Metallophos gp32 AAA_23 SbcCD_C BACON BACON GPW_gp25 LysM PhageMin_Tail Baseplate_J PKD Peptidase_S74 Collar Phage_T4_gp19 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt dUTPase Helicase_C ResIII SWI2_SNF2 DNA_methylase Muraidase KTSC DnaB_C
+NODE_2_length_10920_cov_148.757447_cutoff_118,Chromosome,-2.4971416835774463,RadC DUF3871 Phage_int_SAM_5 Arm-DNA-bind_5 Phage_integrase
+NODE_1_length_95367_cov_63.246416_cutoff_33,Plasmid,7.63,AAA_30 UvrD_C_2 PDDEXK_1 RepL Metallophos DNA_ligase_A_M dUTPase Sipho_Gp157 DUF932
+NODE_1_length_5670_cov_1002.671017_cutoff_334,Plasmid,5.48,PemK_toxin Rep_1
+NODE_1_length_10692_cov_397.294866_cutoff_153,Chromosome,-2.3636102909510015,IstB_IS21 GTP_EFTU EFG_IV EFG_C EFG_II HTH_23 rve RES RibD_C HATPase_c Response_reg HisKA Sigma54_activat Response_reg HTH_8
+NODE_1_length_45009_cov_65.054549_cutoff_54,Chromosome,-4.848775783483855,RVT_1 PhageMin_Tail Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_5 CotH DUF2442 DUF4160 Phage_lysozyme HTH_3 Peptidase_S49 N6_N4_Mtase
+NODE_1_length_95367_cov_63.246416_cutoff_20,Plasmid,7.63,DNA_ligase_A_M AAA_30 UvrD_C_2 PDDEXK_1 RepL dUTPase Sipho_Gp157 DUF932 Metallophos
+NODE_2_length_60277_cov_38.919834_cutoff_20,Chromosome,0,Lactamase_B_2 DnaB_C DnaB Phage_rep_org_N HTH_3 Peptidase_S74 Bro-N GIY-YIG NUMOD1 NUMOD1 ORF6N Alanine_zipper SSB AAA_15 Phage_r1t_holin Phage_cap_E Phage_prot_Gp6 zf-ribbon_3 ORF6N N6_N4_Mtase GerE Phage_integrase YopX
+NODE_1_length_100578_cov_663.834081_cutoff_0,Chromosome,0,Metallophos zf-CHC2 AAA_24 DnaB_C AAA_5 Thy1 Thy1 NUMOD4 HNH_3 GIY-YIG NUMOD3 NUMOD3 AAA Sigma70_r2 Sigma70_r4_2 Sigma70_r4 DUF3799
+NODE_2_length_53760_cov_27.743513_cutoff_0,Chromosome,0,AAA_18 MazG Peptidase_S78 Phage_portal Big_7 Terminase_1 dUTPase Phage_holin_Dp1 Sipho_Gp37 Sipho_tail Glyco_hydro_25 LysM CW_7 CW_7
+NODE_3_length_44733_cov_14.876971_cutoff_0,Plasmid,2.67,Sipho_tail SLT Prophage_tail HTH_3 ERF HNHc_6 DUF1351 Glyco_hydro_25 Phage_holin_1 RecU IstB_IS21 HTH_36 Peptidase_S78 HK97-gp10_like DUF3199 Phage_Mu_F ParBc AAA_30
+NODE_4_length_36405_cov_15.947919_cutoff_0,Chromosome,0,SNF2_N Thymidylat_synt VirE DNA_pol_A DUF2815 DUF2800 Peptidase_M15_3 Phage_holin_4_1 CLP_protease Asn_synthase GATase_6 dUTPase Terminase_6
+NODE_5_length_7493_cov_418.868123_cutoff_0,Plasmid,5.35,DNA_methylase Rep_3 HTH_3 Gp49
+NODE_6_length_5721_cov_317.210312_cutoff_0,Plasmid,6.15,FKBP_C DUF4848 Rep_3 Relaxase
+NODE_7_length_5048_cov_1719.893180_cutoff_0,Plasmid,8.86,Rep_3 Relaxase
+NODE_8_length_2829_cov_1261.534520_cutoff_0,Chromosome,--
+NODE_9_length_2746_cov_8.753840_cutoff_0,Plasmid,5.48,Rep_1 Spo0A_C
+NODE_10_length_1101_cov_9.631836_cutoff_0,Chromosome,0,CHB_HEX_C_1 CHB_HEX_C_1
+NODE_11_length_989_cov_0.798246_cutoff_0,Chromosome,0,UDPG_MGDP_dh_N
+NODE_12_length_938_cov_1.890825_cutoff_0,Chromosome,0,LRR_5
+NODE_13_length_881_cov_3.460199_cutoff_0,Chromosome,--
+NODE_1_length_50406_cov_6.676270_cutoff_5,Plasmid,2.61,Rad52_Rad22 DUF2612 DUF2612 Collar Phage_Mu_F DUF2184 Terminase_3 Terminase_3C Baseplate_J dUTPase DUF4054 DUF3383 Gp138_N DUF2213 Terminase_2 DUF1073 RusA
+NODE_2_length_12215_cov_6.268990_cutoff_5,Chromosome,0,N6_Mtase N6_Mtase HNH HATPase_c_3 HATPase_c HATPase_c_5 RE_AccI
+NODE_3_length_2011_cov_3.559979_cutoff_5,Plasmid,3.09,LRR_5 Zn_Tnp_IS91
+NODE_4_length_1232_cov_2.805195_cutoff_5,Chromosome,--
+NODE_5_length_1204_cov_33.252884_cutoff_5,Chromosome,--

@@ -1,0 +1,9 @@
+NODE_1_length_9205_cov_130.563869_cutoff_54,Plasmid,5.35,Rep_3 HTH_3 GerE Gp49
+NODE_1_length_98156_cov_86.694114_cutoff_20,Plasmid,2.43,Glyco_hydro_108 RVT_1 DNA_ligase_A_M AAA_30 UvrD_C_2 Sipho_Gp157 DUF932 Phage_gp49_66 PG_binding_3 Thy1
+NODE_2_length_32334_cov_15.985523_cutoff_20,Chromosome,0,Glyco_hydro_88 RGI_lyase Glyco_hydro_28 Glyco_hydro_43 Mfa_like_1 Glyco_hydro_106 Glyco_hydro_106 Glyco_hydro_106 Plug SusD_RagB SusD-like_3 CarbopepD_reg_2 Plug SusD_RagB SusD-like_3 RGI_lyase Response_reg HTH_18 HATPase_c Y_Y_Y HTH_AraC HisKA Reg_prop Reg_prop Reg_prop Mfa_like_1 Mfa_like_1
+NODE_3_length_9253_cov_30.302637_cutoff_20,Chromosome,0,NVEALA TolB_like NVEALA TolB_like DUF1573 DUF4965 DUF5127 DUF4964 DUF5127
+NODE_1_length_17524_cov_11.305153_cutoff_15,Chromosome,-41.35303177837143,GTP_EFTU GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7 Ribosom_S12_S23 Ribosomal_L12 Ribosomal_L12_N NusG KOW SecE RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 Ribosomal_L10 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2
+NODE_2_length_1427_cov_23.028148_cutoff_15,Chromosome,--
+NODE_1_length_56893_cov_6.213971_cutoff_0,Plasmid,10.74,HNH Band_7 Phage_cap_E DUF5055 Bro-N ANT HTH_26 HTH_19 DnaB_C HTH_31 DUF551 Resolvase YjcQ HTH_3 Phage_prot_Gp6 Phage_holin_6_1 Glyco_hydro_25 AAA AAA_24 Rep_3 AAA_31
+NODE_2_length_5672_cov_143.099374_cutoff_0,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_3_length_2828_cov_357.293711_cutoff_0,Chromosome,--

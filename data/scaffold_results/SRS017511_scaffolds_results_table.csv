@@ -1,0 +1,47 @@
+NODE_1_length_5685_cov_6.690799_cutoff_10,Chromosome,0,AraC_binding HTH_18 HTH_AraC HTH_AraC MFS_1 FMN_red FAD_binding_2 FMN_red FAD_binding_2 FMN_bind FAD_oxidored Flavodoxin_2
+NODE_1_length_60411_cov_119.330361_cutoff_0,Chromosome,0,DUF859 Phage_capsid Peptidase_S78 Phage_portal Terminase_1 CHAP SH3_5 DUF1599 Sipho_tail Prophage_tail DUF1366 Phage_holin_1 CHAP Big_8 Collagen_bind Gram_pos_anchor HTH_24
+NODE_2_length_8564_cov_12.980205_cutoff_0,Chromosome,0,Y1_Tnp Gram_pos_anchor CshA_NR2 YSIRK_signal
+NODE_3_length_6246_cov_9.908413_cutoff_0,Plasmid,7.61,Relaxase Ntox35 MobC
+NODE_4_length_5177_cov_34.260784_cutoff_0,Chromosome,0,YoeB_toxin FtsK_SpoIIIE
+NODE_5_length_3460_cov_39.296187_cutoff_0,Plasmid,5.35,Phage_int_SAM_1 Rep_3
+NODE_6_length_3455_cov_1.515098_cutoff_0,Chromosome,0,Autotransporter
+NODE_7_length_2183_cov_43.160019_cutoff_0,Plasmid,5.48,Rep_1
+NODE_8_length_2164_cov_4.772880_cutoff_0,Chromosome,--
+NODE_9_length_2052_cov_1.561013_cutoff_0,Plasmid,5.48,Rep_1
+NODE_10_length_1915_cov_23.849837_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_11_length_1605_cov_2.724476_cutoff_0,Chromosome,--
+NODE_12_length_1240_cov_2.390370_cutoff_0,Chromosome,--
+NODE_13_length_1214_cov_1.885664_cutoff_0,Chromosome,--
+NODE_14_length_1210_cov_2.250662_cutoff_0,Chromosome,--
+NODE_15_length_1139_cov_1.378531_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP
+NODE_16_length_1070_cov_4.702920_cutoff_0,Chromosome,0,Big_9
+NODE_17_length_1055_cov_1.250511_cutoff_0,Chromosome,0,Ank_2
+NODE_18_length_989_cov_1.270833_cutoff_0,Chromosome,--
+NODE_19_length_917_cov_4.545238_cutoff_0,Chromosome,0,YadA_stalk
+NODE_20_length_910_cov_3.696279_cutoff_0,Chromosome,0,PepSY_like
+NODE_21_length_875_cov_2.174185_cutoff_0,Chromosome,0,Rib Rib
+NODE_22_length_835_cov_1.345646_cutoff_0,Chromosome,--
+NODE_23_length_818_cov_1.284750_cutoff_0,Chromosome,--
+NODE_24_length_801_cov_1.957182_cutoff_0,Chromosome,--
+NODE_25_length_776_cov_1.131617_cutoff_0,Chromosome,0,Acetyltransf_3
+NODE_26_length_764_cov_2.807860_cutoff_0,Chromosome,--
+NODE_27_length_738_cov_1.366112_cutoff_0,Chromosome,--
+NODE_28_length_710_cov_6.221169_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind
+NODE_29_length_704_cov_2.052632_cutoff_0,Chromosome,--
+NODE_30_length_663_cov_1.319113_cutoff_0,Chromosome,--
+NODE_31_length_662_cov_2.755556_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_32_length_632_cov_10.097297_cutoff_0,Chromosome,--
+NODE_33_length_629_cov_3.114130_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_34_length_620_cov_0.782689_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 Mub_B2
+NODE_35_length_602_cov_1.184762_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_36_length_587_cov_1.368627_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT
+NODE_1_length_5615_cov_25.141026_cutoff_20,Chromosome,--
+NODE_1_length_8564_cov_12.980205_cutoff_5,Chromosome,0,Y1_Tnp CshA_NR2 YSIRK_signal Gram_pos_anchor
+NODE_2_length_1909_cov_1.967249_cutoff_5,Chromosome,--
+NODE_3_length_1880_cov_3.647809_cutoff_5,Chromosome,0,DUF2807 DUF2807
+NODE_4_length_1872_cov_5.703064_cutoff_5,Chromosome,--
+NODE_5_length_1505_cov_2.336134_cutoff_5,Chromosome,0,DUF2142
+NODE_6_length_1172_cov_3.696804_cutoff_5,Chromosome,--
+NODE_7_length_1142_cov_3.861033_cutoff_5,Chromosome,--
+NODE_8_length_1111_cov_2.323017_cutoff_5,Chromosome,--
+NODE_9_length_1108_cov_4.339476_cutoff_5,Chromosome,0,APH

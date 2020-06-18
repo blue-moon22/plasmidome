@@ -1,0 +1,16 @@
+NODE_1_length_3027_cov_11.985424_cutoff_10,Chromosome,--
+NODE_2_length_887_cov_26.634568_cutoff_10,Chromosome,--
+NODE_1_length_16676_cov_6.710163_cutoff_0,Chromosome,-2.9720743842793302,PTPS GATase_3 CbiA AAA_26 Aminotran_1_2 Aminotran_1_2 Mur_ligase_M MFS_1 AAA_2 AAA_lid_9 ClpB_D2-small AAA CTP_transf_1 GHL10 Cpn10 Peptidase_M41 AAA AAA_lid_3 Cpn60_TCP1
+NODE_2_length_12362_cov_8.292633_cutoff_0,Chromosome,-9.247755776562826,Ribosomal_L32p ACP_syn_III_C ACP_syn_III Thiolase_N FAE1_CUT1_RppA YceD 5-FTHF_cyc-lig DUF4199 ApbE Lum_binding Lum_binding Glycos_transf_2 Caps_synth DEAD Helicase_C DPPIV_N Peptidase_S9 Peptidase_S15 DLH ROK
+NODE_3_length_875_cov_15.105263_cutoff_0,Chromosome,0,Rib Rib
+NODE_4_length_704_cov_3.599681_cutoff_0,Chromosome,--
+NODE_5_length_605_cov_1.765152_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_1_length_1091_cov_117.811637_cutoff_26,Chromosome,0,YadA_stalk
+NODE_1_length_2744_cov_4.446569_cutoff_5,Chromosome,0,TonB_dep_Rec Plug
+NODE_2_length_2372_cov_4.725054_cutoff_5,Chromosome,0,YadA_stalk
+NODE_3_length_1487_cov_6.741844_cutoff_5,Chromosome,0,YadA_stalk
+NODE_4_length_1487_cov_3.922695_cutoff_5,Chromosome,0,YadA_stalk
+NODE_5_length_1424_cov_4.282851_cutoff_5,Chromosome,0,Mub_B2 MucBP MucBP MucBP_2 BTRD1 BTRD1
+NODE_6_length_1403_cov_16.334087_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_1229_cov_2.514757_cutoff_5,Chromosome,0,G5 G5 G5 G5 G5
+NODE_8_length_1205_cov_5.468972_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk

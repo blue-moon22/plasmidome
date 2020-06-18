@@ -1,0 +1,18 @@
+NODE_1_length_44835_cov_11.816480_cutoff_0,Plasmid,5.21,DUF3560 PDDEXK_1 Terminase_6 ParBc Amidase_2 PhageMin_Tail DUF4376 SSB RNase_T AAA_15 DNA_methylase
+NODE_2_length_17254_cov_3.499214_cutoff_0,Chromosome,0,HK97-gp10_like Phage_portal Amidase_2 D5_N Peptidase_S78
+NODE_3_length_7141_cov_8.217299_cutoff_0,Plasmid,5.35,ComR_TPR HTH_31 HTH_3 Rep_3 ABC2_membrane_3 ABC_tran
+NODE_4_length_4838_cov_28.411048_cutoff_0,Plasmid,8.86,Relaxase CRISPR_Cas2 Rep_3
+NODE_5_length_4284_cov_27.238888_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_6_length_3351_cov_1.368051_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_7_length_2961_cov_1.907074_cutoff_0,Plasmid,2.52,Rep_2
+NODE_8_length_2155_cov_2.850337_cutoff_0,Plasmid,5.48,Rep_1
+NODE_9_length_2083_cov_16.522433_cutoff_0,Plasmid,5.48,Rep_1
+NODE_10_length_905_cov_2.731884_cutoff_0,Chromosome,--
+NODE_11_length_884_cov_2.343247_cutoff_0,Chromosome,0,DUF285
+NODE_12_length_833_cov_2.869048_cutoff_0,Chromosome,0,FctA FctA
+NODE_13_length_750_cov_1.710253_cutoff_0,Chromosome,--
+NODE_14_length_617_cov_1.068519_cutoff_0,Chromosome,--
+NODE_15_length_612_cov_1.586916_cutoff_0,Chromosome,--
+NODE_16_length_596_cov_1.161850_cutoff_0,Chromosome,0,DUF559 DUF559
+NODE_1_length_3014_cov_5.621382_cutoff_5,Plasmid,14.56,Rep_3 Mob_Pre Rep_3
+NODE_2_length_1191_cov_3.403950_cutoff_5,Chromosome,--

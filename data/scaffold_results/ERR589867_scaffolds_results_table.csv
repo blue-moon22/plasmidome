@@ -1,0 +1,15 @@
+NODE_1_length_4394_cov_343.530924_cutoff_91,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_1_length_4149_cov_2.091601_cutoff_0,Plasmid,9.00,Rep_3 MobA_MobL
+NODE_2_length_2830_cov_49.279695_cutoff_0,Chromosome,--
+NODE_3_length_2691_cov_1.218057_cutoff_0,Chromosome,0,HTH_Tnp_1 rve HTH_21 RrnaAD
+NODE_4_length_1932_cov_1.456065_cutoff_0,Chromosome,--
+NODE_5_length_1829_cov_1.996575_cutoff_0,Chromosome,0,Pur_ac_phosph_N Metallophos
+NODE_6_length_1277_cov_1.395000_cutoff_0,Chromosome,0,Porin_4
+NODE_7_length_1235_cov_2.149396_cutoff_0,Chromosome,--
+NODE_1_length_1913_cov_121.314270_cutoff_20,Chromosome,0,DDE_Tnp_ISL3 zf-ISL3
+NODE_1_length_38728_cov_2.893224_cutoff_5,Chromosome,-64.77448312437429,Ribosomal_L12 Ribosomal_L12_N AIRC Ribosomal_L11_N Ribosomal_L11 GATase_7 Pribosyltran BPD_transp_1 GGDEF MGS AICARFT_IMPCHas NusG GTP_EFTU_D3 GARS_A GARS_N GARS_C AIRS_C AIRS IMPDH Ribosomal_S7 SecE GGDEF SBP_bac_3 DUF4127 DUF2334 RNA_pol_Rpb2_6 RNA_pol_Rpb2_3 RNA_pol_Rpb2_45 RNA_pol_Rpb2_7 RNA_pol_Rpb2_1 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 Ribosomal_L1 Ribosomal_L10 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_5 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 ABC_tran Ribosomal_L33 Glyco_tranf_2_3 Formyl_trans_N GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 BcsB GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_L7Ae Ribosom_S12_S23
+NODE_2_length_14779_cov_2.538838_cutoff_5,Chromosome,0,Peptidase_C11 T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug
+NODE_3_length_1985_cov_1.772013_cutoff_5,Chromosome,0,HATPase_c_4 HTH_11 HTH_DeoR HTH_24 AlbA_2 DUF3874
+NODE_4_length_1642_cov_6.138019_cutoff_5,Chromosome,0,HTH_36
+NODE_1_length_47187_cov_12.758926_cutoff_15,Chromosome,-2.3395127393717043,Mfa2 DUF3791 HTH_18 HATPase_c HisKA PAS_3 HATPase_c HAMP HisKA E1-E2_ATPase Hydrolase Cation_ATPase_C Cation_ATPase_N Cation_ATPase Redoxin AhpC-TSA Glyco_hydro_2_C Bgal_small_N Glyco_hydro_2_N DUF4981 Glyco_hydro_2 Glyco_hydro_2_C Glyco_hydro_2_N Glyco_hydro_2 Bgal_small_N Response_reg Trans_reg_C Fimbrillin_C DUF3868 P_gingi_FimA DUF3990 DUF3575 AAA_15 DUF4906 SASA Glyco_hydro_106 Glyco_hydro_106 RloB AAA_21 HTH_18 DUF4469 Malectin Glyco_hydro_2 Glyco_hydro_2_C Glyco_hydro_2_N DUF4982
+NODE_2_length_14987_cov_15.466935_cutoff_15,Chromosome,-2.3395127393717043,AAA-ATPase_like PDDEXK_9 DUF4065 DUF3575 DUF3868 OmpA Fimbrillin_C Mfa2 P_gingi_FimA

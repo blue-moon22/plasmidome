@@ -1,0 +1,21 @@
+NODE_1_length_2031_cov_24.393040_cutoff_10,Chromosome,0,Acetyltransf_10
+NODE_2_length_1205_cov_33.079787_cutoff_10,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_5658_cov_4.306397_cutoff_0,Plasmid,5.35,Rep_3 Integrase_1 PemK_toxin
+NODE_2_length_5234_cov_28.120225_cutoff_0,Plasmid,7.87,Rep_3 Rep_2
+NODE_3_length_5217_cov_3.619844_cutoff_0,Chromosome,0,RHS_repeat AHH RHS_repeat RHS_repeat Imm43
+NODE_4_length_4286_cov_1.690425_cutoff_0,Chromosome,0,Phage_int_SAM_1 Rep_trans ParE_toxin
+NODE_5_length_3816_cov_49.317732_cutoff_0,Plasmid,5.35,Phage_int_SAM_1 Rep_3
+NODE_6_length_2553_cov_7.882472_cutoff_0,Plasmid,5.48,Rep_1
+NODE_7_length_1487_cov_2.190780_cutoff_0,Chromosome,--
+NODE_8_length_1088_cov_1.338279_cutoff_0,Chromosome,0,YadA_stalk
+NODE_9_length_1017_cov_0.537234_cutoff_0,Chromosome,0,Glyco_transf_25 Glyco_transf_25
+NODE_10_length_696_cov_1.348950_cutoff_0,Chromosome,--
+NODE_11_length_671_cov_1.718855_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_8638_cov_5.563135_cutoff_5,Chromosome,0,HTH_19 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 D5_N
+NODE_2_length_5307_cov_98.138050_cutoff_5,Plasmid,5.48,Zot Rep_1
+NODE_3_length_3860_cov_8.603754_cutoff_5,Plasmid,9.21,Mob_Pre Rep_3
+NODE_4_length_3023_cov_4.281399_cutoff_5,Chromosome,0,LXG
+NODE_5_length_1675_cov_2.066333_cutoff_5,Chromosome,0,Abhydrolase_1 DDE_Tnp_ISL3
+NODE_6_length_1643_cov_6.840996_cutoff_5,Chromosome,0,YadA_stalk
+NODE_7_length_1637_cov_5.453205_cutoff_5,Chromosome,--
+NODE_8_length_1493_cov_3.600282_cutoff_5,Chromosome,0,YadA_stalk

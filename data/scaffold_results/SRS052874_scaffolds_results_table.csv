@@ -1,0 +1,15 @@
+NODE_1_length_1133_cov_52.240530_cutoff_10,Chromosome,0,MucBP_2 Mub_B2
+NODE_2_length_1121_cov_35.758621_cutoff_10,Chromosome,0,Mub_B2 MucBP_2
+NODE_3_length_1094_cov_29.159292_cutoff_10,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_5526_cov_2.850431_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_2_length_5137_cov_2.489723_cutoff_0,Chromosome,0,TOBE Asp23 Asp23 Sigma70_r2 Sigma70_r4_2 Sigma70_r4
+NODE_3_length_2932_cov_12.756918_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_1544_cov_2.702113_cutoff_0,Chromosome,--
+NODE_5_length_1424_cov_8.464736_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_6_length_1403_cov_8.640271_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_1001_cov_2.439394_cutoff_0,Chromosome,--
+NODE_8_length_875_cov_4.395990_cutoff_0,Chromosome,0,Rib Rib
+NODE_9_length_852_cov_1.950968_cutoff_0,Chromosome,--
+NODE_1_length_6377_cov_34.081270_cutoff_42,Chromosome,0,RbsD_FucU PfkB Peripla_BP_3 LacI Peripla_BP_4 BPD_transp_2 ABC_tran ABC_tran
+NODE_1_length_1739_cov_4.425391_cutoff_5,Chromosome,--
+NODE_2_length_1704_cov_2.861094_cutoff_5,Chromosome,0,AbiEii AbiEi_4

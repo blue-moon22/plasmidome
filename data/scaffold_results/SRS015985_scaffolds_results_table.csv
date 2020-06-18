@@ -1,0 +1,28 @@
+NODE_1_length_3297_cov_53.425776_cutoff_54,Chromosome,0,DHHA1 AAA_15
+NODE_1_length_10774_cov_17.061326_cutoff_10,Chromosome,0,Imm6 DDE_Tnp_ISL3 zf-ISL3 DUF1768 DDE_Tnp_ISL3 PTS_2-RNA
+NODE_2_length_1553_cov_12.650407_cutoff_10,Chromosome,--
+NODE_1_length_1242_cov_43.612876_cutoff_70,Plasmid,3.52,TraX
+NODE_1_length_38680_cov_48.020283_cutoff_0,Chromosome,0,HTH_26 Phage_integrase AAA_24 DUF3799 DUF5309 Phage_Gp19 Glyco_hydro_25 NLPC_P60 SSB RusA DNA_methylase Phage_prot_Gp6
+NODE_2_length_4212_cov_6.265054_cutoff_0,Plasmid,9.00,VbhA MobA_MobL Rep_3
+NODE_3_length_1586_cov_5.833665_cutoff_0,Chromosome,--
+NODE_4_length_1550_cov_1.740665_cutoff_0,Chromosome,0,Acyl_transf_3 Sua5_yciO_yrdC
+NODE_5_length_1314_cov_1.811641_cutoff_0,Chromosome,0,Methylase_S Methylase_S
+NODE_6_length_1166_cov_5.633609_cutoff_0,Chromosome,--
+NODE_7_length_1070_cov_2.801611_cutoff_0,Chromosome,0,Trp_ring
+NODE_8_length_1007_cov_1.753763_cutoff_0,Chromosome,0,Big_6 Big_6 Big_6
+NODE_9_length_973_cov_1.127232_cutoff_0,Chromosome,-3.1692354549351105,Porph_ging
+NODE_10_length_830_cov_1.114210_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_11_length_728_cov_1.657450_cutoff_0,Chromosome,--
+NODE_12_length_692_cov_2.237398_cutoff_0,Chromosome,--
+NODE_1_length_62834_cov_6.082716_cutoff_5,Plasmid,3.57,AAA_24 dUTPase Big_8 Collagen_bind DNA_pol_A DNA_pol_A_exo1 AAA_25 RepB_primase DUF1642 HNH_5 DNA_pol_A GbpC Glyco_hydro_25 BspA_v BspA_v Phage_holin_Dp1 Glucosaminidase PDDEXK_1 DUF3310 RuvC
+NODE_2_length_10185_cov_2.661654_cutoff_5,Plasmid,6.42,Relaxase Toprim_2 Resolvase
+NODE_3_length_2563_cov_2.774336_cutoff_5,Chromosome,0,Tox-GHH
+NODE_4_length_1827_cov_2.615429_cutoff_5,Chromosome,--
+NODE_5_length_1705_cov_7.336609_cutoff_5,Chromosome,--
+NODE_6_length_1685_cov_5.971393_cutoff_5,Chromosome,0,DUF559
+NODE_7_length_1538_cov_4.362081_cutoff_5,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_8_length_1469_cov_14.442529_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_9_length_1428_cov_3.138416_cutoff_5,Chromosome,--
+NODE_10_length_1409_cov_2.110360_cutoff_5,Chromosome,--
+NODE_11_length_1136_cov_2.541076_cutoff_5,Chromosome,0,Trp_ring
+NODE_12_length_1085_cov_3.561508_cutoff_5,Chromosome,0,Rib Rib

@@ -1,0 +1,31 @@
+NODE_1_length_39976_cov_5.985438_cutoff_10,Chromosome,0,HNH Head-tail_con DUF4214 CHAP HIRAN PDDEXK_1 RNase_H_2 PIF1 Whib
+NODE_1_length_42934_cov_5.274518_cutoff_0,Plasmid,2.67,HTH_8 Bro-N ANT Phage_prot_Gp6 LAGLIDADG_3 DUF5403 TIG Phage_Gp19 Phage_capsid DnaB_C HNH Collar Phage_r1t_holin ERF SSB Spherulin4 Glyco_hydro_25 DUF3310
+NODE_2_length_36788_cov_6.442783_cutoff_0,Chromosome,0,HTH_3 NinG DUF4214 DUF4214 DnaB_C DnaB_C ATPase Terminase_6 Terminase_3C AAA_5 CAP DUF5309 Whib
+NODE_3_length_3164_cov_15.546485_cutoff_0,Chromosome,0,NAGPA
+NODE_4_length_2602_cov_1.034455_cutoff_0,Chromosome,-2.351634099906409,ABC_transp_aux ABC2_membrane_4
+NODE_5_length_2484_cov_9.744495_cutoff_0,Chromosome,0,AAA_15 AAA_15
+NODE_6_length_2374_cov_1.843274_cutoff_0,Chromosome,--
+NODE_7_length_1586_cov_6.379722_cutoff_0,Chromosome,--
+NODE_8_length_1430_cov_3.308204_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_9_length_1406_cov_1.075997_cutoff_0,Chromosome,--
+NODE_10_length_1318_cov_2.461724_cutoff_0,Chromosome,0,DDE_Tnp_IS1595
+NODE_11_length_1210_cov_1.338041_cutoff_0,Chromosome,--
+NODE_12_length_952_cov_0.870857_cutoff_0,Chromosome,0,Ank_5
+NODE_13_length_941_cov_2.189815_cutoff_0,Chromosome,0,YadA_stalk YadA_head YadA_head YadA_head YadA_head
+NODE_14_length_858_cov_1.705506_cutoff_0,Chromosome,--
+NODE_15_length_856_cov_1.437741_cutoff_0,Chromosome,--
+NODE_16_length_834_cov_1.244386_cutoff_0,Chromosome,--
+NODE_17_length_826_cov_0.698264_cutoff_0,Chromosome,--
+NODE_18_length_707_cov_1.677778_cutoff_0,Chromosome,--
+NODE_19_length_701_cov_1.198718_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_20_length_695_cov_1.747573_cutoff_0,Chromosome,--
+NODE_21_length_686_cov_1.894910_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_22_length_671_cov_3.279461_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind
+NODE_23_length_632_cov_2.818018_cutoff_0,Chromosome,--
+NODE_24_length_632_cov_2.504505_cutoff_0,Chromosome,--
+NODE_1_length_6691_cov_15.632900_cutoff_26,Chromosome,0,HTH_5 E1-E2_ATPase Hydrolase Penicillinase_R E1-E2_ATPase Hydrolase HMA
+NODE_1_length_69053_cov_6.737271_cutoff_5,Chromosome,0,AAA_30 UvrD_C_2 DNA_pol_A dCMP_cyt_deam_1 DNA_pol_A_exo1 RNA_pol Thy1 Bac_DNA_binding DUF3310 AAA_24 PDDEXK_1 NRDD Phage_holin_3_3
+NODE_2_length_42912_cov_5.272277_cutoff_5,Plasmid,2.67,Phage_r1t_holin Spherulin4 Collar Glyco_hydro_25 Phage_prot_Gp6 LAGLIDADG_3 DUF3310 ERF HTH_8 SSB HNH DnaB_C Bro-N ANT TIG Phage_Gp19 Phage_capsid DUF5403
+NODE_3_length_3298_cov_5.384353_cutoff_5,Plasmid,3.35,UPF0060 MerR_1 MerT HMA
+NODE_4_length_1239_cov_6.225473_cutoff_5,Chromosome,--
+NODE_1_length_2495_cov_22.929694_cutoff_15,Chromosome,--

@@ -1,0 +1,6 @@
+NODE_1_length_4723_cov_2.701464_cutoff_0,Plasmid,5.35,HTH_3 Rep_3 Integrase_1 Phage_int_SAM_1
+NODE_2_length_2075_cov_2.050050_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_3_length_1211_cov_1.876543_cutoff_0,Chromosome,--
+NODE_4_length_600_cov_1.445507_cutoff_0,Chromosome,--
+NODE_1_length_42665_cov_3.159834_cutoff_5,Chromosome,-2.4326031624361217,Phage_tail_3 CW_binding_1 CW_binding_1 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_1 N6_Mtase Rho_N YopX DUF4355 HK97-gp10_like DUF1642 HTH_3 HTH_31 HTH_3 DUF3310 CD20 Peptidase_M78 Phage_integrase Arm-DNA-bind_4 Phage_int_SAM_3 HTH_19 HTH_3 Methylase_S DUF1372 AAA_24 Mtd_N Gp58 Peptidase_S74 Terminase_2 Terminase_3 Terminase_3C DUF1492 AAA_25 PriCT_2 AAA_15 Phage_prot_Gp6 Phage_Mu_F ADPrib_exo_Tox RusA ResIII Helicase_C
+NODE_1_length_56354_cov_24.500009_cutoff_10,Chromosome,0,Phage_capsid Peptidase_S78 Phage_portal Terminase_1 Collagen_bind Big_8 Gram_pos_anchor Phage_holin_6_1 HK97-gp10_like Amidase_5 Gp58 Prophage_tail DUF1599

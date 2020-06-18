@@ -1,0 +1,7 @@
+NODE_1_length_50445_cov_18.222125_cutoff_15,Chromosome,0,GDPD ANT Bro-N Bro-N ANT SNF2_N DUF3987 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 dUTPase Glutaredoxin DUF669 PhageMin_Tail AAA_24 DNA_pol_A DNA_pol_A_exo1 dCMP_cyt_deam_1 Whib Bro-N
+NODE_1_length_50586_cov_18.220713_cutoff_0,Chromosome,0,Whib SNF2_N ANT Bro-N Bro-N ANT Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 GDPD Glutaredoxin DUF3987 DUF669 AAA_24 dCMP_cyt_deam_1 DNA_pol_A DNA_pol_A_exo1 PhageMin_Tail dUTPase Bro-N
+NODE_2_length_49790_cov_5.465975_cutoff_0,Chromosome,0,DUF1642 DUF1642 Spore_Cse60 HK97-gp10_like CLP_protease RuvC HD DNA_pol_A LAGLIDADG_3 AAA_25 DNA_pol_A_exo1 dUTPase DUF3310 HTH_3 Glucosaminidase CHAP BspA_v BspA_v PDDEXK_1 AAA_24 Glyco_hydro_25 Phage_holin_Dp1 HTH_3
+NODE_3_length_3720_cov_12.237716_cutoff_0,Plasmid,5.35,Rep_3 Integrase_1
+NODE_4_length_953_cov_0.890411_cutoff_0,Chromosome,0,FIVAR FIVAR FIVAR FIVAR FIVAR
+NODE_5_length_938_cov_2.112660_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_698_cov_1.214171_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP

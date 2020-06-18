@@ -1,0 +1,17 @@
+NODE_1_length_89912_cov_382.601425_cutoff_198,Chromosome,0,DnaB_C GIY-YIG Metallophos Sigma70_r4_2 Sigma70_r2 Thy1 Thy1 AAA_24
+NODE_1_length_72076_cov_184.833692_cutoff_91,Chromosome,-2.4971416835774463,N6_N4_Mtase ANT KilA-N Phage_pRha Bac_DNA_binding Band_7 MazG DUF3127 RecT Dam PAPS_reduct YopX D5_N DUF2400 HTH_17 DNA_methylase DUF551 RtcB DUF3799 Phage_integrase ParA Phage_prot_Gp6 Terminase_6 Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5
+NODE_1_length_11443_cov_19.330195_cutoff_10,Plasmid,5.13,DnaB_C Toprim_2 Toprim_3 Phage_integrase Phage_int_SAM_4 AAA_31 Terminase_3 Terminase_3C
+NODE_1_length_9197_cov_526.824123_cutoff_0,Plasmid,17.72,Relaxase Rep_3 Relaxase Rep_3 YoeB_toxin
+NODE_2_length_6910_cov_20.246597_cutoff_0,Plasmid,5.35,HTH_3 Rep_3 Gp49
+NODE_3_length_6466_cov_9.836281_cutoff_0,Plasmid,5.35,AAA_14 DUF4143 Rep_3
+NODE_4_length_4636_cov_5.224172_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_3563_cov_3.177567_cutoff_0,Chromosome,-5.9394921890392816,DUF1573 DUF5128 DUF5128
+NODE_6_length_2292_cov_2.523702_cutoff_0,Chromosome,0,Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S
+NODE_7_length_836_cov_0.757576_cutoff_0,Chromosome,0,PNP_UDP_1 PNP_UDP_1
+NODE_1_length_5670_cov_144.961380_cutoff_26,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_1_length_49528_cov_14.167641_cutoff_5,Plasmid,2.61,Terminase_3 Terminase_3C DUF2213 Terminase_2 RusA Gp138_N DUF1073 DUF2184 DUF2612 DUF3383 Rad52_Rad22 Baseplate_J dUTPase Phage_Mu_F DUF4054
+NODE_2_length_9197_cov_526.824123_cutoff_5,Plasmid,17.72,Relaxase Rep_3 YoeB_toxin Relaxase Rep_3
+NODE_3_length_5787_cov_2.568126_cutoff_5,Chromosome,0,DUF5043 DUF5043 DUF5043
+NODE_4_length_4973_cov_5.962418_cutoff_5,Plasmid,3.86,Mob_Pre YafQ_toxin RelB
+NODE_5_length_1539_cov_4.750342_cutoff_5,Chromosome,0,OMP_b-brl_2 Ferritin
+NODE_1_length_4452_cov_84.856000_cutoff_15,Plasmid,3.02,IstB_IS21 rve HTH_7 rve

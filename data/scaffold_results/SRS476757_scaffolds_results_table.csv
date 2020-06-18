@@ -1,0 +1,18 @@
+NODE_1_length_5821_cov_2.697249_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase DUF2075
+NODE_2_length_5490_cov_2.895067_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_3_length_4852_cov_10.549529_cutoff_0,Plasmid,8.86,CRISPR_Cas2 Relaxase Rep_3
+NODE_4_length_2716_cov_4.219401_cutoff_0,Plasmid,5.48,Rep_1
+NODE_5_length_2665_cov_7.238408_cutoff_0,Plasmid,2.52,Rep_2 RHH_1
+NODE_6_length_2457_cov_1.313866_cutoff_0,Chromosome,0,Methylase_S Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_7_length_1707_cov_2.256442_cutoff_0,Chromosome,-2.596232586215459,GIDA_assoc Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_8_length_1517_cov_4.811806_cutoff_0,Chromosome,--
+NODE_9_length_1460_cov_2.617498_cutoff_0,Chromosome,--
+NODE_10_length_1441_cov_310.412023_cutoff_0,Chromosome,--
+NODE_11_length_1231_cov_2.282496_cutoff_0,Chromosome,--
+NODE_12_length_835_cov_1.734828_cutoff_0,Chromosome,--
+NODE_13_length_707_cov_1.417460_cutoff_0,Chromosome,--
+NODE_14_length_656_cov_2.744387_cutoff_0,Chromosome,--
+NODE_15_length_637_cov_0.805357_cutoff_0,Chromosome,--
+NODE_16_length_621_cov_0.643382_cutoff_0,Chromosome,0,YopX
+NODE_17_length_607_cov_0.588679_cutoff_0,Chromosome,--
+NODE_1_length_2811_cov_27.099122_cutoff_5,Chromosome,--

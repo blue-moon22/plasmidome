@@ -1,0 +1,16 @@
+NODE_1_length_2499_cov_22.812139_cutoff_5,Chromosome,--
+NODE_2_length_1182_cov_3.139367_cutoff_5,Chromosome,--
+NODE_1_length_4467_cov_2.049203_cutoff_0,Plasmid,9.00,Rep_3 PemK_toxin MobA_MobL
+NODE_2_length_3280_cov_6.720574_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_3_length_3210_cov_3.379508_cutoff_0,Plasmid,8.84,Replicase PriCT_1 ParE_toxin
+NODE_4_length_3128_cov_4.213700_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_5_length_1252_cov_2.120000_cutoff_0,Chromosome,--
+NODE_6_length_1125_cov_1.264313_cutoff_0,Chromosome,--
+NODE_7_length_1061_cov_1.310976_cutoff_0,Chromosome,--
+NODE_8_length_945_cov_0.913594_cutoff_0,Chromosome,0,DUF1307
+NODE_9_length_929_cov_3.188967_cutoff_0,Chromosome,--
+NODE_10_length_762_cov_1.547445_cutoff_0,Chromosome,--
+NODE_11_length_702_cov_1.108800_cutoff_0,Chromosome,0,N_methyl
+NODE_12_length_638_cov_1.964349_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_13_length_611_cov_2.898876_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_14_length_584_cov_1.345168_cutoff_0,Chromosome,--

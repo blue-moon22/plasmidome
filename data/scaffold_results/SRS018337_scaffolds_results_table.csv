@@ -1,0 +1,22 @@
+NODE_1_length_177388_cov_5.239252_cutoff_10,Chromosome,-30.719301974033726,HD_2 Autotransporter HipA_C Couple_hipA DUF2201_N Replicase PriCT_1 ArfA MS_channel Eco57I DUF87 Macro Imm5 Bac_surface_Ag POTRA POTRA POTRA Rhomboid Resolvase Ribosomal_S30AE HTH_3 OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 Bac_DNA_binding PepSY TraG-D_C TrwB_AAD_bind OMP_b-brl OmpA YadA_stalk YadA_stalk YadA_anchor YadA_stalk YadA_stalk YadA_stalk YadA_stalk tRNA-synt_1 HTH_OrfB_IS605 Peptidase_S8 Ribonuc_red_sm OrfB_Zn_ribbon DHHA1 RecJ_OB DHH OmpA DHFR_1 tRNA-synt_1c Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN tRNA-synt_1 AAA_30 AAA_23 OrfB_IS605 OrfB_Zn_ribbon DNA_topoisoIV DNA_topoisoIV Intein_splicing DNA_gyraseA_C DNA_gyraseA_C DNA_gyraseA_C DNA_gyraseA_C DNA_gyraseA_C DNA_gyraseA_C Pkinase Endonuclease_NS OrfB_Zn_ribbon OrfB_IS605 OrfB_IS605 HipA_C Couple_hipA OmpA SmpA_OmlA OrfB_Zn_ribbon OrfB_IS605 ArAE_2
+NODE_2_length_13423_cov_13.286902_cutoff_10,Chromosome,0,YcaO Nitroreductase ABC_tran Response_reg GerE ABC_tran HisKA_3 CPBP ABC2_membrane Methyltransf_23
+NODE_1_length_276852_cov_14.798902_cutoff_0,Chromosome,-3.0932845417465504,Fer4_12 YAcAr RNA_pol_Rpb2_6 Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom DNA_ligase_aden DNA_ligase_OB HHH_2 HHH_5 Radical_SAM RyR dUTPase Phage_gp49_66 AAA Thymidylat_synt Thymidylate_kin Helicase_C Glyco_hydro_19 phiKZ_IP phiKZ_IP DHFR_1 LRR_5 LRR_5 RNase_H
+NODE_2_length_43513_cov_21.454462_cutoff_0,Plasmid,2.67,Phage_capsid Phage_prot_Gp6 DUF5403 Phage_Gp19 HTH_8 ERF Collar Phage_r1t_holin Glyco_hydro_25 SSB Spherulin4 DUF3310 HNH DnaB_C HNH Bro-N ANT
+NODE_3_length_38405_cov_12.440618_cutoff_0,Chromosome,0,Phage_prot_Gp6 Phage_capsid EndoU_bacteria VRR_NUC DUF5403 Spherulin4 Pectate_lyase_3 Collagen DUF2746 Amidase_2 HTH_17 DUF3310 Phage_Gp19 HTH_26 Phage_integrase Phage_int_SAM_3
+NODE_4_length_15441_cov_7.668771_cutoff_0,Plasmid,3.26,Fil_haemagg_2 PT-VENN Fil_haemagg_2 Fil_haemagg_2 Fil_haemagg_2 RPA DUF5397 CRISPR_Cas2 ShlB POTRA_3 POTRA_2 Haemagg_act
+NODE_5_length_3280_cov_229.662192_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_6_length_3128_cov_167.085218_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_7_length_2386_cov_6.016457_cutoff_0,Plasmid,2.65,RHH_3 Rep_trans
+NODE_8_length_1590_cov_12.393258_cutoff_0,Chromosome,--
+NODE_9_length_1250_cov_1.545610_cutoff_0,Chromosome,--
+NODE_10_length_923_cov_3.371158_cutoff_0,Chromosome,--
+NODE_11_length_861_cov_3.812500_cutoff_0,Chromosome,--
+NODE_12_length_838_cov_1.350854_cutoff_0,Chromosome,--
+NODE_13_length_816_cov_1.347767_cutoff_0,Chromosome,--
+NODE_14_length_807_cov_1.384932_cutoff_0,Chromosome,--
+NODE_15_length_736_cov_1.614568_cutoff_0,Chromosome,--
+NODE_16_length_727_cov_0.590769_cutoff_0,Chromosome,--
+NODE_17_length_632_cov_7.747748_cutoff_0,Chromosome,--
+NODE_1_length_43475_cov_21.452532_cutoff_20,Plasmid,2.67,ERF HTH_8 Spherulin4 SSB DUF5403 Phage_Gp19 Phage_capsid Phage_prot_Gp6 Collar Glyco_hydro_25 Phage_r1t_holin HNH DUF3310 DnaB_C HNH Bro-N ANT
+NODE_1_length_227738_cov_9.158130_cutoff_5,Chromosome,-2.6512923634001293,CHAP Endonuclease_NS SmpA_OmlA YadA_anchor YadA_stalk YadA_stalk YadA_head YadA_head YadA_head Peptidase_M48 DUF1353 Peptidase_S74 Peptidase_S74 Tubulin Thymidylate_kin DNA_pol_B_exo1 HNH_3 RNase_H DPBB_1 Glyco_hydro_20 HNH_3 phiKZ_IP phiKZ_IP Glyco_hydro_108 PG_binding_3 Peptidase_S74
+NODE_2_length_1227_cov_2.864348_cutoff_5,Chromosome,--

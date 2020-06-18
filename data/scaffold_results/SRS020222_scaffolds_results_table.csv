@@ -1,0 +1,13 @@
+NODE_1_length_2832_cov_2.349183_cutoff_5,Chromosome,0,LXG DUF4176
+NODE_2_length_1302_cov_1.706939_cutoff_5,Chromosome,--
+NODE_3_length_1211_cov_2.690476_cutoff_5,Chromosome,--
+NODE_1_length_5188_cov_4.099002_cutoff_0,Chromosome,0,Rep_trans Rep_trans FtsK_SpoIIIE PBECR4
+NODE_2_length_4764_cov_5.542991_cutoff_0,Plasmid,5.35,Rep_3 YafQ_toxin
+NODE_3_length_3818_cov_6.278802_cutoff_0,Plasmid,5.35,Phage_int_SAM_1 Rep_3
+NODE_4_length_3049_cov_1.935397_cutoff_0,Chromosome,0,Aldo_ket_red LigB
+NODE_5_length_1512_cov_2.048780_cutoff_0,Chromosome,--
+NODE_6_length_965_cov_4.127252_cutoff_0,Chromosome,0,YadA_stalk
+NODE_7_length_830_cov_8.956175_cutoff_0,Chromosome,0,Rib Rib
+NODE_8_length_826_cov_1.626168_cutoff_0,Chromosome,--
+NODE_9_length_704_cov_8.877193_cutoff_0,Chromosome,--
+NODE_10_length_656_cov_0.708117_cutoff_0,Chromosome,0,DUF2262 DUF2262

@@ -1,0 +1,17 @@
+NODE_1_length_42320_cov_174.946760_cutoff_91,Chromosome,0,Sipho_tail Phage_portal Peptidase_S78 Phage_capsid Terminase_1 Guanylate_kin Phage_holin_Dp1 CHAP HNH_3 HNH_3 Sipho_Gp37 DUF2800
+NODE_1_length_1634_cov_9.465639_cutoff_10,Chromosome,0,AIM24
+NODE_1_length_2806_cov_101.225357_cutoff_198,Chromosome,0,DUF1269
+NODE_1_length_38675_cov_27.041375_cutoff_15,Chromosome,0,FtsK_SpoIIIE FtsK_alpha PDDEXK_1 RecT Amidase_2 DUF4214 DUF4214 Whib Cpn60_TCP1 Terminase_3
+NODE_1_length_2030_cov_43.170507_cutoff_42,Chromosome,0,PTS_2-RNA
+NODE_1_length_32220_cov_13.015960_cutoff_5,Chromosome,0,DUF3310 RecT YqaJ Bactofilin DUF2190 Mu-like_gpT PhageMin_Tail HK97-gp10_like Terminase_6C Terminase_6
+NODE_2_length_1617_cov_1.192857_cutoff_5,Chromosome,-3.170652889617654,tRNA-synt_1c Peripla_BP_2
+NODE_1_length_41461_cov_39.923207_cutoff_33,Plasmid,2.43,Amidase_5 SH3_5 Sipho_Gp37 Phage_capsid Peptidase_S78 Phage_portal VirE VRR_NUC SNF2_N HNH Spherulin4 Pectate_lyase_3 Sipho_tail DUF932 DUF2800 DUF2815 DNA_pol_A Thymidylat_synt
+NODE_2_length_17968_cov_25.330949_cutoff_33,Plasmid,9.91,TraG-D_C DUF4913 SLT CHAP TrwC AAA_30 AAA_19 DUF3800
+NODE_1_length_10534_cov_19.070575_cutoff_20,Plasmid,8.98,AAA_10 CHAP TraG-D_C TrwB_AAD_bind rve HTH_23
+NODE_1_length_2335_cov_4.648361_cutoff_0,Plasmid,5.48,Rep_1
+NODE_2_length_941_cov_1.660880_cutoff_0,Chromosome,0,YadA_stalk YadA_head YadA_head YadA_head YadA_head YadA_head
+NODE_3_length_921_cov_0.714455_cutoff_0,Chromosome,--
+NODE_4_length_868_cov_1.699115_cutoff_0,Chromosome,--
+NODE_5_length_708_cov_0.912837_cutoff_0,Chromosome,--
+NODE_6_length_683_cov_3.024752_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_7_length_671_cov_0.638047_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind

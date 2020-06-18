@@ -1,0 +1,12 @@
+NODE_1_length_1487_cov_45.195035_cutoff_10,Chromosome,0,YadA_stalk
+NODE_1_length_1420_cov_3.997022_cutoff_0,Plasmid,2.52,Rep_2
+NODE_2_length_1100_cov_2.252199_cutoff_0,Chromosome,--
+NODE_3_length_1067_cov_1.626263_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_4_length_1001_cov_1.120130_cutoff_0,Chromosome,-12.380441371890043,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_5_length_995_cov_4.226580_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_944_cov_3.110727_cutoff_0,Chromosome,--
+NODE_7_length_875_cov_27.283208_cutoff_0,Chromosome,0,Rib Rib
+NODE_8_length_638_cov_26.761141_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_1_length_56031_cov_6.627355_cutoff_5,Chromosome,0,MazG Thy1 HK97-gp10_like Phage_Mu_F DUF4055 Phage_holin_3_3 DNA_methylase Phage-tail_3 Phage_BR0599 DUF2163 ResIII Helicase_C DUF669 AAA_24 Beta_helix ParBc
+NODE_2_length_1592_cov_1.276568_cutoff_5,Chromosome,--
+NODE_3_length_1136_cov_11.940510_cutoff_5,Chromosome,0,MucBP_2 Mub_B2

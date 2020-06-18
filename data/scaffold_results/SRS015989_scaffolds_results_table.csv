@@ -1,0 +1,29 @@
+NODE_1_length_10511_cov_84.542937_cutoff_54,Chromosome,0,DDE_Tnp_ISL3 zf-ISL3 DUF1768 PTS_2-RNA Imm6
+NODE_1_length_1127_cov_5.178095_cutoff_10,Chromosome,0,DUF1706 TetR_N
+NODE_1_length_1486_cov_76.611072_cutoff_70,Chromosome,--
+NODE_1_length_38680_cov_39.652877_cutoff_0,Chromosome,0,DNA_methylase RusA Phage_Gp19 NLPC_P60 AAA_24 DUF3799 DUF5309 SSB HTH_26 Phage_integrase Phage_prot_Gp6 Glyco_hydro_25
+NODE_2_length_12188_cov_45.112625_cutoff_0,Plasmid,19.51,VirC1 RHH_1 DUF3800 Resolvase HTH_7 Replicase HTH_5 TrwC AAA_30 AAA_19
+NODE_3_length_4978_cov_5.218731_cutoff_0,Chromosome,0,GerE ABC_tran
+NODE_4_length_2766_cov_1.635180_cutoff_0,Chromosome,-14.44310274853391,Strep_his_triad Strep_his_triad Strep_his_triad PHtD_u1 Strep_his_triad Strep_his_triad
+NODE_5_length_2735_cov_1.391272_cutoff_0,Chromosome,0,Cadherin
+NODE_6_length_2084_cov_2.224215_cutoff_0,Chromosome,0,Big_6 Big_6
+NODE_7_length_1658_cov_5.244149_cutoff_0,Chromosome,0,Trp_ring
+NODE_8_length_1586_cov_9.660702_cutoff_0,Chromosome,--
+NODE_9_length_1083_cov_7.632207_cutoff_0,Chromosome,--
+NODE_10_length_1037_cov_3.197917_cutoff_0,Chromosome,--
+NODE_11_length_950_cov_0.722795_cutoff_0,Chromosome,--
+NODE_12_length_886_cov_5.203956_cutoff_0,Chromosome,--
+NODE_13_length_707_cov_2.960317_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_14_length_704_cov_1.094099_cutoff_0,Chromosome,--
+NODE_15_length_648_cov_1.982487_cutoff_0,Chromosome,--
+NODE_16_length_637_cov_2.578571_cutoff_0,Chromosome,--
+NODE_17_length_608_cov_2.395480_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_1_length_5122_cov_30.350050_cutoff_26,Chromosome,0,DUF4132 DUF4132
+NODE_1_length_1446_cov_161.327246_cutoff_20,Chromosome,0,DDE_Tnp_1_assoc DDE_Tnp_1
+NODE_1_length_2366_cov_2.651376_cutoff_5,Chromosome,0,Beta_helix DUF1565
+NODE_2_length_1705_cov_8.224201_cutoff_5,Chromosome,--
+NODE_3_length_1693_cov_1.597153_cutoff_5,Chromosome,0,Imm70
+NODE_4_length_1409_cov_2.042042_cutoff_5,Chromosome,--
+NODE_5_length_1103_cov_1.657895_cutoff_5,Chromosome,--
+NODE_1_length_36377_cov_15.090303_cutoff_15,Chromosome,-6.017534896044605,RtcB PTS_2-RNA TetR_N PFK MFS_1 MFS_1 Sugar_tr Peripla_BP_2 WYL HTH_11 HTH_DeoR ABC_tran Beta-lactamase tRNA_Me_trans RtcB adh_short RNase_T CPBP DUF1707 Peripla_BP_2 DUF695 FecCD ADH_N ADH_zinc_N Glu-tRNAGln Amidase Epimerase Metallophos DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT DNA_ligase_ZBD PTCB-BRCT HHH_5 HTH_20 CPBP SIMPL
+NODE_2_length_3351_cov_30.571472_cutoff_15,Chromosome,0,Toxin-deaminase

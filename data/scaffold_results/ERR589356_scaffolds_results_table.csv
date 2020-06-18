@@ -1,0 +1,44 @@
+NODE_1_length_5298_cov_68.816319_cutoff_91,Chromosome,--
+NODE_1_length_60872_cov_18.747594_cutoff_0,Chromosome,-2.314820126776768,GDPD AAA_24 ResIII Bro-N PhageMin_Tail Bro-N DUF3310 DNA_pol_A Bro-N P22_AR_N Hom_end Lipase_GDSL_2 Glyco_hydro_25
+NODE_2_length_22633_cov_8.571954_cutoff_0,Plasmid,14.06,CRISPR_Cas2 DUF1738 MPTase-PolyVal Resolvase DUF4138 DUF4138 Transposon_TraM Peptidase_M23 AAA_31 Zeta_toxin T4SS-DNA_transf
+NODE_3_length_5910_cov_1.285445_cutoff_0,Chromosome,0,YvrJ Phage_integrase HTH_3 DUF1659 DUF2922 Tn916-Xis Amidase_3
+NODE_4_length_5213_cov_9.740265_cutoff_0,Plasmid,9.00,Relaxase Rep_1
+NODE_5_length_5132_cov_21.674975_cutoff_0,Plasmid,6.45,MobA_MobL TraD
+NODE_6_length_3849_cov_4.389449_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_7_length_3679_cov_3.852860_cutoff_0,Plasmid,8.85,RepL MobA_MobL
+NODE_8_length_3494_cov_29.416155_cutoff_0,Plasmid,12.81,MobC RepL Relaxase
+NODE_9_length_2873_cov_30.732117_cutoff_0,Chromosome,--
+NODE_10_length_2234_cov_26.138618_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_11_length_2084_cov_2.678127_cutoff_0,Chromosome,0,TonB_dep_Rec Plug
+NODE_12_length_1977_cov_1.586316_cutoff_0,Chromosome,0,OrfB_Zn_ribbon HTH_OrfB_IS605 OrfB_IS605
+NODE_13_length_1810_cov_3.543566_cutoff_0,Chromosome,--
+NODE_14_length_1577_cov_3.760667_cutoff_0,Chromosome,--
+NODE_15_length_1447_cov_6.246715_cutoff_0,Chromosome,--
+NODE_16_length_1289_cov_3.741749_cutoff_0,Chromosome,--
+NODE_17_length_1256_cov_2.988126_cutoff_0,Chromosome,0,Transposase_31
+NODE_18_length_1154_cov_2.072423_cutoff_0,Chromosome,0,TQ TQ SpaA
+NODE_19_length_1119_cov_0.950096_cutoff_0,Chromosome,--
+NODE_20_length_1067_cov_0.945455_cutoff_0,Chromosome,--
+NODE_21_length_877_cov_1.413750_cutoff_0,Chromosome,--
+NODE_22_length_845_cov_1.518229_cutoff_0,Chromosome,0,TQ SpaA SpaA
+NODE_23_length_830_cov_1.022576_cutoff_0,Chromosome,0,Big_2 Big_2 Big_2
+NODE_24_length_783_cov_2.308782_cutoff_0,Chromosome,0,Ank_2 Ank Ank_3
+NODE_25_length_741_cov_2.453313_cutoff_0,Chromosome,--
+NODE_26_length_670_cov_2.177066_cutoff_0,Chromosome,--
+NODE_27_length_632_cov_1.270270_cutoff_0,Chromosome,--
+NODE_28_length_623_cov_1.670330_cutoff_0,Chromosome,--
+NODE_29_length_620_cov_12.710866_cutoff_0,Chromosome,--
+NODE_30_length_614_cov_1.564246_cutoff_0,Chromosome,0,Cna_B Cna_B Cna_B
+NODE_31_length_612_cov_2.472897_cutoff_0,Chromosome,--
+NODE_32_length_596_cov_7.152216_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_8021_cov_2.537009_cutoff_5,Chromosome,0,DUF285 DUF285 DUF285 DUF285 DUF285 DUF285 DUF285 Flg_new Flg_new Flg_new Flg_new Flg_new Flg_new
+NODE_2_length_3593_cov_31.692833_cutoff_5,Chromosome,--
+NODE_3_length_3102_cov_3.351405_cutoff_5,Chromosome,--
+NODE_4_length_1987_cov_2.849738_cutoff_5,Chromosome,--
+NODE_5_length_1882_cov_2.767313_cutoff_5,Chromosome,0,Abhydrolase_1
+NODE_6_length_1823_cov_3.025200_cutoff_5,Chromosome,0,MBG_2 MBG_2 MBG_2 MBG_2
+NODE_7_length_1340_cov_4.239905_cutoff_5,Chromosome,--
+NODE_8_length_1296_cov_2.469237_cutoff_5,Chromosome,0,DUF4853 DUF4853
+NODE_9_length_1274_cov_2.074353_cutoff_5,Chromosome,0,EndoU_bacteria
+NODE_10_length_1161_cov_2.802583_cutoff_5,Chromosome,--
+NODE_1_length_1652_cov_36.150476_cutoff_15,Chromosome,--

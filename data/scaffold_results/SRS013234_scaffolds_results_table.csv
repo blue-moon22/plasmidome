@@ -1,0 +1,24 @@
+NODE_1_length_7790_cov_147.884351_cutoff_118,Plasmid,5.35,OMP_b-brl_2 DUF4848 Rep_3 YoeB_toxin
+NODE_1_length_38185_cov_56.035189_cutoff_42,Plasmid,2.91,Sipho_tail Phage_Gp15 Minor_capsid_3 Minor_capsid_1 Minor_capsid_2 CBM_4_9 Phage_holin_6_1 ZoocinA_TRD Amidase_5 Phage_prot_Gp6 Terminase_2 Phage_GP20 Phage_min_cap2 HTH_3 Big_8 Collagen_bind DUF1642 HTH_11 DUF3799 RecT SSB Peptidase_M78 HTH_3 Resolvase Recombinase Zn_ribbon_recom IstB_IS21 HTH_3 DnaB_2 Terminase_3 Terminase_3C
+NODE_2_length_1736_cov_103.247137_cutoff_42,Chromosome,0,Lactamase_B
+NODE_1_length_7057_cov_50.903868_cutoff_54,Chromosome,0,SSF
+NODE_2_length_4391_cov_57.415160_cutoff_54,Chromosome,0,DUF3349 PHO4
+NODE_1_length_49129_cov_191.914336_cutoff_33,Chromosome,0,DUF3310 RuvC HTH_3 HTH_3 DUF1642 AAA_24 HTH_3 DNA_pol_A AAA_25 DNA_pol_A_exo1 HD Phage_holin_Dp1 Glyco_hydro_25 BspA_v BspA_v dUTPase Glucosaminidase CHAP PDDEXK_1 HK97-gp10_like CLP_protease
+NODE_1_length_64623_cov_76.502277_cutoff_10,Plasmid,3.02,HTH_7 DUF1599 Glucosaminidase Spherulin4 ZoocinA_TRD Amidase_5 Phage_holin_Dp1 Phage_holin_4_1 Sipho_tail DUF859 Phage_capsid Peptidase_S78 Terminase_1 Phage_portal
+NODE_1_length_35865_cov_8.471694_cutoff_0,Plasmid,70.38,TrbL ParBc KorB KorB_C VirB8 CagX TrbH TrbI T2SSE TrbC VirB3 CagE_TrbE_VirB HTH_3 HTH_8 CbiA DUF5338 Fic Relaxase LPD7 tRNA_anti-like Peptidase_S26 TrbM Resolvase T4SS-DNA_transf Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom Activator-TraM Zeta_toxin AAA_31 SSB MPTase-PolyVal DUF1738 Toprim_3
+NODE_2_length_33220_cov_18.930393_cutoff_0,Plasmid,41.87,ArdA ArdA Peptidase_M23 VirB3 CagE_TrbE_VirB T2SSE TrbC TrbI VirB8 CagX T4SS-DNA_transf MobA_MobL SLT CbiA Resolvase Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom Zeta_toxin HTH_3 Rep_3
+NODE_3_length_30352_cov_14.281321_cutoff_0,Plasmid,48.71,DUF1738 MPTase-PolyVal VirB8 CagX Cag12 T4SS-DNA_transf T2SSE TrbI Topoisom_bac Toprim_Crpt Toprim zf-C4_Topoisom TrbM CagE_TrbE_VirB VirB3 T4SS TrbL Rep_3 RelB SLT TrbC Resolvase CbiA Fic
+NODE_4_length_24846_cov_8.002745_cutoff_0,Plasmid,18.71,SSB Phage_lysozyme2 Peptidase_M23 AAA_10 T4SS-DNA_transf Topoisom_bac Toprim LPD25 Toprim_2 Relaxase MobC AAA_31 Resolvase HTH_23
+NODE_5_length_4658_cov_36.303427_cutoff_0,Plasmid,3.51,Relaxase
+NODE_6_length_2938_cov_3.164278_cutoff_0,Plasmid,10.69,Rep_3 HigB-like_toxin HTH_3 Rep_3
+NODE_7_length_2136_cov_5.081107_cutoff_0,Chromosome,0,AHH
+NODE_8_length_990_cov_0.969332_cutoff_0,Chromosome,0,Phage_integrase
+NODE_9_length_974_cov_2.823857_cutoff_0,Chromosome,--
+NODE_10_length_870_cov_1.741488_cutoff_0,Chromosome,--
+NODE_11_length_641_cov_2.170213_cutoff_0,Chromosome,0,MucBP MucBP
+NODE_12_length_638_cov_5.832442_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_13324_cov_3.325055_cutoff_5,Chromosome,-3.0093552326170627,G5 G5 G5 HTH_26 Gram_pos_anchor Topoisom_bac Toprim SecY
+NODE_2_length_4368_cov_1.470287_cutoff_5,Chromosome,0,N6_N4_Mtase MethyltransfD12 RE_TdeIII HNH
+NODE_3_length_3235_cov_10.830906_cutoff_5,Chromosome,0,Methyltransf_25 Abhydrolase_6 GMP_synt_C
+NODE_4_length_2105_cov_2.619822_cutoff_5,Chromosome,0,AgI_II_C2 AgI_II_C2 FctA FctA
+NODE_5_length_1731_cov_16.798065_cutoff_5,Chromosome,0,RVT_1

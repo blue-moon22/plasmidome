@@ -1,0 +1,48 @@
+NODE_1_length_34974_cov_22.517953_cutoff_10,Chromosome,0,DUF3310 dUTPase SSB Phage_prot_Gp6 P22_CoatProtein PhageMin_Tail TIG DnaB_C RecT
+NODE_1_length_15485_cov_4.599883_cutoff_0,Plasmid,3.26,ShlB POTRA_3 POTRA_2 DUF5397 RPA DUF5376 CRISPR_Cas2 Fil_haemagg_2 Haemagg_act EndoU_bacteria Fil_haemagg_2 PT-VENN Fil_haemagg_2 Fil_haemagg_2
+NODE_2_length_3882_cov_3.561892_cutoff_0,Chromosome,0,MFS_1 DUF2399
+NODE_3_length_3332_cov_1.403072_cutoff_0,Chromosome,-3.0850879781361193,Cupin_6 HTH_18 HTH_AraC HTH_AraC DUF1772 SpoU_methylase NAD_binding_10
+NODE_4_length_3183_cov_2.896652_cutoff_0,Chromosome,--
+NODE_5_length_2467_cov_1.534728_cutoff_0,Chromosome,0,Erythro_esteras
+NODE_6_length_1885_cov_0.758850_cutoff_0,Chromosome,--
+NODE_7_length_1791_cov_1.469078_cutoff_0,Chromosome,--
+NODE_8_length_1706_cov_4.050952_cutoff_0,Chromosome,-19.808706195024087,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_9_length_1524_cov_0.935038_cutoff_0,Chromosome,--
+NODE_10_length_1472_cov_1.172760_cutoff_0,Chromosome,0,YadA_head YadA_head
+NODE_11_length_1439_cov_1.638767_cutoff_0,Chromosome,--
+NODE_12_length_1407_cov_2.173684_cutoff_0,Chromosome,0,Esterase Esterase
+NODE_13_length_1369_cov_2.575077_cutoff_0,Chromosome,--
+NODE_14_length_1359_cov_2.730889_cutoff_0,Chromosome,--
+NODE_15_length_1325_cov_0.377404_cutoff_0,Chromosome,0,CPBP
+NODE_16_length_1250_cov_2.126172_cutoff_0,Chromosome,--
+NODE_17_length_1236_cov_1.366695_cutoff_0,Chromosome,--
+NODE_18_length_1229_cov_0.983507_cutoff_0,Chromosome,0,Imm10 Pput2613-deam
+NODE_19_length_1220_cov_1.698163_cutoff_0,Chromosome,0,YadA_stalk
+NODE_20_length_1167_cov_14.498165_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_21_length_998_cov_1.730727_cutoff_0,Chromosome,--
+NODE_22_length_731_cov_3.366972_cutoff_0,Chromosome,--
+NODE_23_length_704_cov_2.449761_cutoff_0,Chromosome,--
+NODE_24_length_680_cov_2.331675_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_25_length_631_cov_3.853791_cutoff_0,Chromosome,--
+NODE_26_length_629_cov_1.530797_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_27_length_629_cov_1.375000_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_28_length_626_cov_2.280510_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_29_length_594_cov_3.255319_cutoff_0,Chromosome,--
+NODE_30_length_587_cov_3.590196_cutoff_0,Chromosome,0,Fil_haemagg
+NODE_31_length_581_cov_1.775794_cutoff_0,Chromosome,--
+NODE_1_length_67003_cov_14.803350_cutoff_5,Chromosome,0,PDDEXK_1 DNA_pol_A DNA_pol_A DNA_pol_A_exo1 Bac_DNA_binding dCMP_cyt_deam_1 RNA_pol RNA_pol AAA_24 DUF1353 AAA_30
+NODE_2_length_43412_cov_5.799054_cutoff_5,Chromosome,0,Sipho_Gp37 Sipho_Gp37 Phage_holin_Dp1 HNH_3 HNH_3 Phage_capsid Peptidase_S78 Sipho_tail Phage_portal Terminase_1 GDPD
+NODE_3_length_33546_cov_10.832054_cutoff_5,Plasmid,3.57,Helicase_C SNF2_N DNA_pol_A DNA_pol_A_exo1 dUTPase_2 PDDEXK_1 AAA_24 Thymidylat_synt AAA_25 RepB_primase Prophage_tail Terminase_6C Terminase_6 Amidase_2 Phage_capsid
+NODE_4_length_4565_cov_1.823529_cutoff_5,Chromosome,0,AMP-binding Condensation Condensation PP-binding AMP-binding_C
+NODE_5_length_3047_cov_2.621212_cutoff_5,Chromosome,0,HisKA_3 DDE_Tnp_1 DDE_Tnp_1_assoc
+NODE_6_length_2540_cov_3.153471_cutoff_5,Chromosome,0,ABC2_membrane_4 TetR_N TetR_C_14 ABC_tran
+NODE_7_length_2077_cov_6.735500_cutoff_5,Chromosome,0,Imm5 Imm5 Imm5 Imm5
+NODE_8_length_1553_cov_6.288618_cutoff_5,Chromosome,0,AAA_16
+NODE_9_length_1551_cov_2.279512_cutoff_5,Chromosome,--
+NODE_10_length_1430_cov_5.633407_cutoff_5,Chromosome,--
+NODE_11_length_1327_cov_7.775200_cutoff_5,Chromosome,0,Flavodoxin_2
+NODE_12_length_1184_cov_2.531165_cutoff_5,Chromosome,--
+NODE_13_length_1174_cov_4.621696_cutoff_5,Chromosome,0,TENA_THI-4
+NODE_14_length_1103_cov_12.206628_cutoff_5,Chromosome,0,Cadherin_4
+NODE_1_length_2427_cov_12.544255_cutoff_15,Chromosome,0,DUF4302 DUF4302 LRR_5
+NODE_2_length_1387_cov_16.611450_cutoff_15,Chromosome,--

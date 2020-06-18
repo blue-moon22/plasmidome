@@ -1,0 +1,17 @@
+NODE_1_length_2245_cov_13.569649_cutoff_10,Chromosome,0,Colicin-DNase PT-VENN
+NODE_1_length_1861_cov_6.143498_cutoff_5,Chromosome,0,Glyco_transf_8 Glyco_transf_25 Glyco_transf_25
+NODE_2_length_1424_cov_5.308092_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_3_length_1377_cov_2.086154_cutoff_5,Chromosome,0,COesterase COesterase
+NODE_4_length_1159_cov_2.286506_cutoff_5,Chromosome,--
+NODE_1_length_1832_cov_15.031909_cutoff_20,Chromosome,0,SBP_bac_5 SBP_bac_5
+NODE_1_length_1526_cov_10.324362_cutoff_15,Chromosome,0,YadA_stalk
+NODE_1_length_121501_cov_35.399081_cutoff_0,Chromosome,-10.484162120469776,Pribosyltran gp32 T4_baseplate HTH_11 YAcAr DnaB_C Phage_T4_gp19 RyR T4_tail_cap Peptidase_S80 Peptidase_S77 Ribonuc_red_sm DUF559 Terminase_6C Terminase_6 ResIII Helicase_C GTP_cyclohydroI Intein_splicing GTP_cyclohydroI PT-HINT RNase_H UvsY Phage_lysis Gp5_OB Gp5_C Ribonuc_red_lgC Ribonuc_red_lgN ATP-cone Phage_clamp_A dUTPase AAA SMC_N Metallophos Phage_sheath_1 Phage_sheath_1C Gp23 Gp23 Trans_coact Tn7_Tnp_TnsA_N dCMP_cyt_deam_1 DUF3310 OrfB_IS605 OrfB_Zn_ribbon Thy1 DNA_ligase_A_M DNA_ligase_OB_2 DUF5051 PAAR_motif DUF4815 DUF4815 DUF4815 CHAP 5_3_exonuc_N RNaseH_C QueF_N QueF QueF_N QueC Fer4_14 T4-gp15_tss T4_neck-protein Intein_splicing DNA_pol_B DNA_pol_B DNA_pol_B_exo1 RecA
+NODE_2_length_4428_cov_13.465180_cutoff_0,Plasmid,7.61,PemK_toxin MobC Relaxase
+NODE_3_length_1606_cov_2.229562_cutoff_0,Chromosome,--
+NODE_4_length_1466_cov_2.380850_cutoff_0,Chromosome,--
+NODE_5_length_710_cov_11.935229_cutoff_0,Chromosome,--
+NODE_6_length_677_cov_2.436667_cutoff_0,Chromosome,--
+NODE_7_length_656_cov_6.848014_cutoff_0,Chromosome,--
+NODE_8_length_620_cov_5.998158_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_9_length_581_cov_2.093254_cutoff_0,Chromosome,0,Lipoprotein_Ltp Lipoprotein_Ltp Lipoprotein_Ltp
+NODE_10_length_578_cov_7.898204_cutoff_0,Chromosome,--

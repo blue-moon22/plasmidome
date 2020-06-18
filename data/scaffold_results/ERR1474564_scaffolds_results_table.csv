@@ -1,0 +1,29 @@
+NODE_1_length_4285_cov_5.889734_cutoff_5,Plasmid,9.00,VbhA MobA_MobL Rep_3
+NODE_2_length_3396_cov_2.529075_cutoff_5,Chromosome,0,HTH_36
+NODE_3_length_2267_cov_2.337900_cutoff_5,Chromosome,0,ABC_tran ABC_tran ABC_tran
+NODE_4_length_2154_cov_1.769379_cutoff_5,Chromosome,--
+NODE_5_length_1396_cov_2.250948_cutoff_5,Chromosome,0,Fic
+NODE_6_length_1394_cov_13.163250_cutoff_5,Chromosome,0,YadA_stalk
+NODE_7_length_1277_cov_3.041667_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_7139_cov_23.213254_cutoff_0,Plasmid,11.00,Zn_Tnp_IS91 APH_6_hur YafQ_toxin RelB Rep_3 APH Pterin_bind
+NODE_2_length_4869_cov_2.891277_cutoff_0,Plasmid,5.72,TraG-D_C T4SS-DNA_transf
+NODE_3_length_4498_cov_3.717485_cutoff_0,Plasmid,7.61,MobC Relaxase
+NODE_4_length_3985_cov_3.360798_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase DUF87
+NODE_5_length_3890_cov_4.803567_cutoff_0,Plasmid,12.38,Relaxase Rep_3 Relaxase
+NODE_6_length_3824_cov_3.955164_cutoff_0,Plasmid,9.00,Relaxase Rep_1
+NODE_7_length_3447_cov_2.896736_cutoff_0,Plasmid,5.35,Rep_3 ParE_toxin
+NODE_8_length_3133_cov_5.883181_cutoff_0,Plasmid,5.35,Rep_3
+NODE_9_length_2866_cov_2.740767_cutoff_0,Plasmid,5.20,RepL
+NODE_10_length_2777_cov_8.965185_cutoff_0,Chromosome,0,YafQ_toxin
+NODE_11_length_2645_cov_5.639798_cutoff_0,Plasmid,2.52,Rep_2
+NODE_12_length_2262_cov_3.348284_cutoff_0,Plasmid,8.13,RHH_3 Rep_1
+NODE_13_length_2208_cov_9.826842_cutoff_0,Plasmid,5.48,Rep_1
+NODE_14_length_1457_cov_2.926087_cutoff_0,Chromosome,--
+NODE_15_length_1082_cov_3.540299_cutoff_0,Chromosome,0,YadA_stalk
+NODE_16_length_1001_cov_1.702381_cutoff_0,Chromosome,0,Mub_B2
+NODE_17_length_856_cov_0.834403_cutoff_0,Chromosome,--
+NODE_18_length_833_cov_2.633598_cutoff_0,Chromosome,--
+NODE_19_length_701_cov_1.004808_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP_2
+NODE_20_length_674_cov_4.195980_cutoff_0,Chromosome,0,HSP20
+NODE_21_length_638_cov_7.552585_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_22_length_626_cov_0.883424_cutoff_0,Chromosome,--

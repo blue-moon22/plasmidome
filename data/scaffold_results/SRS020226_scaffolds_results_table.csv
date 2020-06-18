@@ -1,0 +1,50 @@
+NODE_1_length_9453_cov_43.579352_cutoff_15,Chromosome,0,HTH_3 Phage_integrase Phage_int_SAM_3 HTH_3 DnaB_2 IstB_IS21 DUF1492
+NODE_2_length_2041_cov_10.904277_cutoff_15,Chromosome,0,Ntox23
+NODE_1_length_38183_cov_53.311368_cutoff_33,Chromosome,0,HIT Phage_integrase Peptidase_M78 HTH_3 BetR Terminase_1 Phage_prot_Gp6 DUF4355 PhageMin_Tail PTR
+NODE_1_length_34628_cov_23.705276_cutoff_26,Plasmid,13.96,SusD-like_3 SusD_RagB YWFCY TraG-D_C TrwB_AAD_bind T4SS-DNA_transf Relaxase CbiA DUF3408 CtnDOT_TraJ DUF4133 DUF3875 DUF4134 Transposon_TraM PQQ_2 PcfK Phage_integrase Phage_int_SAM_5 Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_5 DUF1896 PcfJ DUF3872 TraO DUF4138
+NODE_1_length_34927_cov_95.825997_cutoff_70,Chromosome,0,Bro-N HTH_17 HTH_3 Terminase_1 P22_CoatProtein DUF5403 Phage_prot_Gp6 HTH_3 Phage_integrase Phage_r1t_holin Peptidase_M23 Glyco_hydro_25
+NODE_1_length_12784_cov_14.393405_cutoff_10,Plasmid,11.77,Relaxase RHH_1 Resolvase Rep_3 Fic
+NODE_2_length_1167_cov_6.150459_cutoff_10,Chromosome,--
+NODE_1_length_55165_cov_7.265775_cutoff_0,Chromosome,0,Glyco_hydro_25 Amidoligase_2 HIRAN AAA_25 dUTPase
+NODE_2_length_46150_cov_3.248649_cutoff_0,Chromosome,-0.4627451469996693,N6_N4_Mtase PhageMin_Tail MTS Methylase_S Glucosaminidase Toprim_N Toprim_4 Toprim_2 zf-CHC2 Toprim DnaB_bind DUF5053 Phage_int_SAM_4 Peptidase_S49 DUF4406 Resolvase
+NODE_3_length_34887_cov_4.838696_cutoff_0,Plasmid,67.57,TrfA SSB HTH_3 T2SSE TrbC VirB3 TrbL TrbI TrbH CagX VirB8 CagE_TrbE_VirB TrbM AAA_31 ParBc KorB KorB_C KfrB DUF5338 Activator-TraM Relaxase LPD7 Topoisom_bac zf-C4_Topoisom zf-C4_Topoisom Peptidase_M15_2 MPTase-PolyVal DUF1738 Zeta_toxin KfrB KfrB Zeta_toxin CRISPR_Cas2 Resolvase
+NODE_4_length_12784_cov_14.393405_cutoff_0,Plasmid,11.77,Fic Rep_3 RHH_1 Relaxase Resolvase
+NODE_5_length_9695_cov_8.740487_cutoff_0,Plasmid,9.44,Thioredoxin_3 ArsP_1 HTH_5 HTH_3 Rep_3 MobC ParE_toxin
+NODE_6_length_4712_cov_96.472708_cutoff_0,Plasmid,5.35,YafQ_toxin Rep_3
+NODE_7_length_4350_cov_5.124503_cutoff_0,Chromosome,0,FtsK_SpoIIIE
+NODE_8_length_3314_cov_3.359901_cutoff_0,Chromosome,--
+NODE_9_length_3290_cov_43.688142_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_10_length_3128_cov_26.113405_cutoff_0,Plasmid,5.35,VbhA Rep_3
+NODE_11_length_2708_cov_69.234892_cutoff_0,Plasmid,5.20,RepL
+NODE_12_length_2376_cov_14.313180_cutoff_0,Chromosome,--
+NODE_13_length_2342_cov_8.008830_cutoff_0,Plasmid,5.35,Rep_3
+NODE_14_length_2003_cov_3.744548_cutoff_0,Chromosome,0,Lipoprotein_21
+NODE_15_length_1751_cov_34.773596_cutoff_0,Chromosome,--
+NODE_16_length_1706_cov_2.575813_cutoff_0,Chromosome,-19.808706195024087,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_17_length_1464_cov_1.878875_cutoff_0,Chromosome,0,Transposase_20 DEDD_Tnp_IS110
+NODE_18_length_1396_cov_2.222896_cutoff_0,Chromosome,0,Serpin
+NODE_19_length_1361_cov_1.470405_cutoff_0,Chromosome,--
+NODE_20_length_1235_cov_8.748705_cutoff_0,Plasmid,10.41,RepL RepL
+NODE_21_length_1227_cov_3.699130_cutoff_0,Chromosome,0,Sigma70_r4_2 Sigma70_r2
+NODE_22_length_1181_cov_9.349638_cutoff_0,Plasmid,5.20,RepL
+NODE_23_length_668_cov_0.747885_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind
+NODE_24_length_614_cov_0.832402_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related
+NODE_25_length_593_cov_1.784884_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_1_length_55840_cov_5.380952_cutoff_5,Plasmid,2.91,OrfB_Zn_ribbon HTH_OrfB_IS605 OrfB_IS605 MethyltransfD12 OrfB_Zn_ribbon OrfB_IS605 Y1_Tnp OrfB_Zn_ribbon Resolvase MerR_1 MerR DUF262 DUF1524 Fic MCPsignal dCache_1 Thy1 Band_7 Metallophos_2 HAD_SAK_2 RNase_T Acetyltransf_10 Sel1 Sel1 TPR_8 Sel1 Sel1 Sel1
+NODE_2_length_38270_cov_16.337182_cutoff_5,Chromosome,0,SSB HTH_17 ParBc Phage_integrase Phage_int_SAM_3 Glyco_hydro_25 SSB NLPC_P60 CdiA_C Phage_prot_Gp6 P22_CoatProtein HK97-gp10_like
+NODE_3_length_27805_cov_3.325591_cutoff_5,Chromosome,-2.906443392458364,DsbD PDDEXK_1 PilZ OrfB_Zn_ribbon OrfB_IS605 SecA_DEAD SecA_SW RecA UPF0160 MethyltransfD12 Rep_3 OmpH Aminotran_5 OrfB_Zn_ribbon OrfB_IS605
+NODE_4_length_4032_cov_29.380278_cutoff_5,Plasmid,5.35,Rep_3 ParE_toxin
+NODE_5_length_3709_cov_6.587004_cutoff_5,Plasmid,5.35,CRISPR_Cas2 Rep_3
+NODE_6_length_3329_cov_5.092558_cutoff_5,Chromosome,0,Endonuclea_NS_2
+NODE_7_length_2638_cov_2.336197_cutoff_5,Chromosome,--
+NODE_8_length_2063_cov_4.597180_cutoff_5,Chromosome,--
+NODE_9_length_2028_cov_4.956433_cutoff_5,Chromosome,0,PTS_2-RNA
+NODE_10_length_1999_cov_4.083247_cutoff_5,Chromosome,--
+NODE_11_length_1729_cov_6.129540_cutoff_5,Chromosome,--
+NODE_12_length_1646_cov_7.741236_cutoff_5,Chromosome,--
+NODE_13_length_1566_cov_2.145064_cutoff_5,Chromosome,--
+NODE_14_length_1471_cov_8.274749_cutoff_5,Chromosome,--
+NODE_15_length_1388_cov_2.923722_cutoff_5,Chromosome,--
+NODE_16_length_1280_cov_4.015794_cutoff_5,Chromosome,--
+NODE_17_length_1113_cov_1.960425_cutoff_5,Plasmid,2.91,Resolvase
+NODE_18_length_1100_cov_20.002933_cutoff_5,Chromosome,--

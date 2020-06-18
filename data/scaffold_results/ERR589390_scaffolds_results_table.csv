@@ -1,0 +1,25 @@
+NODE_1_length_35417_cov_11.307555_cutoff_0,Plasmid,2.67,HTH_3 Phage_Gp15 Peptidase_M78 HTH_19 DnaB_2 DUF1064 SSB HNHc_6 ERF Phage_holin_6_1 Phage_integrase HTH_3 HTH_3 HTH_31 HTH_3 HTH_3 Terminase_2 CHAP CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Acetyltransf_7 DUF859 Phage_min_cap2 Phage_prot_Gp6
+NODE_2_length_5587_cov_19.277495_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_3_length_3757_cov_2.501359_cutoff_0,Chromosome,--
+NODE_4_length_3196_cov_10.156781_cutoff_0,Plasmid,5.35,RelB Rep_3 YafQ_toxin
+NODE_5_length_3020_cov_2.974516_cutoff_0,Plasmid,9.51,RHH_5 Rep_2 Mob_Pre
+NODE_6_length_2379_cov_1.317550_cutoff_0,Chromosome,--
+NODE_7_length_2364_cov_1.712287_cutoff_0,Chromosome,0,Rep_trans
+NODE_8_length_2135_cov_43.339650_cutoff_0,Chromosome,--
+NODE_9_length_1677_cov_5.341250_cutoff_0,Plasmid,2.52,Rep_2
+NODE_10_length_1575_cov_1.000668_cutoff_0,Plasmid,2.52,Rep_2
+NODE_11_length_1361_cov_2.808411_cutoff_0,Chromosome,--
+NODE_12_length_1274_cov_0.749373_cutoff_0,Chromosome,0,Flavodoxin_4
+NODE_13_length_1208_cov_2.923077_cutoff_0,Chromosome,--
+NODE_14_length_1097_cov_5.743137_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT SHIRT SHIRT
+NODE_15_length_920_cov_1.417556_cutoff_0,Chromosome,--
+NODE_16_length_890_cov_2.627306_cutoff_0,Chromosome,--
+NODE_17_length_802_cov_2.437241_cutoff_0,Chromosome,--
+NODE_18_length_762_cov_2.583942_cutoff_0,Chromosome,--
+NODE_19_length_682_cov_1.454545_cutoff_0,Chromosome,0,N_methyl
+NODE_20_length_675_cov_1.168896_cutoff_0,Chromosome,--
+NODE_21_length_654_cov_1.051993_cutoff_0,Chromosome,--
+NODE_22_length_620_cov_0.797422_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_23_length_602_cov_3.927619_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_1_length_18734_cov_3.443855_cutoff_5,Chromosome,-41.353031778371445,Ribosomal_L10 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7 Ribosom_S12_S23 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 NusG KOW SecE RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2
+NODE_2_length_1476_cov_13.561115_cutoff_5,Chromosome,0,rve HTH_Tnp_1 HTH_21

@@ -1,0 +1,45 @@
+NODE_1_length_34275_cov_10.106410_cutoff_10,Chromosome,0,PhageMin_Tail TIG SSB DUF3310 dUTPase HTH_36 DnaB_C P22_CoatProtein Phage_prot_Gp6
+NODE_2_length_1407_cov_39.626316_cutoff_10,Chromosome,0,DDE_Tnp_ISL3
+NODE_1_length_37719_cov_5.354099_cutoff_0,Plasmid,40.56,SSB Toprim_2 Zeta_toxin SLT SNF2_N Eco57I Helicase_C NYN Relaxase T4SS CagE_TrbE_VirB VirB3 TrbL TrbM Cag12 T4SS-DNA_transf T2SSE TrbI CagX VirB8 Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom
+NODE_2_length_11514_cov_4.615109_cutoff_0,Plasmid,6.42,Toprim_2 Resolvase Relaxase
+NODE_3_length_6993_cov_6.642423_cutoff_0,Chromosome,--
+NODE_4_length_6716_cov_18.378973_cutoff_0,Plasmid,18.13,RepL RepL Mob_Pre Mob_Pre
+NODE_5_length_5096_cov_10.856346_cutoff_0,Chromosome,0,YoeB_toxin FtsK_SpoIIIE
+NODE_6_length_4276_cov_7.889021_cutoff_0,Plasmid,2.52,Rep_2
+NODE_7_length_4202_cov_13.562424_cutoff_0,Plasmid,5.35,Rep_3 PhdYeFM_antitox
+NODE_8_length_4011_cov_1.720132_cutoff_0,Chromosome,--
+NODE_9_length_3130_cov_156.137242_cutoff_0,Plasmid,5.48,Rep_1 HTH_Tnp_Tc3_1
+NODE_10_length_2795_cov_14.486755_cutoff_0,Chromosome,0,YoeB_toxin
+NODE_11_length_2203_cov_3.929445_cutoff_0,Chromosome,0,CRISPR_Cas2
+NODE_12_length_2104_cov_12.727183_cutoff_0,Plasmid,8.84,HTH_11 Replicase PriCT_1
+NODE_13_length_1928_cov_12.750945_cutoff_0,Chromosome,--
+NODE_14_length_1169_cov_2.962454_cutoff_0,Chromosome,--
+NODE_15_length_1030_cov_12.183631_cutoff_0,Chromosome,0,Glycos_transf_2 Glycos_transf_2
+NODE_16_length_956_cov_1.439135_cutoff_0,Chromosome,0,DUF4853
+NODE_17_length_924_cov_1.057851_cutoff_0,Plasmid,4.84,GAD-like DUF1851 GAD-like
+NODE_18_length_821_cov_1.036290_cutoff_0,Chromosome,--
+NODE_19_length_820_cov_1.331090_cutoff_0,Chromosome,--
+NODE_20_length_808_cov_3.045144_cutoff_0,Chromosome,--
+NODE_21_length_788_cov_1.171589_cutoff_0,Chromosome,--
+NODE_22_length_743_cov_1.474474_cutoff_0,Chromosome,--
+NODE_23_length_731_cov_1.429664_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_24_length_701_cov_15.804487_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_25_length_620_cov_8.591160_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 Mub_B2
+NODE_26_length_605_cov_3.346591_cutoff_0,Chromosome,0,LTD
+NODE_27_length_599_cov_1.139847_cutoff_0,Chromosome,--
+NODE_28_length_597_cov_0.755769_cutoff_0,Chromosome,0,N_methyl
+NODE_29_length_587_cov_3.617647_cutoff_0,Chromosome,0,RicinB_lectin_2
+NODE_30_length_586_cov_4.874263_cutoff_0,Chromosome,--
+NODE_1_length_1214_cov_67.772208_cutoff_26,Chromosome,0,CRCB CRCB
+NODE_1_length_4131_cov_2.290824_cutoff_5,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Peptidase_S8 fn3_5
+NODE_2_length_3732_cov_31.394802_cutoff_5,Plasmid,9.06,Mob_Pre RepL
+NODE_3_length_3721_cov_13.900933_cutoff_5,Plasmid,5.35,Rep_3
+NODE_4_length_3450_cov_3.372665_cutoff_5,Chromosome,0,AAA-ATPase_like PDDEXK_9 Metallophos
+NODE_5_length_2238_cov_1.892180_cutoff_5,Chromosome,0,Peptidase_M13_N Peptidase_M13 Peptidase_M13
+NODE_6_length_1547_cov_8.921088_cutoff_5,Plasmid,2.52,Rep_2
+NODE_7_length_1312_cov_3.441296_cutoff_5,Chromosome,0,Peptidase_S8
+NODE_8_length_1310_cov_2.353609_cutoff_5,Chromosome,--
+NODE_9_length_1080_cov_1.960120_cutoff_5,Chromosome,--
+NODE_1_length_32559_cov_55.891879_cutoff_33,Plasmid,38.85,TrbI T4SS-DNA_transf T2SSE TrbC VirB3 CagE_TrbE_VirB VirB8 CagX Peptidase_M23 ArdA Rep_3 Resolvase CbiA Zeta_toxin Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom MobA_MobL SLT HTH_3
+NODE_1_length_32645_cov_55.832596_cutoff_15,Plasmid,38.85,ArdA Rep_3 T2SSE T4SS-DNA_transf TrbI VirB3 TrbC CagE_TrbE_VirB Peptidase_M23 HTH_3 Resolvase CbiA CagX Zeta_toxin MobA_MobL VirB8 Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom SLT
+NODE_2_length_2067_cov_16.309045_cutoff_15,Chromosome,--

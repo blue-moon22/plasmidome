@@ -1,0 +1,14 @@
+NODE_1_length_1374_cov_23.592907_cutoff_10,Chromosome,--
+NODE_1_length_4376_cov_4.077227_cutoff_0,Plasmid,5.35,Cation_efflux Rep_3
+NODE_2_length_3815_cov_50.463884_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_3_length_3281_cov_50.055868_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_4_length_3128_cov_39.291052_cutoff_0,Plasmid,5.35,VbhA Rep_3
+NODE_5_length_2473_cov_3.371035_cutoff_0,Chromosome,0,DUF5020 Xan_ur_permease
+NODE_6_length_1242_cov_3.322747_cutoff_0,Chromosome,0,DUF4065
+NODE_7_length_891_cov_0.861179_cutoff_0,Chromosome,--
+NODE_8_length_733_cov_0.876524_cutoff_0,Chromosome,--
+NODE_9_length_638_cov_3.269162_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_8798_cov_9.832129_cutoff_5,Chromosome,0,DUF2523 Secretin Secretin Putative_G5P Phage_X Phage_CRI Zot DUF3892
+NODE_2_length_1667_cov_5.517610_cutoff_5,Chromosome,0,DUF285 DUF285 DUF285 DUF285 LRR_5 LRR_5
+NODE_3_length_1549_cov_1.883832_cutoff_5,Chromosome,--
+NODE_4_length_1302_cov_2.124898_cutoff_5,Chromosome,--

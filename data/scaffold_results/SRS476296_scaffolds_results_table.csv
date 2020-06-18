@@ -1,0 +1,30 @@
+NODE_1_length_19719_cov_110.544547_cutoff_26,Plasmid,11.82,Resolvase HTH_3 HTH_27 Fic HTH_24 YAcAr Relaxase Resolvase AAA_31
+NODE_2_length_7318_cov_75.326474_cutoff_26,Plasmid,1.50,RelB YafQ_toxin Mob_Pre GTP_EFTU EFG_IV EFG_II EFG_C
+NODE_1_length_5644_cov_285.343812_cutoff_257,Plasmid,5.35,Rep_3 ORF6N
+NODE_2_length_2993_cov_488.399177_cutoff_257,Plasmid,5.35,ORF6N Rep_3
+NODE_3_length_2973_cov_801.416091_cutoff_257,Plasmid,5.35,Rep_3
+NODE_1_length_5518_cov_13.879250_cutoff_10,Chromosome,0,ParE_toxin
+NODE_1_length_76537_cov_7.942114_cutoff_0,Chromosome,-5.510127626468051,ResIII LAGLIDADG_3 Helicase_C MT-A70 ADPrib_exo_Tox ADP_ribosyl_GH DUF669 D5_N Pox_D5 Mrr_cat ASCH YopX HTH_31 HTH_3 Gp_dh_C Gp_dh_N HNH_3 AP2 YopX AgrB Bacteriocin_IIc Terminase_3 DUF3799 Mtd_N
+NODE_2_length_5269_cov_73.248267_cutoff_0,Plasmid,4.09,MobC
+NODE_3_length_3600_cov_4.910304_cutoff_0,Plasmid,14.56,Rep_3 Rep_3 Mob_Pre
+NODE_4_length_2930_cov_8.339642_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_1281_cov_1.026578_cutoff_0,Chromosome,--
+NODE_6_length_1220_cov_5.463692_cutoff_0,Chromosome,--
+NODE_7_length_1103_cov_4.978558_cutoff_0,Chromosome,--
+NODE_8_length_968_cov_3.017957_cutoff_0,Chromosome,0,DUF559
+NODE_9_length_824_cov_2.479250_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_10_length_819_cov_3.083558_cutoff_0,Chromosome,--
+NODE_11_length_695_cov_8.724919_cutoff_0,Chromosome,--
+NODE_12_length_671_cov_7.930976_cutoff_0,Chromosome,--
+NODE_13_length_666_cov_1.920204_cutoff_0,Chromosome,--
+NODE_14_length_644_cov_2.843034_cutoff_0,Chromosome,0,Methylase_S
+NODE_15_length_636_cov_5.649374_cutoff_0,Chromosome,--
+NODE_16_length_629_cov_2.704710_cutoff_0,Chromosome,--
+NODE_17_length_590_cov_1.795322_cutoff_0,Chromosome,--
+NODE_1_length_102515_cov_5.065864_cutoff_5,Chromosome,0,AAA_24 DUF1064 Glucosaminidase Sigma70_r4_2 Sigma70_r2 AAA dUTPase DnaB_C Phage_head_fibr
+NODE_2_length_6036_cov_8.860715_cutoff_5,Chromosome,0,Phage_F Phage_F
+NODE_3_length_5359_cov_18.422378_cutoff_5,Chromosome,--
+NODE_4_length_4985_cov_2.008150_cutoff_5,Chromosome,0,NT5C His_Phos_1 Peptidase_C26 NT5C His_Phos_1
+NODE_5_length_4715_cov_6.467012_cutoff_5,Chromosome,--
+NODE_6_length_3166_cov_2.235999_cutoff_5,Chromosome,0,Aminotran_1_2 Amidinotransf
+NODE_7_length_2650_cov_3.891955_cutoff_5,Chromosome,--

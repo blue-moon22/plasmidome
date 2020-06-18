@@ -1,0 +1,19 @@
+NODE_1_length_4919_cov_3.522098_cutoff_0,Plasmid,5.35,Rep_3 YafQ_toxin YoeB_toxin
+NODE_2_length_3646_cov_4.090221_cutoff_0,Plasmid,5.35,Rep_3
+NODE_3_length_2744_cov_3.455568_cutoff_0,Chromosome,--
+NODE_4_length_2083_cov_19.578764_cutoff_0,Plasmid,5.48,Rep_1
+NODE_5_length_1954_cov_98.726159_cutoff_0,Chromosome,--
+NODE_6_length_1723_cov_6.150061_cutoff_0,Chromosome,0,Rep_trans Rep_trans
+NODE_7_length_1619_cov_2.352789_cutoff_0,Chromosome,0,Rep_trans
+NODE_8_length_1441_cov_397.229472_cutoff_0,Chromosome,--
+NODE_9_length_1034_cov_2.341693_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_967_cov_1.244944_cutoff_0,Chromosome,--
+NODE_11_length_929_cov_2.988263_cutoff_0,Chromosome,--
+NODE_12_length_799_cov_2.042936_cutoff_0,Chromosome,--
+NODE_13_length_760_cov_1.424597_cutoff_0,Chromosome,--
+NODE_14_length_757_cov_1.944118_cutoff_0,Chromosome,--
+NODE_15_length_701_cov_5.328526_cutoff_0,Chromosome,--
+NODE_16_length_701_cov_2.261218_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 Mub_B2
+NODE_17_length_662_cov_0.613675_cutoff_0,Chromosome,--
+NODE_1_length_7776_cov_2.884920_cutoff_5,Plasmid,5.35,HTH_3 ComR_TPR HTH_3 Rep_3 Phage_integrase ABC_tran
+NODE_2_length_1167_cov_1.406422_cutoff_5,Chromosome,--

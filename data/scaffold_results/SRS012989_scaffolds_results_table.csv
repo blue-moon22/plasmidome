@@ -1,0 +1,21 @@
+NODE_1_length_44093_cov_14.744502_cutoff_10,Chromosome,0,Guanylate_kin Phage_portal CHAP Spherulin4 Collagen Collagen GDPD DUF2800 Terminase_1 Peptidase_S78 Phage_capsid Sipho_tail Sipho_Gp37 Phage_holin_Dp1 HNH_3 HNH_3
+NODE_1_length_60458_cov_7.741541_cutoff_0,Chromosome,0,CHAP CHAP SH3_5 Phage_capsid Peptidase_S78 Phage_portal Terminase_1 Phage_holin_1 Sipho_tail DUF859 DUF1366 Prophage_tail DUF1599 HTH_24 Big_8 Collagen_bind Gram_pos_anchor
+NODE_2_length_42135_cov_5.227828_cutoff_0,Plasmid,5.81,Metallophos_2 DUF3310 Phage_capsid Phage_Gp19 DUF2744 PDDEXK_1 Glutaredoxin HNH Amidase_2 Spherulin4 Phage_prot_Gp6 AAA_25 Toprim_3 DNA_pol_A DNA_pol_A_exo1 Endonuclease_7
+NODE_3_length_1196_cov_2.180518_cutoff_0,Chromosome,0,DUF2931 DUF2931
+NODE_4_length_1004_cov_1.365696_cutoff_0,Chromosome,0,YadA_stalk
+NODE_5_length_977_cov_1.510000_cutoff_0,Chromosome,--
+NODE_6_length_951_cov_1.321510_cutoff_0,Chromosome,--
+NODE_7_length_917_cov_1.863095_cutoff_0,Chromosome,--
+NODE_8_length_658_cov_1.394148_cutoff_0,Chromosome,--
+NODE_9_length_632_cov_6.848649_cutoff_0,Chromosome,--
+NODE_10_length_622_cov_0.781651_cutoff_0,Chromosome,--
+NODE_11_length_583_cov_0.361660_cutoff_0,Chromosome,--
+NODE_1_length_8838_cov_124.746604_cutoff_42,Plasmid,9.21,DUF1269 Mob_Pre Rep_3 AbiEii
+NODE_1_length_1860_cov_1.694335_cutoff_5,Chromosome,--
+NODE_2_length_1574_cov_4.167669_cutoff_5,Chromosome,0,LCM LacAB_rpiB
+NODE_3_length_1552_cov_4.034576_cutoff_5,Chromosome,0,AAA_16
+NODE_4_length_1552_cov_1.271864_cutoff_5,Chromosome,--
+NODE_5_length_1532_cov_13.076289_cutoff_5,Chromosome,--
+NODE_6_length_1199_cov_2.690731_cutoff_5,Chromosome,-3.245999471150821,RraB
+NODE_1_length_33283_cov_25.971330_cutoff_15,Chromosome,0,HK97-gp10_like Spherulin4 HTH_17 PhageMin_Tail RecT Mu-like_gpT Dam DUF2190 YqaJ Terminase_6C Terminase_6
+NODE_2_length_3706_cov_11.662717_cutoff_15,Chromosome,--

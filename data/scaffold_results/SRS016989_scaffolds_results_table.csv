@@ -1,0 +1,28 @@
+NODE_1_length_5547_cov_570.674771_cutoff_198,Chromosome,0,HTH_19 GMP_synt_C GATase Peptidase_C26 NAD_synthase rve AAA_25
+NODE_1_length_12768_cov_137.383264_cutoff_153,Chromosome,0,TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg SusD-like_2 SusD-like AAA_14 SusD-like_2 SusD-like SusD-like_2 TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg
+NODE_2_length_1353_cov_568.898119_cutoff_153,Chromosome,0,DDE_Tnp_ISL3
+NODE_1_length_1629_cov_88.483892_cutoff_91,Chromosome,0,AAA_14 DUF4143
+NODE_1_length_13474_cov_4.632231_cutoff_10,Chromosome,0,Glyco_hydro_97 GH97_N GH97_C Glyco_hydro_43 F5_F8_type_C Laminin_G_3 Glyco_hydro_127 DPPIV_N Peptidase_S9 Peptidase_S15 DLH Esterase HTH_18 Y_Y_Y Reg_prop Reg_prop Reg_prop
+NODE_2_length_10442_cov_6.826049_cutoff_10,Plasmid,3.43,Phage_int_SAM_5 DUF3871 DUF4595 Resolvase HTH_7
+NODE_1_length_13766_cov_52.288188_cutoff_70,Chromosome,0,SusD_RagB SusD-like_3 CarbopepD_reg_2 Plug Glyco_hydro_76 DUF4973 DUF4361 DUF1793 TIG Glyco_hydro_43 DUF1735 DUF1735 DUF4143 AAA_14
+NODE_1_length_9578_cov_5.410167_cutoff_0,Plasmid,5.95,DUF1738 MPTase-PolyVal zf-ribbon_3 HTH_26 HTH_3 Phage_integrase Resolvase MPTase-PolyVal
+NODE_2_length_8661_cov_7.302889_cutoff_0,Chromosome,-2.4971416835774463,Phage_int_SAM_5 HTH_17
+NODE_3_length_7493_cov_193.014563_cutoff_0,Plasmid,5.35,Gp49 DNA_methylase Rep_3 HTH_3
+NODE_4_length_6463_cov_87.819605_cutoff_0,Plasmid,5.35,AAA_14 DUF4143 Rep_3
+NODE_5_length_6272_cov_314.069249_cutoff_0,Chromosome,0,Peptidase_M15_3 Phage_F Phage_F
+NODE_6_length_4225_cov_505.799904_cutoff_0,Plasmid,8.86,Relaxase YoeB_toxin Rep_3
+NODE_7_length_2176_cov_4.335398_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_8_length_1141_cov_0.616541_cutoff_0,Chromosome,--
+NODE_9_length_1084_cov_1.395233_cutoff_0,Chromosome,--
+NODE_1_length_6146_cov_590.661064_cutoff_26,Plasmid,8.86,Relaxase Rep_3 Transposase_mut
+NODE_1_length_14783_cov_17.858561_cutoff_20,Chromosome,0,T2SS-T3SS_pil_N TonB_dep_Rec Plug Peptidase_C11 NlpE
+NODE_1_length_7322_cov_4.013941_cutoff_5,Plasmid,7.61,YafQ_toxin RelB Relaxase MobC
+NODE_2_length_6059_cov_9.722166_cutoff_5,Plasmid,7.61,Trypsin_2 Relaxase MobC
+NODE_3_length_5510_cov_2.700534_cutoff_5,Chromosome,0,YitT_membrane DUF2179 PTS_EIIC PTS_EIIB Glyco_hydro_1 PRD PRD CAT_RBD
+NODE_4_length_5301_cov_2.383806_cutoff_5,Chromosome,-2.75307505771303,HATPase_c Response_reg HisKA LytTR DUF2154
+NODE_5_length_3193_cov_2.181964_cutoff_5,Chromosome,0,Ank_2 Ank_2 Ank DUF4474
+NODE_6_length_2111_cov_2.019174_cutoff_5,Chromosome,0,Peptidase_C70
+NODE_7_length_1612_cov_2.423453_cutoff_5,Chromosome,--
+NODE_8_length_1379_cov_2.971582_cutoff_5,Chromosome,0,Exo_endo_phos
+NODE_1_length_26389_cov_14.245021_cutoff_15,Chromosome,0,Glyco_hydro_31 GH97_N Glyco_hydro_88 Hepar_II_III Alginate_lyase Glyco_hydro_3 Glyco_hydro_3_C Fn3-like Melibiase Glyco_hydro_36C Alginate_lyase Lipase_GDSL_2 Lipase_GDSL Cellulase Glyco_hydro_92 Glyco_hydro_92N Response_reg HATPase_c HTH_18 Y_Y_Y HisKA HTH_AraC Reg_prop Reg_prop Reg_prop Reg_prop Reg_prop Reg_prop TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg SusD_RagB SusD-like_3 DDE_Tnp_1 DUF772 MacB_PCD Glyco_hydro_88
+NODE_2_length_20727_cov_13.244939_cutoff_15,Chromosome,-2.6332738578977324,Acetyltransf_3 Hydrolase_4 MarR_2 SDH_alpha SDH_beta SDH_beta HSP20 DUF4301 RelA_SpoT HD_4 ACT_4 TGS Exo_endo_phos MFS_1 OMP_b-brl_2 TonB_dep_Rec CarbopepD_reg_2 CarboxypepD_reg Plug Acetyltransf_9 SCP2_2 Fic HMA DEAD Helicase_C

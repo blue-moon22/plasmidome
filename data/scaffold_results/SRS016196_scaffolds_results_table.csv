@@ -1,0 +1,10 @@
+NODE_1_length_857_cov_15.403846_cutoff_10,Chromosome,--
+NODE_1_length_7419_cov_2.430673_cutoff_0,Plasmid,8.02,ToxN_toxin Rep_3
+NODE_2_length_4441_cov_28.226627_cutoff_0,Plasmid,5.35,HTH_3 Integrase_1 Phage_int_SAM_1 Rep_3
+NODE_3_length_3763_cov_18.366793_cutoff_0,Plasmid,10.25,Mob_Pre Mob_Pre Rep_2
+NODE_4_length_2674_cov_7.072776_cutoff_0,Plasmid,2.52,Rep_2
+NODE_5_length_1174_cov_1.443026_cutoff_0,Chromosome,--
+NODE_6_length_932_cov_23.243275_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_7_length_695_cov_1.535599_cutoff_0,Chromosome,0,DUF600 DUF600
+NODE_8_length_611_cov_5.155431_cutoff_0,Chromosome,--
+NODE_1_length_33666_cov_20.976004_cutoff_20,Chromosome,0,HIRAN Peptidase_S24 HTH_26 HTH_3 Phage_capsid DUF4355 DUF1372 DNA_methylase DUF1642 DUF5361 IstB_IS21 HeH Phage_Gp19 DUF2513 ORF6C Bro-N Phage_rep_org_N DnaB_2 HTH_3 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 Phage_holin_6_1 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Prophage_tail Peptidase_S74 DUF3310 Phage_integrase HTH_3 Ntox50 Phage_prot_Gp6 YopX

@@ -1,0 +1,73 @@
+NODE_1_length_18733_cov_11.441413_cutoff_10,Chromosome,-43.7517333891351,GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 GTP_EFTU_D3 NusG KOW SecE Ribosomal_L10 Ribosomal_L12 Ribosomal_L12_N Ribosomal_S7 Ribosom_S12_S23 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 Ribosomal_L11_N Ribosomal_L11 Ribosomal_L1
+NODE_2_length_12144_cov_12.046573_cutoff_10,Plasmid,15.89,TrwB_AAD_bind RHH_1 AAA_31 Rep_3 TrwC AAA_30 AAA_19 UvrD_C_2
+NODE_3_length_11381_cov_4.185510_cutoff_10,Plasmid,2.48,AAA_31 RcpC SAF T2SSE TadE T2SSF T2SSF Response_reg GerE HisKA_3 HATPase_c
+NODE_4_length_3218_cov_37.777141_cutoff_10,Chromosome,0,rve_3 Hydrolase_4 Abhydrolase_4
+NODE_1_length_42270_cov_4.653853_cutoff_0,Chromosome,0,DNA_methylase DUF4406 N6_N4_Mtase Whib DUF3799 Bro-N ANT HTH_26 Phage_integrase Phage_int_SAM_3 HTH_31 PhageMin_Tail Amidase_2 Phage_prot_Gp6 Phage_capsid SSB
+NODE_2_length_18777_cov_4.361818_cutoff_0,Plasmid,13.31,Phage_integrase FtsK_SpoIIIE AAA_31 Phage_integrase Rep_3 TcpE AAA_10 CagE_TrbE_VirB Peptidase_C39_2 ParE_toxin TpcC
+NODE_3_length_7564_cov_3.535595_cutoff_0,Plasmid,3.86,Aminoglyc_resit DDE_Tnp_IS1595 Zn_Tnp_IS1595
+NODE_4_length_5588_cov_2.227545_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_5_length_5209_cov_18.934918_cutoff_0,Chromosome,--
+NODE_6_length_4807_cov_11.804017_cutoff_0,Chromosome,0,Rep_trans DUF961
+NODE_7_length_4345_cov_4.758435_cutoff_0,Plasmid,8.84,Sigma70_r4_2 Replicase PriCT_1
+NODE_8_length_4241_cov_2.381124_cutoff_0,Chromosome,--
+NODE_9_length_3873_cov_4.366175_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_10_length_3367_cov_4.018845_cutoff_0,Plasmid,5.48,Rep_1
+NODE_11_length_3338_cov_4.766943_cutoff_0,Chromosome,0,HTH_36
+NODE_12_length_3231_cov_4.308814_cutoff_0,Plasmid,8.84,Replicase PriCT_1 ParE_toxin
+NODE_13_length_3197_cov_12.189103_cutoff_0,Plasmid,5.35,YafQ_toxin Rep_3 RelB
+NODE_14_length_2637_cov_2.480859_cutoff_0,Chromosome,--
+NODE_15_length_2581_cov_2.626997_cutoff_0,Chromosome,--
+NODE_16_length_2383_cov_3.426279_cutoff_0,Plasmid,2.65,RHH_3
+NODE_17_length_2348_cov_1.764421_cutoff_0,Plasmid,8.84,ParE_toxin Replicase PriCT_1
+NODE_18_length_2206_cov_1.150775_cutoff_0,Chromosome,--
+NODE_19_length_2115_cov_18.077036_cutoff_0,Plasmid,5.48,Rep_1
+NODE_20_length_1924_cov_1.228479_cutoff_0,Chromosome,0,DUF1697
+NODE_21_length_1819_cov_6.017796_cutoff_0,Plasmid,5.20,RepL
+NODE_22_length_1769_cov_0.634752_cutoff_0,Chromosome,0,SBP_bac_5
+NODE_23_length_1610_cov_35.181344_cutoff_0,Chromosome,--
+NODE_24_length_1599_cov_1.668857_cutoff_0,Chromosome,--
+NODE_25_length_1349_cov_14.129717_cutoff_0,Chromosome,--
+NODE_26_length_1262_cov_2.510549_cutoff_0,Chromosome,-3.245999471150821,PT-HINT RraB
+NODE_27_length_1238_cov_3.938846_cutoff_0,Chromosome,0,Excalibur Excalibur PASTA
+NODE_28_length_1110_cov_11.696031_cutoff_0,Chromosome,--
+NODE_29_length_1100_cov_2.435973_cutoff_0,Chromosome,0,YDG
+NODE_30_length_1088_cov_2.021761_cutoff_0,Chromosome,0,Cadherin_4
+NODE_31_length_1031_cov_17.516771_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_32_length_1030_cov_4.479538_cutoff_0,Chromosome,0,Glycos_transf_2 Glycos_transf_2
+NODE_33_length_952_cov_1.254857_cutoff_0,Chromosome,--
+NODE_34_length_929_cov_1.568075_cutoff_0,Chromosome,0,YadA_stalk
+NODE_35_length_833_cov_3.130952_cutoff_0,Chromosome,0,Collagen Collagen
+NODE_36_length_794_cov_1.599721_cutoff_0,Chromosome,0,Big_6
+NODE_37_length_785_cov_1.087571_cutoff_0,Chromosome,--
+NODE_38_length_749_cov_1.407738_cutoff_0,Chromosome,0,FctA FctA
+NODE_39_length_737_cov_2.019697_cutoff_0,Chromosome,--
+NODE_40_length_734_cov_2.861492_cutoff_0,Chromosome,--
+NODE_41_length_716_cov_1.508607_cutoff_0,Chromosome,--
+NODE_42_length_701_cov_31.528846_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_43_length_701_cov_6.475962_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_44_length_698_cov_1.966184_cutoff_0,Chromosome,--
+NODE_45_length_690_cov_1.626427_cutoff_0,Chromosome,--
+NODE_46_length_626_cov_1.744991_cutoff_0,Chromosome,--
+NODE_47_length_623_cov_2.221612_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_48_length_620_cov_6.808471_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_1_length_25522_cov_23.071291_cutoff_26,Chromosome,-53.242766318617925,GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 SecE BCCT Ribosomal_L33 NusG KOW Ribosomal_L11_N Ribosomal_L11 GTP_EFTU_D3 COX1 Ribosomal_L1 Ribosomal_L10 Ribosomal_L7Ae Ribosom_S12_S23 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_5 RNA_pol_Rpb1_4 Lyase_1 FumaraseC_C RNA_pol_Rpb2_6 RNA_pol_Rpb2_3 RNA_pol_Rpb2_45 RNA_pol_Rpb2_1 RNA_pol_Rpb2_7 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 Ribosomal_L12 Ribosomal_L12_N PMT_2 Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2
+NODE_1_length_39559_cov_8.789195_cutoff_5,Chromosome,0,AAA_33 Terminase_6 PBECR5 Cpn60_TCP1 Cpn10 Amidase_2 SH3_5 RNA_lig_T4_1 RecT Phage_holin_Dp1
+NODE_2_length_13582_cov_8.453017_cutoff_5,Plasmid,28.42,Relaxase Rep_3 Rep_3 Relaxase Rep_3 CRISPR_Cas2 Rep_3
+NODE_3_length_5937_cov_29.033788_cutoff_5,Chromosome,--
+NODE_4_length_3921_cov_2.338970_cutoff_5,Chromosome,0,DNA_methylase DHHA1 DUF262 NAPRTase_N HEPN_MAE_28990
+NODE_5_length_2873_cov_17.986767_cutoff_5,Plasmid,5.20,RepL
+NODE_6_length_2510_cov_3.660090_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_7_length_2452_cov_3.909474_cutoff_5,Chromosome,-2.540816747082557,DarT MGS
+NODE_8_length_2328_cov_3.278099_cutoff_5,Chromosome,--
+NODE_9_length_2083_cov_80.145065_cutoff_5,Plasmid,5.48,Rep_1
+NODE_10_length_1954_cov_1.640916_cutoff_5,Chromosome,--
+NODE_11_length_1901_cov_3.780702_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk YadA_head
+NODE_12_length_1871_cov_9.109253_cutoff_5,Chromosome,--
+NODE_13_length_1711_cov_2.947368_cutoff_5,Chromosome,0,NYN
+NODE_14_length_1652_cov_9.746032_cutoff_5,Chromosome,--
+NODE_15_length_1364_cov_7.724165_cutoff_5,Chromosome,--
+NODE_16_length_1296_cov_1.969647_cutoff_5,Chromosome,--
+NODE_17_length_1167_cov_2.855046_cutoff_5,Chromosome,--
+NODE_18_length_1130_cov_1.909782_cutoff_5,Chromosome,0,WD40 ANAPC4_WD40 ANAPC4_WD40 WD40 WD40 WD40 WD40 WD40 WD40 ANAPC4_WD40 WD40
+NODE_1_length_19135_cov_16.345472_cutoff_15,Chromosome,0,HTH_Tnp_1 HTH_21 LXG WXG100 DUF5085 rve DUF4176 YukC DUF5082 FtsK_SpoIIIE FtsK_SpoIIIE DUF4176
+NODE_2_length_2393_cov_10.730570_cutoff_15,Chromosome,0,Bacteriocin_IIc Bacteriocin_IIc

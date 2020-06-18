@@ -1,0 +1,24 @@
+NODE_1_length_1301_cov_23.413399_cutoff_15,Chromosome,--
+NODE_1_length_863_cov_96.311705_cutoff_42,Chromosome,0,G5
+NODE_1_length_53748_cov_17.382329_cutoff_5,Chromosome,0,Phage_prot_Gp6 Amidase_2 SH3_5 AAA_33 VirE DUF2800 DNA_pol_A DUF3310 Phage_cap_E SNF2_N Spherulin4 DUF2815 Pectate_lyase_3 DUF2800
+NODE_2_length_7693_cov_2.646402_cutoff_5,Chromosome,0,DUF1735 Laminin_G_3 DUF4849 SusD-like Plug CarbopepD_reg_2 CarboxypepD_reg
+NODE_3_length_3396_cov_25.862308_cutoff_5,Chromosome,0,HTH_36
+NODE_4_length_2942_cov_12.579058_cutoff_5,Plasmid,5.35,Rep_3
+NODE_5_length_1544_cov_10.261077_cutoff_5,Chromosome,--
+NODE_6_length_1382_cov_7.567816_cutoff_5,Chromosome,--
+NODE_7_length_619_cov_7.245387_cutoff_5,Chromosome,--
+NODE_1_length_755_cov_67.904130_cutoff_33,Chromosome,--
+NODE_1_length_60201_cov_11.067743_cutoff_0,Chromosome,0,DUF927 Helicase_C SNF2_N Phage_lysozyme Dam PDDEXK_1 DUF551 DUF5051 DNA_pol_A DNA_pol_A_exo1
+NODE_2_length_58474_cov_140.928815_cutoff_0,Chromosome,0,HK97-gp10_like Peptidase_S78 Prophage_tail CBM_4_9 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_portal DUF1599 Terminase_1 RdRP Phage_holin_6_1
+NODE_3_length_6439_cov_2.496542_cutoff_0,Chromosome,0,DUF2141 OMP_b-brl_3 OMP_b-brl_3 CarbopepD_reg_2 CarboxypepD_reg
+NODE_4_length_6270_cov_3.735185_cutoff_0,Chromosome,0,Peripla_BP_4 ABC_tran ABC_tran BPD_transp_2 PfkB RbsD_FucU Peripla_BP_3 LacI
+NODE_5_length_3851_cov_2.248808_cutoff_0,Chromosome,0,MFS_1 MFS_1
+NODE_6_length_2596_cov_20.716554_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_7_length_1827_cov_4.720000_cutoff_0,Chromosome,--
+NODE_8_length_1404_cov_1.065561_cutoff_0,Chromosome,--
+NODE_9_length_1371_cov_2.952087_cutoff_0,Plasmid,5.20,RepL
+NODE_10_length_1315_cov_10.597738_cutoff_0,Chromosome,--
+NODE_11_length_758_cov_1.521292_cutoff_0,Chromosome,--
+NODE_12_length_663_cov_1.414676_cutoff_0,Chromosome,--
+NODE_13_length_662_cov_2.743590_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_14_length_611_cov_1.516854_cutoff_0,Chromosome,0,GBS_Bsp-like SH3_5 SH3_5

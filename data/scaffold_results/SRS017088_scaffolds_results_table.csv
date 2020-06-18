@@ -1,0 +1,11 @@
+NODE_1_length_4588_cov_10.942806_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N AAA_22
+NODE_2_length_3815_cov_5.634564_cutoff_0,Plasmid,10.69,Rep_3 Rep_3 Phage_int_SAM_1
+NODE_3_length_3517_cov_3.571221_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_4_length_3128_cov_4.222550_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_5_length_3121_cov_4.812746_cutoff_0,Plasmid,5.20,RepL
+NODE_6_length_900_cov_32.889429_cutoff_0,Chromosome,0,MucBP
+NODE_7_length_887_cov_1.227160_cutoff_0,Chromosome,--
+NODE_8_length_683_cov_1.886139_cutoff_0,Chromosome,--
+NODE_9_length_602_cov_21.729524_cutoff_0,Chromosome,--
+NODE_1_length_9678_cov_6.455057_cutoff_5,Chromosome,0,HTH_3 DnaB_C Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_2_length_1436_cov_1.990434_cutoff_5,Chromosome,--

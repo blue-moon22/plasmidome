@@ -1,0 +1,15 @@
+NODE_1_length_5520_cov_5.932574_cutoff_0,Plasmid,3.86,Mob_Pre RelB RelB YafQ_toxin
+NODE_2_length_2827_cov_138.550182_cutoff_0,Chromosome,--
+NODE_3_length_2387_cov_3.551082_cutoff_0,Chromosome,0,YhcG_C DUF1016_N Methylase_S Methylase_S
+NODE_4_length_1082_cov_1.135323_cutoff_0,Chromosome,0,His_Phos_1 His_Phos_1
+NODE_5_length_1056_cov_0.945863_cutoff_0,Chromosome,--
+NODE_6_length_739_cov_0.996979_cutoff_0,Chromosome,--
+NODE_7_length_619_cov_0.957565_cutoff_0,Chromosome,--
+NODE_1_length_5278_cov_41.087483_cutoff_42,Chromosome,0,TnpB_IS66 Wzy_C DDE_Tnp_IS66
+NODE_1_length_36316_cov_10.334639_cutoff_5,Chromosome,0.41272359035034256,MethyltransfD12 VirE_N DUF1071 Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5 GGGtGRT DUF87 NTP_transf_2 Resolvase R2K_2 DUF3871 Sel1 TPR_8 TPR_8 Sel1 Sel1 Sel1 PLDc_2
+NODE_2_length_6278_cov_9.027254_cutoff_5,Chromosome,0,Phage_F Phage_F Peptidase_M15_3
+NODE_3_length_5701_cov_2.808144_cutoff_5,Plasmid,2.42,Imm-NTF2 DUF1851 GAD-like RVT_1 RVT_N GIIM
+NODE_4_length_2360_cov_2.476566_cutoff_5,Chromosome,0,Glyco_hydro_28
+NODE_5_length_2166_cov_1.932025_cutoff_5,Chromosome,0,Lipocalin_4
+NODE_6_length_1663_cov_3.511980_cutoff_5,Chromosome,0,Dockerin_1
+NODE_7_length_1334_cov_3.108194_cutoff_5,Chromosome,--

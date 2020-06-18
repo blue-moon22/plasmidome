@@ -1,0 +1,25 @@
+NODE_1_length_23194_cov_50.211230_cutoff_54,Chromosome,-53.24276631861798,RNA_pol_Rpb2_6 RNA_pol_Rpb2_3 RNA_pol_Rpb2_45 RNA_pol_Rpb2_1 RNA_pol_Rpb2_7 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_5 RNA_pol_Rpb1_4 Ribosomal_L7Ae Ribosom_S12_S23 Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 NusG KOW GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 Ribosomal_L11_N Ribosomal_L11 Ribosomal_L10 Ribosomal_L33 Ribosomal_L12 Ribosomal_L12_N SecE PMT_2 GTP_EFTU_D3 COX1 Lyase_1 FumaraseC_C Ribosomal_L1
+NODE_2_length_4398_cov_58.488081_cutoff_54,Chromosome,0,PHO4 DUF3349
+NODE_3_length_2268_cov_42.989959_cutoff_54,Chromosome,0,HTH_3
+NODE_1_length_1097_cov_38.756863_cutoff_10,Chromosome,0,AgI_II_C2 FctA
+NODE_1_length_16875_cov_99.378259_cutoff_70,Plasmid,9.21,AMP-binding_C DUF1269 Acetyltransf_3 CMD MFS_1 AhpC-TSA Acylphosphatase NAD_binding_10 DUF1269 Rep_3 Mob_Pre RelB
+NODE_2_length_1866_cov_139.178312_cutoff_70,Chromosome,0,ABC_tran ABC_tran
+NODE_1_length_9646_cov_45.766642_cutoff_0,Chromosome,0,Helicase_C PLDc_2 ResIII HEPN_Swt1 DUF3320 AlbA_2
+NODE_2_length_9580_cov_14.807534_cutoff_0,Chromosome,-9.035058052509019,IGPS NMN_transporter RibD_C dCMP_cyt_deam_1 MafB19-deam DHBP_synthase Lum_binding Lum_binding GTP_cyclohydro2 DMRL_synthase Chorismate_bind Anth_synt_I_N
+NODE_3_length_5259_cov_5.096295_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_4_length_4380_cov_19.780851_cutoff_0,Chromosome,0,ParE_toxin Integrase_1 Phage_int_SAM_1
+NODE_5_length_2772_cov_53.296846_cutoff_0,Plasmid,5.35,HTH_3 HigB-like_toxin Rep_3
+NODE_6_length_1352_cov_2.374118_cutoff_0,Chromosome,0,YadA_stalk
+NODE_7_length_1079_cov_26.876248_cutoff_0,Chromosome,0,Mub_B2 Mub_B2
+NODE_8_length_1075_cov_0.900802_cutoff_0,Chromosome,--
+NODE_9_length_713_cov_2.555031_cutoff_0,Chromosome,--
+NODE_1_length_1406_cov_33.656132_cutoff_26,Chromosome,--
+NODE_1_length_2057_cov_43.164646_cutoff_42,Chromosome,0,ABC2_membrane ABC_tran
+NODE_2_length_1976_cov_118.166403_cutoff_42,Chromosome,0,Crystall
+NODE_3_length_1900_cov_50.958859_cutoff_42,Chromosome,--
+NODE_1_length_61631_cov_5.595477_cutoff_5,Plasmid,3.02,Sipho_tail HTH_7 SH3_5 CHAP CHAP Collagen_bind Big_8 Phage_holin_Dp1 Prophage_tail Collagen DUF1366 Terminase_1 Phage_portal Phage_capsid Peptidase_S78 HTH_24 DUF1599 DUF859
+NODE_2_length_4467_cov_2.773121_cutoff_5,Plasmid,3.51,Relaxase
+NODE_3_length_1299_cov_2.115385_cutoff_5,Chromosome,0,HTH_3
+NODE_4_length_1175_cov_7.724954_cutoff_5,Chromosome,--
+NODE_1_length_3133_cov_28.233966_cutoff_33,Chromosome,0,HATPase_c_5 LytTR Response_reg
+NODE_1_length_1412_cov_33.155056_cutoff_15,Chromosome,0,Big_6 Big_6 Big_6 Big_6 Big_6

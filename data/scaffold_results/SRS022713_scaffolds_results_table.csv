@@ -1,0 +1,19 @@
+NODE_1_length_1143_cov_136.949343_cutoff_153,Chromosome,0,Glyco_hydro_35 Glyco_hydro_35
+NODE_1_length_12868_cov_77.375577_cutoff_70,Chromosome,0,TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg SusD-like_2 SusD-like SusD-like_2 TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg SusD-like_2 SusD-like AAA_14
+NODE_2_length_2995_cov_58.175805_cutoff_70,Chromosome,0,DUF4065
+NODE_1_length_37541_cov_3.094170_cutoff_0,Plasmid,5.38,Resolvase Recombinase Zn_ribbon_recom PIN DUF4041 T5orf172 MUG113 HTH_Tnp_1 DUF4325 NTase_sub_bind DUF4878 bPH_1 Polbeta BppU_N Sipho_tail Prophage_tail Laminin_G_3 rve NLPC_P60 Terminase_4 Terminase_1 SSB Cadherin-like Phage_capsid Peptidase_S78 Phage_portal RNase_T BRCT HTH_3 HTH_3 Peptidase_S24
+NODE_2_length_9019_cov_200.323977_cutoff_0,Plasmid,5.35,DJ-1_PfpI HTH_18 HTH_3 Gp49 Rep_3
+NODE_3_length_8841_cov_35.147649_cutoff_0,Plasmid,8.52,Rep_3 Gp49 HTH_3 DUF2582 DUF2582 T4SS-DNA_transf
+NODE_4_length_5032_cov_7.916448_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_5_length_4226_cov_786.549771_cutoff_0,Plasmid,8.86,YoeB_toxin Relaxase Rep_3
+NODE_6_length_2954_cov_2.652068_cutoff_0,Chromosome,0,Response_reg HATPase_c HisKA PAS_3 SnoaL_3
+NODE_7_length_2861_cov_106.134698_cutoff_0,Chromosome,--
+NODE_8_length_2321_cov_1.315954_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_9_length_1967_cov_5.467725_cutoff_0,Chromosome,0,Methylase_S Methylase_S Methylase_S
+NODE_10_length_958_cov_2.170261_cutoff_0,Chromosome,0,DUF4096 DDE_Tnp_1_2
+NODE_11_length_817_cov_1.431081_cutoff_0,Chromosome,0,DUF1064
+NODE_12_length_774_cov_3.129125_cutoff_0,Chromosome,0,HTH_26
+NODE_13_length_665_cov_2.811224_cutoff_0,Chromosome,0,ORF6N
+NODE_1_length_10110_cov_10.075451_cutoff_20,Chromosome,0,ART-PolyVal
+NODE_1_length_55241_cov_7.254677_cutoff_5,Chromosome,-0.4627451469996693,DUF1829 DUF1828 Resolvase Arc Phage_holin_5_2 D5_N Toprim_2 Toprim_4 Helicase_C ResIII ResIII VRR_NUC HD DUF669 AAA_24 DUF3799 DUF5055 Cu_amine_oxidN1 Cu_amine_oxidN1 Phage_prot_Gp6 Phage_cap_E HTH_26 HTH_26 HNH_3 Peptidase_S24 Phage_integrase Phage_int_SAM_3 Radical_SAM Amidase_3 NAGPA HTH_3 SLT
+NODE_1_length_14783_cov_37.816265_cutoff_33,Chromosome,0,Peptidase_C11 T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug

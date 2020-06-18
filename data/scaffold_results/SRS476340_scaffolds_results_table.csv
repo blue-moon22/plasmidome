@@ -1,0 +1,23 @@
+NODE_1_length_2682_cov_20.206526_cutoff_5,Chromosome,--
+NODE_2_length_2508_cov_3.763060_cutoff_5,Chromosome,0,TonB_dep_Rec Plug
+NODE_3_length_2413_cov_2.011558_cutoff_5,Chromosome,--
+NODE_4_length_1949_cov_37.584402_cutoff_5,Chromosome,--
+NODE_5_length_1209_cov_7.931095_cutoff_5,Chromosome,--
+NODE_1_length_11791_cov_7.944169_cutoff_0,Plasmid,10.48,Phage_pRha DnaB_C Toprim_2 Toprim_3 Phage_integrase Phage_int_SAM_1 Phage_int_SAM_4 AAA_31 HTH_17 Rep_3
+NODE_2_length_8056_cov_4.927560_cutoff_0,Chromosome,0,Late_protein_L1 E6 Late_protein_L2 PPV_E2_N E7 PPV_E1_C PPV_E1_N PPV_E2_C
+NODE_3_length_4454_cov_38.571853_cutoff_0,Plasmid,12.65,MobA_MobL Rep_3 PemK_toxin MobA_MobL
+NODE_4_length_3493_cov_2.202869_cutoff_0,Plasmid,2.52,Rep_2
+NODE_5_length_3484_cov_2.229821_cutoff_0,Chromosome,0,Rep_trans
+NODE_6_length_2948_cov_23.938349_cutoff_0,Plasmid,5.48,Rep_1
+NODE_7_length_2730_cov_19.681870_cutoff_0,Chromosome,--
+NODE_8_length_2623_cov_1.888845_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_9_length_1227_cov_24.554783_cutoff_0,Chromosome,--
+NODE_10_length_1001_cov_1.424242_cutoff_0,Chromosome,0,Mub_B2
+NODE_11_length_937_cov_1.543023_cutoff_0,Chromosome,--
+NODE_12_length_807_cov_1.228767_cutoff_0,Chromosome,--
+NODE_13_length_673_cov_1.162752_cutoff_0,Chromosome,0,Imm-NTF2
+NODE_14_length_635_cov_2.241935_cutoff_0,Chromosome,--
+NODE_15_length_605_cov_8.825758_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_16_length_605_cov_5.628788_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_17_length_604_cov_2.383302_cutoff_0,Chromosome,--
+NODE_18_length_587_cov_1.780392_cutoff_0,Chromosome,--

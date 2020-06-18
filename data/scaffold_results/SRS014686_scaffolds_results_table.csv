@@ -1,0 +1,12 @@
+NODE_1_length_2688_cov_11.958637_cutoff_10,Chromosome,0,HK TMP-TENI TENA_THI-4
+NODE_1_length_1866_cov_2.415316_cutoff_0,Chromosome,0,ABC_tran ABC_tran
+NODE_2_length_1286_cov_0.628619_cutoff_0,Chromosome,--
+NODE_3_length_1232_cov_2.638961_cutoff_0,Chromosome,-12.380441371890043,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_4_length_1162_cov_1.003687_cutoff_0,Chromosome,--
+NODE_5_length_823_cov_1.290885_cutoff_0,Chromosome,0,CarbopepD_reg_2
+NODE_6_length_587_cov_2.519608_cutoff_0,Chromosome,--
+NODE_1_length_3189_cov_3.631748_cutoff_5,Chromosome,--
+NODE_2_length_1409_cov_3.573574_cutoff_5,Chromosome,--
+NODE_3_length_1150_cov_1.453868_cutoff_5,Chromosome,0,TPR_8 TPR_8 TPR_8
+NODE_1_length_44121_cov_15.967328_cutoff_15,Plasmid,6.69,Baseplate_J DUF2313 DUF2577 DUF2634 Peptidase_M78 HTH_3 HTH_26 ANT Bro-N HNH_3 VirE Terminase_6 Phage_prot_Gp6 Phage_Mu_F Cys_rich_CPCC Band_7 Sipho_Gp157 Phage_GP20 AAA_24 DUF2001 Phage_sheath_1 Phage_sheath_1C Phage_sheath_1N HK97-gp10_like Phage_TAC_5 DUF3310 Prim-Pol PriCT_1 HNH_5 DUF1642 N6_N4_Mtase YopX DUF1372 Phage_integrase DUF2335 CHAP CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_1 Lipase_GDSL_2
+NODE_2_length_1424_cov_27.693393_cutoff_15,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP

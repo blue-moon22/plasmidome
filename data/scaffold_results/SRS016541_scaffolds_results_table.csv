@@ -1,0 +1,20 @@
+NODE_1_length_85239_cov_114.002865_cutoff_54,Chromosome,0,Muraidase PKD HNH_3 DNA_methylase BACON BACON Peptidase_S74 Collar dUTPase GPW_gp25 Helicase_C ResIII SWI2_SNF2 PhageMin_Tail Phage_T4_gp19 Thymidylat_synt LysM AAA_23 SbcCD_C Baseplate_J DnaB_C KTSC HNH_3 Cpn10 gp32 RecA 5_3_exonuc_N 5_3_exonuc DNA_pol_A DNA_pol_A_exo1 AAA_28 Metallophos HNH_3
+NODE_2_length_1130_cov_140.897436_cutoff_54,Chromosome,--
+NODE_1_length_15485_cov_19.412837_cutoff_0,Plasmid,3.26,DUF5397 CRISPR_Cas2 Fil_haemagg_2 EndoU_bacteria Fil_haemagg_2 PT-VENN DUF5376 RPA ShlB POTRA_3 POTRA_2 Haemagg_act Fil_haemagg_2
+NODE_2_length_5259_cov_24.238325_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_3_length_4403_cov_2.220758_cutoff_0,Chromosome,0,DUF4214
+NODE_4_length_2827_cov_9.960727_cutoff_0,Chromosome,--
+NODE_5_length_2370_cov_1.918011_cutoff_0,Chromosome,0,AAA_14
+NODE_6_length_2161_cov_2.310940_cutoff_0,Chromosome,--
+NODE_7_length_2133_cov_47.915856_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_8_length_1981_cov_1.316702_cutoff_0,Chromosome,0,Glyco_hydro_16
+NODE_9_length_1592_cov_176.988779_cutoff_0,Chromosome,--
+NODE_10_length_1480_cov_1.391304_cutoff_0,Chromosome,--
+NODE_11_length_868_cov_1.707965_cutoff_0,Chromosome,--
+NODE_12_length_826_cov_3.985314_cutoff_0,Chromosome,--
+NODE_13_length_674_cov_0.994975_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_12342_cov_3.366245_cutoff_5,Chromosome,0,HYR CHU_C SprB SprB
+NODE_2_length_2099_cov_3.704253_cutoff_5,Chromosome,--
+NODE_3_length_1424_cov_1.564217_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_4_length_1286_cov_3.011580_cutoff_5,Chromosome,--
+NODE_1_length_39202_cov_17.537610_cutoff_15,Chromosome,0,HNH DUF5309 NLPC_P60 Phage_prot_Gp6 AAA_24 DUF3799 HTH_26 Phage_integrase Phage_int_SAM_3 Glyco_hydro_25 SSB RusA Phage_Gp19 DNA_methylase DNA_methylase

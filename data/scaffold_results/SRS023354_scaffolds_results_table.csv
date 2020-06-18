@@ -1,0 +1,8 @@
+NODE_1_length_5687_cov_2.804813_cutoff_0,Chromosome,-2.4971416835774463,HTH_3 Rep_trans Rol_Rep_N Multi_Drug_Res Phage_integrase Arm-DNA-bind_4 Phage_int_SAM_5 DUF3173
+NODE_2_length_4803_cov_7.334532_cutoff_0,Plasmid,5.35,HTH_3 Rep_3 Integrase_1 Phage_int_SAM_1 HTH_3
+NODE_3_length_3895_cov_20.914353_cutoff_0,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_4_length_3493_cov_35.748536_cutoff_0,Plasmid,2.52,Rep_2
+NODE_5_length_3169_cov_4.343790_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_6_length_2987_cov_4.599656_cutoff_0,Plasmid,5.35,Rep_3
+NODE_7_length_1487_cov_3.837589_cutoff_0,Chromosome,--
+NODE_8_length_1373_cov_10.348765_cutoff_0,Chromosome,--

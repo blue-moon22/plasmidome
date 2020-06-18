@@ -1,0 +1,30 @@
+NODE_1_length_45855_cov_16.506488_cutoff_10,Chromosome,-5.687430547704224,HicA_toxin Phage_integrase P22_AR_N HicA_toxin Toprim_N Toprim_4 Toprim_2 zf-CHC2 Toprim DnaB_bind Methylase_S Peptidase_S49 MTS Phage_holin_4_1 Glucosaminidase DUF4406
+NODE_1_length_2784_cov_37.207979_cutoff_70,Chromosome,0,TMP-TENI TENA_THI-4 HK
+NODE_1_length_238182_cov_20.090284_cutoff_0,Chromosome,-5.023742099404458,YdjM SpoVG Helicase_C ResIII SNF2_N Hexapep FtsK_SpoIIIE DUF1002 TPM_phosphatase DUF1653 DUF3310 Cauli_VI RNase_H G5 Gram_pos_anchor G5 G5 G5 G5 YSIRK_signal CHAP Phage_lysozyme2 MPTase-PolyVal DUF1738 FHA PP2C_2 Pkinase ATP-cone Toprim DNA_gyraseB_C DNA_gyraseB DNA_topoisoIV Gram_pos_anchor ParBc UvrD-helicase UvrD_C PALP Methyltransf_11 Band_7 HNH Helicase_C ResIII AAA_30 SWI2_SNF2 ResIII HD DNA_ligase_aden DUF3953 DnaB_C PC4 Fic AAA_15 LemA NMN_transporter 5_3_exonuc_N Glucosaminidase zf-CHC2 Metallophos_2 dUTPase DnaJ Glycos_transf_1 Endonuclea_NS_2 AgI_II_C2 Antigen_C Antigen_C Gram_pos_anchor DNA_pol3_delta2 Glutaredoxin Toprim_2 DNA_pol_A DNA_pol_A_exo1 Peptidase_S24
+NODE_2_length_210006_cov_22.136818_cutoff_0,Plasmid,3.08,Cpn10 Cpn60_TCP1 5_3_exonuc_N ABC_tran Metallophos Phage_pRha ANT Toprim HATPase_c DNA_topoisoIV ArdA OrfB_Zn_ribbon OrfB_IS605 OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 DUF4494 Band_7 Phage_pRha Metallophos ArdA Ribonuc_red_lgC HTH_OrfB_IS605 RNA_ligase OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 Bro-N Bro-N ANT Collagen Collagen Collagen Collagen ANT Bro-N RNA_pol_Rpb1_2 RNA_pol_Rpb2_6 Thymidylat_synt Glucosaminidase DNA_pol_B_exo2 Ribonuc_red_lgC Intein_splicing ANT KilA-N OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 HNH_3 Toprim_2 dUTPase Bro-N ANT Bro-N Bro-N ANT DUF3310 DHFR_1 Phage_lysozyme2 Peptidase_M23 DNA_pol_A RNA_lig_T4_1 Metallophos AAA_33 Zeta_toxin Collagen Intein_splicing Exo_endo_phos Bro-N ANT OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 DnaB_C RusA RlaP
+NODE_3_length_6773_cov_38.771953_cutoff_0,Chromosome,0,IstB_IS21 MerR_1 Phage_rep_org_N DnaB_2 Phage_pRha HTH_3
+NODE_4_length_5564_cov_3.294514_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_5_length_4231_cov_37.711363_cutoff_0,Plasmid,9.21,Mob_Pre HTH_3 Rep_3
+NODE_6_length_3843_cov_46.592140_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_7_length_2880_cov_9.134856_cutoff_0,Plasmid,5.48,Rep_1
+NODE_8_length_1013_cov_3.331197_cutoff_0,Chromosome,--
+NODE_9_length_938_cov_2.373984_cutoff_0,Chromosome,--
+NODE_10_length_848_cov_25.267185_cutoff_0,Chromosome,--
+NODE_11_length_767_cov_2.136232_cutoff_0,Chromosome,--
+NODE_12_length_707_cov_1.960317_cutoff_0,Chromosome,--
+NODE_13_length_665_cov_2.767007_cutoff_0,Chromosome,0,Antigen_C
+NODE_14_length_635_cov_35.827957_cutoff_0,Chromosome,--
+NODE_15_length_620_cov_0.837937_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 Mub_B2
+NODE_16_length_617_cov_4.938889_cutoff_0,Chromosome,--
+NODE_17_length_615_cov_2.715613_cutoff_0,Chromosome,--
+NODE_18_length_614_cov_1.474860_cutoff_0,Chromosome,--
+NODE_1_length_1792_cov_21.331778_cutoff_20,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_2_length_1268_cov_50.333333_cutoff_20,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_39337_cov_25.573051_cutoff_5,Chromosome,0,Whib PIF1 HIRAN PDDEXK_1 HNH RNase_H_2 DUF4214 CHAP Head-tail_con LAGLIDADG_1
+NODE_2_length_3716_cov_3.301456_cutoff_5,Plasmid,9.21,Mob_Pre Rep_3
+NODE_3_length_2417_cov_13.626068_cutoff_5,Chromosome,0,Fic Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S
+NODE_4_length_1478_cov_1.449679_cutoff_5,Chromosome,--
+NODE_5_length_1218_cov_5.347064_cutoff_5,Chromosome,0,Bax1-I
+NODE_6_length_1178_cov_2.650318_cutoff_5,Chromosome,--
+NODE_1_length_210006_cov_22.136818_cutoff_15,Plasmid,3.08,Ribonuc_red_lgC Intein_splicing Bro-N ANT Bro-N ANT DNA_pol_B_exo2 dUTPase Phage_lysozyme2 Peptidase_M23 Phage_pRha ANT OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 DUF4494 ArdA Bro-N ANT Cpn60_TCP1 Cpn10 RlaP Bro-N OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 DnaB_C Toprim_2 OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 Band_7 ArdA Metallophos Phage_pRha Exo_endo_phos ANT KilA-N Ribonuc_red_lgC Glucosaminidase OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 Collagen ANT Bro-N DHFR_1 5_3_exonuc_N Intein_splicing OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 ABC_tran Metallophos Toprim HATPase_c RNA_lig_T4_1 Metallophos AAA_33 Zeta_toxin DNA_topoisoIV DNA_pol_A RNA_ligase HNH_3 Collagen Bro-N ANT Bro-N DUF3310 RusA Collagen Collagen Collagen RNA_pol_Rpb1_2 Thymidylat_synt RNA_pol_Rpb2_6
+NODE_2_length_2075_cov_12.186687_cutoff_15,Chromosome,0,YadA_stalk YadA_stalk

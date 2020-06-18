@@ -1,0 +1,24 @@
+NODE_1_length_63613_cov_45.087336_cutoff_10,Plasmid,3.57,PDDEXK_1 DNA_pol_A DNA_pol_A DNA_pol_A_exo1 Big_8 Collagen_bind AAA_25 RepB_primase Glucosaminidase GbpC BspA_v BspA_v Glyco_hydro_25 Phage_holin_Dp1 DUF1642 YopX HNH_3 RuvC dUTPase AAA_24 DUF3310
+NODE_2_length_41945_cov_11.218448_cutoff_10,Chromosome,0,FlbD DUF669 YopX FlbD Glutaredoxin PRA-PH DUF3310 Sigma70_r4 AAA_24 HTH_3 Helicase_C SNF2_N Glucosaminidase Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_1 HNH Terminase_4 Terminase_1 Phage_portal CLP_protease Phage_capsid Phage_connect_1 HTH_5 Peptidase_M78 Phage_integrase Phage_int_SAM_3 Methylase_S N6_Mtase HTH_26 Gp58 Prophage_tail PhageMin_Tail YqaJ Hjc
+NODE_3_length_31015_cov_37.671019_cutoff_10,Chromosome,0,SH3_5 Terminase_1 L_lac_phage_MSP Amidase_2 SH3_5 Phage_portal HNH Phage_holin_4_1
+NODE_1_length_186601_cov_13.268282_cutoff_0,Chromosome,-5.419331731119854,AntA Thioredoxin Ribonuc_red_lgC Ribonuc_red_lgC Thioredoxin dUTPase DNA_pol_A Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_lgC ANT ANT Phage_pRha ANT Phage_pRha AAA_15 Metallophos 5_3_exonuc_N Cpn60_TCP1 AntA ANT OrfB_IS605 OrfB_Zn_ribbon ANT Phage_pRha RNA_pol_Rpb1_2 Toprim_2 DUF5051 AAA Lipase_GDSL_2 OrfB_Zn_ribbon GIY-YIG OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 AntA ANT Intein_splicing RusA RNase_H SLT DPBB_1 Toprim DNA_topoisoIV HTH_OrfB_IS605 OrfB_Zn_ribbon Cpn10 Peptidase_M15_4 Band_7 RNase_T AAA_28 Fic Metallophos AAA Ribonuc_red_lgC Ribonuc_red_lgC OrfB_IS605 OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 RNA_pol_Rpb2_6
+NODE_2_length_184712_cov_16.706453_cutoff_0,Chromosome,-2.0025479378967788,HATPase_c_3 YadA_anchor YadA_stalk YadA_head Band_7 Thymidylat_synt PDDEXK_1 SNase DHFR_1 RNase_H Phage_lysozyme Intein_splicing Tn7_Tnp_TnsA_N LAGLIDADG_3 Helicase_RecD Terminase_6 Prok-E2_D Whirly AdoMet_dc SpoVG Hydrolase_2 RVT_1 DUF1768 Fer2_BFD DUF559 RecA PRA-PH PHP DNA_pol3_alpha DNA_pol3_alpha Radical_SAM Ribonuc_red_lgC Ribonuc_red_lgC Collagen Peptidase_M23 Collagen RuvC ThiF LAGLIDADG_2 Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN Glutaredoxin Phage_portal NAPRTase DUF5598 tRNA-synt_1g Peptidase_M23 Spermine_synth DNA_pol3_alpha HHH_6 Toprim_2 DnaB_C Toprim_N
+NODE_3_length_139219_cov_11.631384_cutoff_0,Plasmid,6.04,Ribonuc_red_sm Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC LAGLIDADG_3 ArdA Metallophos OmpA OrfB_Zn_ribbon Bro-N OrfB_IS605 HTH_OrfB_IS605 Phage_pRha OMP_b-brl_2 ANT Band_7 ANT Phage_pRha ResIII Glucosaminidase NLPC_P60 ANT Phage_pRha Peptidase_M15_4 YopX RNase_H PRA-PH Cpn60_TCP1 YopX OrfB_IS605 OrfB_Zn_ribbon YopX YopX RecA Thymidylat_synt DnaB_C Asp_protease_2 DPBB_1 DHFR_1 ArdA
+NODE_4_length_43941_cov_31.668247_cutoff_0,Plasmid,2.67,Phage_r1t_holin Spherulin4 Collar Glyco_hydro_25 HTH_8 SSB DnaB_C LAGLIDADG_3 Hom_end HNH Phage_prot_Gp6 Phage_Gp19 DUF5403 TIG ERF DUF3310 Phage_capsid
+NODE_5_length_31302_cov_37.844516_cutoff_0,Chromosome,0,Amidase_2 SH3_5 Terminase_1 SH3_5 Phage_holin_4_1 Phage_portal HNH L_lac_phage_MSP
+NODE_6_length_15485_cov_56.101246_cutoff_0,Plasmid,6.51,RPA DUF5376 CRISPR_Cas2 RPA Fil_haemagg_2 Haemagg_act EndoU_bacteria Fil_haemagg_2 PT-VENN Fil_haemagg_2 Fil_haemagg_2 ShlB POTRA_3 POTRA_2 DUF5397
+NODE_7_length_2885_cov_30.306624_cutoff_0,Chromosome,--
+NODE_8_length_1706_cov_3.133824_cutoff_0,Chromosome,-17.332617920646072,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_9_length_1591_cov_5.593791_cutoff_0,Chromosome,--
+NODE_10_length_1583_cov_1.460823_cutoff_0,Chromosome,0,Trp_ring Trp_ring
+NODE_11_length_1484_cov_1.704335_cutoff_0,Chromosome,0,FtsX MacB_PCD
+NODE_12_length_1482_cov_1.386477_cutoff_0,Chromosome,0,DUF559
+NODE_13_length_738_cov_2.267776_cutoff_0,Chromosome,--
+NODE_14_length_704_cov_1.716108_cutoff_0,Chromosome,--
+NODE_15_length_671_cov_1.868687_cutoff_0,Chromosome,--
+NODE_1_length_36803_cov_3.608996_cutoff_5,Plasmid,3.98,Phage_TTP_1 Sipho_tail PhageMin_Tail AAA_24 VirE Phage_holin_1 CHAP AP2 CLP_protease Peptidase_M78 DUF3310 DUF1642 DUF1372 Phage_capsid Phage_portal HTH_26 Phage_integrase Gp58 Prophage_tail Prim-Pol PriCT_1 Terminase_1 MazG
+NODE_2_length_5051_cov_5.067752_cutoff_5,Chromosome,--
+NODE_3_length_1643_cov_8.002554_cutoff_5,Chromosome,0,YadA_stalk
+NODE_4_length_1427_cov_1.968889_cutoff_5,Chromosome,0,FctA FctA FctA FctA
+NODE_5_length_1373_cov_7.402778_cutoff_5,Chromosome,--
+NODE_1_length_33803_cov_12.118662_cutoff_15,Chromosome,-6.577334524407139,MlaA SpecificRecomb MlaC Hemerythrin Redoxin 4HBT_2 Oxidored_q2 Glyoxalase Proton_antipo_M Proton_antipo_N Proton_antipo_C Proton_antipo_M Oxidored_q5_N Lactamase_B_2 MlaE Proton_antipo_M Oxidored_q4 STAS_2 MlaD Oxidored_q6 GFA 2Fe-2S_thioredx Complex1_30kDa Complex1_49kDa Complex1_51K NADH_4Fe-4S SLBB NADHdh DDE_Tnp_IS1595 Molybdopterin Fer2_4 NADH-G_4Fe-4S_3 Fer2 Oxidored_q3 EthD Fer4_7 YCII Hemerythrin Hemerythrin LprI

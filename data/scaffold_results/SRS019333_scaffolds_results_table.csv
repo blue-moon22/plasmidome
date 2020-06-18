@@ -1,0 +1,15 @@
+NODE_1_length_3281_cov_88.097378_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_2_length_3128_cov_57.937398_cutoff_0,Plasmid,10.69,Rep_3 VbhA Rep_3
+NODE_3_length_1765_cov_4.214455_cutoff_0,Chromosome,0,SpaA Gram_pos_anchor GramPos_pilinD1
+NODE_4_length_1244_cov_1.255356_cutoff_0,Chromosome,0,adh_short_C2 adh_short
+NODE_5_length_1214_cov_6.751979_cutoff_0,Chromosome,0,WD40 WD40 WD40 WD40 WD40 WD40
+NODE_6_length_970_cov_6.571109_cutoff_0,Chromosome,--
+NODE_7_length_806_cov_0.855967_cutoff_0,Chromosome,0,DUF2262
+NODE_8_length_737_cov_0.863636_cutoff_0,Chromosome,--
+NODE_9_length_644_cov_1.633157_cutoff_0,Chromosome,--
+NODE_1_length_1362_cov_107.877043_cutoff_33,Chromosome,--
+NODE_1_length_2733_cov_9.119729_cutoff_5,Chromosome,0,PS_pyruv_trans Polysacc_synt_C Polysacc_synt
+NODE_2_length_2021_cov_5.947531_cutoff_5,Chromosome,0,DUF5635 HATPase_c_4 AlbA_2
+NODE_3_length_1878_cov_4.121044_cutoff_5,Chromosome,-7.33873157916933,TPR_16 TPR_16 TPR_16 TPR_6 TPR_8 TPR_8 TPR_8 TPR_8 TPR_6 TPR_8 TPR_8
+NODE_4_length_1685_cov_8.109453_cutoff_5,Chromosome,0,DUF559
+NODE_1_length_12895_cov_6.064753_cutoff_10,Chromosome,0,GPW_gp25 FAD_binding_7 DNA_photolyase IcmF_C IcmF-related PAAR_motif T6SS_TssF T6SS_VasJ ImpA_N T6SS-SciN T6SS_TssG

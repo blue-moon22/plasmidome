@@ -1,0 +1,20 @@
+NODE_1_length_5867_cov_7.183420_cutoff_10,Chromosome,0,TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg SusD-like_2 SusD-like SusD-like_2
+NODE_1_length_96028_cov_16.841231_cutoff_0,Chromosome,0,Asp_protease_2 GIY-YIG NUMOD3 NUMOD3 Sigma70_r2 Sigma70_r4_2 HNH AAA DUF3799 dUTPase AAA_5 AAA_24 zf-CHC2 DnaB_C GIY-YIG
+NODE_2_length_77721_cov_805.149735_cutoff_0,Plasmid,30.04,Topoisom_bac Toprim_Crpt Toprim MazE_antitoxin Lar_restr_allev Mrr_cat zf-C4_Topoisom RHH_3 SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA HTH_3 DUF4317 DUF3970 DUF4942 MTS DUF932 AAA_31 ParBc DUF4314 LRR_5 LRR_5 DUF3846 DUF4314 RNase_T Resolvase DUF5348 SSB MobC T4SS-DNA_transf AAA_28 Relaxase HTH_28 rve HTH_21 TrbL DUF87 fn3 fn3
+NODE_3_length_41348_cov_13.545807_cutoff_0,Plasmid,3.98,PhageMin_Tail Sipho_tail Prophage_tail XhlA Phage_holin_1 SH3_5 Amidase_2 Glutaredoxin Lactamase_B_3 DUF3310 Prim-Pol PriCT_1 SNF2_N DUF1140 D5_N Terminase_4 Terminase_1 HNH MethyltransfD12 DUF1351 Phage_H_T_join Phage_TTP_1 Phage_capsid Peptidase_S78 Phage_connect_1 Phage_portal
+NODE_4_length_7493_cov_21.235437_cutoff_0,Plasmid,5.35,Gp49 DNA_methylase HTH_3 Rep_3
+NODE_5_length_5189_cov_8.743740_cutoff_0,Plasmid,5.34,PBECR3 ParG HTH_17
+NODE_6_length_2573_cov_6.340545_cutoff_0,Chromosome,0,Peptidase_M91
+NODE_7_length_2411_cov_25.487575_cutoff_0,Chromosome,0,Sigma70_r2 Sigma70_r4_2 Sigma70_r4_2
+NODE_8_length_1679_cov_0.744694_cutoff_0,Chromosome,0,AAA_14 DUF4143
+NODE_1_length_78039_cov_217.874157_cutoff_42,Chromosome,0,Phage_T4_gp19 AAA_28 SMC_N dUTPase RecA 5_3_exonuc_N Cpn10 gp32 HNH_3 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt Metallophos HNH_3 DNA_methylase HNH_3 KTSC PhageMin_Tail GPW_gp25 Baseplate_J PKD Helicase_C ResIII HNH_3 dUTPase_2 Amidase_3 DnaB_C
+NODE_1_length_10813_cov_6.334110_cutoff_5,Chromosome,0,ABC_tran Zn_ribbon_recom Recombinase SNF RloB AAA_21
+NODE_2_length_5372_cov_3.114070_cutoff_5,Plasmid,4.09,MobC
+NODE_3_length_4091_cov_1.770304_cutoff_5,Chromosome,0,Recombinase YhcG_C DUF1016_N KilA-N
+NODE_4_length_2018_cov_3.458527_cutoff_5,Chromosome,0,Glucosaminidase
+NODE_5_length_1433_cov_1.865044_cutoff_5,Chromosome,--
+NODE_6_length_1305_cov_5.375407_cutoff_5,Chromosome,-2.9697460945196408,DUF5128
+NODE_7_length_1253_cov_5.152211_cutoff_5,Chromosome,0,DUF5043 DUF5043
+NODE_1_length_77496_cov_806.160542_cutoff_564,Plasmid,30.04,Topoisom_bac Toprim_Crpt Toprim HTH_3 DUF4317 fn3 fn3 Lar_restr_allev MazE_antitoxin DUF4314 HTH_28 rve HTH_21 Relaxase MobC SSB DUF5348 Mrr_cat zf-C4_Topoisom DUF3970 RNase_T Resolvase DUF3846 DUF4314 LRR_5 LRR_5 AAA_31 DUF932 ParBc T4SS-DNA_transf AAA_28 TrbL DUF87 RHH_3 DUF4942 MTS SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA
+NODE_1_length_35889_cov_37.834022_cutoff_15,Plasmid,31.35,PLCC TrbL SSB DUF1738 MPTase-PolyVal DUF3945 DUF3945 DUF4138 DUF4138 Transposon_TraM bPH_2 Resolvase HTH_7 TraO DUF3875 T4SS-DNA_transf MipZ MobC Relaxase Resolvase HTH_7 HTH_11 HTH_3 AbiEii AbiEii Toprim_2 DUF2582 DUF2582
+NODE_2_length_5872_cov_30.502330_cutoff_15,Chromosome,0,Fic HTH_17 TnpV Virulence_RhuM

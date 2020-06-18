@@ -1,0 +1,7 @@
+NODE_1_length_9252_cov_110.397929_cutoff_15,Chromosome,0,DnaB_C Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_1_length_63762_cov_173.383434_cutoff_0,Plasmid,3.57,PDDEXK_1 HTH_3 DNA_pol_A_exo1 DUF3310 dUTPase AAA_24 DUF3882 DNA_pol_A AAA_25 RepB_primase CW_binding_1 CW_binding_1 CW_binding_1 Amidase_2 CW_binding_1 CW_binding_1 Phage_lysozyme2 DHFR_1 Phage_holin_Dp1
+NODE_2_length_4746_cov_6.693510_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N AAA_22
+NODE_3_length_762_cov_0.826277_cutoff_0,Chromosome,0,DUF1310
+NODE_4_length_602_cov_4.792381_cutoff_0,Chromosome,--
+NODE_1_length_1633_cov_1.235861_cutoff_5,Chromosome,0,OmpA
+NODE_2_length_1229_cov_2.427951_cutoff_5,Chromosome,0,G5 G5 G5 G5

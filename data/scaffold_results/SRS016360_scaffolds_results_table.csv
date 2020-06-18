@@ -1,0 +1,22 @@
+NODE_1_length_1365_cov_37.432453_cutoff_26,Chromosome,0,DUF1707
+NODE_1_length_9653_cov_50.498851_cutoff_54,Chromosome,0,AMP-binding PP-binding DoxX_2 AMP-binding Transposase_mut
+NODE_1_length_1769_cov_19.713948_cutoff_20,Chromosome,0,SBP_bac_5 SBP_bac_5
+NODE_1_length_43620_cov_31.398594_cutoff_15,Plasmid,0.80,DUF4373 Collagen Glyco_hydro_25 AAA_23 Baseplate_J Phage_GPD RecT Lactamase_B_2 ANT AntA Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 Phage_cap_E Phage_tube PcfJ Gifsy-2 HTH_3 HTH_3 Hypoth_Ymh HTH_17 Phage_P2_GpU Phage_tail_X IstB_IS21 Tail_P2_I N6_Mtase Terminase_GpA CLP_protease Phage_portal_2
+NODE_1_length_2962_cov_5.486655_cutoff_5,Chromosome,0,DDE_Tnp_ISL3 zf-ISL3 HTH_3 DDE_Tnp_ISL3
+NODE_2_length_1418_cov_3.971663_cutoff_5,Chromosome,0,Big_6 Big_6
+NODE_3_length_1136_cov_4.564684_cutoff_5,Chromosome,--
+NODE_1_length_9970_cov_15.316992_cutoff_0,Chromosome,0,DDE_Tnp_1 DJ-1_PfpI MFS_1 Beta-lactamase2 Radical_SAM
+NODE_2_length_3128_cov_40.740741_cutoff_0,Plasmid,5.35,VbhA Rep_3
+NODE_3_length_2002_cov_1.836883_cutoff_0,Chromosome,0,Peptidase_C2
+NODE_4_length_1223_cov_47.229494_cutoff_0,Chromosome,--
+NODE_5_length_1036_cov_3.105318_cutoff_0,Chromosome,--
+NODE_6_length_950_cov_5.800687_cutoff_0,Chromosome,--
+NODE_7_length_829_cov_0.886968_cutoff_0,Chromosome,--
+NODE_8_length_750_cov_1.448737_cutoff_0,Chromosome,--
+NODE_9_length_722_cov_1.255814_cutoff_0,Chromosome,0,DUF4190
+NODE_10_length_701_cov_22.480769_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_11_length_683_cov_11.955446_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_12_length_671_cov_1.409091_cutoff_0,Chromosome,0,Cadherin_pro
+NODE_13_length_635_cov_1.340502_cutoff_0,Chromosome,0,Big_2 Big_2
+NODE_14_length_620_cov_2.154696_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 Mub_B2
+NODE_15_length_594_cov_0.841393_cutoff_0,Chromosome,--

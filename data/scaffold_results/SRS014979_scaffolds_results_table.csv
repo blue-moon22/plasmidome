@@ -1,0 +1,33 @@
+NODE_1_length_76461_cov_151.962073_cutoff_118,Chromosome,0,DUF1722 gp32 dUTPase_2 Cpn10 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt dUTPase AAA_23 SbcCD_C AAA_28 Metallophos RecA LAGLIDADG_2 RecA 5_3_exonuc_N 5_3_exonuc KTSC DnaB_C Amidase_3 Helicase_C ResIII GPW_gp25 Baseplate_J PKD DNA_methylase Phage_T4_gp19 LysM PhageMin_Tail
+NODE_1_length_1874_cov_27.289371_cutoff_26,Chromosome,--
+NODE_1_length_37738_cov_163.633361_cutoff_91,Chromosome,-5.536738867069623,Arc HTH_3 HTH_3 DUF2800 DNA_pol_A DUF2815 VRR_NUC VirE SNF2_N Phage_holin_1 Amidase_3 SPOR Peptidase_Prp Terminase_6 Collagen Collagen
+NODE_1_length_148035_cov_33.826924_cutoff_20,Chromosome,0,AAA_23 RVT_1 RRXRR HNH DUF4494 dUTPase PIF1 LAGLIDADG_3 Hom_end Bro-N ANT DNA_pol3_beta_2 Intein_splicing OrfB_Zn_ribbon OrfB_IS605 Phage_lysozyme2 Phage_lysozyme DNA_methylase DNA_methylase Thymidylat_synt HNH_3 OrfB_IS605 PNK3P DUF3268 DnaB_C BACON BACON Bro-N ANT BACON ResIII Helicase_C PDDEXK_1 Band_7 Flot
+NODE_2_length_13367_cov_19.098796_cutoff_20,Chromosome,0,Phage_integrase Flg_new HTH_3 Flg_new Flg_new
+NODE_1_length_3261_cov_46.123744_cutoff_54,Chromosome,0,HipA_C Couple_hipA HTH_3
+NODE_2_length_3147_cov_50.657003_cutoff_54,Chromosome,0,LPD28 N6_Mtase
+NODE_1_length_44190_cov_23.252035_cutoff_10,Chromosome,0,ERCC4 HTH_19 HTH_17 Phage_GP20 LexA_DNA_bind DUF927 HTH_56 zf-CHC2 Phage_min_cap2 HTH_3 S-l_SbsC_C Phage_holin_5_2 Minor_capsid_2 DUF551 Terminase_3 Terminase_2 Terminase_3C YopX AAA_24 Phage_Gp15 Glyco_hydro_25 LytTR Response_reg tRNA_anti-like Phage_integrase
+NODE_2_length_41549_cov_16.399860_cutoff_10,Chromosome,0,SSB ASCH Terminase_6 HNH_3 DNA_methylase AAA_23 Lipase_GDSL_2 Amidase_3 HNH_3 NUMOD1 NUMOD4 RNase_T
+NODE_3_length_1515_cov_4.374826_cutoff_10,Chromosome,--
+NODE_4_length_1423_cov_11.492571_cutoff_10,Chromosome,0,Lipase_GDSL_lke
+NODE_1_length_109707_cov_10.928022_cutoff_0,Plasmid,5.35,RecA Metallophos PNK3P Bac_DNA_binding RNase_H SNF2_N Phage_portal Sigma70_r4_2 Sigma70_r2 Cpn60_TCP1 DUF4494 GIY-YIG NUMOD3 NUMOD3 NUMOD3 DNA_pol3_alpha DNA_pol3_finger HHH_6 PHP Glucosaminidase DUF2400 AAA_19 UvrD_C UvrD_C_2 NUMOD3 GIY-YIG NUMOD3 NUDIX Ferritin DNA_ligase_aden DNA_ligase_OB BRCT NUMOD3 NUMOD3 GIY-YIG NUMOD3 Flg_new Flg_new Flg_new Flg_new Flg_new Flg_new Flg_new Flg_new Flg_new Baseplate_J DUF2829 Ploopntkinase2 Thymidylat_synt Peptidase_C1 DnaB_C Hom_end_hint Terminase_6C RNase_T GIY-YIG Rep_3 HD_2 NUMOD3 GIY-YIG dUTPase aGPT-Pplase1
+NODE_2_length_9017_cov_2.254027_cutoff_0,Plasmid,3.51,Relaxase CRISPR_Cas2 ORF6N
+NODE_3_length_8616_cov_4.959831_cutoff_0,Chromosome,0,HTH_17 Inhibitor_G39P Sigma70_r2 Fic HTH_3 Phage_integrase Phage_int_SAM_3
+NODE_4_length_6689_cov_10.323049_cutoff_0,Chromosome,0,Gp49 RelB HTH_3
+NODE_5_length_4623_cov_77.934668_cutoff_0,Plasmid,10.69,Rep_3 Rep_3
+NODE_6_length_3006_cov_1.901673_cutoff_0,Chromosome,0,Bro-N
+NODE_7_length_2152_cov_2.423133_cutoff_0,Chromosome,--
+NODE_8_length_1341_cov_15.856013_cutoff_0,Chromosome,0,Inhibitor_I69
+NODE_9_length_1096_cov_3.625123_cutoff_0,Chromosome,0,F5_F8_type_C
+NODE_10_length_1018_cov_0.734325_cutoff_0,Chromosome,--
+NODE_11_length_973_cov_1.081473_cutoff_0,Chromosome,--
+NODE_12_length_700_cov_1.703050_cutoff_0,Chromosome,--
+NODE_1_length_37576_cov_9.973653_cutoff_5,Chromosome,-1.040517407206167,YopX UPF0122 Phage_min_cap2 Terminase_3 Peptidase_M48 CHB_HEX_C_1 ERF IstB_IS21 SSB HTH_3 Bro-N Phage_integrase HTH_3 PAPS_reduct
+NODE_2_length_14783_cov_4.086835_cutoff_5,Chromosome,0,T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug Peptidase_C11
+NODE_3_length_12873_cov_8.827837_cutoff_5,Plasmid,2.48,BrnT_toxin SBP_bac_1 PIN MazE_antitoxin BrnA_antitoxin HTH_3 AAA_31 RelB YafQ_toxin
+NODE_4_length_3926_cov_1.854248_cutoff_5,Chromosome,0,AMP-binding AMP-binding_C
+NODE_5_length_2452_cov_2.429895_cutoff_5,Chromosome,0,DUF4372 AbiEii
+NODE_6_length_1697_cov_5.945679_cutoff_5,Chromosome,--
+NODE_7_length_1576_cov_6.607071_cutoff_5,Chromosome,0,LRR_5 LRR_5
+NODE_8_length_1409_cov_6.277027_cutoff_5,Chromosome,0,DDE_Tnp_1_assoc DDE_Tnp_1
+NODE_9_length_1337_cov_3.457143_cutoff_5,Chromosome,0,LRR_5 LRR_5
+NODE_10_length_1244_cov_7.059126_cutoff_5,Chromosome,--

@@ -1,0 +1,37 @@
+NODE_1_length_3613_cov_280.921663_cutoff_91,Chromosome,0,HTH_Tnp_1 rve
+NODE_1_length_27597_cov_96.379360_cutoff_118,Chromosome,0,Alpha-amylase Cyc-maltodext_N Cyc-maltodext_C Peptidase_M41 AAA AAA_lid_3 Cytidylate_kin2 HTH_18 Sigma70_r4_2 Sigma70_r2 OMP_b-brl Methyltransf_23 Fic Alpha-amylase Alpha-amylase SusD_RagB SusD-like_3 MFS_1 MFS_1 HTH_18 TonB_dep_Rec Plug CarbopepD_reg_2 Glyco_hydro_97 GH97_N GH97_C HTH_18
+NODE_2_length_24217_cov_87.434258_cutoff_118,Chromosome,-2.4971416835774463,adh_short_C2 Aldo_ket_red Aldo_ket_red HTH_17 HTH_17 Aldo_ket_red DMT_YdcZ DMT_YdcZ FMN_red adh_short HTH_18 AraC_binding FMN_red Biotin_lipoyl_2 HlyD_3 ACR_tran OEP OEP HATPase_c Response_reg HisKA Sigma54_activat Response_reg HTH_8 Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5 Transposase_20 DEDD_Tnp_IS110
+NODE_1_length_9205_cov_153.316499_cutoff_10,Plasmid,5.35,Gp49 HTH_3 Rep_3 GerE
+NODE_1_length_5814_cov_11.047237_cutoff_0,Plasmid,3.86,Mob_Pre RelB YafQ_toxin
+NODE_2_length_4601_cov_1.983422_cutoff_0,Chromosome,0,Peptidase_M14 DUF3021
+NODE_3_length_4446_cov_3.224994_cutoff_0,Plasmid,9.00,Rep_3 MobA_MobL
+NODE_4_length_4225_cov_158.097637_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_5_length_2872_cov_1.073703_cutoff_0,Chromosome,0,Ntox44 RicinB_lectin_2 RicinB_lectin_2 Ricin_B_lectin
+NODE_6_length_2150_cov_3.977328_cutoff_0,Plasmid,5.48,Rep_1
+NODE_7_length_1955_cov_6.529819_cutoff_0,Chromosome,--
+NODE_8_length_1822_cov_3.208596_cutoff_0,Chromosome,--
+NODE_9_length_977_cov_0.782222_cutoff_0,Chromosome,0,DNA_binding_1 Methyltransf_1N
+NODE_10_length_917_cov_2.304762_cutoff_0,Chromosome,--
+NODE_11_length_685_cov_0.740132_cutoff_0,Chromosome,--
+NODE_12_length_659_cov_0.785223_cutoff_0,Chromosome,--
+NODE_13_length_629_cov_1.878623_cutoff_0,Chromosome,--
+NODE_14_length_602_cov_1.394286_cutoff_0,Chromosome,--
+NODE_15_length_587_cov_12.192157_cutoff_0,Chromosome,0,MBG_2
+NODE_16_length_581_cov_1.968254_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_1_length_17245_cov_28.880708_cutoff_26,Chromosome,0,DUF4988 Mfa2 DUF3874 VirE DUF234 ATPase_2 AAA_14 AAA_22 AAA-ATPase_like PDDEXK_9 Mfa_like_1 DUF4988 Peptidase_C11
+NODE_2_length_5482_cov_22.199260_cutoff_26,Plasmid,5.35,Rep_3
+NODE_1_length_14085_cov_36.410551_cutoff_42,Chromosome,0,Terminase_6 OrfB_IS605 HTH_OrfB_IS605 OrfB_Zn_ribbon Phage_cap_E Phage_prot_Gp6 AntA ANT
+NODE_1_length_1815_cov_59.752589_cutoff_20,Chromosome,0,HTH_38
+NODE_1_length_57385_cov_11.811196_cutoff_5,Plasmid,10.74,HTH_3 Bro-N ANT HTH_26 AAA_24 DNA_methylase RHH_1 DUF551 DnaB_C HTH_3 Bro-N Glyco_hydro_25 Phage_cap_E Phage_prot_Gp6 RtcB Resolvase PAPS_reduct DUF5055 DUF433 HTH_3 Rep_3 DUF551 AAA_31 DUF551
+NODE_2_length_47804_cov_15.873405_cutoff_5,Plasmid,12.47,ERF DUF1599 MazG Resolvase RVT_1 SH3_3 DUF5309 Phage_prot_Gp6 DEDD_Tnp_IS110 Transposase_20 ResIII Helicase_C RecU HTH_3 Resolvase Recombinase Zn_ribbon_recom YqaJ DUF5055 PriCT_1 D5_N Pox_D5 PemK_toxin Thy1 GP3_package
+NODE_3_length_17061_cov_6.373999_cutoff_5,Chromosome,0,CTP_transf_3 Polysacc_synt Polysacc_synt_C CBM77 Pec_lyase_C HpcH_HpaI HMGL-like Hexapep DegT_DnrJ_EryC1 Glycos_transf_2 Glyco_transf_8 GDP_Man_Dehyd NTP_transferase Wzy_C
+NODE_4_length_12430_cov_7.404841_cutoff_5,Chromosome,-5.87297112425037,adh_short adh_short Phage_integrase Phage_int_SAM_5 HTH_26 HTH_30 GGDEF_2 Oxidored_FMN Pyr_redox_2 Pyr_redox NAD_binding_8 NAD_binding_8 Thi4 HI0933_like FAD_binding_2 GIDA
+NODE_5_length_5062_cov_2.758877_cutoff_5,Chromosome,0,Trans_reg_C Response_reg HATPase_c Aldo_ket_red
+NODE_6_length_4015_cov_9.196293_cutoff_5,Chromosome,--
+NODE_7_length_3831_cov_4.308737_cutoff_5,Chromosome,0,MFS_1 Radical_SAM SPASM
+NODE_8_length_3277_cov_3.140000_cutoff_5,Chromosome,0,ABC_tran
+NODE_9_length_2225_cov_5.907821_cutoff_5,Chromosome,0,DUF1768 DUF3990
+NODE_1_length_6084_cov_141.308973_cutoff_33,Plasmid,3.86,RelB YafQ_toxin Mob_Pre RelB
+NODE_1_length_6153_cov_43.853028_cutoff_15,Plasmid,3.86,RelB YafQ_toxin Mob_Pre
+NODE_2_length_5516_cov_12.762456_cutoff_15,Chromosome,0,Melibiase MFS_2 Xan_ur_permease
+NODE_3_length_1376_cov_11.729022_cutoff_15,Chromosome,0,Glug

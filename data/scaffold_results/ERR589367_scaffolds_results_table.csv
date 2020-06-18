@@ -1,0 +1,53 @@
+NODE_1_length_31459_cov_28.697757_cutoff_10,Plasmid,3.57,PhageMin_Tail Hjc Glyco_hydro_16 AAA_25 RepB_primase Peptidase_S78 Phage_portal Phage_capsid Terminase_1 Terminase_4 Thymidylat_synt Thioredoxin SNF2_N DNA_pol_A DNA_pol_A_exo1 PDDEXK_1 AAA_24 dCMP_cyt_deam_1
+NODE_1_length_36354_cov_4.664498_cutoff_0,Plasmid,3.21,DUF3846 DUF2335 Phage_integrase HTH_3 RusA Prim-Pol MerR_1 HK97-gp10_like DUF3168 Terminase_6C Terminase_6 Phage_prot_Gp6 Phage_Mu_F Phage_capsid PhageMin_Tail HTH_3
+NODE_2_length_10990_cov_3.907541_cutoff_0,Chromosome,-5.090795978478031,RecG_wedge DEAD Helicase_C Pyr_redox_2 S1 Tex_N Tex_YqgF HHH_3
+NODE_3_length_7104_cov_5.099189_cutoff_0,Plasmid,12.25,Resolvase Rep_1 Mob_Pre
+NODE_4_length_6117_cov_2.622020_cutoff_0,Chromosome,--
+NODE_5_length_5496_cov_42.347850_cutoff_0,Chromosome,--
+NODE_6_length_4478_cov_2.601227_cutoff_0,Plasmid,5.48,Rep_1 ParE_toxin
+NODE_7_length_4284_cov_74.314951_cutoff_0,Plasmid,16.45,HTH_11 CRISPR_Cas2 Relaxase MobC Replicase PriCT_1
+NODE_8_length_1749_cov_6.076555_cutoff_0,Chromosome,--
+NODE_9_length_1672_cov_1.890909_cutoff_0,Chromosome,0,PMT_2
+NODE_10_length_1671_cov_14.382685_cutoff_0,Chromosome,0,Rep_trans
+NODE_11_length_1609_cov_2.099217_cutoff_0,Plasmid,5.48,Rep_1
+NODE_12_length_1431_cov_1.635155_cutoff_0,Chromosome,0,TPM_phosphatase TPM_phosphatase
+NODE_13_length_1373_cov_11.739969_cutoff_0,Chromosome,--
+NODE_14_length_1337_cov_3.735714_cutoff_0,Chromosome,0,Antigen_C AgI_II_C2 AgI_II_C2 MucBP
+NODE_15_length_1262_cov_2.569620_cutoff_0,Chromosome,--
+NODE_16_length_1252_cov_1.324255_cutoff_0,Chromosome,--
+NODE_17_length_1251_cov_1.008518_cutoff_0,Chromosome,--
+NODE_18_length_1152_cov_1.183256_cutoff_0,Chromosome,--
+NODE_19_length_1119_cov_1.063340_cutoff_0,Chromosome,0,HTH_3 HTH_3 Gp49
+NODE_20_length_1055_cov_1.900818_cutoff_0,Chromosome,--
+NODE_21_length_1028_cov_0.788644_cutoff_0,Chromosome,0,Cna_B Cna_B
+NODE_22_length_761_cov_1.061404_cutoff_0,Chromosome,--
+NODE_23_length_731_cov_1.365443_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_24_length_715_cov_2.205329_cutoff_0,Chromosome,--
+NODE_25_length_710_cov_1.617694_cutoff_0,Chromosome,--
+NODE_26_length_686_cov_1.586207_cutoff_0,Chromosome,--
+NODE_27_length_683_cov_3.877888_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind
+NODE_28_length_683_cov_1.524752_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_29_length_669_cov_1.353041_cutoff_0,Chromosome,--
+NODE_30_length_638_cov_2.117647_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_31_length_636_cov_1.096601_cutoff_0,Chromosome,--
+NODE_32_length_623_cov_1.401099_cutoff_0,Chromosome,--
+NODE_33_length_614_cov_3.428305_cutoff_0,Chromosome,0,Cna_B Cna_B Cna_B
+NODE_34_length_602_cov_8.700952_cutoff_0,Chromosome,--
+NODE_35_length_602_cov_1.434286_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind
+NODE_36_length_596_cov_0.917148_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind
+NODE_37_length_593_cov_3.918605_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT
+NODE_38_length_581_cov_0.658730_cutoff_0,Chromosome,0,Rib He_PIG
+NODE_1_length_818_cov_37.252362_cutoff_20,Chromosome,0,YadA_stalk
+NODE_1_length_18480_cov_32.201869_cutoff_5,Chromosome,0,Amidase_2 Peptidase_S78 Phage_portal
+NODE_2_length_8021_cov_1.833207_cutoff_5,Plasmid,6.35,DUF3363 MFS_1 TetR_C_1 TetR_N MFS_1 LysR_substrate HTH_1 Y2_Tnp Zn_Tnp_IS91 Cpn60_TCP1 Phage_int_SAM_4
+NODE_3_length_5073_cov_1.824860_cutoff_5,Chromosome,0,HMA FecCD Peripla_BP_2 ABC_tran FecCD
+NODE_4_length_4429_cov_1.999311_cutoff_5,Chromosome,0,HTH_21
+NODE_5_length_3600_cov_2.134544_cutoff_5,Chromosome,--
+NODE_6_length_2338_cov_2.599292_cutoff_5,Chromosome,0,DUF600 Endonuclea_NS_2 Barstar Ribonuclease
+NODE_7_length_2223_cov_2.807549_cutoff_5,Chromosome,--
+NODE_8_length_2007_cov_2.844560_cutoff_5,Chromosome,0,DUF637
+NODE_9_length_1967_cov_7.248677_cutoff_5,Chromosome,--
+NODE_10_length_1945_cov_3.346895_cutoff_5,Chromosome,0,PIG-L
+NODE_11_length_1688_cov_3.297952_cutoff_5,Chromosome,--
+NODE_12_length_1165_cov_2.018382_cutoff_5,Chromosome,--
+NODE_13_length_1140_cov_2.245532_cutoff_5,Chromosome,--

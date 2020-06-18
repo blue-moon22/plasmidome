@@ -1,0 +1,21 @@
+NODE_1_length_11683_cov_2.392900_cutoff_0,Plasmid,11.91,CbiA Resolvase Abi_2 Rep_3 MobA_MobL
+NODE_2_length_10130_cov_6.441659_cutoff_0,Plasmid,8.02,N6_Mtase Rep_3 Phage_integrase ToxN_toxin
+NODE_3_length_5686_cov_21.694955_cutoff_0,Plasmid,5.35,PemK_toxin Integrase_1 Rep_3
+NODE_4_length_3972_cov_9.372529_cutoff_0,Chromosome,0,Rep_trans ParE_toxin Integrase_1
+NODE_5_length_2895_cov_2.325763_cutoff_0,Chromosome,--
+NODE_6_length_2691_cov_3.605585_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_7_length_1514_cov_6.296451_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_8_length_875_cov_9.928571_cutoff_0,Chromosome,0,Rib Rib
+NODE_9_length_665_cov_1.991497_cutoff_0,Chromosome,0,Antigen_C Antigen_C
+NODE_10_length_638_cov_3.975045_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_11_length_608_cov_4.683616_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_1_length_1205_cov_137.051418_cutoff_20,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_4892_cov_19.467913_cutoff_5,Chromosome,0,ParE_toxin Cation_efflux
+NODE_2_length_4210_cov_18.991048_cutoff_5,Plasmid,14.34,Rep_3 MobA_MobL VbhA Rep_3
+NODE_3_length_2471_cov_2.007937_cutoff_5,Chromosome,0,DUF4176
+NODE_4_length_1643_cov_20.263091_cutoff_5,Chromosome,0,YadA_stalk
+NODE_5_length_1409_cov_2.079580_cutoff_5,Chromosome,--
+NODE_6_length_1330_cov_1.186752_cutoff_5,Chromosome,0,Meth_synt_2
+NODE_7_length_1262_cov_1.854852_cutoff_5,Chromosome,--
+NODE_8_length_1181_cov_12.089674_cutoff_5,Chromosome,0,YadA_stalk
+NODE_1_length_14176_cov_24.439535_cutoff_33,Chromosome,-9.490062927651053,Pribosyltran Sulfatase GTP-bdg_N GTP-bdg_M MMR_HSR1 FeoB_N Arf Peripla_BP_2 SurE Sulfatase Asparaginase Asparaginase_C FecCD LpxB

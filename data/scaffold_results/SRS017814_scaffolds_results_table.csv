@@ -1,0 +1,35 @@
+NODE_1_length_1736_cov_5.470766_cutoff_10,Chromosome,--
+NODE_1_length_5933_cov_47.350581_cutoff_0,Chromosome,--
+NODE_2_length_5354_cov_9.108774_cutoff_0,Chromosome,0,Rep_trans Zot
+NODE_3_length_4517_cov_9.429279_cutoff_0,Plasmid,8.39,Zeta_toxin AAA_33 Resolvase HTH_7
+NODE_4_length_3735_cov_7.962001_cutoff_0,Plasmid,3.86,Mob_Pre RHH_1
+NODE_5_length_3551_cov_4.849741_cutoff_0,Chromosome,0,Fic Methylase_S Methylase_S Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_6_length_3148_cov_3.980788_cutoff_0,Plasmid,13.21,Rep_1 Mob_Pre Mob_Pre
+NODE_7_length_2181_cov_12.238118_cutoff_0,Chromosome,--
+NODE_8_length_1732_cov_4.902115_cutoff_0,Chromosome,0,RVT_1
+NODE_9_length_1706_cov_1.762431_cutoff_0,Chromosome,-17.332617920646072,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_10_length_1591_cov_70.291281_cutoff_0,Chromosome,--
+NODE_11_length_1564_cov_2.082717_cutoff_0,Chromosome,0,FMN_dh
+NODE_12_length_1549_cov_3.519022_cutoff_0,Chromosome,--
+NODE_13_length_1481_cov_3.208689_cutoff_0,Chromosome,0,DUF559
+NODE_14_length_1133_cov_1.480114_cutoff_0,Chromosome,--
+NODE_15_length_1088_cov_2.221563_cutoff_0,Chromosome,0,Cadherin_4
+NODE_16_length_992_cov_2.474317_cutoff_0,Chromosome,0,CdiA_C
+NODE_17_length_917_cov_2.382143_cutoff_0,Chromosome,0,YadA_stalk
+NODE_18_length_795_cov_3.621170_cutoff_0,Chromosome,--
+NODE_19_length_761_cov_3.565789_cutoff_0,Chromosome,0,SpaA SpaA
+NODE_20_length_701_cov_2.133013_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 Mub_B2 MucBP
+NODE_21_length_682_cov_0.975207_cutoff_0,Chromosome,--
+NODE_22_length_659_cov_3.768041_cutoff_0,Chromosome,--
+NODE_23_length_658_cov_5.860585_cutoff_0,Chromosome,--
+NODE_24_length_657_cov_5.232759_cutoff_0,Chromosome,--
+NODE_25_length_644_cov_3.463845_cutoff_0,Chromosome,--
+NODE_26_length_603_cov_1.735741_cutoff_0,Chromosome,--
+NODE_1_length_31724_cov_87.914905_cutoff_26,Plasmid,3.57,PhageMin_Tail Glyco_hydro_16 Peptidase_S78 Hjc SNF2_N Thioredoxin Thymidylat_synt dCMP_cyt_deam_1 AAA_24 PDDEXK_1 DNA_pol_A DNA_pol_A_exo1 AAA_25 RepB_primase Phage_capsid Phage_portal Terminase_1 Terminase_4
+NODE_1_length_1321_cov_21.971061_cutoff_20,Chromosome,--
+NODE_1_length_5051_cov_8.337354_cutoff_5,Chromosome,--
+NODE_2_length_1690_cov_19.810291_cutoff_5,Chromosome,0,Acyl_transf_3
+NODE_3_length_1325_cov_19.129808_cutoff_5,Chromosome,--
+NODE_4_length_1319_cov_3.819646_cutoff_5,Chromosome,0,DUF4189 DUF4189
+NODE_5_length_1104_cov_18.521908_cutoff_5,Chromosome,--
+NODE_1_length_1373_cov_20.914352_cutoff_15,Chromosome,--

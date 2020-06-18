@@ -1,0 +1,22 @@
+NODE_1_length_1487_cov_33.415603_cutoff_10,Chromosome,0,YadA_stalk
+NODE_2_length_638_cov_76.016043_cutoff_10,Chromosome,0,Big_11 Big_11 Big_11
+NODE_3_length_608_cov_144.145009_cutoff_10,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_1_length_58417_cov_20.503531_cutoff_0,Chromosome,0,Prophage_tail Phage_holin_6_1 RdRP Phage_capsid Peptidase_S78 Phage_portal Terminase_1 Amidase_5 DUF1599 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_2_length_8798_cov_9.358560_cutoff_0,Chromosome,0,Phage_X Phage_CRI Putative_G5P DUF3892 Secretin Zot Secretin DUF2523
+NODE_3_length_3128_cov_18.581449_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_4_length_3018_cov_4.078545_cutoff_0,Chromosome,0,DDE_Tnp_ISL3 HTH_Crp_2 cNMP_binding
+NODE_5_length_1280_cov_1.296758_cutoff_0,Chromosome,0,YadA_stalk
+NODE_6_length_946_cov_3.017261_cutoff_0,Chromosome,--
+NODE_7_length_726_cov_0.645609_cutoff_0,Chromosome,--
+NODE_8_length_683_cov_1.433993_cutoff_0,Chromosome,--
+NODE_9_length_683_cov_0.909241_cutoff_0,Chromosome,0,Peptidase_S24 Peptidase_S24
+NODE_10_length_606_cov_1.153119_cutoff_0,Chromosome,--
+NODE_1_length_1094_cov_117.411013_cutoff_42,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_10088_cov_9.124263_cutoff_5,Plasmid,5.35,PBECR3 Rep_3
+NODE_2_length_5710_cov_3.197586_cutoff_5,Chromosome,0,FAD_binding_2 FMN_red FAD_binding_2 FMN_bind FAD_oxidored Flavodoxin_2 AraC_binding HTH_18 HTH_AraC HTH_AraC FMN_red MFS_1
+NODE_3_length_5516_cov_2.098364_cutoff_5,Chromosome,-14.411687305412862,IlvN IlvC ALS_ss_C ACT_5 ACT TPP_enzyme_N TPP_enzyme_C TPP_enzyme_M
+NODE_4_length_2965_cov_1.344183_cutoff_5,Chromosome,0,N6_Mtase HsdM_N
+NODE_5_length_1866_cov_10.602571_cutoff_5,Chromosome,0,ABC_tran
+NODE_6_length_1667_cov_3.767296_cutoff_5,Chromosome,0,Rib Rib Rib Rib
+NODE_7_length_1289_cov_1.896865_cutoff_5,Chromosome,0,Trp_ring
+NODE_8_length_1205_cov_10.249113_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk

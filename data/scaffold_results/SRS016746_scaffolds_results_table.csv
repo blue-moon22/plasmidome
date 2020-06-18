@@ -1,0 +1,42 @@
+NODE_1_length_1517_cov_14.093750_cutoff_10,Chromosome,0,YadA_stalk
+NODE_1_length_3891_cov_59.703461_cutoff_42,Chromosome,0,Ribonuclease
+NODE_2_length_1147_cov_37.392523_cutoff_42,Chromosome,--
+NODE_1_length_2687_cov_13.991188_cutoff_15,Chromosome,0,DUF772
+NODE_1_length_1948_cov_1.851416_cutoff_5,Chromosome,--
+NODE_2_length_1929_cov_11.870410_cutoff_5,Chromosome,0,NanE SBP_bac_6
+NODE_3_length_1929_cov_2.106911_cutoff_5,Chromosome,0,LRR_5 LRR_5 LRR_5 LRR_5
+NODE_4_length_1685_cov_4.593284_cutoff_5,Chromosome,0,DUF559
+NODE_5_length_1460_cov_10.678959_cutoff_5,Chromosome,--
+NODE_6_length_1209_cov_3.075088_cutoff_5,Chromosome,--
+NODE_7_length_1200_cov_2.461264_cutoff_5,Chromosome,--
+NODE_8_length_1152_cov_1.213023_cutoff_5,Chromosome,0,PDDEXK_2
+NODE_9_length_668_cov_6.758037_cutoff_5,Chromosome,--
+NODE_1_length_17726_cov_18.585302_cutoff_26,Chromosome,0,DNA_methylase Band_7 D123
+NODE_1_length_128815_cov_57.089756_cutoff_54,Chromosome,-4.2831454854634075,PAPS_reduct GTP_EFTU PAPS_reduct Peptidase_M23 NLPC_P60 PHO4 Pyr_redox_2 Adenylsucc_synt Rhodanese Rhodanese SpoU_methylase Pribosyltran ABC_tran AAA_2 AAA_lid_9 ClpB_D2-small AAA Clp_N Clp_N VWA PTS_EIIA_1 PTS_EIIA_1 ATP-grasp TM2 Glyco_hydro_76 PP2C_2 VWA_2 ABC_tran ABC_membrane ABC_tran NIR_SIR NIR_SIR_ferr NIR_SIR_ferr NIR_SIR ABC_tran ABC_membrane Thg1 GrpE DUF4913 TraG-D_C CD225 F_bP_aldolase FUSC_2 MerR_1 Lantibiotic_a TauE DUF4135 LANC_like DnaJ_C DnaJ CbiX Abhydrolase_8 Tubulin_2 AI-2E_transport Bac_luciferase HSP70 HSP70 Excalibur Peptidase_S41 ABC_tran Peptidase_C39 ABC_membrane DUF4135 LANC_like Excalibur YbjN Cutinase
+NODE_1_length_5506_cov_3.453491_cutoff_0,Chromosome,0,SusD-like_3 SusD_RagB Plug CarbopepD_reg_2 CarboxypepD_reg
+NODE_2_length_2508_cov_0.672151_cutoff_0,Chromosome,0,DUF805 DUF805 DUF805 DUF805
+NODE_3_length_1765_cov_5.962085_cutoff_0,Chromosome,0,GramPos_pilinD1 SpaA Gram_pos_anchor
+NODE_4_length_1550_cov_5.850645_cutoff_0,Chromosome,0,DUF4375 zf-CHCC
+NODE_5_length_1419_cov_0.890462_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_6_length_1265_cov_1.458754_cutoff_0,Chromosome,0,DUF559
+NODE_7_length_1251_cov_2.770017_cutoff_0,Chromosome,--
+NODE_8_length_1155_cov_1.488868_cutoff_0,Chromosome,0,Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_9_length_1110_cov_1.150048_cutoff_0,Chromosome,--
+NODE_10_length_1082_cov_2.090547_cutoff_0,Chromosome,--
+NODE_11_length_1042_cov_0.736788_cutoff_0,Chromosome,0,Glyoxalase_6
+NODE_12_length_1028_cov_4.645636_cutoff_0,Chromosome,0,YadA_stalk
+NODE_13_length_963_cov_2.246050_cutoff_0,Chromosome,--
+NODE_14_length_898_cov_1.500609_cutoff_0,Chromosome,--
+NODE_15_length_755_cov_1.176991_cutoff_0,Chromosome,--
+NODE_16_length_747_cov_0.835821_cutoff_0,Chromosome,--
+NODE_17_length_713_cov_1.086478_cutoff_0,Chromosome,--
+NODE_18_length_710_cov_6.860979_cutoff_0,Chromosome,--
+NODE_19_length_710_cov_1.902054_cutoff_0,Chromosome,--
+NODE_20_length_704_cov_14.094099_cutoff_0,Chromosome,--
+NODE_21_length_704_cov_3.736842_cutoff_0,Chromosome,--
+NODE_22_length_701_cov_16.613782_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_23_length_683_cov_3.046205_cutoff_0,Chromosome,--
+NODE_24_length_653_cov_1.388889_cutoff_0,Chromosome,--
+NODE_25_length_649_cov_0.655594_cutoff_0,Chromosome,--
+NODE_26_length_614_cov_1.171322_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related
+NODE_27_length_602_cov_5.927619_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind

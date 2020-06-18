@@ -1,0 +1,26 @@
+NODE_1_length_7348_cov_11.994636_cutoff_10,Chromosome,0,Zot DUF2523
+NODE_1_length_28872_cov_7.024657_cutoff_0,Plasmid,43.84,T2SSE TrbC TrbL T4SS MPTase-PolyVal DUF1738 Topoisom_bac zf-C4_Topoisom Toprim MobA_MobL VirB8 CagX Peptidase_M23 TrbL VirB3 T4SS-DNA_transf CbiA SLT T4SS-DNA_transf TrbI CagE_TrbE_VirB ToxN_toxin
+NODE_2_length_16110_cov_30.026633_cutoff_0,Plasmid,3.26,Endonuclea_NS_2 DUF5397 Fil_haemagg_2 Haemagg_act Fil_haemagg_2 PT-VENN Fil_haemagg_2 Fil_haemagg_2 ShlB POTRA_3 POTRA_2 RPA CRISPR_Cas2
+NODE_3_length_7006_cov_2.621157_cutoff_0,Plasmid,6.77,Mob_Pre Resolvase MtN3_slv
+NODE_4_length_4284_cov_4.569765_cutoff_0,Plasmid,16.45,Replicase PriCT_1 HTH_11 CRISPR_Cas2 Relaxase MobC
+NODE_5_length_3279_cov_23.371330_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_6_length_3094_cov_2.327478_cutoff_0,Chromosome,0,Beta-lactamase Beta-lactamase
+NODE_7_length_1292_cov_2.241152_cutoff_0,Chromosome,0,Peptidase_S41
+NODE_8_length_1209_cov_1.522085_cutoff_0,Chromosome,--
+NODE_9_length_1118_cov_2.019212_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_10_length_875_cov_2.635338_cutoff_0,Chromosome,0,Rib Rib
+NODE_11_length_758_cov_1.593245_cutoff_0,Chromosome,0,Methylase_S Methylase_S
+NODE_12_length_737_cov_3.765152_cutoff_0,Chromosome,0,FctA FctA FctA
+NODE_13_length_713_cov_2.608491_cutoff_0,Chromosome,--
+NODE_14_length_632_cov_0.645045_cutoff_0,Chromosome,--
+NODE_15_length_608_cov_0.998117_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_1_length_11813_cov_18.155164_cutoff_5,Plasmid,5.35,ABC_tran ABC2_membrane_3 Rep_3 ComR_TPR HTH_31 HTH_3 Phage_integrase
+NODE_2_length_5117_cov_3.777381_cutoff_5,Chromosome,0,DUF4132 DUF4132
+NODE_3_length_2028_cov_3.670425_cutoff_5,Chromosome,0,PTS_2-RNA
+NODE_4_length_1650_cov_3.601399_cutoff_5,Chromosome,0,Fic
+NODE_5_length_1618_cov_28.363400_cutoff_5,Chromosome,--
+NODE_6_length_1205_cov_5.691489_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_7_length_1182_cov_0.963801_cutoff_5,Chromosome,--
+NODE_8_length_1120_cov_2.354746_cutoff_5,Chromosome,0,Imm59 Imm59 Imm59
+NODE_1_length_4975_cov_15.852593_cutoff_15,Chromosome,--
+NODE_2_length_1281_cov_11.308970_cutoff_15,Chromosome,--

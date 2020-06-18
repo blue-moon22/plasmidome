@@ -1,0 +1,12 @@
+NODE_1_length_119098_cov_6.216710_cutoff_5,Chromosome,-4.641729013751645,PQ-loop Nuc_deoxyrib_tr Ribonuc_red_sm Ribonuc_red_sm DNA_methylase Pyr_redox_2 Ribonuc_red_lgC Ribonuc_red_lgC RNR_N Ribonuc_red_lgN Flavodoxin_NdrI HTH_3 TK PhageMin_Tail LysM Phage_integrase Phage_int_SAM_4 DNA_methylase DNA_methylase AAA_30 HHH_4 UvrD_C_2 DUF1599 Glutaredoxin Phage_integrase Phage_int_SAM_1 Amidase_5 Glucosaminidase Amidase_3 LysM Hydrolase_2 RNase_T N6_N4_Mtase Fer4_12 RNase_H NRDD Gram_pos_anchor Toprim_N AAA_24 DUF4258 Peptidase_M20 CW_7 CW_binding_1 CW_binding_1 CW_binding_1 DNA_gyraseB HATPase_c DNA_topoisoIV DNA_methylase DHH RecJ_OB Peptidase_S8 DNA_ligase_A_M DNA_ligase_OB_2 DNA_pol3_finger PHP DNA_pol3_alpha Intein_splicing RuvC Phage_holin_6_1
+NODE_2_length_1866_cov_2.193963_cutoff_5,Chromosome,0,ABC_tran
+NODE_3_length_1118_cov_2.635927_cutoff_5,Chromosome,--
+NODE_1_length_45972_cov_5.391655_cutoff_10,Plasmid,2.91,HAD_SAK_2 Resolvase OrfB_IS605 OrfB_Zn_ribbon SIR2 HD_4 Peptidase_M10 OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 NERD NERD CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Helicase_C ResIII AAA_30 ResIII SWI2_SNF2 DEAD FtsK_SpoIIIE HTH_OrfB_IS605 OrfB_Zn_ribbon OrfB_IS605
+NODE_1_length_41782_cov_10.640930_cutoff_0,Chromosome,-4.92974484601357,Gp58 Peptidase_S74 Phage_holin_6_1 Phage_tail_3 HK97-gp10_like Phage_connect_1 DUF4355 N6_Mtase Glutaredoxin DUF722 Terminase_2 Terminase_3 Terminase_3C Phage_prot_Gp6 Phage_Mu_F RusA HTH_3 DUF1599 HTH_31 ResIII Helicase_C AAA_15 AAA_24 AAA_25 PriCT_2 Peptidase_M78 CHAP CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 HTH_3 HTH_3 Abi_2 Phage_integrase Arm-DNA-bind_4 Phage_int_SAM_5 Mtd_N Collagen
+NODE_2_length_9058_cov_29.904688_cutoff_0,Plasmid,9.21,Rep_3 DnaB_2 Mob_Pre
+NODE_3_length_4365_cov_3.690532_cutoff_0,Plasmid,5.35,Rep_3 ParE_toxin Cation_efflux
+NODE_4_length_2940_cov_40.111771_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_5_length_1643_cov_1.086845_cutoff_0,Chromosome,0,YadA_stalk
+NODE_6_length_1424_cov_2.322197_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_7_length_875_cov_30.048872_cutoff_0,Chromosome,0,Rib Rib
+NODE_8_length_825_cov_1.377005_cutoff_0,Chromosome,0,DUF2059

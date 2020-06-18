@@ -1,0 +1,5 @@
+NODE_1_length_824_cov_12.095047_cutoff_10,Chromosome,-4.952176548756018,DUF1542 DUF1542
+NODE_1_length_3816_cov_5.504145_cutoff_0,Plasmid,5.35,Rep_3 Phage_int_SAM_1
+NODE_2_length_1605_cov_4.916885_cutoff_0,Chromosome,--
+NODE_1_length_38058_cov_4.649693_cutoff_5,Chromosome,0,Phage_Gp19 Spherulin4 DUF5403 Amidase_2 Pectate_lyase_3 Collagen HTH_17 VRR_NUC Phage_capsid Alanine_zipper DUF2746 Phage_prot_Gp6 EndoU_bacteria Phage_integrase Phage_int_SAM_3 HTH_26
+NODE_2_length_2286_cov_13.669081_cutoff_5,Plasmid,4.20,Multi_Drug_Res DDE_Tnp_IS240

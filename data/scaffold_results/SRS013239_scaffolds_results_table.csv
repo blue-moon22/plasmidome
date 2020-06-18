@@ -1,0 +1,15 @@
+NODE_1_length_8200_cov_3.339284_cutoff_0,Chromosome,-2.5577663053942086,Zot DUF1496 DUF2523 Phage_CRI Phage_X Phage_DNA_bind Secretin
+NODE_2_length_5519_cov_45.767916_cutoff_0,Plasmid,5.35,PemK_toxin Integrase_1 Rep_3
+NODE_3_length_4309_cov_39.266304_cutoff_0,Plasmid,5.35,Rep_3 ParE_toxin Cation_efflux
+NODE_4_length_2895_cov_3.481192_cutoff_0,Chromosome,--
+NODE_5_length_959_cov_1.793651_cutoff_0,Chromosome,--
+NODE_6_length_912_cov_0.813174_cutoff_0,Chromosome,0,ATP-grasp_2
+NODE_7_length_654_cov_0.792028_cutoff_0,Chromosome,0,SUKH_6
+NODE_8_length_605_cov_1.270833_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT
+NODE_1_length_5620_cov_2.383727_cutoff_5,Chromosome,0,FtsK_SpoIIIE
+NODE_2_length_2996_cov_6.931483_cutoff_5,Chromosome,0,DDE_Tnp_1_4 Beta-lactamase2
+NODE_3_length_2449_cov_8.055228_cutoff_5,Chromosome,0,Abi_2 NMN_transporter
+NODE_4_length_1876_cov_7.883824_cutoff_5,Chromosome,--
+NODE_5_length_1571_cov_23.002677_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_6_length_1424_cov_3.729770_cutoff_5,Chromosome,0,Mub_B2 MucBP MucBP MucBP_2 BTRD1 BTRD1
+NODE_7_length_1409_cov_9.828829_cutoff_5,Chromosome,--

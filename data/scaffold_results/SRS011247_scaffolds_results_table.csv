@@ -1,0 +1,21 @@
+NODE_1_length_1828_cov_71.816105_cutoff_91,Chromosome,--
+NODE_1_length_2702_cov_5.949714_cutoff_10,Chromosome,--
+NODE_1_length_8860_cov_53.215985_cutoff_0,Plasmid,9.21,AbiEii DUF1269 Rep_3 Mob_Pre
+NODE_2_length_4970_cov_5.656652_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_3_length_3909_cov_18.899269_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_4_length_3280_cov_2.822042_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_5_length_3074_cov_1.847848_cutoff_0,Plasmid,2.52,Rep_2
+NODE_6_length_2954_cov_13.408412_cutoff_0,Plasmid,5.35,HTH_3 Rep_3 HigB-like_toxin
+NODE_7_length_1424_cov_3.050483_cutoff_0,Chromosome,0,MucBP_2 MucBP Mub_B2 MucBP
+NODE_8_length_1058_cov_1.886850_cutoff_0,Chromosome,0,AgI_II_C2 FctA
+NODE_9_length_1022_cov_2.087831_cutoff_0,Chromosome,--
+NODE_10_length_917_cov_2.427381_cutoff_0,Chromosome,0,He_PIG
+NODE_11_length_650_cov_1.108202_cutoff_0,Chromosome,--
+NODE_12_length_638_cov_75.060606_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_80741_cov_12.410195_cutoff_5,Plasmid,3.98,RlaP Collagen Thymidylat_synt DUF2201_N DUF2201 DNA_pol_A RNase_H_2 DNA_pol_A_exo1 HTH_3 DUF3310 AAA_24 PriCT_1 DHFR_1 YadA_anchor YadA_stalk YadA_head YadA_head Glutaredoxin DUF551 RNA_pol
+NODE_2_length_7252_cov_4.316237_cutoff_5,Plasmid,14.21,Rep_3 Rep_3 Relaxase ORF6N
+NODE_3_length_1670_cov_10.751412_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_4_length_1220_cov_3.306212_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_5_length_1136_cov_5.649669_cutoff_5,Chromosome,0,Trp_ring Trp_ring
+NODE_6_length_1097_cov_2.936275_cutoff_5,Chromosome,0,AgI_II_C2 FctA
+NODE_7_length_638_cov_52.188948_cutoff_5,Chromosome,0,Big_11 Big_11 Big_11

@@ -1,0 +1,21 @@
+NODE_1_length_94914_cov_57.250451_cutoff_10,Plasmid,2.43,Phage_gp49_66 DNA_ligase_A_M DUF932 AAA_30 UvrD_C_2 DNA_pol_B Thy1 Thy1 PG_binding_3 Glyco_hydro_108 Sipho_Gp157
+NODE_2_length_14783_cov_6.966204_cutoff_10,Chromosome,0,TonB_dep_Rec Plug NlpE T2SS-T3SS_pil_N Peptidase_C11
+NODE_1_length_9166_cov_27.352734_cutoff_0,Plasmid,3.51,ORF6N RE_SacI DNA_methylase Relaxase
+NODE_2_length_3848_cov_6.177672_cutoff_0,Plasmid,10.69,Rep_3 Rep_3 YoeB_toxin
+NODE_3_length_1507_cov_1.940559_cutoff_0,Chromosome,0,FGE-sulfatase
+NODE_4_length_1169_cov_2.749084_cutoff_0,Chromosome,--
+NODE_5_length_1109_cov_2.007752_cutoff_0,Chromosome,--
+NODE_6_length_1016_cov_0.698616_cutoff_0,Chromosome,--
+NODE_7_length_941_cov_1.170139_cutoff_0,Chromosome,0,ubiquitin
+NODE_8_length_903_cov_1.288136_cutoff_0,Chromosome,--
+NODE_9_length_857_cov_10.050000_cutoff_0,Chromosome,--
+NODE_10_length_608_cov_2.316384_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_1_length_9179_cov_75.408152_cutoff_26,Chromosome,0,DUF3791 DUF3990 HipA_C Couple_hipA HTH_3 SSB DDE_Tnp_1 DUF4372 YpsA
+NODE_1_length_3261_cov_64.809987_cutoff_42,Chromosome,0,HTH_3 HipA_C Couple_hipA
+NODE_1_length_10484_cov_5.366580_cutoff_5,Chromosome,0,ATPase_2 DUF234 TIG Plug CarbopepD_reg_2 DUF1793 DUF1793 SusD_RagB SusD-like_3 DUF4973 DUF4361
+NODE_2_length_2387_cov_4.604329_cutoff_5,Chromosome,0,YhcG_C DUF1016_N Methylase_S Methylase_S
+NODE_3_length_1544_cov_2.002045_cutoff_5,Chromosome,0,LRR_5 LRR_5
+NODE_4_length_1539_cov_6.106703_cutoff_5,Chromosome,0,Ferritin OMP_b-brl_2
+NODE_5_length_1115_cov_4.357418_cutoff_5,Chromosome,0,Big_3
+NODE_1_length_2991_cov_14.219286_cutoff_15,Chromosome,0,DUF4096 DDE_Tnp_1_2 DUF4096
+NODE_2_length_1193_cov_55.944444_cutoff_15,Chromosome,--

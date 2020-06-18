@@ -1,0 +1,30 @@
+NODE_1_length_13474_cov_162.739345_cutoff_70,Plasmid,17.51,Mob_Pre Resolvase AAA_31 HTH_27 Fic HTH_24 Rep_3 Mfa_like_1 Resolvase
+NODE_2_length_3920_cov_365.523549_cutoff_70,Chromosome,0,DDE_Tnp_1 DUF772 DUF772
+NODE_1_length_3670_cov_110.443084_cutoff_198,Chromosome,0,TnpB_IS66 DDE_Tnp_IS66 PIN_3
+NODE_1_length_5956_cov_701.613029_cutoff_26,Plasmid,10.69,Rep_3 ORF6N Rep_3
+NODE_2_length_2994_cov_267.830648_cutoff_26,Plasmid,5.35,Rep_3 ORF6N
+NODE_1_length_59350_cov_29.240194_cutoff_0,Plasmid,13.41,DnaB_C tRNA_anti-like DUF551 Bro-N ANT HTH_3 Glyco_hydro_25 HTH_26 zf-trcl HTH_19 MethyltransfD12 Phage_cap_E Phage_prot_Gp6 ERF DNA_methylase SSB Resolvase Lar_restr_allev Bro-N DUF551 AAA_31 RHH_1 DUF5055 Rep_3 HTH_3
+NODE_2_length_14152_cov_4.227425_cutoff_0,Plasmid,5.39,Resolvase AAA_31 Phage_int_SAM_1 GP3_package D5_N
+NODE_3_length_3795_cov_63.707639_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_4_length_3545_cov_10.970012_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_5_length_3202_cov_1.638080_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_6_length_3126_cov_1.368317_cutoff_0,Chromosome,0,PDDEXK_9 DDE_Tnp_1
+NODE_7_length_3083_cov_5.671657_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2 ParE_toxin
+NODE_8_length_2890_cov_128.175613_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_9_length_2856_cov_6.865779_cutoff_0,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_10_length_2208_cov_2.516659_cutoff_0,Chromosome,0,Phage_int_SAM_4 Phage_integrase Methylase_S
+NODE_11_length_1768_cov_0.878179_cutoff_0,Chromosome,0,Na_Ala_symp
+NODE_12_length_1690_cov_4.949163_cutoff_0,Plasmid,5.20,RepL
+NODE_13_length_1604_cov_15.495088_cutoff_0,Chromosome,--
+NODE_14_length_1236_cov_2.331320_cutoff_0,Chromosome,0,IstB_IS21
+NODE_15_length_1167_cov_0.768807_cutoff_0,Chromosome,0,Pkinase
+NODE_16_length_1149_cov_3.580224_cutoff_0,Chromosome,0,MazE_antitoxin
+NODE_17_length_644_cov_0.825397_cutoff_0,Chromosome,--
+NODE_18_length_636_cov_1.656530_cutoff_0,Chromosome,--
+NODE_19_length_596_cov_1.050096_cutoff_0,Chromosome,--
+NODE_20_length_593_cov_1.323643_cutoff_0,Chromosome,--
+NODE_1_length_5454_cov_8.991445_cutoff_5,Plasmid,3.86,YafQ_toxin RelB Mob_Pre CAT
+NODE_2_length_3340_cov_6.340791_cutoff_5,Chromosome,0,Radical_SAM SPASM PqqD PNP_UDP_1
+NODE_3_length_2748_cov_2.010857_cutoff_5,Plasmid,5.35,Rep_3
+NODE_4_length_2069_cov_6.491466_cutoff_5,Chromosome,--
+NODE_5_length_1142_cov_4.293897_cutoff_5,Chromosome,0,Cna_B Cna_B Cna_B Cna_B

@@ -1,0 +1,20 @@
+NODE_1_length_38058_cov_310.040889_cutoff_257,Chromosome,0,Spherulin4 HTH_26 HTH_17 DUF5403 Alanine_zipper Phage_integrase Phage_int_SAM_3 DUF2746 Amidase_2 Pectate_lyase_3 Collagen VRR_NUC Phage_prot_Gp6 EndoU_bacteria Phage_capsid Phage_Gp19
+NODE_1_length_64017_cov_32.101236_cutoff_10,Plasmid,3.57,RuvC Big_8 Collagen_bind YopX AAA_25 RepB_primase dUTPase AAA_24 PDDEXK_1 DUF3310 DNA_pol_A_exo1 DNA_pol_A DNA_pol_A DNA_pol_A BspA_v BspA_v GbpC Phage_holin_Dp1 Glyco_hydro_25 Glucosaminidase
+NODE_1_length_154586_cov_18.110019_cutoff_0,Chromosome,-2.7486665274283197,N6_N4_Mtase PIF1 Herpes_Helicase DNA_pol_B DNA_pol_B_exo1 AAA HD_3 gp32 Cpn10 Cpn10 Cpn60_TCP1 ResIII Helicase_C DNA_ligase_aden BRCT PTCB-BRCT Guanylate_kin Tn7_Tnp_TnsA_N LPD29 DUF1768 DnaB_C Terminase_6 OrfB_IS605 OrfB_Zn_ribbon Adenylsucc_synt 5_3_exonuc_N Bac_DNA_binding AAA_21 RNase_H Peptidase_S80 RecA Lipase_GDSL_2 OrfB_Zn_ribbon HTH_OrfB_IS605 AAA_23 Metallophos Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC DNA_pol_B ResIII Helicase_C
+NODE_2_length_67550_cov_52.579343_cutoff_0,Chromosome,0,Phage_holin_3_3 SLT DUF4043 Terminase_6C Terminase_6 dUTPase AAA DUF2201_N DUF2201 SNF2_N Helicase_C PDDEXK_1 DNA_pol_A DNA_pol_A_exo1
+NODE_3_length_38415_cov_309.386040_cutoff_0,Chromosome,0,HTH_26 HTH_17 Amidase_2 DUF2746 Pectate_lyase_3 Collagen Phage_integrase Phage_int_SAM_3 Spherulin4 Alanine_zipper DUF5403 EndoU_bacteria Phage_prot_Gp6 Phage_capsid Phage_Gp19 VRR_NUC
+NODE_4_length_1605_cov_1051.706806_cutoff_0,Chromosome,--
+NODE_5_length_1028_cov_4.567823_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_655_cov_1.475779_cutoff_0,Chromosome,--
+NODE_7_length_648_cov_2.374781_cutoff_0,Chromosome,--
+NODE_8_length_643_cov_1.597173_cutoff_0,Chromosome,--
+NODE_9_length_585_cov_1.255906_cutoff_0,Chromosome,--
+NODE_1_length_986_cov_44.077008_cutoff_26,Chromosome,--
+NODE_1_length_11229_cov_21.459559_cutoff_20,Chromosome,0,Fil_haemagg_2 Haemagg_act ESPR Fil_haemagg_2 ShlB POTRA_3 POTRA_2 CdiI_4
+NODE_1_length_2002_cov_1.825974_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_2_length_1572_cov_2.147157_cutoff_5,Chromosome,0,HTH_42 HTH_42
+NODE_3_length_1106_cov_13.911565_cutoff_5,Chromosome,--
+NODE_1_length_154091_cov_18.114957_cutoff_15,Chromosome,-2.7486665274283197,RecA AAA_21 RNase_H DNA_pol_B DUF1768 LPD29 Tn7_Tnp_TnsA_N HD_3 AAA DNA_ligase_aden BRCT PTCB-BRCT Guanylate_kin Bac_DNA_binding 5_3_exonuc_N Adenylsucc_synt Peptidase_S80 ResIII Helicase_C OrfB_IS605 OrfB_Zn_ribbon DNA_pol_B DNA_pol_B_exo1 PIF1 Herpes_Helicase gp32 Cpn60_TCP1 Cpn10 Cpn10 AAA_23 OrfB_Zn_ribbon HTH_OrfB_IS605 Lipase_GDSL_2 N6_N4_Mtase Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_sm Metallophos Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC ResIII Helicase_C DnaB_C Terminase_6
+NODE_2_length_10308_cov_15.074870_cutoff_15,Chromosome,--
+NODE_3_length_3142_cov_12.876998_cutoff_15,Chromosome,0,HTH_18 DJ-1_PfpI Isochorismatase
+NODE_4_length_1374_cov_11.694680_cutoff_15,Chromosome,0,Tox-REase-5

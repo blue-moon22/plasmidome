@@ -1,0 +1,28 @@
+NODE_1_length_43941_cov_17.147387_cutoff_10,Chromosome,0,Sipho_tail CHAP Guanylate_kin Spherulin4 Collagen Collagen Collagen HNH_3 DUF2800 Peptidase_S78 Phage_capsid Phage_portal Terminase_1 Phage_holin_Dp1
+NODE_2_length_1193_cov_10.710573_cutoff_10,Chromosome,--
+NODE_1_length_14867_cov_112.391346_cutoff_0,Chromosome,0,Whib HTH_3 Phage_portal Amidase_2
+NODE_2_length_5576_cov_4.572831_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_3_length_4475_cov_2.603001_cutoff_0,Plasmid,9.00,MobA_MobL PemK_toxin Rep_3
+NODE_4_length_1658_cov_2.120177_cutoff_0,Plasmid,2.52,Rep_2
+NODE_5_length_1591_cov_5.433289_cutoff_0,Chromosome,--
+NODE_6_length_1205_cov_0.871454_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_1082_cov_0.954229_cutoff_0,Chromosome,--
+NODE_8_length_1027_cov_1.118947_cutoff_0,Chromosome,--
+NODE_9_length_921_cov_1.612559_cutoff_0,Chromosome,--
+NODE_10_length_875_cov_1.659148_cutoff_0,Chromosome,0,Rib Rib
+NODE_11_length_830_cov_1.074369_cutoff_0,Chromosome,0,G5 G5 G5
+NODE_12_length_771_cov_1.207493_cutoff_0,Chromosome,--
+NODE_13_length_754_cov_1.797637_cutoff_0,Chromosome,--
+NODE_14_length_695_cov_0.961165_cutoff_0,Chromosome,--
+NODE_15_length_689_cov_0.772876_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_16_length_679_cov_4.008306_cutoff_0,Chromosome,--
+NODE_17_length_638_cov_1.422460_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_18_length_611_cov_0.825843_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_19_length_581_cov_1.279762_cutoff_0,Chromosome,0,MucBP MucBP
+NODE_1_length_65538_cov_71.747575_cutoff_20,Chromosome,0,Ribonuc_red_lgC RNR_N Ribonuc_red_lgN ANT AntA Thy1 Terminase_1 Phage_prot_Gp6 Prim-Pol D5_N Peptidase_C39_2 Glyco_hydro_19 Flavodoxin_NdrI AAA_24 SNF2_N Helicase_C PDDEXK_1 Ribonuc_red_sm Phage_cap_E DNA_pol3_alpha PHP DNA_pol3_finger
+NODE_1_length_6614_cov_4.344348_cutoff_5,Chromosome,0,Tae4 RHS
+NODE_2_length_4212_cov_6.984764_cutoff_5,Plasmid,9.00,Rep_3 MobA_MobL VbhA
+NODE_3_length_1534_cov_3.122855_cutoff_5,Chromosome,--
+NODE_4_length_1247_cov_3.663248_cutoff_5,Chromosome,--
+NODE_5_length_1103_cov_5.807018_cutoff_5,Chromosome,--
+NODE_1_length_31273_cov_182.988941_cutoff_15,Plasmid,3.57,AAA_25 RepB_primase Terminase_4 dCMP_cyt_deam_1 PhageMin_Tail Phage_portal Thymidylat_synt Glyco_hydro_16 Terminase_1 Peptidase_S78 Phage_capsid HNH AAA_24 DNA_pol_A DNA_pol_A_exo1 SNF2_N Thioredoxin PDDEXK_1

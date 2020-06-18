@@ -1,0 +1,31 @@
+NODE_1_length_56809_cov_5.644240_cutoff_5,Chromosome,0,DUF1599 Phage_holin_6_1 Phage_portal Terminase_1 Amidase_5 Peptidase_S78 Prophage_tail
+NODE_2_length_9892_cov_1.855222_cutoff_5,Chromosome,0,dUTPase RNase_T Bac_DNA_binding
+NODE_3_length_2991_cov_2.608785_cutoff_5,Chromosome,0,YoeB_toxin
+NODE_4_length_2126_cov_7.057589_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_5_length_1706_cov_5.149785_cutoff_5,Chromosome,-19.808706195024087,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_6_length_1419_cov_2.390462_cutoff_5,Chromosome,--
+NODE_7_length_1211_cov_1.999118_cutoff_5,Chromosome,--
+NODE_1_length_1392_cov_17.344487_cutoff_15,Chromosome,--
+NODE_1_length_1036_cov_15.273201_cutoff_10,Plasmid,2.48,CbiA AAA_31
+NODE_1_length_8796_cov_40.321367_cutoff_0,Plasmid,16.45,HTH_23 MobC Cupin_4 Replicase PriCT_1 Relaxase HlyD_3 Biotin_lipoyl_2 ABC_membrane Peptidase_C39 ABC_tran Peptidase_C70
+NODE_2_length_7105_cov_17.789983_cutoff_0,Plasmid,9.51,Rep_3 TrwC AAA_30 AAA_19 ParE_toxin
+NODE_3_length_5809_cov_4.811584_cutoff_0,Plasmid,8.86,Rep_3 Relaxase ORF6N
+NODE_4_length_4576_cov_3.670149_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_3097_cov_20.488411_cutoff_0,Plasmid,14.83,Rep_1 Mob_Pre Rep_1
+NODE_6_length_2153_cov_4.600674_cutoff_0,Plasmid,5.48,Rep_1
+NODE_7_length_2081_cov_1.972555_cutoff_0,Chromosome,0,Trp_ring TAA-Trp-ring
+NODE_8_length_2077_cov_1.869000_cutoff_0,Plasmid,8.84,HTH_11 Replicase PriCT_1
+NODE_9_length_1982_cov_4.466142_cutoff_0,Chromosome,0,Trp_ring YadA_stalk Trp_ring
+NODE_10_length_1599_cov_30.670171_cutoff_0,Chromosome,0,Rep_trans
+NODE_11_length_1185_cov_0.975632_cutoff_0,Chromosome,-2.6228298987437526,ECF_trnsprt
+NODE_12_length_1097_cov_7.650980_cutoff_0,Chromosome,--
+NODE_13_length_806_cov_1.220850_cutoff_0,Chromosome,0,Acetyltransf_10
+NODE_14_length_784_cov_2.114569_cutoff_0,Chromosome,0,MORN_2 MORN_2 MORN_2 MORN_2 MORN_2
+NODE_15_length_776_cov_0.856938_cutoff_0,Chromosome,--
+NODE_16_length_773_cov_2.441092_cutoff_0,Chromosome,--
+NODE_17_length_638_cov_1.606061_cutoff_0,Chromosome,--
+NODE_18_length_635_cov_8.485663_cutoff_0,Chromosome,--
+NODE_19_length_620_cov_1.239411_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_20_length_613_cov_0.985075_cutoff_0,Chromosome,--
+NODE_21_length_605_cov_3.066288_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_22_length_581_cov_1.049603_cutoff_0,Chromosome,0,He_PIG Rib Rib

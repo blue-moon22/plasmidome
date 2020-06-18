@@ -1,0 +1,33 @@
+NODE_1_length_1211_cov_99.851852_cutoff_198,Chromosome,--
+NODE_1_length_23301_cov_94.402472_cutoff_91,Chromosome,-49.84191268537441,Ribosomal_L10 GTP_EFTU_D3 COX1 SecE NusG KOW Ribosomal_L11_N Ribosomal_L11 Ribosomal_L1 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L33 RNA_pol_Rpb2_6 RNA_pol_Rpb2_3 RNA_pol_Rpb2_45 RNA_pol_Rpb2_1 RNA_pol_Rpb2_7 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 PMT_2 Lyase_1 FumaraseC_C Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_L7Ae Ribosom_S12_S23 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2
+NODE_1_length_1418_cov_134.258016_cutoff_118,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_7275_cov_12.332731_cutoff_10,Chromosome,0,DUF2523 Zot Rep_trans
+NODE_2_length_6360_cov_18.287124_cutoff_10,Chromosome,0,DUF4265 Imm43 SUKH_6
+NODE_3_length_2247_cov_12.449770_cutoff_10,Chromosome,0,ABC_tran ABC_tran
+NODE_4_length_1280_cov_10.517041_cutoff_10,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_1_length_95699_cov_58.789222_cutoff_70,Chromosome,-30.72777873660668,RsgA_GTPase RsgA_N PGA_cap DUF4827 PGM_PMM_I PGM_PMM_III PGM_PMM_II PGM_PMM_IV Peptidase_M48 DHH DHHA1 Glyco_hydro_92 Glyco_hydro_92N tRNA_U5-meth_tr SBP_bac_3 SLT DUF3127 OMP_b-brl_2 ResIII Helicase_C N6_N4_Mtase Glyco_hydro_20 Glyco_hydro_20b AAA_24 Pribosyltran ADK WYL_2 GTP1_OBG MMR_HSR1 FeoB_N Lipase_GDSL UPRTase DUF5063 ABC_tran_Xtn ABC_tran ABC_tran Methyltrans_SAM PUA_3 DNA_pol_A_exo1 AA_kinase RRF DUF4230 CN_hydrolase Pribosyltran SDF HAD_2 PLDc_2 PLDc_2 PLDc PLDc_N GTP_EFTU EFG_C GTP_EFTU_D2 Acyltransferase Phage_integrase Phage_int_SAM_5 Lipase_GDSL MBOAT AAA_14 PAS_10 DUF1858 Hemerythrin Cupin_2 DUF3078 HHH_3 Peptidase_M15_3 LRR_5 GMP_synt_C GATase Peptidase_C26 NAD_synthase tRNA_Me_trans UPF0126 UPF0126 Pantoate_transf Phage_head_fibr Phage_prot_Gp6 Terminase_3 Terminase_3C PAPS_reduct DUF3310
+NODE_1_length_39300_cov_167.024119_cutoff_0,Chromosome,0,HTH_3 HK97-gp10_like CHAP Terminase_1 Peptidase_S78 Phage_portal Phage_holin_Dp1 HNH_3
+NODE_2_length_5335_cov_5.045455_cutoff_0,Plasmid,5.20,FtsK_SpoIIIE RepL Rep_trans
+NODE_3_length_1358_cov_44.275566_cutoff_0,Chromosome,--
+NODE_4_length_1097_cov_3.719608_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2 FctA
+NODE_5_length_1002_cov_0.878919_cutoff_0,Chromosome,--
+NODE_6_length_947_cov_0.927586_cutoff_0,Chromosome,0,Big_6
+NODE_7_length_942_cov_1.661272_cutoff_0,Chromosome,--
+NODE_8_length_704_cov_4.998405_cutoff_0,Chromosome,0,Big_6 Big_6
+NODE_9_length_650_cov_6.301920_cutoff_0,Chromosome,0,MucBP MucBP
+NODE_10_length_650_cov_3.636998_cutoff_0,Chromosome,0,MucBP MucBP MucBP
+NODE_11_length_638_cov_2.210339_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_6271_cov_31.930094_cutoff_26,Chromosome,0,HTH_28 AAA_5 HMA
+NODE_1_length_853_cov_61.096649_cutoff_42,Chromosome,0,DUF4253
+NODE_1_length_19536_cov_25.698957_cutoff_20,Chromosome,-9.143297377701728,DDE_Tnp_ISL3 HTH_Tnp_ISL3 zf-ISL3 YchF-GTPase_C MMR_HSR1 FeoB_N LGT Beta_helix DUF3108 Ribonuc_red_sm DUF4254 Glyco_transf_9 Ribonuc_red_lgC Ribonuc_red_lgN ATP-cone DDE_Tnp_ISL3
+NODE_1_length_7740_cov_6.086650_cutoff_5,Chromosome,0,RbsD_FucU ABC_tran ABC_tran DDE_Tnp_IS1595 PfkB Peripla_BP_3 LacI BPD_transp_2 Peripla_BP_4
+NODE_2_length_7375_cov_2.036448_cutoff_5,Chromosome,0,AAA_21 DUF1819 Lon_2 MIT_C Lon_2 PglZ FUR
+NODE_3_length_2390_cov_1.762646_cutoff_5,Chromosome,--
+NODE_4_length_2251_cov_14.151334_cutoff_5,Chromosome,0,Lactamase_B
+NODE_5_length_1796_cov_10.186736_cutoff_5,Chromosome,0,Big_6 Big_6 Big_3_2
+NODE_6_length_1647_cov_5.053503_cutoff_5,Chromosome,--
+NODE_7_length_1487_cov_2.796454_cutoff_5,Chromosome,0,OmpA_membrane OmpA
+NODE_8_length_1400_cov_4.728647_cutoff_5,Chromosome,--
+NODE_9_length_1357_cov_3.823437_cutoff_5,Chromosome,0,Peptidase_S8
+NODE_10_length_1128_cov_1.816365_cutoff_5,Chromosome,0,TPR_16 TPR_16 TPR_8 TPR_8 TPR_8 TPR_1 TPR_2 TPR_8
+NODE_1_length_16494_cov_32.065055_cutoff_33,Chromosome,-2.9697460945196408,OKR_DC_1 OKR_DC_1_C Spermine_synth Spermine_synt_N Sacchrp_dh_C Sacchrp_dh_NADP Orn_DAP_Arg_deC PAD_porph ADP_ribosyl_GH CN_hydrolase DUF1877 UPF0167 Imm-NTF2 DUF4261

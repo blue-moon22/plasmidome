@@ -1,0 +1,22 @@
+NODE_1_length_5778_cov_2.767234_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_2_length_5593_cov_16.043328_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_3_length_4812_cov_5.712355_cutoff_0,Chromosome,0,AAA_22 Rep_trans Rol_Rep_N
+NODE_4_length_3735_cov_6.890651_cutoff_0,Plasmid,10.25,Mob_Pre Rep_2 RHH_1 Mob_Pre
+NODE_5_length_1409_cov_1.606607_cutoff_0,Chromosome,--
+NODE_6_length_1397_cov_2.884848_cutoff_0,Chromosome,--
+NODE_7_length_1185_cov_1.720217_cutoff_0,Chromosome,-2.4251681839494843,DUF1176
+NODE_8_length_1149_cov_1.322761_cutoff_0,Chromosome,--
+NODE_9_length_952_cov_2.284571_cutoff_0,Chromosome,--
+NODE_10_length_898_cov_1.359318_cutoff_0,Chromosome,--
+NODE_11_length_824_cov_1.737617_cutoff_0,Chromosome,0,Rib
+NODE_12_length_763_cov_1.344023_cutoff_0,Chromosome,--
+NODE_13_length_738_cov_0.748865_cutoff_0,Chromosome,--
+NODE_14_length_713_cov_2.580189_cutoff_0,Chromosome,--
+NODE_15_length_647_cov_1.707018_cutoff_0,Chromosome,--
+NODE_16_length_611_cov_16.780899_cutoff_0,Chromosome,--
+NODE_17_length_602_cov_6.714286_cutoff_0,Chromosome,--
+NODE_1_length_184774_cov_6.170062_cutoff_5,Chromosome,0,SLT DHFR_1 Beta_helix YadA_anchor YadA_stalk YadA_head YadA_head dUTPase CLP_protease HNH_3 HNH_3 NUMOD1 Hydrolase_2 Ribonuc_red_sm Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom HNH_3 LAGLIDADG_3 RNase_H HAD_SAK_2 ResIII Helicase_C Thymidylat_synt
+NODE_2_length_56831_cov_6.265356_cutoff_5,Chromosome,-6.515015760009021,HNH_3 ATP-cone Ribonuc_red_lgC Ribonuc_red_lgN Ribonuc_red_lgC RNA_pol_Rpb2_6
+NODE_3_length_3753_cov_5.141730_cutoff_5,Chromosome,-17.331723298240696,ZnuA Strep_his_triad Strep_his_triad Strep_his_triad PHtD_u1 Strep_his_triad Strep_his_triad Strep_his_triad ZnuA
+NODE_4_length_2562_cov_3.676459_cutoff_5,Chromosome,0,HTH_28 rve
+NODE_1_length_26494_cov_11.177159_cutoff_15,Plasmid,33.50,VirB3 CagE_TrbE_VirB T4SS TrbL CagX TrbI T2SSE T4SS-DNA_transf TrbM SSB Topoisom_bac Toprim ToxN_toxin VirB8 SLT CbiA LPD7 DnaJ

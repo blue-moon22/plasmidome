@@ -1,0 +1,12 @@
+NODE_1_length_86130_cov_205.681150_cutoff_198,Plasmid,35.22,Transposon_TraM DUF3875 Relaxase MobC Resolvase HTH_7 RadC DUF4138 DUF4138 DUF3945 DUF3945 SSB DUF1738 MPTase-PolyVal TraG-D_C Toprim_2 PcfJ PcfK Glycos_transf_2 Hexapep Glycos_transf_1 Glyco_trans_4_4 Glyco_trans_4_2 Glyco_transf_4 NTP_transferase MannoseP_isomer Cupin_2 Glycos_transf_1 Glyco_transf_4 Glycos_transf_2 Glycos_transf_1 Glyco_transf_4 EpsG TraO cNMP_binding DUF3408 CbiA MobC Relaxase Virulence_RhuM HTH_31 HipA_C Couple_hipA DUF2958 Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5 NusG DDE_Tnp_1 UDPG_MGDP_dh_N UDPG_MGDP_dh UDPG_MGDP_dh_C Epimerase Acyl_transf_3 Poly_export Glycos_transf_4 AAA_31 GNVR HTH_18 HTH_18 Lactamase_B_2 DUF5131 Radical_SAM HATPase_c Resolvase HTH_7 Mfa_like_1 AAA_31 AAA_14 DUF4143 GerE DUF3575 DUF5119 HipA_C Couple_hipA HTH_3 Virulence_RhuM Bac_DNA_binding PemK_toxin
+NODE_1_length_21256_cov_103.969923_cutoff_334,Chromosome,-14.542409518905451,BatD TPR_1 SH3_3 Toprim_4 RecR Lipocalin_2 DXP_synthase_N Transket_pyr Transketolase_C AA_kinase AhpC-TSA RRF F_bP_aldolase Fumerase_C Fumerase Acetyltransf_CG Epimerase Enolase_C Enolase_N OMP_b-brl Cupin_2 Acetyltransf_7 DUF3575
+NODE_1_length_98273_cov_12.909701_cutoff_10,Plasmid,2.43,DUF932 Sipho_Gp157 Phage_gp49_66 RVT_1 Glyco_hydro_108 PG_binding_3 Thy1 DNA_ligase_A_M DNA_pol_B AAA_30 UvrD_C_2
+NODE_1_length_87181_cov_77.268139_cutoff_0,Chromosome,0,KTSC Peptidase_S74 PKD Cpn10 RecA AAA_28 5_3_exonuc_N 5_3_exonuc SMC_N Metallophos gp32 Helicase_C ResIII SWI2_SNF2 Rubrerythrin HNH_3 DnaB_C dUTPase Thymidylat_synt DNA_pol_A DNA_pol_A_exo1 BACON BACON PhageMin_Tail DNA_methylase Muraidase Phage_T4_gp19 HNH_3 Baseplate_J GPW_gp25 LysM Phage_holin_4_1 Collar
+NODE_2_length_6825_cov_280.929312_cutoff_0,Plasmid,8.52,T4SS-DNA_transf Rep_3 CRISPR_Cas2
+NODE_3_length_5466_cov_605.882167_cutoff_0,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_4_length_2828_cov_268.357325_cutoff_0,Chromosome,--
+NODE_5_length_2768_cov_1.664809_cutoff_0,Chromosome,--
+NODE_6_length_1973_cov_2.103376_cutoff_0,Chromosome,--
+NODE_1_length_3869_cov_2.026635_cutoff_5,Chromosome,0,Glug Glug
+NODE_2_length_3392_cov_2.738763_cutoff_5,Chromosome,0,EndoU_bacteria PT-HINT Imm42 PT-HINT PT-HINT
+NODE_1_length_16139_cov_10.538165_cutoff_15,Chromosome,0,TonB_dep_Rec Plug CarbopepD_reg_2 Adenine_glyco Response_reg HATPase_c Y_Y_Y HTH_18 HisKA HTH_AraC Reg_prop Reg_prop Reg_prop Reg_prop Reg_prop VirE_N DUF3874 VirE AAA_14 DUF4143 SusD_RagB SusD-like_3 Glyco_hydro_43

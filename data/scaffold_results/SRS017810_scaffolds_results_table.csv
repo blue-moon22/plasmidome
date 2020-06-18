@@ -1,0 +1,14 @@
+NODE_1_length_56494_cov_18.049861_cutoff_0,Chromosome,-3.2703315718062616,PhageMin_Tail Flg_new Prophage_tail DUF859 SNF2_N Helicase_C dUTPase RecA RecA DUF2786 GTP_cyclohydroI QueT RecU Phage_prot_Gp6 Terminase_6 Phage_GP20 Glyco_hydro_25 CW_7 Phage_holin_Dp1 Phage_cap_E CW_7 CW_7 QueC QueF DNA_pol_A DNA_pol_A_exo1 Sigma70_r2 Toprim_2 DnaB_C DNA_pol3_delta2 DNA_pol3_gamma3 DNA_pol3_delta2 Fer4_14 PTPS
+NODE_2_length_5933_cov_6.190915_cutoff_0,Chromosome,--
+NODE_3_length_4572_cov_2.418242_cutoff_0,Plasmid,3.51,Relaxase
+NODE_4_length_2942_cov_3.166143_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_2822_cov_3.714390_cutoff_0,Plasmid,5.35,Rep_3
+NODE_6_length_1447_cov_2.741606_cutoff_0,Chromosome,--
+NODE_7_length_743_cov_1.129129_cutoff_0,Chromosome,0,Big_6
+NODE_8_length_713_cov_2.768868_cutoff_0,Chromosome,0,Big_6
+NODE_9_length_593_cov_1.383721_cutoff_0,Chromosome,0,Acetyltransf_3
+NODE_1_length_5025_cov_3.028092_cutoff_5,Chromosome,0,Collagen Collagen
+NODE_2_length_1894_cov_1.512383_cutoff_5,Chromosome,--
+NODE_3_length_1487_cov_32.001418_cutoff_5,Chromosome,0,YadA_stalk
+NODE_4_length_1136_cov_4.545798_cutoff_5,Chromosome,0,Trp_ring
+NODE_5_length_650_cov_15.582897_cutoff_5,Chromosome,0,Big_11 Big_11

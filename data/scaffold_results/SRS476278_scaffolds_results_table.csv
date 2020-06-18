@@ -1,0 +1,22 @@
+NODE_1_length_109714_cov_54.021234_cutoff_33,Plasmid,10.37,ResIII Helicase_C Tape_meas_lam_C Phage_tail_L Phage_min_tail NLPC_P60 Prok-JAB Peptidase_S74 Phage-tail_3 DUF1983 tRNA-synt_1g tRNA_bind MipZ DNA_ligase_A_M DnaB_C Phage_integrase Glutaredoxin CobT_C CobT AAA_5 Phage_prot_Gp6 Terminase_6 ParBc ParBc ABC_tran DUF551 tRNA-synt_1g ParA DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 Band_7 5_3_exonuc_N 5_3_exonuc gp32 RecA LAGLIDADG_3 Flag1_repress Rep_3 Metallophos AAA_23 Ribonuc_red_lgC Ribonuc_red_lgN ATP-cone DDE_Tnp_1 RNase_H PRA-PH Ribonuc_red_sm AAA_28 DHFR_1 Thymidylat_synt Dam RNase_T Big_2 DUF4942 Big_2 Big_2 Big_2 TerB DUF3927
+NODE_1_length_19364_cov_57.311868_cutoff_70,Chromosome,-41.353031778371445,GTP_EFTU Ribosom_S12_S23 Ribosomal_S7 Ribonuc_L-PSP DrsE Ribosomal_L11_N Ribosomal_L11 Ribosomal_L1 Ribosomal_L10 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 SecE RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 NusG KOW Ribosomal_L12 Ribosomal_L12_N
+NODE_1_length_2794_cov_124.358116_cutoff_91,Chromosome,0,Bac_transf CoA_binding_3
+NODE_1_length_14767_cov_11.448877_cutoff_15,Chromosome,0,Autotransporter TonB_dep_Rec Plug Autotransporter
+NODE_2_length_11375_cov_5.340060_cutoff_15,Chromosome,0,PemK_toxin HTH_35 NACHT
+NODE_1_length_1387_cov_226.272519_cutoff_20,Chromosome,0,DDE_Tnp_1_assoc DDE_Tnp_1
+NODE_1_length_90138_cov_105.143858_cutoff_0,Chromosome,-3.6776436399634846,HTH_3 DNA_ligase_A_M Thymidylat_synt Macro DHFR_1 Gp138_N Baseplate_J gp37_C gp37_C gp37_C DnaB_C Toprim_2 PRA-PH Endonuclease_7 DUF2828 DUF2828 Ig_3 Ig_2 Ig_3 I-set Phage_lysozyme NAPRTase NAPRTase DUF5598 Pribosyltran Fer4_12 NUMOD3 HNH_3 NRDD NRDD ATP-cone Ribonuc_red_sm Glutaredoxin Ribonuc_red_lgC Ribonuc_red_lgN ATP-cone DUF3277 DUF3383 Phage_cap_E Peptidase_S49 Terminase_6 Terminase_6C
+NODE_2_length_6091_cov_20.805953_cutoff_0,Plasmid,2.91,HTH_17 Resolvase
+NODE_3_length_5662_cov_50.017547_cutoff_0,Plasmid,16.45,MobC Relaxase RelE HTH_3 Replicase PriCT_1 AIPR
+NODE_4_length_5483_cov_4.048650_cutoff_0,Chromosome,0,Phage_F Chlamy_scaf
+NODE_5_length_3415_cov_6.624026_cutoff_0,Plasmid,9.06,Mob_Pre RepL
+NODE_6_length_3255_cov_20.602580_cutoff_0,Plasmid,9.06,RepL Mob_Pre
+NODE_7_length_2973_cov_107.284876_cutoff_0,Plasmid,5.35,Rep_3
+NODE_8_length_2898_cov_10.922368_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_9_length_1589_cov_13.523148_cutoff_0,Plasmid,5.20,RepL
+NODE_10_length_1108_cov_1.146460_cutoff_0,Chromosome,0,ThiG
+NODE_11_length_611_cov_4.822097_cutoff_0,Chromosome,--
+NODE_1_length_4482_cov_4.358456_cutoff_5,Chromosome,--
+NODE_2_length_1864_cov_1.998321_cutoff_5,Chromosome,0,Flagellin_N Flagellin_C Flagellin_C
+NODE_3_length_1629_cov_7.313789_cutoff_5,Chromosome,0,HTH_36
+NODE_4_length_1227_cov_2.639130_cutoff_5,Chromosome,--
+NODE_5_length_1127_cov_1.846667_cutoff_5,Plasmid,2.42,Ntox15 GAD-like

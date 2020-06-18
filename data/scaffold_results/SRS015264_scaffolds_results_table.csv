@@ -1,0 +1,27 @@
+NODE_1_length_6738_cov_905.915178_cutoff_118,Plasmid,8.86,Rep_3 DUF772 DDE_Tnp_1_2 Relaxase
+NODE_1_length_100548_cov_39.952275_cutoff_10,Chromosome,0,LAGLIDADG_3 AAA_5 Phage_holin_4_1 Sigma70_r4_2 Sigma70_r2 ART-PolyVal DUF3799 zf-CHC2 AAA_24 DnaB_C DUF1064 dUTPase AAA
+NODE_2_length_3305_cov_17.962206_cutoff_10,Plasmid,6.35,Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 GyrI-like Y2_Tnp Zn_Tnp_IS91
+NODE_1_length_6292_cov_2.675302_cutoff_0,Chromosome,-3.5747005630513957,GntR FCD DAO Fer2_BFD Pyr_redox_2 DUF1667 Lar_N
+NODE_2_length_5732_cov_6.624050_cutoff_0,Plasmid,8.26,HNH_3 Rep_3 Resolvase YafQ_toxin
+NODE_3_length_5163_cov_5.877114_cutoff_0,Plasmid,4.09,MobC
+NODE_4_length_4225_cov_432.135487_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin
+NODE_5_length_3895_cov_1.663174_cutoff_0,Chromosome,0,Methylase_S Virulence_RhuM Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 SKI Methylase_S
+NODE_6_length_3153_cov_1.954161_cutoff_0,Chromosome,0,Peptidase_S9
+NODE_7_length_2828_cov_443.252272_cutoff_0,Chromosome,--
+NODE_8_length_2121_cov_1.566047_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_9_length_1907_cov_2.194536_cutoff_0,Plasmid,2.42,DUF1851 GAD-like
+NODE_10_length_1466_cov_1.548596_cutoff_0,Chromosome,0,Fic
+NODE_11_length_1382_cov_0.367816_cutoff_0,Chromosome,0,HATPase_c_5
+NODE_12_length_1141_cov_1.814850_cutoff_0,Chromosome,--
+NODE_13_length_1052_cov_1.202051_cutoff_0,Chromosome,--
+NODE_1_length_51543_cov_7.355108_cutoff_5,Chromosome,0,GPW_gp25 Phage_P2_GpU Tail_P2_I Baseplate_J DUF3751 Phage_base_V Phage_spike Phage_GPD PhageMin_Tail Phage_tail_X Phage_TAC_7 Phage_tube Minor_tail_Z Phage_portal_2 N6_N4_Mtase ParBc Terminase_GpA Phage_cap_E HDPD CLP_protease IstB_IS21 RusA YdaS_antitoxin HTH_36 HTH_3 IstB_IS21 DUF4875 Phage_integrase Arm-DNA-bind_3 Phage_integrase HTH_3 Peptidase_S24 YqaJ GerE RecT SSB ANT Phage_pRha Peptidase_S74 Collagen Collagen Phage_holin_4_1 Amidase_3 Phage_tail_APC Stealth_CR2 Stealth_CR1
+NODE_2_length_6084_cov_16.294656_cutoff_5,Plasmid,3.86,RelB Mob_Pre RelB YafQ_toxin
+NODE_3_length_5813_cov_3.880230_cutoff_5,Chromosome,0,Zot
+NODE_4_length_2987_cov_2.285223_cutoff_5,Chromosome,--
+NODE_5_length_2980_cov_1.911126_cutoff_5,Chromosome,0,PCMD PCMD
+NODE_6_length_2350_cov_2.731192_cutoff_5,Chromosome,-2.9697460945196408,DUF1573 DUF5128
+NODE_7_length_2138_cov_2.553615_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_8_length_1988_cov_3.578755_cutoff_5,Chromosome,0,DUF3874 AlbA_2 HATPase_c_4 HTH_11 HTH_DeoR HTH_24
+NODE_1_length_5825_cov_42.902749_cutoff_33,Chromosome,--
+NODE_1_length_2735_cov_15.060572_cutoff_15,Chromosome,-3.923257538881126,AAA_14 DUF4143 tRNA_U5-meth_tr Methyltransf_31
+NODE_2_length_2037_cov_13.245918_cutoff_15,Chromosome,0,AAA_14 DUF4143

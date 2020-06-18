@@ -1,0 +1,9 @@
+NODE_1_length_3448_cov_646.967665_cutoff_153,Chromosome,-2.3636102909510015,GTP_EFTU EFG_IV EFG_C EFG_II DDE_5
+NODE_1_length_8517_cov_7.076185_cutoff_0,Plasmid,5.35,Mfa_like_1 YoeB_toxin Y1_Tnp OrfB_Zn_ribbon OrfB_IS605 HTH_3 ORF6N Rep_3
+NODE_2_length_5671_cov_8.337326_cutoff_0,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_3_length_4225_cov_4.618129_cutoff_0,Plasmid,8.86,Rep_3 YoeB_toxin Relaxase
+NODE_4_length_2849_cov_6.300866_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_1_length_9148_cov_17.380884_cutoff_20,Chromosome,0,Fic AAA_14 DUF4143
+NODE_1_length_59497_cov_17.418748_cutoff_5,Chromosome,0,Sipho_tail Sipho_Gp37 Big_7 dUTPase Glyco_hydro_25 LysM CW_7 LysM Bro-N Big_2 S-l_SbsC_C Peptidase_S78 Phage_portal Terminase_1 AAA_18 Bro-N
+NODE_2_length_5680_cov_9.083705_cutoff_5,Plasmid,11.12,Relaxase MobC Relaxase
+NODE_1_length_3679_cov_72.163520_cutoff_33,Chromosome,0,RadC SSB

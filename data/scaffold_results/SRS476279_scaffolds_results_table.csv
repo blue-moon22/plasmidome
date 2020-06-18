@@ -1,0 +1,15 @@
+NODE_1_length_2295_cov_35.612714_cutoff_5,Chromosome,--
+NODE_2_length_1319_cov_4.019324_cutoff_5,Chromosome,0,Ion_trans_2 DUF389 DUF389
+NODE_1_length_8215_cov_4.261366_cutoff_0,Plasmid,2.65,Prim_Zn_Ribbon Toprim_3 HTH_39 HTH_39 Arm-DNA-bind_3 Phage_integrase Phage_int_SAM_3 Phage_AlpA DUF927
+NODE_2_length_5126_cov_4.616954_cutoff_0,Chromosome,0,YoeB_toxin
+NODE_3_length_4385_cov_11.414810_cutoff_0,Chromosome,0,ParE_toxin
+NODE_4_length_3924_cov_3.274500_cutoff_0,Plasmid,3.86,Mob_Pre Rep_trans
+NODE_5_length_2083_cov_7.897308_cutoff_0,Plasmid,5.48,Rep_1
+NODE_6_length_1675_cov_3.200250_cutoff_0,Chromosome,0,Rep_trans
+NODE_7_length_1232_cov_6.409524_cutoff_0,Plasmid,5.20,RepL
+NODE_8_length_1140_cov_1.837253_cutoff_0,Chromosome,--
+NODE_9_length_764_cov_0.672489_cutoff_0,Chromosome,--
+NODE_10_length_726_cov_0.889060_cutoff_0,Chromosome,--
+NODE_11_length_661_cov_1.349315_cutoff_0,Chromosome,--
+NODE_12_length_631_cov_1.407942_cutoff_0,Chromosome,--
+NODE_13_length_599_cov_2.931034_cutoff_0,Chromosome,0,FIVAR
