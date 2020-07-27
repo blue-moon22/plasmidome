@@ -1,19 +1,158 @@
 # Libraries
+library(viridis)
 library(dplyr)
 library(purrr)
 library(stringr)
 library(RColorBrewer)
 library(ggplot2)
 library(purrr)
+library(reshape2)
+library(vegan)
+library(cluster)
+library(maSigPro)
+library(gridExtra)
+library(gplots)
+set.seed(42)
 
+#### Functions ####
+createPairedData <- function(df_meta, pair_list){
+  
+  # Create groups e.g. stool vs dental
+  df_meta_pairs <- data.frame()
+  for(i in 1:length(pair_list)){
+    
+    samples_one <- unique(df_meta$Sample.name[df_meta$sample_type == pair_list[[i]][1]])
+    samples_two <- unique(df_meta$Sample.name[df_meta$sample_type == pair_list[[i]][2]])
+    df_meta_pair <- df_meta[(df_meta$Sample.name %in% Reduce(intersect,list(samples_one, samples_two))) & (df_meta$sample_type %in% pair_list[[i]]),]
+    
+    df_meta_pair$group <- paste(pair_list[[i]][1], "vs.", pair_list[[i]][2])
+    if(nrow(df_meta_pairs) == 0) {
+      df_meta_pairs <- df_meta_pair
+    } else {
+      df_meta_pairs <- rbind(df_meta_pairs, df_meta_pair)
+    }
+  }
+  
+  # Order by Location and change characters in group
+  df_meta_pairs <- df_meta_pairs[order(df_meta_pairs$Location),]
+  df_meta_pairs$group <- as.character(df_meta_pairs$group)
+  
+  return(df_meta_pairs)
+}
+
+runTtest <- function(df_paired){
+  
+  df_paired_richness <- df_paired[!duplicated(paste0(df_paired$ID, df_paired$group)),]
+  
+  # T-test
+  p_values <- c()
+  ttest_groups <- df_paired_richness[!duplicated(paste0(df_paired_richness$Location,
+                                                        df_paired_richness$group)),]
+  for(i in 1:nrow(ttest_groups)){
+    y <- df_paired_richness[df_paired_richness$Location == ttest_groups$Location[i] & 
+                              df_paired_richness$group == ttest_groups$group[i],]
+    y <- y[order(y$Sample.name),]
+    type1 <- strsplit(ttest_groups$group[i], " vs. ")[[1]][1]
+    type2 <- strsplit(ttest_groups$group[i], " vs. ")[[1]][2]
+    y1 <- y$richness[y$sample_type == type1]
+    y2 <- y$richness[y$sample_type == type2]
+    p_values <- c(p_values, wilcox.test(y1, y2, paired = TRUE, alternative = "two.sided")$p.value)
+  }
+  ttest_groups$pvalue <- p_values
+  asterisk <- rep(NA, length(p_values))
+  asterisk[p_values < 0.05] <- "*"
+  asterisk[p_values < 0.01] <- "**"
+  asterisk[p_values < 0.001] <- "***"
+  ttest_groups$asterisk <- asterisk
+  
+  # Order ttest_groups
+  ttest_groups <- ttest_groups[order(ttest_groups$Location, ttest_groups$group),]
+  ttest_groups <- ttest_groups[,c("Location", "group", "pvalue", "asterisk")]
+  return(ttest_groups)
+}
+
+plotRichnessGraph <- function(df_paired_richness_group, ttest_group, cols) {
+  set.seed(1) # for jitter
+  g <- ggplot(df_paired_richness_group, aes(sample_type, richness)) +
+    geom_boxplot(outlier.shape = NA) +
+    geom_jitter(size = 0.8) +
+    theme_classic() +
+    ylab("Plasmid Richness") +
+    xlab("") +
+    ggtitle(ttest_group$Location) +
+    geom_text(data = ttest_group, aes(label=asterisk),
+              x = 1.5, y = max(df_paired_richness_group$richness)+10, size = 7,
+              inherit.aes = FALSE) +
+    theme(legend.text = element_text(size = 14), legend.title = element_text(size = 16))
+  return(g)
+}
+
+plotMultipleRichnessGraphs <- function(ttest_groups, df_paired, cols){
+  df_paired_richness <- df_paired[!duplicated(paste0(df_paired$ID, df_paired$group)),]
+  g <- list()
+  for(i in 1:nrow(ttest_groups)){
+    df_paired_richness_group <- df_paired_richness[df_paired_richness$Location == ttest_groups$Location[i] & 
+                                                     df_paired_richness$group == ttest_groups$group[i],]
+    g[[i]] <- plotRichnessGraph(df_paired_richness_group, ttest_groups[i,], cols) +
+      theme(legend.position = "none") + ylim(c(0, 40))
+  }
+  return(g)
+}
+
+getBestBlastHit <- function(blast_result, qseqid_id){
+  blast_result_tmp <- blast_result[blast_result$qseqid == qseqid_id,]
+  remove_ids <- c()
+  for(i in 1:(nrow(blast_result_tmp)-1)){
+    
+    for(j in (i+1):nrow(blast_result_tmp)){
+      
+      if(blast_result_tmp$qend[i] >= blast_result_tmp$qstart[j] & blast_result_tmp$qend[j] >= blast_result_tmp$qstart[i]){
+        overlap_prop <- (blast_result_tmp$qend[i] - blast_result_tmp$qstart[j]) / min(blast_result_tmp$length[i], blast_result_tmp$length[j])
+      } else if(blast_result_tmp$qend[j] >= blast_result_tmp$qstart[i] & blast_result_tmp$qstart[j] <= blast_result_tmp$qend[i]){
+        overlap_prop <- (blast_result_tmp$qend[j] - blast_result_tmp$qstart[i]) / min(blast_result_tmp$length[i], blast_result_tmp$length[j])
+      } else if(blast_result_tmp$qend[i] >= blast_result_tmp$qend[j] & blast_result_tmp$qstart[i] <= blast_result_tmp$qstart[j]){
+        overlap_prop <- (blast_result_tmp$qend[i] - blast_result_tmp$qstart[i]) / min(blast_result_tmp$length[i], blast_result_tmp$length[j])
+      } else if(blast_result_tmp$qend[j] >= blast_result_tmp$qend[i] & blast_result_tmp$qstart[j] <= blast_result_tmp$qstart[i]){
+        overlap_prop <- (blast_result_tmp$qend[j] - blast_result_tmp$qstart[j]) / min(blast_result_tmp$length[i], blast_result_tmp$length[j])
+      } else {
+        overlap_prop <- 0
+      }
+      
+      if(overlap_prop > 0.2 & blast_result_tmp[i, "evalue"] != blast_result_tmp[j, "evalue"]){
+        ind <- which.max(blast_result_tmp$evalue[c(i,j)])
+        remove_id <- which(blast_result$qseqid == blast_result_tmp$qseqid[c(i,j)[ind]] & 
+                             blast_result$sseqid == blast_result_tmp$sseqid[c(i,j)[ind]] &
+                             blast_result$qstart == blast_result_tmp$qstart[c(i,j)[ind]] & 
+                             blast_result$qend == blast_result_tmp$qend[c(i,j)[ind]])
+        remove_ids <- unique(c(remove_ids, remove_id))
+        
+      } else if (overlap_prop > 0.2 & blast_result_tmp[i, "evalue"] == blast_result_tmp[j, "evalue"] & blast_result_tmp[i, "pident"] != blast_result_tmp[j, "pident"]){
+        ind <- which.min(blast_result_tmp$pident[c(i,j)])
+        remove_id <- which(blast_result$qseqid == blast_result_tmp$qseqid[c(i,j)[ind]] & 
+                             blast_result$sseqid == blast_result_tmp$sseqid[c(i,j)[ind]] &
+                             blast_result$qstart == blast_result_tmp$qstart[c(i,j)[ind]] & 
+                             blast_result$qend == blast_result_tmp$qend[c(i,j)[ind]])
+        remove_ids <- unique(c(remove_ids, remove_id))
+      }
+    }
+  }
+  return(remove_ids)
+}
+
+
+#### Read data ####
 metadata <- read.csv("data/supplementary_metadata.csv", stringsAsFactors = FALSE)
 samples <- read.delim("data/samples_analysed.txt", stringsAsFactors = FALSE, header = FALSE)
 metadata <- metadata[metadata$ID %in% samples$V1 & metadata$Location %in% c("China", "USA"),]
-
-# Summarise
-metadata %>% group_by(Location, sample_type) %>%
-  summarise(n = n_distinct(ID))
+counts_total <- readRDS("data/counts_total.RDS")
+counts_total <- counts_total[,names(counts_total) %in% metadata$ID]
+metaphlan <- read.csv("data/all_metaphlan.csv", stringsAsFactors = FALSE)
 metadata$Location_sampletype <- paste(metadata$sample_type, "-", metadata$Location)
+rownames(metadata) <- metadata$ID
+
+# GIT site colours
+cols <- plasma(length(unique(metadata$sample_type)), end = 0.8)
+names(cols) <- sort(unique(metadata$sample_type))
 
 # Combine metaplasmidspades
 plasmid_res <- data.frame()
@@ -137,6 +276,243 @@ plasmid_prof <- left_join(plasmid_prof, plasmid_taxa, by = "V1") %>%
   rename("name"="V1") %>%
   left_join(metadata, by = "ID")
 
+metadata <- metadata[metadata$ID %in% plasmid_prof$ID,]
+
+# Summarise
+metadata %>% group_by(Location, sample_type) %>%
+  summarise(n = n_distinct(ID))
+
+plasmid_prof_summary <- plasmid_prof %>% group_by(Location_sampletype, Location, sample_type) %>%
+  mutate(total = n_distinct(ID)) %>%
+  group_by(Location_sampletype, Location, sample_type, plasmid_name_cluster, total) %>%
+  summarise(n = n_distinct(ID)) %>%
+  mutate(perc = n/total*100)
+
+# Graph of incidence frequency
+tiff("figures/plasmid_count_summary.tiff", height = 500, width = 2000, res = 150)
+ggplot(plasmid_prof_summary, aes(perc, fill = Location_sampletype)) +
+  geom_histogram(binwidth = 10) +
+  facet_grid(~Location_sampletype) +
+  theme_classic() +
+  scale_fill_manual("GIT site - Country", values = cohort_cols) +
+  xlab("% samples") + ylab("Frequency")
+dev.off()
+
+#### BETA-DIVERSITY ####
+plasmid_prof_top <- plasmid_prof[plasmid_prof$plasmid_name_cluster %in% plasmid_prof_summary$plasmid_name_cluster[plasmid_prof_summary$perc > 50],]
+plasmid_prof_top$labels <- plasmid_prof_top$plasmid_name_cluster
+plasmid_prof_top$labels[!is.na(plasmid_prof_top$type)] <- paste0(plasmid_prof_top$plasmid_name_cluster[!is.na(plasmid_prof_top$type)], " (", plasmid_prof_top$type[!is.na(plasmid_prof_top$type)], ")")
+plasmid_read_counts <- dcast(plasmid_prof_top, labels ~ ID, value.var = "cov_depth", fun.aggregate = sum)
+row.names(plasmid_read_counts) <- plasmid_read_counts$labels
+plasmid_read_counts <- plasmid_read_counts[,-1]
+plasmid_counts <- plasmid_read_counts
+plasmid_counts[plasmid_counts > 0] <- 1
+
+# Heatmap
+tiff("figures/plasmid_incidence_heatmap.tiff", width = 1500, height = 2000, res = 150)
+heatmap.2(as.matrix(plasmid_counts),
+          margins = c(10,20),
+          trace = "none",
+          scale = "none",
+          hclustfun = function(x) {hclust(x, method = "ward.D2")},
+          dendrogram = "column",
+          col =  colorRampPalette(brewer.pal(9, "PuRd")[c(1, 9)])(50),
+          breaks = seq(min(plasmid_read_prop), max(plasmid_read_prop), length.out = 51),
+          symbreaks = FALSE,
+          key = FALSE, 
+          lhei = c(1,8),
+          ColSideColors = sapply(metadata[colnames(plasmid_read_prop), "Location_sampletype"], function(x) cohort_cols[x]),
+          #labRow = as.expression(lapply(family_labels, function(a) bquote(italic(.(a))))),
+          labCol = NA,
+          cexCol = 0.5,
+          ylab = "Plasmid singleton/cluster",
+          main = NA
+)
+legend(x = 0.85, y = 1.05, xpd=TRUE, legend = levels(as.factor(metadata[colnames(plasmid_read_prop), "Location_sampletype"])),
+       col = cohort_cols[names(cohort_cols) %in% sort(unique(metadata[colnames(plasmid_read_prop), "Location_sampletype"]))], bg = "white", box.col = "black",
+       lty = 1, lwd = 5, cex = 0.5, title = "GIT Sites")
+dev.off()
+
+# Compute distance matrix and run NMDS on phage clusters
+plasmid_read_prop <- dcast(plasmid_prof, plasmid_name_cluster ~ ID, value.var = "cov_depth", fun.aggregate = length)
+rownames(plasmid_read_prop) <- plasmid_read_prop$plasmid_name_cluster
+plasmid_read_prop <- plasmid_read_prop[,-1]
+cluster_samples_nmds <- metaMDS(t(plasmid_read_prop), distance = "bray", k = 2, trymax = 20)
+df_cluster_samples_nmds <- as.data.frame(cluster_samples_nmds$points)
+
+# Cluster raw data for check
+cluster_samples_raw <- vegdist(t(plasmid_read_prop))
+
+# Silhoette analysis of PAM (k-medoids)
+avg_sil <- numeric(20)
+for(k in 3:(length(avg_sil)+1)) {
+  tmp <- silhouette(pam(df_cluster_samples_nmds[,c("MDS1", "MDS2")], k = k), df_cluster_samples_nmds[,c("MDS1", "MDS2")])
+  avg_sil[k-1] <- mean(tmp[,3])
+}
+
+# Silhoette analysis of raw data for check
+avg_sil_check <- numeric(20)
+for(k in 3:(length(avg_sil_check)+1)) {
+  tmp <- silhouette(pam(as.matrix(cluster_samples_raw), k = k), as.matrix(cluster_samples_raw))
+  avg_sil_check[k-1] <- mean(tmp[,3])
+}
+
+# Group by silhouette width
+samples_clust <- pam(df_cluster_samples_nmds[,c("MDS1", "MDS2")], which.max(avg_sil)+1)
+samples_clust_check <- pam(as.matrix(cluster_samples_raw), which.max(avg_sil_check)+1)
+df_cluster_samples_nmds$cluster <- as.factor(samples_clust$cluster[row.names(df_cluster_samples_nmds)])
+df_cluster_samples_nmds$cluster_raw <- as.factor(samples_clust_check$cluster[row.names(df_cluster_samples_nmds)])
+df_cluster_samples_nmds$ID <- row.names(df_cluster_samples_nmds)
+df_cluster_samples_nmds$Sample.name <- as.character(sapply(df_cluster_samples_nmds$ID, function(x) metadata$Sample.name[metadata$ID == x]))
+df_cluster_samples_nmds$Location <- sapply(df_cluster_samples_nmds$ID, function(x) metadata$Location[metadata$ID == x])
+df_cluster_samples_nmds$sample_type <- sapply(df_cluster_samples_nmds$ID, function(x) metadata$sample_type[metadata$ID == x])
+df_cluster_samples_nmds$Location_sampletype <- paste(df_cluster_samples_nmds$sample_type, "-", df_cluster_samples_nmds$Location)
+df_cluster_samples_nmds$Age <- sapply(df_cluster_samples_nmds$ID, function(x) metadata$Age[metadata$ID == x])
+df_cluster_samples_nmds$Sex <- sapply(df_cluster_samples_nmds$ID, function(x) metadata$Sex[metadata$ID == x])
+
+# Plot NMDS by sample type and cluster
+cohort_cols <- c("grey", brewer.pal(9, "Blues")[c(5,7)], "gold", brewer.pal(9, "YlOrRd")[c(5,7)], brewer.pal(9, "RdPu")[c(3,5)])
+names(cohort_cols) <- sort(unique(metadata$Location_sampletype)) 
+tiff("figures/nmds_clusters.tiff", width = 2000, height = 1000, res = 300)
+ggplot(df_cluster_samples_nmds, aes(MDS1, MDS2, colour = Location_sampletype, shape = cluster)) +
+  theme_classic() +
+  geom_text(aes(label=cluster)) +
+  scale_colour_manual("GIT Site - Country", values = cohort_cols, guide = guide_legend(override.aes = list(shape = 21, size = 4))) +
+  xlab("NMDS 1") + ylab("NMDS 2")
+dev.off()
+
+# Check clusters with raw data
+ggplot(df_cluster_samples_nmds, aes(MDS1, MDS2, colour = Location_sampletype, shape = cluster_raw)) +
+  theme_classic() +
+  geom_text(aes(label=cluster_raw)) +
+  scale_colour_manual("Body Site", values = cohort_cols, guide = guide_legend(override.aes = list(shape = 21, size = 3))) +
+  xlab("NMDS 1") + ylab("NMDS 2")
+
+# Calculate proportion of samples
+cluster_res <- df_cluster_samples_nmds %>% 
+  group_by(cluster, Location, sample_type) %>% 
+  summarise(n = n()) %>%
+  group_by(cluster) %>%
+  mutate(total_n = sum(n)) %>%
+  mutate(prop_cluster = n/total_n*100, Location_sampletype = paste(sample_type, "-", Location))
+
+# Calculate proportion of body sites
+cluster_site <- cluster_res %>% 
+  group_by(cluster, sample_type) %>%
+  summarise(prop_cluster = signif(sum(prop_cluster), 3)) %>%
+  mutate(summary = paste(sample_type, ": ", prop_cluster, "%")) %>%
+  group_by(cluster) %>%
+  summarise(summary = paste(summary, collapse = "; ")) %>%
+  mutate(summary = paste0("Group ", cluster, " (", summary, ")"))
+
+# Breakdown of groups
+tiff("figures/nmds_group_breakdown.tiff", width = 1200, height = 1000, res = 300)
+ggplot(cluster_res, aes(cluster, prop_cluster, fill = Location_sampletype)) +
+  geom_bar(stat = "identity") +
+  theme_classic() + xlab("Group") + ylab("% Samples") +
+  scale_fill_manual("GIT Site - Country", values = cohort_cols)
+dev.off()
+
+# Venn diagram
+unique_clusters <- unique(df_cluster_samples_nmds$cluster)
+
+plas_group_list <- sapply(unique_clusters, function(x) {
+  plas_tmp <- plasmid_read_prop[,colnames(plasmid_read_prop) %in% df_cluster_samples_nmds$ID[df_cluster_samples_nmds$cluster == x]]
+  plas_group <- rownames(plas_tmp)[rowSums(plas_tmp) != 0]
+  return(plas_group)
+})
+
+group_names <- paste("Group", unique_clusters, c("\n(mostly\ndental and\ndorsum of tongue)", "\n(mostly buccal mucosa)", "\n(stool)"))
+names(plas_group_list) <- group_names
+max_group_length <- max(sapply(plas_group_list, function(x) length(x)))
+
+plas_group_list <- lapply(plas_group_list, function(x) c(x, rep(NA, max_group_length - length(x))))
+
+plas_group_all <- do.call(cbind, plas_group_list)
+
+tiff("figures/venn_diagram.tiff", width = 600, height = 600)
+suma2Venn(plas_group_all, cexil = 2, cexsn = 1.4)
+dev.off()
+
+#### Alpha-diversity ####
+# Remove samples with lower than three plasmid clusters
+plasmid_counts <- dcast(plasmid_prof, ID ~ plasmid_name_cluster, value.var = "name", fun.aggregate = length)
+row.names(plasmid_counts) <- plasmid_counts[,1]
+plasmid_counts <- plasmid_counts[,-1]
+remove_ids <- rownames(plasmid_counts)[rowSums(plasmid_counts > 0) <= 3]
+plasmid_counts <- plasmid_counts[!rownames(plasmid_counts) %in% remove_ids,]
+metadata_richness <- metadata[!metadata$ID %in% unique(c(remove_ids, metadata$ID[!metadata$ID %in% row.names(plasmid_counts)])),]
+
+pair_list <- list(c("stool", "dental"), c("stool", "saliva"), c("dental", "saliva"),
+                  c("stool", "dorsum of tongue"), c("stool", "buccal mucosa"),
+                  c("dorsum of tongue", "buccal mucosa"), c("dorsum of tongue", "dental"), c("buccal mucosa", "dental"))
+paired_metadata <- createPairedData(metadata[metadata$ID %in% row.names(plasmid_counts),], pair_list)
+
+# Get richness from matrix
+richness_paired <- data.frame(ID = row.names(plasmid_counts), richness = rowSums(plasmid_counts > 0), no_plasmids = rowSums(plasmid_counts)) %>%
+  right_join(paired_metadata, by = "ID")
+
+# Alpha-diversity vs. number of contigs
+richness <- data.frame(ID = row.names(plasmid_counts), richness = rowSums(plasmid_counts > 0), no_plasmids = rowSums(plasmid_counts)) %>%
+  right_join(metadata[metadata$ID %in% unique(paired_metadata$ID),], by = "ID")
+
+linear_mod <- lm(richness ~ no_plasmids, richness)
+summary(linear_mod)
+richness$predict <- predict(linear_mod, richness)
+tiff("figures/richness_no_plasmids.tiff", width = 1500, height = 750, res = 150)
+ggplot(richness) +
+  geom_point(aes(no_plasmids, richness, color = Location_sampletype)) +
+  xlab("No. plasmids") + ylab("Plasmid Cluster/Singleton Richness") +
+  theme_classic() +
+  scale_color_manual("GIT Site - Country", values = cohort_cols) +
+  geom_abline(color = "red", slope = linear_mod$coefficients[2], intercept = linear_mod$coefficients[1])
+dev.off()
+
+# For each group, remove samples with less than or equal to 100 phage contigs
+unique_groups <- unique(richness_paired$group)
+for (i in 1:length(unique_groups)) {
+  remove_samples <- richness_paired$Sample.name[(richness_paired$no_plasmids <= 20 & richness_paired$group %in% unique_groups[i])]
+  richness_paired <- richness_paired[!(richness_paired$Sample.name %in% remove_samples & richness_paired$group %in% unique_groups[i]),]
+}
+paired_metadata_summary <- paired_metadata %>% filter(ID %in% richness_paired$ID) %>%
+  group_by(Location, group, sample_type) %>% summarise(n())
+
+# Subsample matrix and calculate richness
+richness_paired_ss <- data.frame()
+unique_groups <- unique(richness_paired$group)
+for (i in 1:length(unique_groups)) {
+
+  group_ids <- unique(richness_paired$ID[richness_paired$group %in% unique_groups[i]])
+  plasmid_counts_tmp <- plasmid_counts[rownames(plasmid_counts) %in% group_ids,]
+  min_phages <- min(rowSums(plasmid_counts_tmp))
+
+  plasmid_counts_tmp <- t(apply(plasmid_counts_tmp, 1, function(x) {
+    while (sum(x) > min_phages) {
+      ss_index <- sample(1:length(x), 1, prob = ifelse(x > 0, x/sum(x), 0))
+      x[ss_index] <- x[ss_index] - 1
+    }
+    return(x)
+  }))
+
+  richness_paired_tmp <- data.frame(ID = rownames(plasmid_counts_tmp), richness = rowSums(plasmid_counts_tmp > 0)) %>%
+    left_join(metadata_richness, by = "ID") %>%
+    mutate(group = unique_groups[i])
+
+  richness_paired_ss <- rbind(richness_paired_ss, richness_paired_tmp)
+}
+
+# T-test and graphs of subsampled data
+richness_ttest_ss <- runTtest(richness_paired_ss)
+richness_graphs_ss <- plotMultipleRichnessGraphs(richness_ttest_ss, richness_paired_ss, cols)
+#richness_graphs_ss[[length(richness_graphs_ss)+1]] <- g_legend(plotRichnessGraph(richness_paired_ss, richness_ttest_ss, cols))
+
+# Plot graph
+lay <- rbind(c(1,2,3), c(4,5,6), c(7,8,9))
+tiff("figures/alpha_diversity_subsampled.tiff", width = 2000, height = 2500, res = 250)
+grid.arrange(grobs = richness_graphs_ss, layout_matrix = lay)
+dev.off()
+
+#### RESISTANCE PLASMIDS ####
 # Combine ARG results
 arg_res <- data.frame()
 for (i in 1:length(metadata$ID)) {
@@ -147,30 +523,39 @@ for (i in 1:length(metadata$ID)) {
   }
 }
 
+names(arg_res) <- c("qseqid", "sseqid", "pident", "length", "mismatch", "gapopen", "qstart", "qend", "sstart", "send", "evalue", "bitscore", "ID")
+
+# Select hits
+arg_res_dup <- arg_res[arg_res$qseqid %in% arg_res$qseqid[duplicated(arg_res$qseqid)],]
+arg_res_sig <- arg_res[!arg_res$qseqid %in% arg_res_dup$qseqid,]
+remove_ids <- unlist(lapply(unique(arg_res_dup$qseqid), function(x) getBestBlastHit(arg_res_dup, x)))
+arg_res <- arg_res_dup[-remove_ids,]
+arg_res <- rbind(arg_res, arg_res_sig)
+  
 # Add ARG information
 card_aro_categories_index <- read.csv("db/CARD_DB/card-data/aro_categories_index.csv", stringsAsFactors = FALSE, sep = "\t")
 card_index <- read.csv("db/CARD_DB/card-data/aro_index.csv", stringsAsFactors = FALSE, sep = "\t")
 card_metadata <- full_join(card_index, card_aro_categories_index, by = "Protein.Accession")
 card_metadata <- card_metadata[!duplicated(card_metadata$ARO.Accession),]
-
-arg_res$ARO.Accession <- paste0("ARO:", gsub("_.*", "", gsub(".*_ARO:", "", arg_res$V2)))
+arg_res$ARO.Accession <- paste0("ARO:", gsub("_.*", "", gsub(".*_ARO:", "", arg_res$sseqid)))
 arg_res <- left_join(arg_res, card_metadata, by = "ARO.Accession")
-arg_res <- arg_res %>% select(V1, V3, V11, V12, ARO.Name, AMR.Gene.Family, Drug.Class, Resistance.Mechanism) %>%
-  rename("identity"="V3", "evalue"="V11", "bitscore"="V12")
-
-# Select hits
-arg_res <- arg_res %>% group_by(V1) %>%
-  filter(evalue == min(evalue)) %>%
-  filter(bitscore == max(bitscore)) %>% summarise_all(paste, collapse = ",") %>%
-  select(V1, ARO.Name, AMR.Gene.Family, Drug.Class, Resistance.Mechanism)
-
+arg_res <- arg_res %>% select(qseqid, pident, evalue, qstart, qend, bitscore, ARO.Name, AMR.Gene.Family, Drug.Class, Resistance.Mechanism) 
 arg_res$Drug.Class <- sapply(arg_res$Drug.Class, function(x) paste(unique(strsplit(x, ",")[[1]]), collapse = ","))
 arg_res$AMR.Gene.Family = sapply(arg_res$AMR.Gene.Family, function(x) paste(unique(strsplit(x, ",")[[1]]), collapse = ","))
 arg_res$ARO.Name = sapply(arg_res$ARO.Name, function(x) paste(unique(strsplit(x, ",")[[1]]), collapse = ","))
 arg_res$Resistance.Mechanism = sapply(arg_res$Resistance.Mechanism, function(x) paste(unique(strsplit(x, ",")[[1]]), collapse = ","))
+arg_res$Drug.Class.alt <- arg_res$Drug.Class
+arg_res$Drug.Class.alt[sapply(arg_res$Drug.Class.alt, function(x) str_count(x, ";")) > 1] <- "multidrug"
+arg_res$Drug.Class.alt[arg_res$Resistance.Mechanism == "antibiotic efflux"] <- paste(arg_res$Drug.Class.alt[arg_res$Resistance.Mechanism == "antibiotic efflux"], "efflux")
+arg_res$Drug.Class.alt <- gsub(";", " and\n", arg_res$Drug.Class.alt)
+arg_res <- arg_res %>% 
+  group_by(qseqid) %>%
+  summarise_all(paste, collapse = ",") %>%
+  select(qseqid, ARO.Name, AMR.Gene.Family, Drug.Class.alt, Resistance.Mechanism)
+
 
 # Combine plasmid and ARG results
-plasmid_args <- inner_join(plasmid_prof, arg_res, by = c("name"="V1"), suffix = c(".plasmid", ".arg"))
+plasmid_args <- inner_join(plasmid_prof, arg_res, by = c("name"="qseqid"), suffix = c(".plasmid", ".arg"))
 
 # Number of unique plasmid clusters/singletons
 n_uniq_plasmid_red <- length(unique(plasmid_prof$name))
@@ -198,20 +583,20 @@ plasmid_args %>%
 
 # Prevalence of each ARG (for each plasmid)
 plasmid_args %>% 
-  group_by(Location, sample_type, ARO.Name, Drug.Class, Resistance.Mechanism) %>%
+  group_by(Location, sample_type, ARO.Name, Drug.Class.alt, Resistance.Mechanism) %>%
   summarise(n = n_distinct(name))
 
 plasmid_args_groups <- plasmid_args %>%
-  group_by(plasmid_name_cluster, av_size, genome, type, Location, Sample.name, ARO.Name, Drug.Class, Resistance.Mechanism) %>%
+  group_by(plasmid_name_cluster, av_size, genome, type, Location, Sample.name, ARO.Name, Drug.Class.alt, Resistance.Mechanism) %>%
   summarise(n_sample_types = n_distinct(sample_type), sample_type_group = paste(sort(unique(sample_type)), collapse = "\n"))
 
 # Create data for plasmid figure 1
-plasmid_args <- left_join(plasmid_args, plasmid_args_groups, by = c("plasmid_name_cluster", "av_size", "genome", "type", "Location", "ARO.Name", "Drug.Class", "Resistance.Mechanism", "Sample.name"))
+plasmid_args <- left_join(plasmid_args, plasmid_args_groups, by = c("plasmid_name_cluster", "av_size", "genome", "type", "Location", "ARO.Name", "Drug.Class.alt", "Resistance.Mechanism", "Sample.name"))
 
 args_summary_pnts <- plasmid_args %>%
-  group_by(plasmid_name_cluster, av_size, genome, type, Location_sampletype, Location, sample_type, n_sample_types, sample_type_group, ARO.Name, Drug.Class, Resistance.Mechanism) %>%
+  group_by(plasmid_name_cluster, av_size, genome, type, Location_sampletype, Location, sample_type, n_sample_types, sample_type_group, ARO.Name, Drug.Class.alt, Resistance.Mechanism) %>%
   summarise(labels = as.character(n_distinct(Sample.name))) %>%
-  ungroup() %>% group_by(sample_type, n_sample_types, sample_type_group, ARO.Name, Drug.Class, Resistance.Mechanism)
+  ungroup() %>% group_by(sample_type, n_sample_types, sample_type_group, ARO.Name, Drug.Class.alt, Resistance.Mechanism)
 
 point_loc <- data.frame(Location_sample_type_group = sort(unique(paste0(args_summary_pnts$sample_type_group, "-", args_summary_pnts$Location))))
 point_loc$loc <- c(1:nrow(point_loc))
@@ -233,11 +618,6 @@ point_loc$Location_sample_type_group <- gsub("-", "\n", point_loc$Location_sampl
 point_loc$label <- paste0(point_loc$Location_sample_type_group, "\nn = ", as.character(point_loc$num_per_group))
 
 args_summary_pnts <- left_join(args_summary_pnts, point_loc, by = c("Location", "sample_type_group"))
-
-args_summary_pnts$Drug.Class.alt <- args_summary_pnts$Drug.Class
-args_summary_pnts$Drug.Class.alt[sapply(args_summary_pnts$Drug.Class.alt, function(x) str_count(x, ";")) > 1] <- "multidrug"
-args_summary_pnts$Drug.Class.alt[args_summary_pnts$Resistance.Mechanism == "antibiotic efflux"] <- paste(args_summary_pnts$Drug.Class.alt[args_summary_pnts$Resistance.Mechanism == "antibiotic efflux"], "efflux")
-args_summary_pnts$Drug.Class.alt <- gsub(";", " and\n", args_summary_pnts$Drug.Class.alt)
 
 args_summary_pnts$x_labels <- paste0(args_summary_pnts$ARO.Name, "\n(", args_summary_pnts$Drug.Class.alt, ")")
 
@@ -262,11 +642,109 @@ ggplot(args_summary_pnts, aes(sample_type, loc)) +
         axis.ticks.y = element_blank(),
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank()) +
-  scale_colour_manual("Body Site - Geographical Location", 
+  scale_colour_manual("Body Site - Country", 
                       values = cohort_cols[names(cohort_cols) %in% args_summary_pnts$Location_sampletype], 
                       labels = names(cohort_cols)[names(cohort_cols) %in% args_summary_pnts$Location_sampletype]) +
-  scale_size(name = "log10(size [bp])") +
+  scale_size(name = "log10(mean size [bp])") +
   xlab("") + ylab("Shared GIT sites") + 
   scale_y_continuous(breaks = c(1:nrow(point_loc)), labels = as.character(point_loc$label)) +
   guides(colour = guide_legend(override.aes = list(size=5)))
+dev.off()
+
+
+#### Taxonomic compositions ####
+metaphlan_fam <- metaphlan[,colnames(metaphlan) %in% c("X", metadata$ID)]
+rownames(metaphlan_fam) <- metaphlan_fam$X
+metaphlan_fam <- metaphlan_fam[,-1]
+metaphlan_fam <- metaphlan_fam[grepl("f__", rownames(metaphlan_fam)) & !grepl("g__", rownames(metaphlan_fam)),]
+metaphlan_fam <- metaphlan_fam[rowSums(metaphlan_fam) > 1,]
+family_labels <- gsub("_", " ", gsub(".*f__", "", rownames(metaphlan_fam)))
+
+tiff("figures/metaphlan_family.tiff", width = 1500, height = 1500, res = 150)
+heatmap.2(as.matrix(metaphlan_fam),
+          margins = c(10,20),
+          trace = "none",
+          scale = "none",
+          hclustfun = function(x) {hclust(x, method = "ward.D2")},
+          dendrogram = "column",
+          col =  colorRampPalette(brewer.pal(9, "PuRd")[c(1, 9)])(50),
+          breaks = seq(min(metaphlan_fam), max(metaphlan_fam), length.out = 51),
+          symbreaks = FALSE,
+          keysize = 1, 
+          #lhei = c(1,8),
+          key.title = NA, key.xlab = "rel. abundance", key.ylab = NA,
+          density.info = "none",
+          ColSideColors = sapply(metadata[colnames(metaphlan_fam), "Location_sampletype"], function(x) cohort_cols[x]),
+          labRow = as.expression(lapply(family_labels, function(a) bquote(italic(.(a))))),
+          labCol = NA,
+          cexCol = 0.5,
+          ylab = "Family",
+          main = NA
+)
+legend(x = 0.85, y = 1.05, xpd=TRUE, legend = levels(as.factor(metadata[colnames(metaphlan_fam), "Location_sampletype"])),
+       col = cohort_cols[names(cohort_cols) %in% sort(unique(metadata[colnames(metaphlan_fam), "Location_sampletype"]))], bg = "white", box.col = "black",
+       lty = 1, lwd = 5, cex = 0.5, title = "GIT Sites")
+dev.off()
+
+#### NMDS of metaphlan data
+metaphlan_gen <- metaphlan[,colnames(metaphlan) %in% c("X", metadata$ID)]
+rownames(metaphlan_gen) <- metaphlan_gen$X
+metaphlan_gen <- metaphlan_gen[,-1]
+metaphlan_gen <- metaphlan_gen[grepl("g__", rownames(metaphlan_gen)) & !grepl("s__", rownames(metaphlan_gen)),]
+metaphlan_gen <- metaphlan_gen[grepl("k__Bacteria", row.names(metaphlan_gen)) | grepl("k__Archaea", row.names(metaphlan_gen)),]
+metaphlan_gen <- metaphlan_gen[!grepl("unclassified", row.names(metaphlan_gen)),]
+metaphlan_gen <- metaphlan_gen[!grepl("noname", row.names(metaphlan_gen)),]
+
+metaphlan_nmds <- metaMDS(t(metaphlan_gen), distance = "bray", k = 2, trymax = 20)
+df_metaphlan_nmds <- as.data.frame(metaphlan_nmds$points)
+df_metaphlan_nmds$ID <- names(metaphlan_gen)
+names(df_metaphlan_nmds) = c("MDS1", "MDS2", "ID")
+df_metaphlan_nmds <- left_join(df_metaphlan_nmds, metadata, by = "ID")
+
+# Procrustes analysis and plot
+protest_res <- protest(df_cluster_samples_nmds[,c(1:2)], df_metaphlan_nmds[,c(1:2)], scale = TRUE)
+protest_res$t0
+tiff("figures/procrustes.tiff", height = 1000, width = 1200, res = 200)
+plot(protest_res, cex = 0.5, ar.col = "grey", )
+points(protest_res, display = "target", col = "red", cex = 0.5)
+dev.off()
+
+#### Enterobacteriaceae composition for individuals with ColE1 ####
+entrb <- metaphlan[,colnames(metaphlan) %in% c("X", metadata$ID[metadata$Sample.name %in% unique(plasmid_args$Sample.name[plasmid_args$genome %in% c("ColRNAI_1__DQ298019")])])]
+rownames(entrb) <- entrb$X
+entrb <- entrb[,-1]
+entrb <- entrb[grep("f__Enterobacteriaceae", rownames(entrb)),]
+entrb_total <- c(as.matrix(entrb[!grepl("g__", rownames(entrb)),]))
+#entrb <- entrb[,entrb_total != 0]
+#entrb_total <- entrb_total[entrb_total != 0]
+entrb <- entrb[grepl("s__", rownames(entrb)) & !grepl("t__", rownames(entrb)),]
+entrb <- entrb[rowSums(entrb) != 0,]
+entrb <- sweep(as.matrix(entrb), 2, entrb_total, "/")
+entrb[is.nan(entrb)] <- 0
+species_labels <- gsub("_", " ", gsub(".*s__", "", rownames(entrb)))
+
+tiff("figures/enterobacteriaceae_species.tiff", width = 1000, height = 750, res = 150)
+heatmap.2(as.matrix(entrb),
+          margins = c(10,20),
+          trace = "none",
+          scale = "none",
+          hclustfun = function(x) {hclust(x, method = "ward.D2")},
+          dendrogram = "column",
+          col =  colorRampPalette(brewer.pal(9, "PuRd")[c(1, 9)])(50),
+          breaks = seq(min(entrb), max(entrb), length.out = 51),
+          symbreaks = FALSE,
+          keysize = 1, 
+          #lhei = c(1,8),
+          key.title = NA, key.xlab = "rel. abundance", key.ylab = NA,
+          density.info = "none",
+          ColSideColors = sapply(metadata[colnames(entrb), "sample_type"], function(x) cols[x]),
+          labRow = as.expression(lapply(species_labels, function(a) bquote(italic(.(a))))),
+          labCol = NA,
+          cexCol = 0.5,
+          ylab = "Species from the Enterobacteriaceae family",
+          main = NA
+)
+legend(x = 0.85, y = 1.05, xpd=TRUE, legend = levels(as.factor(metadata[colnames(entrb), "sample_type"])),
+       col = cols[names(cols) %in% sort(unique(metadata[colnames(entrb), "sample_type"]))], bg = "white", box.col = "black",
+       lty = 1, lwd = 5, cex = 0.5, title = "GIT Sites")
 dev.off()
