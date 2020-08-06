@@ -1,0 +1,19 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1305_cov_12.957655_cutoff_10,Chromosome,-2.9697460945196408,DUF5128
+NODE_1_length_37916_cov_3.978250_cutoff_0,Plasmid,3.95,Phage_TAC_12 Phage_holin_5_2 AAA_24 Sipho_Gp157 Sipho_tail Prophage_tail Amidase_3 ChW ChW ChW Resolvase Recombinase Zn_ribbon_recom HTH_3 HTH_26 AntA DUF551 Phage_Mu_F Phage_prot_Gp6 Terminase_3 Terminase_3C Terminase_2 Spo0A_C ERCC4 VirE Prim-Pol PriCT_1 Lar_restr_allev YopX Phage_head_fibr DUF4355 HK97-gp10_like Phage_connect_1 Peptidase_Prp YjcQ Phage_tail_2
+NODE_2_length_30913_cov_31.944707_cutoff_0,Plasmid,17.63,AAA_31 Abi_2 DUF3575 DUF5119 Mfa_like_1 Resolvase HTH_7 Fic SprT-like Rep_3 DUF1738 MPTase-PolyVal T4SS-DNA_transf DUF4138 DUF4138 Transposon_TraM PLCC Peptidase_M23 GerE TraO
+NODE_3_length_6168_cov_1.954031_cutoff_0,Chromosome,0,Phage_F Peptidase_M15_3
+NODE_4_length_6080_cov_7.915875_cutoff_0,Chromosome,--
+NODE_5_length_5048_cov_451.454436_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_6_length_4225_cov_93.253134_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin
+NODE_7_length_2827_cov_325.979273_cutoff_0,Chromosome,--
+NODE_8_length_2225_cov_2.226723_cutoff_0,Chromosome,0,Cas_Cas1 CRISPR_Cas2
+NODE_1_length_2767_cov_488.783643_cutoff_434,Chromosome,0,DUF4065
+NODE_1_length_81507_cov_5.614245_cutoff_5,Chromosome,-3.3616897332779025,Phage_sheath_1 Phage_T4_gp19 SpoVS DNA_ligase_A_M Terminase_6 Phage_prot_Gp6 Phage_holin_5_2 ResIII LAGLIDADG_3 FMN_red GTP_cyclohydroI PemK_toxin Phage_GPD zf-CHC2 Toprim_2 DnaB_C DNA_pol_A DNA_pol_A DNA_pol_A_exo1 LAGLIDADG_2 Bac_DNA_binding AFG1_ATPase Peptidase_S24 PTPS Fer4_14 MazG QueC Radical_SAM Hydrolase_2 DUF932 RecA
+NODE_2_length_32268_cov_9.229505_cutoff_5,Chromosome,-2.4971416835774463,Terminase_1 Phage_portal Peptidase_S78 Phage_capsid HTH_3 HTH_19 HTH_26 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 Phage_int_SAM_5 Sipho_tail Sipho_Gp37 Phage_TTP_1 DUF3850 Phage_integrase Phage_int_SAM_4 ORF6C ORF6N Amidase_3 Phage_holin_5_2
+NODE_3_length_6557_cov_4.450926_cutoff_5,Chromosome,0,Phage_F
+NODE_4_length_6417_cov_4.793691_cutoff_5,Plasmid,6.80,Peptidase_M23 TrbL RepA_C Fic OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 Y1_Tnp
+NODE_5_length_5846_cov_2.531461_cutoff_5,Chromosome,0,HATPase_c_5
+NODE_6_length_5040_cov_4.802136_cutoff_5,Chromosome,0,Chlamy_scaf Phage_F Phage_F
+NODE_7_length_1821_cov_2.353784_cutoff_5,Chromosome,0,Peripla_BP_6
+NODE_8_length_1384_cov_1.775057_cutoff_5,Chromosome,0,CPBP

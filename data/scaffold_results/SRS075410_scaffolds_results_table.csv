@@ -1,0 +1,35 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5658_cov_288.496148_cutoff_198,Chromosome,--
+NODE_1_length_13605_cov_57.265302_cutoff_54,Chromosome,0,Peptidase_C2 HTH_Tnp_1 OmpA Tad DDE_Tnp_1 OmpA
+NODE_1_length_1572_cov_17.033445_cutoff_10,Chromosome,0,HTH_42
+NODE_1_length_154607_cov_85.156811_cutoff_0,Chromosome,-2.7486665274283197,Cpn60_TCP1 gp32 RNase_H AAA_21 Cpn10 Cpn10 Terminase_6 ResIII Helicase_C 5_3_exonuc_N AAA HD_3 Lipase_GDSL_2 OrfB_Zn_ribbon HTH_OrfB_IS605 DNA_pol_B Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_sm AAA_23 Metallophos Peptidase_S80 Guanylate_kin RecA DNA_ligase_aden BRCT PTCB-BRCT LPD29 DUF1768 Tn7_Tnp_TnsA_N Bac_DNA_binding Adenylsucc_synt PIF1 Herpes_Helicase DNA_pol_B DNA_pol_B_exo1 N6_N4_Mtase DnaB_C ResIII Helicase_C OrfB_IS605 OrfB_Zn_ribbon
+NODE_2_length_64016_cov_209.844602_cutoff_0,Plasmid,3.57,RuvC GbpC Glucosaminidase BspA_v BspA_v Phage_holin_Dp1 Glyco_hydro_25 DUF3310 PDDEXK_1 AAA_24 dUTPase Big_8 Collagen_bind YopX DNA_pol_A DNA_pol_A DNA_pol_A_exo1 DNA_pol_A AAA_25 RepB_primase
+NODE_3_length_55876_cov_93.149304_cutoff_0,Chromosome,0,DUF1599 Collagen_bind Big_8 Gram_pos_anchor Gp58 Prophage_tail Amidase_5 Phage_holin_6_1 HK97-gp10_like Terminase_1 Phage_portal Phage_capsid Peptidase_S78
+NODE_4_length_38415_cov_86.133601_cutoff_0,Chromosome,0,DUF5403 Alanine_zipper HTH_17 HTH_26 Phage_prot_Gp6 EndoU_bacteria Phage_capsid Phage_Gp19 VRR_NUC Spherulin4 DUF2746 Amidase_2 Pectate_lyase_3 Collagen Phage_integrase Phage_int_SAM_3
+NODE_5_length_11349_cov_17.814940_cutoff_0,Plasmid,11.77,Toprim_2 Resolvase Relaxase RHH_1 Fic Rep_3 Fic
+NODE_6_length_3316_cov_119.423279_cutoff_0,Chromosome,0,HTH_36
+NODE_7_length_3142_cov_20.104078_cutoff_0,Chromosome,0,HTH_18 DJ-1_PfpI Isochorismatase
+NODE_8_length_2846_cov_2.987721_cutoff_0,Chromosome,0,ketoacyl-synt Ketoacyl-synt_C ketoacyl-synt PP-binding KAsynt_C_assoc
+NODE_9_length_1605_cov_1198.397251_cutoff_0,Chromosome,--
+NODE_10_length_1292_cov_7.145679_cutoff_0,Chromosome,--
+NODE_11_length_1080_cov_2.389831_cutoff_0,Chromosome,--
+NODE_12_length_1028_cov_6.221872_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_13_length_850_cov_1.958603_cutoff_0,Chromosome,0,OMP_b-brl
+NODE_14_length_632_cov_1.281081_cutoff_0,Chromosome,--
+NODE_15_length_602_cov_2.662857_cutoff_0,Chromosome,0,FIVAR
+NODE_1_length_42820_cov_24.342442_cutoff_26,Plasmid,43.23,SLT Peptidase_S24 N6_Mtase IMS DUF4113 IMS_C PIN T4SS-DNA_transf SSB MobC RHH_1 T2SSE TrbI CagX VirB8 PIN LPD7 PriCT_2 Toprim_3 HTH_3 Peptidase_S24 HTH_3 TrbM Phage_integrase VirB3 CagE_TrbE_VirB T4SS TrbL Zeta_toxin TonB_dep_Rec Plug
+NODE_2_length_14091_cov_44.916298_cutoff_26,Chromosome,0,Lactamase_B_2 HTH_18 DJ-1_PfpI Flavodoxin_2 LysR_substrate HTH_1 ADH_zinc_N_2 ADH_N MarR_2 Tautomerase HTH_1 Met_synt_B12 S-methyl_trans Pterin_bind B12-binding_2 B12-binding EamA EamA Glyoxalase
+NODE_3_length_1773_cov_33.869693_cutoff_26,Chromosome,--
+NODE_1_length_15498_cov_59.099475_cutoff_42,Chromosome,0,FolB PorP_SprF CHU_C
+NODE_2_length_12412_cov_55.763194_cutoff_42,Chromosome,0,CHU_C Big_9 Radical_SAM
+NODE_1_length_67506_cov_35.498035_cutoff_20,Chromosome,0,PDDEXK_1 DUF2201_N DUF2201 Phage_holin_3_3 SLT Terminase_6C Terminase_6 DUF4043 DNA_pol_A DNA_pol_A_exo1 SNF2_N Helicase_C dUTPase AAA
+NODE_2_length_16321_cov_13.344989_cutoff_20,Chromosome,-43.75173338913511,Ribosomal_L10 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L11_N Ribosomal_L11 Ribosomal_L1 SecE NusG KOW GTP_EFTU_D3 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 Ribosom_S12_S23 Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2
+NODE_1_length_4122_cov_1.522868_cutoff_5,Chromosome,0,Tox-PL-2 GIY-YIG
+NODE_2_length_3881_cov_4.123554_cutoff_5,Chromosome,0,MFS_1 DDE_Tnp_ISL3 DUF2399
+NODE_3_length_2002_cov_7.400000_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_4_length_1403_cov_1.490950_cutoff_5,Chromosome,0,Fic
+NODE_1_length_12889_cov_54.343506_cutoff_33,Chromosome,0,CHU_C Big_9 Radical_SAM
+NODE_2_length_1909_cov_33.538210_cutoff_33,Chromosome,0,Abhydrolase_1
+NODE_1_length_13675_cov_9.299750_cutoff_15,Chromosome,0,FCD GntR Aldedh FAA_hydrolase RraA-like Aldedh Glyoxalase Glyoxalase HpcH_HpaI FAD_binding_3 Phe_hydrox_dim FAA_hydrolase MFS_1
+NODE_2_length_3252_cov_10.691654_cutoff_15,Chromosome,--
+NODE_3_length_1238_cov_11.000861_cutoff_15,Chromosome,--

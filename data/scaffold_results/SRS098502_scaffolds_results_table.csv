@@ -1,0 +1,6 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1006_cov_0.889128_cutoff_0,Chromosome,0,Fic
+NODE_2_length_925_cov_1.567217_cutoff_0,Chromosome,--
+NODE_3_length_686_cov_1.673235_cutoff_0,Chromosome,--
+NODE_4_length_602_cov_5.380952_cutoff_0,Chromosome,--
+NODE_1_length_1424_cov_50.758723_cutoff_15,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP

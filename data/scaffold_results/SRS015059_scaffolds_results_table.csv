@@ -1,0 +1,5 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_609_cov_2.319549_cutoff_contigs,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_2_length_599_cov_4.726054_cutoff_contigs,Chromosome,0,Collagen
+NODE_1_length_609_cov_2.319549_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_2_length_599_cov_4.726054_cutoff_0,Chromosome,0,Collagen

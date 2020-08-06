@@ -1,0 +1,10 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_11464_cov_132.313164_cutoff_118,Plasmid,6.55,bPH_2 rve HTH_32 HTH_38 DUF3990 DUF3945 Toprim_Crpt Toprim_Crpt Toprim_Crpt Bac_DNA_binding Peptidase_M23 DUF3791 Toprim_2 DUF3991 DUF4099 DUF3945 Zeta_toxin
+NODE_1_length_2364_cov_31.880630_cutoff_10,Chromosome,0,DDE_Tnp_1
+NODE_1_length_84411_cov_89.753800_cutoff_0,Chromosome,0,gp32 KTSC Baseplate_J Muraidase Phage_T4_gp19 PhageMin_Tail LysM dUTPase Helicase_C ResIII SWI2_SNF2 Collar AAA_23 SbcCD_C HNH_3 AAA_28 Metallophos RecA 5_3_exonuc_N 5_3_exonuc DNA_methylase BACON BACON Peptidase_S74 DNA_pol_A DNA_pol_A_exo1 DnaB_C PKD GPW_gp25 Cpn10 Thymidylat_synt
+NODE_2_length_40612_cov_7.120562_cutoff_0,Chromosome,0.26990099302672377,DUF2829 Amidase_2 Peptidase_S24 Phage_integrase MethyltransfD12 SSB Peptidase_S74 PBECR5 Collagen Collagen Collagen Collagen Collagen DUF3846 Cu_amine_oxidN1 Peptidase_Prp Terminase_6 DUF739
+NODE_3_length_6168_cov_49.366771_cutoff_0,Plasmid,8.52,YoeB_toxin T4SS-DNA_transf Rep_3
+NODE_4_length_5049_cov_158.721440_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_5_length_4225_cov_617.317020_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_6_length_2829_cov_400.616642_cutoff_0,Chromosome,--
+NODE_1_length_11681_cov_12.898742_cutoff_15,Chromosome,0,ATPase_2 DUF234 Methyltransf_11 AzlD Fucosidase_C SusD_RagB SusD-like_3 TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg AzlC Abhydrolase_7

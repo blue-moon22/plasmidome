@@ -1,0 +1,3 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5519_cov_48.306321_cutoff_0,Plasmid,5.35,Integrase_1 PemK_toxin Rep_3
+NODE_2_length_638_cov_3.846702_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11

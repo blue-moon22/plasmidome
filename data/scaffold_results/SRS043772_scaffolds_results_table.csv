@@ -1,0 +1,17 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_4720_cov_2.306698_cutoff_0,Chromosome,0,CarbopepD_reg_2 OMP_b-brl_3
+NODE_2_length_1718_cov_4.588665_cutoff_0,Chromosome,--
+NODE_3_length_1013_cov_1.910256_cutoff_0,Chromosome,--
+NODE_4_length_951_cov_2.843249_cutoff_0,Chromosome,--
+NODE_5_length_904_cov_2.224909_cutoff_0,Chromosome,--
+NODE_6_length_744_cov_3.643178_cutoff_0,Chromosome,--
+NODE_7_length_710_cov_8.323855_cutoff_0,Chromosome,--
+NODE_8_length_705_cov_1.815287_cutoff_0,Chromosome,--
+NODE_9_length_704_cov_3.251994_cutoff_0,Chromosome,--
+NODE_10_length_703_cov_48.418530_cutoff_0,Chromosome,--
+NODE_11_length_689_cov_1.799020_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_12_length_634_cov_2.574506_cutoff_0,Chromosome,0,N_methyl N_methyl
+NODE_13_length_632_cov_1.956757_cutoff_0,Chromosome,--
+NODE_14_length_620_cov_1.366483_cutoff_0,Chromosome,--
+NODE_15_length_592_cov_1.374757_cutoff_0,Chromosome,-4.621933114929442,Pro_isomerase Pro_isomerase
+NODE_1_length_2910_cov_21.945641_cutoff_15,Chromosome,--

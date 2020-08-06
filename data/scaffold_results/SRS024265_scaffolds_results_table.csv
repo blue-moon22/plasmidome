@@ -1,0 +1,21 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_15909_cov_50.508653_cutoff_54,Chromosome,0,DUF4065 Terminase_6 Phage_cap_E Phage_prot_Gp6
+NODE_1_length_5671_cov_154.392385_cutoff_10,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_1_length_20586_cov_63.727290_cutoff_70,Chromosome,0,Bro-N Phage_integrase DUF4494 Helicase_C SWI2_SNF2
+NODE_1_length_60000_cov_6.682826_cutoff_0,Chromosome,-7.799997207046694,CW_7 SPOR Amidase_2 SPOR SPOR MazG Phage_portal SH3_3 DUF4839 Phage_integrase Bro-N Terminase_1 NRDD RVT_1 Sipho_Gp37 Sipho_tail DUF2800 Hydrolase_2 N6_Mtase Fer4_12
+NODE_2_length_9020_cov_13.243542_cutoff_0,Plasmid,5.35,HTH_18 Rep_3 Gp49 HTH_3
+NODE_3_length_5671_cov_154.392385_cutoff_0,Plasmid,5.48,PemK_toxin Rep_1
+NODE_4_length_2828_cov_286.878590_cutoff_0,Chromosome,--
+NODE_5_length_2433_cov_1.488964_cutoff_0,Chromosome,0,Methylase_S Methylase_S Fic HTH_24
+NODE_6_length_2366_cov_1.839231_cutoff_0,Chromosome,0,Na_H_antiporter
+NODE_7_length_1404_cov_12.073097_cutoff_0,Chromosome,0,HTH_3
+NODE_8_length_1169_cov_1.116300_cutoff_0,Chromosome,0,Dockerin_1
+NODE_9_length_918_cov_1.331748_cutoff_0,Chromosome,--
+NODE_10_length_733_cov_1.356707_cutoff_0,Chromosome,--
+NODE_11_length_692_cov_2.918699_cutoff_0,Chromosome,--
+NODE_1_length_92280_cov_9.287366_cutoff_5,Chromosome,0,Thy1 Thy1 AAA_24 DnaB_C Metallophos NUMOD4 HNH_3 NUMOD1 Sigma70_r4_2 Sigma70_r2 NUMOD4 HNH_3
+NODE_2_length_6302_cov_9.425382_cutoff_5,Chromosome,0,SusD-like_3 SusD_RagB TonB_dep_Rec Plug
+NODE_3_length_5150_cov_10.264735_cutoff_5,Plasmid,4.09,MobC
+NODE_4_length_4044_cov_16.136879_cutoff_5,Chromosome,0,HTH_26 HTH_26 Sigma70_r2 Sigma70_r4
+NODE_5_length_2382_cov_9.487202_cutoff_5,Chromosome,0,DUF86 Arm-DNA-bind_5 Polbeta GGGtGRT
+NODE_1_length_1523_cov_85.307054_cutoff_33,Chromosome,0,DDE_Tnp_ISL3

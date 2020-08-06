@@ -1,0 +1,23 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_42834_cov_20.798489_cutoff_10,Chromosome,0,Spherulin4 DUF669 AAA_24 NLPC_P60 DUF3987 SNF2_N Terminase_6 Phage_prot_Gp6 dUTPase DUF3310 Phage_capsid
+NODE_1_length_36209_cov_22.436843_cutoff_0,Chromosome,0,Peptidase_M23 Glyco_hydro_25 Phage_r1t_holin HTH_3 HTH_17 HTH_3 Phage_prot_Gp6 Phage_integrase P22_CoatProtein Terminase_1 DUF5403 Bro-N
+NODE_2_length_2564_cov_1.283876_cutoff_0,Chromosome,--
+NODE_3_length_1893_cov_3.457048_cutoff_0,Chromosome,0,DUF5122 DUF5122 DUF5122 DUF5122
+NODE_4_length_1771_cov_3.046635_cutoff_0,Chromosome,--
+NODE_5_length_1238_cov_1.807063_cutoff_0,Chromosome,--
+NODE_6_length_1202_cov_2.718222_cutoff_0,Chromosome,--
+NODE_7_length_1113_cov_0.818533_cutoff_0,Chromosome,0,Asp_protease_2
+NODE_8_length_1096_cov_2.135427_cutoff_0,Chromosome,--
+NODE_9_length_827_cov_1.242667_cutoff_0,Chromosome,0,DUF11 DUF11 LRR_adjacent
+NODE_10_length_813_cov_2.385870_cutoff_0,Chromosome,0,UDG UDG
+NODE_11_length_705_cov_2.434713_cutoff_0,Chromosome,--
+NODE_12_length_632_cov_3.706306_cutoff_0,Chromosome,--
+NODE_13_length_613_cov_0.930970_cutoff_0,Chromosome,--
+NODE_14_length_587_cov_1.105882_cutoff_0,Chromosome,--
+NODE_15_length_579_cov_0.814741_cutoff_0,Chromosome,--
+NODE_1_length_44527_cov_8.439730_cutoff_5,Chromosome,0,GDPD Phage_portal Phage_capsid Peptidase_S78 HNH_3 Phage_holin_Dp1 Sipho_Gp37 Sipho_Gp37 Sipho_tail Terminase_1 HNH_3 HNH_3
+NODE_2_length_2118_cov_1.640862_cutoff_5,Chromosome,0,AIPR
+NODE_3_length_1766_cov_3.736530_cutoff_5,Chromosome,--
+NODE_4_length_1646_cov_11.720841_cutoff_5,Chromosome,--
+NODE_5_length_1294_cov_5.856204_cutoff_5,Chromosome,--
+NODE_6_length_1172_cov_3.220091_cutoff_5,Chromosome,0,PT-HINT PT-HINT

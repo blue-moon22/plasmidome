@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_12716_cov_143.494343_cutoff_153,Chromosome,-2.4971416835774463,Transposase_mut rve Phage_int_SAM_5 Arm-DNA-bind_5 AlbA_2 HATPase_c_4 HTH_3 TIR_2 T5orf172 IstB_IS21
+NODE_1_length_11026_cov_5.558316_cutoff_10,Plasmid,3.43,Phage_int_SAM_5 Arm-DNA-bind_5 Phage_integrase Resolvase HTH_7 Lipocalin_4 DUF3871
+NODE_1_length_36057_cov_28.939105_cutoff_0,Plasmid,31.35,TetR_N Relaxase MobC TrbL DUF3791 DUF3990 Resolvase PLCC SSB T4SS-DNA_transf bPH_2 DUF3875 Transposon_TraM VirB8 DUF3945 DUF3945 DUF4138 DUF4138 ACP_syn_III_C Toprim_2 Resolvase HTH_7 TraO AbiEii MPTase-PolyVal DUF1738 MipZ
+NODE_2_length_2827_cov_617.778909_cutoff_0,Chromosome,--
+NODE_3_length_2164_cov_6.769526_cutoff_0,Plasmid,6.35,Y2_Tnp Zn_Tnp_IS91
+NODE_4_length_1909_cov_2.535480_cutoff_0,Chromosome,--
+NODE_5_length_1839_cov_2.666856_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_6_length_1053_cov_1.156762_cutoff_0,Chromosome,0,DUF805
+NODE_7_length_889_cov_1.235222_cutoff_0,Chromosome,--
+NODE_8_length_689_cov_1.318627_cutoff_0,Chromosome,--
+NODE_1_length_21247_cov_21.734624_cutoff_26,Chromosome,-14.542409518905451,AA_kinase DXP_synthase_N Transket_pyr Transketolase_C RRF AhpC-TSA TPR_1 SH3_3 BatD Lipocalin_2 Toprim_4 RecR Fumerase_C Fumerase F_bP_aldolase DUF3575 Acetyltransf_7 Epimerase Cupin_2 OMP_b-brl Enolase_C Enolase_N Acetyltransf_CG
+NODE_1_length_14842_cov_38.107416_cutoff_20,Chromosome,-12.155004298553166,tRNA-synt_1b S4 RBFA TIM Hc1 DUF4906 FtsX FecCD Mfa2 Fimbrillin_C DUF3575 DUF3868 Glyco_hydro_43
+NODE_1_length_19124_cov_3.224760_cutoff_5,Chromosome,0,Glyco_hydro_36 Glyco_transf_36 3HCDH_N 3HCDH Glyco_hydro_16 CBM_4_9 CBM_4_9 Glyco_hydro_16 Peptidase_M23 BPD_transp_1 BPD_transp_1 SBP_bac_8 His_kinase HAMP Response_reg HTH_18 HTH_AraC HTH_AraC
+NODE_2_length_8843_cov_13.636778_cutoff_5,Plasmid,8.52,Gp49 HTH_3 T4SS-DNA_transf DUF2582 DUF2582 Rep_3
+NODE_3_length_5860_cov_1.565450_cutoff_5,Chromosome,0,Cas_Cas1 CRISPR_Cas2 Cas9-BH RuvC_III HNH_4

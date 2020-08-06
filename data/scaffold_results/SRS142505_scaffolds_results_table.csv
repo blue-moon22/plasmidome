@@ -1,0 +1,22 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_40258_cov_10.444563_cutoff_10,Chromosome,0,Phage_connect_1 Phage_head_fibr HK97-gp10_like Phage_H_T_join PhageMin_Tail Prophage_tail NLPC_P60 Phage_holin_1 DUF2815 DUF2800 VirE DNA_pol_A SNF2_N HNH Bro-N Terminase_1 Peptidase_S78 Phage_capsid Phage_portal HTH_3 HTH_3 HTH_3 DUF2321 Phage_integrase Peptidase_M78 Amidase_3 CW_binding_1 CW_binding_1
+NODE_1_length_29006_cov_5.755090_cutoff_0,Plasmid,8.57,Resolvase PBECR4 Lactamase_B_2 DUF4357 HTH_26 BPD_transp_1 BPD_transp_1 DUF2961 SBP_bac_1 HTH_Tnp_1 rve AAA_31 COesterase MatE MatE Sulfatase T4SS-DNA_transf Alpha-amylase Alpha-amylase Peripla_BP_3 LacI
+NODE_2_length_5244_cov_17.043546_cutoff_0,Plasmid,12.49,Replicase PriCT_1 MobA_MobL
+NODE_3_length_5157_cov_11.048031_cutoff_0,Plasmid,7.61,Relaxase MobC
+NODE_4_length_4164_cov_11.645706_cutoff_0,Plasmid,9.00,MobA_MobL Rep_3
+NODE_5_length_3065_cov_1.908300_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_6_length_2676_cov_22.950750_cutoff_0,Plasmid,5.48,Rep_1
+NODE_7_length_2541_cov_7.810471_cutoff_0,Chromosome,--
+NODE_8_length_2318_cov_1.523873_cutoff_0,Chromosome,--
+NODE_9_length_1964_cov_3.348702_cutoff_0,Plasmid,4.20,DDE_Tnp_IS240
+NODE_10_length_1626_cov_35.750161_cutoff_0,Chromosome,0,HTH_36
+NODE_11_length_1474_cov_3.069435_cutoff_0,Chromosome,--
+NODE_12_length_1236_cov_1.914582_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_13_length_972_cov_1.725140_cutoff_0,Chromosome,0,Flagellin_C Flagellin_N
+NODE_14_length_593_cov_2.843023_cutoff_0,Chromosome,--
+NODE_15_length_581_cov_0.908730_cutoff_0,Chromosome,--
+NODE_1_length_6342_cov_65.580208_cutoff_42,Plasmid,4.98,MobC Relaxase ECF_trnsprt
+NODE_1_length_40402_cov_10.435288_cutoff_5,Chromosome,0,DUF2800 SNF2_N VirE DUF2815 DNA_pol_A DUF2321 HTH_3 HTH_3 Peptidase_M78 Phage_integrase Amidase_3 CW_binding_1 CW_binding_1 HTH_3 PhageMin_Tail HK97-gp10_like Phage_head_fibr Phage_capsid Phage_H_T_join Phage_connect_1 Phage_holin_1 NLPC_P60 Prophage_tail Bro-N HNH Terminase_1 Phage_portal Peptidase_S78
+NODE_2_length_26146_cov_12.412943_cutoff_5,Plasmid,5.11,RNase_T N6_N4_Mtase ResIII CbiQ ZinT ABC_tran ABC_membrane ABC_tran ABC_membrane HTH_18 RHH_3 AAA_14 RelB CbiA ParE_toxin YoeB_toxin TypeIII_RM_meth Zeta_toxin ParBc
+NODE_3_length_6107_cov_29.401990_cutoff_5,Plasmid,3.86,YafQ_toxin RelB Mob_Pre
+NODE_4_length_2685_cov_2.504601_cutoff_5,Chromosome,--

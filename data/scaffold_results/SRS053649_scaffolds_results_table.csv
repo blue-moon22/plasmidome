@@ -1,0 +1,14 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_31124_cov_21.925436_cutoff_10,Chromosome,0,RHH_1 Phage_H_T_join HTH_38 HTH_38 rve HTH_19 Hydrolase_2 Prophage_tail Sipho_tail Amidase_2 SLH Sipho_tail Terminase_1 HNH Phage_portal Peptidase_S78 Phage_capsid RVT_1
+NODE_2_length_16163_cov_5.648203_cutoff_10,Chromosome,0,DUF4406 SSB IstB_IS21 Phage_prot_Gp6 HTH_Tnp_1_2
+NODE_1_length_2827_cov_176.924727_cutoff_0,Chromosome,--
+NODE_2_length_2164_cov_6.174413_cutoff_0,Plasmid,6.35,Y2_Tnp Zn_Tnp_IS91
+NODE_3_length_1019_cov_1.420382_cutoff_0,Chromosome,--
+NODE_4_length_876_cov_1.117647_cutoff_0,Chromosome,0,HTH_26
+NODE_5_length_611_cov_8.604869_cutoff_0,Chromosome,--
+NODE_1_length_21248_cov_15.513108_cutoff_20,Chromosome,-14.542409518905451,Acetyltransf_CG RRF Epimerase Enolase_C Enolase_N Cupin_2 OMP_b-brl Fumerase_C Fumerase DUF3575 Acetyltransf_7 Lipocalin_2 Toprim_4 RecR TPR_1 SH3_3 BatD AhpC-TSA AA_kinase DXP_synthase_N Transket_pyr Transketolase_C F_bP_aldolase
+NODE_1_length_8843_cov_8.199065_cutoff_5,Plasmid,8.52,HTH_3 Gp49 T4SS-DNA_transf DUF2582 Rep_3 DUF2582
+NODE_2_length_6909_cov_2.201259_cutoff_5,Chromosome,0,PKD_3 PKD_3
+NODE_3_length_4067_cov_2.974687_cutoff_5,Chromosome,--
+NODE_4_length_1134_cov_3.368969_cutoff_5,Chromosome,--
+NODE_5_length_1115_cov_1.947013_cutoff_5,Chromosome,--

@@ -1,0 +1,13 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1286_cov_25.894955_cutoff_10,Chromosome,--
+NODE_2_length_1139_cov_16.061205_cutoff_10,Chromosome,0,Mub_B2 MucBP_2 MucBP_2
+NODE_1_length_3666_cov_13.486208_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_2_length_3371_cov_4.611718_cutoff_0,Chromosome,0,ParE_toxin
+NODE_3_length_1274_cov_2.754386_cutoff_0,Chromosome,--
+NODE_4_length_620_cov_1.569061_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_5_length_602_cov_6.565714_cutoff_0,Chromosome,0,FIVAR
+NODE_1_length_638_cov_96.727273_cutoff_26,Chromosome,0,Big_11 Big_11
+NODE_1_length_737_cov_69.750000_cutoff_20,Chromosome,--
+NODE_1_length_5574_cov_34.477897_cutoff_5,Plasmid,5.48,Rep_1 Zot
+NODE_2_length_1181_cov_5.972826_cutoff_5,Chromosome,0,YadA_stalk
+NODE_1_length_6548_cov_122.457116_cutoff_15,Chromosome,-2.4971416835774463,FtsK_SpoIIIE DUF3173 Phage_integrase Phage_int_SAM_5 Arm-DNA-bind_4 Phage_int_SAM_3

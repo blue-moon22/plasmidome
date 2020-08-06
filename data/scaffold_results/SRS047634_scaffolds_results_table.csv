@@ -1,0 +1,72 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_43572_cov_14.960501_cutoff_10,Chromosome,0,HNH_3 Guanylate_kin Sipho_tail GDPD Phage_holin_Dp1 Sipho_Gp37 CHAP Spherulin4 Collagen Peptidase_S78 Phage_capsid Phage_portal Terminase_1
+NODE_2_length_43283_cov_21.748206_cutoff_10,Chromosome,0,Peptidase_M78 Phage_integrase ANT AntA DUF1906 Phage_r1t_holin DUF2744 SLT DUF2190 ANT Phage_pRha CdiA_C Phage_prot_Gp6 HNH HTH_17
+NODE_3_length_17856_cov_8.588728_cutoff_10,Chromosome,-6.475510802746172,NADHdh Complex1_49kDa Complex1_30kDa Complex1_49kDa Oxidored_q6 Oxidored_q4 MFS_1 Lum_binding Lum_binding TetR_N Transglut_core ABC2_membrane_3 ABC2_membrane_3 Peptidase_S9 HlyD_3 Biotin_lipoyl_2 OEP OEP ABC_tran ABC_tran
+NODE_4_length_2900_cov_13.419058_cutoff_10,Chromosome,0,SMI1_KNR4
+NODE_5_length_1176_cov_14.225660_cutoff_10,Chromosome,--
+NODE_1_length_4925_cov_4.434406_cutoff_0,Chromosome,0,TPR_19
+NODE_2_length_4611_cov_16.571240_cutoff_0,Chromosome,--
+NODE_3_length_4456_cov_3.254624_cutoff_0,Plasmid,3.65,BrnA_antitoxin MobA_MobL BrnT_toxin
+NODE_4_length_3132_cov_10.899836_cutoff_0,Plasmid,5.48,CRISPR_Cas2 Rep_1
+NODE_5_length_3058_cov_5.111372_cutoff_0,Plasmid,5.48,HTH_Tnp_Tc3_1 Rep_1
+NODE_6_length_2706_cov_3.651198_cutoff_0,Plasmid,5.48,Rep_1 YoeB_toxin
+NODE_7_length_2705_cov_5.180365_cutoff_0,Plasmid,10.69,VbhA Rep_3 Rep_3
+NODE_8_length_2470_cov_2.184705_cutoff_0,Chromosome,0,MacB_PCD FtsX
+NODE_9_length_2388_cov_4.954132_cutoff_0,Chromosome,--
+NODE_10_length_2240_cov_0.823393_cutoff_0,Chromosome,0,Sulfatase
+NODE_11_length_1968_cov_1.092544_cutoff_0,Chromosome,--
+NODE_12_length_1791_cov_2.092765_cutoff_0,Chromosome,0,GH-E
+NODE_13_length_1582_cov_1.499668_cutoff_0,Chromosome,--
+NODE_14_length_1574_cov_4.698731_cutoff_0,Chromosome,--
+NODE_15_length_1494_cov_9.747354_cutoff_0,Chromosome,--
+NODE_16_length_1386_cov_1.669213_cutoff_0,Chromosome,-2.9697460945196408,DUF5128
+NODE_17_length_1233_cov_3.691176_cutoff_0,Chromosome,--
+NODE_18_length_1232_cov_1.247619_cutoff_0,Chromosome,0,Sigma70_r3 Sigma70_r4 Sigma70_r2 Sigma70_r1_2 Sigma70_r1_1 Sigma70_r2
+NODE_19_length_1201_cov_2.241103_cutoff_0,Chromosome,0,ZnuA ZnuA
+NODE_20_length_1153_cov_1.009294_cutoff_0,Chromosome,--
+NODE_21_length_1092_cov_1.544828_cutoff_0,Chromosome,--
+NODE_22_length_1004_cov_2.267530_cutoff_0,Chromosome,0,Sigma70_r3 Sigma70_r4 Sigma70_r2 Sigma70_r2 Sigma70_r1_2
+NODE_23_length_997_cov_1.736957_cutoff_0,Chromosome,--
+NODE_24_length_976_cov_2.876529_cutoff_0,Chromosome,0,HTH_3 HigB-like_toxin
+NODE_25_length_958_cov_2.898978_cutoff_0,Chromosome,0,Biotin_lipoyl Biotin_lipoyl Biotin_lipoyl_2
+NODE_26_length_929_cov_0.809859_cutoff_0,Chromosome,0,His_Phos_1 His_Phos_1 His_Phos_1
+NODE_27_length_893_cov_0.493873_cutoff_0,Chromosome,0,Big_2 BACON Big_2
+NODE_28_length_892_cov_0.905521_cutoff_0,Chromosome,--
+NODE_29_length_868_cov_1.329962_cutoff_0,Chromosome,--
+NODE_30_length_866_cov_1.313054_cutoff_0,Chromosome,0,SBP_bac_3
+NODE_31_length_839_cov_2.137795_cutoff_0,Chromosome,--
+NODE_32_length_816_cov_4.466847_cutoff_0,Chromosome,-3.1692354549351105,Porph_ging
+NODE_33_length_812_cov_1.616327_cutoff_0,Chromosome,--
+NODE_34_length_701_cov_1.750000_cutoff_0,Chromosome,--
+NODE_35_length_694_cov_1.565640_cutoff_0,Chromosome,--
+NODE_36_length_689_cov_5.601307_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_37_length_689_cov_1.449346_cutoff_0,Chromosome,--
+NODE_38_length_686_cov_1.288998_cutoff_0,Chromosome,--
+NODE_39_length_671_cov_1.627946_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_40_length_650_cov_1.842932_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind
+NODE_41_length_647_cov_8.187719_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_42_length_632_cov_4.484685_cutoff_0,Chromosome,--
+NODE_43_length_625_cov_2.036496_cutoff_0,Chromosome,--
+NODE_44_length_587_cov_1.590196_cutoff_0,Chromosome,0,PepSY PepSY
+NODE_1_length_56258_cov_44.623859_cutoff_26,Chromosome,0,Prophage_tail Phage_portal Phage_capsid Peptidase_S78 Terminase_1 Phage_holin_6_1 Amidase_5 Gp58 Acetyltransf_10 DUF1599 Collagen_bind Big_8 Gram_pos_anchor
+NODE_1_length_40168_cov_9.434312_cutoff_5,Plasmid,2.71,Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 PRA-PH DUF2001 LysM Phage_GP20 HK97-gp10_like Phage_prot_Gp6 Terminase_3 Terminase_3C Phage_Mu_F Terminase_2 Phage_holin_1 Glucosaminidase Amidase_2 DUF2634 Glutaredoxin Phage_sheath_1 Phage_sheath_1C Phage_TAC_5 Amidase_5 Glucosaminidase DUF4393 AAA_25 PriCT_2 RusA DUF3310 HTH_17 ResIII Helicase_C AAA_24 AAA_23 Baseplate_J Peptidase_S24 HTH_3 HTH_19 HTH_26 HTH_31 HTH_3
+NODE_2_length_5608_cov_2.514916_cutoff_5,Chromosome,0,PRK Pterin_bind Na_Pi_cotrans Na_Pi_cotrans PhoU DisA_N
+NODE_3_length_5413_cov_1.486507_cutoff_5,Chromosome,0,ABC_tran BPD_transp_1 NMT1 TENA_THI-4 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_4_length_4579_cov_3.027099_cutoff_5,Chromosome,0,Terminase_1 Terminase_1
+NODE_5_length_2217_cov_6.610280_cutoff_5,Chromosome,--
+NODE_6_length_2154_cov_6.546461_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_7_length_2121_cov_6.009785_cutoff_5,Chromosome,0,Acyl_transf_3
+NODE_8_length_1658_cov_4.840607_cutoff_5,Chromosome,0,Trp_ring
+NODE_9_length_1640_cov_1.559181_cutoff_5,Chromosome,0,MerR_1 Cation_efflux
+NODE_10_length_1409_cov_2.572072_cutoff_5,Chromosome,--
+NODE_11_length_1385_cov_2.074924_cutoff_5,Chromosome,--
+NODE_12_length_1333_cov_3.128185_cutoff_5,Chromosome,0,DUF3368
+NODE_13_length_1235_cov_2.802245_cutoff_5,Chromosome,0,Trp_ring
+NODE_14_length_1214_cov_6.933157_cutoff_5,Chromosome,--
+NODE_15_length_1171_cov_2.308958_cutoff_5,Chromosome,0,DUF2931 DUF2931
+NODE_16_length_1148_cov_1.244631_cutoff_5,Chromosome,0,FctA FctA FctA FctA
+NODE_17_length_1106_cov_1.077745_cutoff_5,Chromosome,0,DUF285 DUF285
+NODE_18_length_1103_cov_3.650097_cutoff_5,Chromosome,0,Cadherin_4
+NODE_19_length_1097_cov_4.726471_cutoff_5,Chromosome,0,LRR_5
+NODE_1_length_8163_cov_15.205417_cutoff_15,Chromosome,0,Oxidored_FMN SBF_like
+NODE_2_length_4611_cov_16.571240_cutoff_15,Chromosome,--

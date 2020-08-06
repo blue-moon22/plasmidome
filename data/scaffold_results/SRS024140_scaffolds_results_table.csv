@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_104572_cov_13.275764_cutoff_0,Chromosome,0,DUF1064 AAA Sigma70_r4_2 Sigma70_r2 DUF3799 HNH_3 NUMOD4 dUTPase AAA_24 DnaB_C
+NODE_2_length_8825_cov_2.933242_cutoff_0,Plasmid,5.35,Rep_3 AbiEii DUF1269
+NODE_3_length_5593_cov_25.872371_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_4_length_4225_cov_5.739392_cutoff_0,Plasmid,8.86,Rep_3 YoeB_toxin Relaxase
+NODE_5_length_3879_cov_7.960547_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_6_length_1532_cov_6.077663_cutoff_0,Chromosome,--
+NODE_7_length_963_cov_1.326185_cutoff_0,Chromosome,0,Flg_new
+NODE_8_length_911_cov_1.050360_cutoff_0,Chromosome,--
+NODE_9_length_644_cov_1.619048_cutoff_0,Chromosome,--
+NODE_10_length_599_cov_16.260536_cutoff_0,Chromosome,-4.952176548756018,DUF1542 DUF1542
+NODE_1_length_1319_cov_21.301932_cutoff_20,Chromosome,0,Ion_trans_2 DUF389
+NODE_1_length_80274_cov_4.785379_cutoff_5,Chromosome,-7.375662077579065,Macro DNA_gyraseB HATPase_c TOPRIM_C HATPase_c_3 AsiA OmpA SmpA_OmlA YadA_anchor YadA_stalk YadA_head YadA_stalk YadA_head YadA_head RNA_lig_T4_1 DHFR_1 Thymidylat_synt gp32 AAA Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_sm Ribonuc_red_lgC Ribonuc_red_lgC Phage_clamp_A YqeY DUF5051 AAA_30 UvrD_C_2 Endonuclease_7 AAA_33 DUF2828 Band_7 DNA_methylase Cpn10 dCMP_cyt_deam_1 WYL_2 RNaseH_C 5_3_exonuc_N Glutaredoxin Glutaredoxin Phage_DsbA DNA_topoisoIV ArfA PCRF RF-1 DNA_ligase_A_M PAAR_motif Endonuclease_NS gp45-slide_C Metallophos DUF1768 AAA_23 Thymidylat_synt NTP_transferase
+NODE_2_length_2400_cov_4.101162_cutoff_5,Chromosome,0,DUF4230 DDE_Tnp_ISL3 zf-ISL3
+NODE_3_length_1286_cov_5.515302_cutoff_5,Chromosome,0,MucBP MucBP MucBP MucBP MucBP
+NODE_1_length_11817_cov_27.854940_cutoff_33,Chromosome,0,G5 G5 Gram_pos_anchor Topoisom_bac

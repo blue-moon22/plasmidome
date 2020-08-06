@@ -1,0 +1,12 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1205_cov_26.679965_cutoff_10,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_9725_cov_10.677653_cutoff_0,Chromosome,0,DnaB_C Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 HTH_3
+NODE_2_length_8502_cov_41.694599_cutoff_0,Chromosome,0,HTH_3
+NODE_3_length_3841_cov_4.472370_cutoff_0,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_4_length_3516_cov_7.591160_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_5_length_3279_cov_4.909119_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_6_length_2934_cov_6.728036_cutoff_0,Chromosome,0,Rol_Rep_N Rep_trans Rol_Rep_N
+NODE_7_length_2900_cov_2.654977_cutoff_0,Chromosome,0,RHS Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_1_length_4808_cov_77.320017_cutoff_5,Chromosome,0,Cation_efflux ParE_toxin
+NODE_2_length_1222_cov_2.600000_cutoff_5,Chromosome,0,Acetyltransf_1
+NODE_1_length_1121_cov_59.517241_cutoff_15,Chromosome,0,MucBP_2 Mub_B2

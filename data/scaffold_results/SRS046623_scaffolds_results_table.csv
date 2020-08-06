@@ -1,0 +1,10 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_232276_cov_10.046352_cutoff_10,Chromosome,-5.023742099404458,DNA_topoisoIV Toprim DNA_gyraseB_C DNA_gyraseB dUTPase PALP Phage_lysozyme2 DnaB_C Gram_pos_anchor Metallophos_2 Peptidase_S24 CHAP MPTase-PolyVal DUF1738 NUMOD1 PC4 Glucosaminidase Helicase_C ResIII AAA_30 SWI2_SNF2 ResIII DUF2325 LemA NMN_transporter PP2C_2 Glutaredoxin Cauli_VI RNase_H FHA Pkinase HD DNA_pol_A DNA_pol_A_exo1 DNA_ligase_aden HNH Helicase_C ResIII SpoVG DnaJ FtsK_SpoIIIE AAA_27 Fic DUF1653 zf-CHC2 YdjM UvrD-helicase UvrD_C DNA_pol3_delta2 5_3_exonuc_N AgI_II_C2 Antigen_C Antigen_C Gram_pos_anchor Endonuclea_NS_2 DUF1002 Methyltransf_23 Band_7 Glycos_transf_1 ATP-cone DUF3310 TPM_phosphatase Toprim_2
+NODE_2_length_7207_cov_24.332398_cutoff_10,Plasmid,9.21,Rep_3 ABC2_membrane_3 ABC_tran ComR_TPR HTH_31 HTH_3 Mob_Pre
+NODE_1_length_62456_cov_4.829766_cutoff_0,Plasmid,3.57,DNA_pol_A DNA_pol_A_exo1 DHFR_1 PDDEXK_1 HTH_31 BspA_v ZoocinA_TRD Amidase_2 Phage_holin_Dp1 DUF3310 dUTPase HNH_3 HTH_38 HTH_23 CENP-B_N AAA_25 RepB_primase Big_8 Collagen_bind Gram_pos_anchor Phage_lysozyme2 AAA_24 MucBP MucBP
+NODE_2_length_3601_cov_14.510783_cutoff_0,Plasmid,5.35,Rep_3
+NODE_3_length_2162_cov_6.625420_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_4_length_830_cov_1.660027_cutoff_0,Chromosome,--
+NODE_5_length_626_cov_8.785064_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_6_length_602_cov_30.573333_cutoff_0,Chromosome,--
+NODE_1_length_1814_cov_3.531376_cutoff_5,Chromosome,0,Rib Rib Rib

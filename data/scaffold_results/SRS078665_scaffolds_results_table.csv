@@ -1,0 +1,20 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_11850_cov_4.742716_cutoff_10,Plasmid,3.43,Phage_int_SAM_5 Arm-DNA-bind_5 Phage_integrase HTH_45 HTH_36 DUF3871 Resolvase HTH_7
+NODE_2_length_4189_cov_5.685798_cutoff_10,Chromosome,0,HTH_26
+NODE_3_length_2739_cov_6.229151_cutoff_10,Chromosome,--
+NODE_1_length_96913_cov_24.179355_cutoff_0,Plasmid,7.63,DUF932 Sipho_Gp157 bPH_4 AAA_30 UvrD_C_2 Metallophos RepL Phage_gp49_66 dUTPase DNA_ligase_A_M
+NODE_2_length_76483_cov_25.313483_cutoff_0,Plasmid,24.22,AbiEii cNMP_binding DUF3875 AbiEi_4 Rep_3 DDE_Tnp_IS1595 Zn_Tnp_IS1595 WYL UvrD_C_2 AAA_19 SPASM NUDIX Bac_DNA_binding Methylase_S Methylase_S N6_Mtase ADP_ribosyl_GH DUF2582 Resolvase DUF3223 IMS IMS_C DUF234 RVT_1 TonB_dep_Rec Plug CarbopepD_reg_2 DUF4974 FecR SusD_RagB SusD-like_3 DUF4172 Fic MobC Relaxase ATPase_2 DUF3408 MipZ SSB Toprim_2 YpsA DUF3873 TraG-D_C Alpha_L_fucos Sigma70_r4_2 Sigma70_r2 DUF4138 DUF4138 Transposon_TraM DUF3945 DUF3945 DUF1738 MPTase-PolyVal SSB
+NODE_3_length_6039_cov_43.512747_cutoff_0,Plasmid,3.86,RelB Mob_Pre YafQ_toxin
+NODE_4_length_5607_cov_4.174141_cutoff_0,Chromosome,--
+NODE_5_length_4986_cov_4.564066_cutoff_0,Plasmid,8.86,Rep_3 Relaxase
+NODE_6_length_4881_cov_18.530391_cutoff_0,Chromosome,-2.4971416835774463,Phage_int_SAM_5 Phage_integrase
+NODE_7_length_4225_cov_490.903327_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_8_length_2829_cov_174.677326_cutoff_0,Chromosome,--
+NODE_9_length_2655_cov_9.818464_cutoff_0,Plasmid,5.48,Rep_1
+NODE_1_length_8844_cov_38.632143_cutoff_20,Plasmid,8.52,DUF2582 DUF2582 Rep_3 HTH_3 Gp49 T4SS-DNA_transf
+NODE_1_length_91410_cov_34.425837_cutoff_5,Plasmid,12.83,DUF932 Thy1 Sipho_Gp157 DNA_ligase_A_M Phage_gp49_66 PG_binding_3 RepL Glyco_hydro_108 RepL AAA_30 UvrD_C_2 DNA_pol_B
+NODE_2_length_4402_cov_17.692254_cutoff_5,Chromosome,-2.4971416835774463,Phage_int_SAM_5 Phage_integrase
+NODE_3_length_2937_cov_1.842308_cutoff_5,Chromosome,0,Radical_SAM Glyco_transf_28
+NODE_4_length_1428_cov_4.102887_cutoff_5,Chromosome,-2.8306332920573887,HRDC IMPDH
+NODE_1_length_99169_cov_53.778963_cutoff_33,Chromosome,-3.37261042092746,Sigma70_r4_2 Sigma70_r2 Metallophos DUF3799 AAA GIY-YIG NUMOD1 Phage_head_fibr Phage_holin_4_1 dUTPase zf-CHC2 Toprim_4 AAA_24 DnaB_C GIY-YIG NUMOD4 HNH_3 NUMOD1
+NODE_1_length_1674_cov_10.767689_cutoff_15,Chromosome,--

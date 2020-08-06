@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5576_cov_30.545917_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_2_length_5261_cov_8.851466_cutoff_0,Plasmid,10.96,Rep_1 Zot Rep_1
+NODE_3_length_4626_cov_37.800176_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_4_length_3854_cov_5.973524_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_3574_cov_4.196740_cutoff_0,Plasmid,5.35,Rep_3
+NODE_6_length_1526_cov_1.139406_cutoff_0,Chromosome,0,YadA_stalk
+NODE_7_length_1289_cov_1.655116_cutoff_0,Chromosome,--
+NODE_8_length_1058_cov_2.358818_cutoff_0,Chromosome,0,AgI_II_C2 FctA
+NODE_9_length_932_cov_2.678363_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_761_cov_0.725146_cutoff_0,Chromosome,--
+NODE_11_length_713_cov_1.303459_cutoff_0,Chromosome,0,Big_6
+NODE_12_length_638_cov_24.718360_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_13_length_616_cov_2.103896_cutoff_0,Chromosome,0,DALR_2
+NODE_1_length_41039_cov_9.686002_cutoff_5,Chromosome,0,HNH_5 RNase_H_2 Whib PDDEXK_1 CHAP DUF4214 PIF1 Head-tail_con
+NODE_2_length_1121_cov_2.045977_cutoff_5,Chromosome,0,G5 G5 G5

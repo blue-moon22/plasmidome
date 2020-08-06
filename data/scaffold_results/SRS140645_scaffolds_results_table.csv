@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_10491_cov_94.312656_cutoff_91,Chromosome,0,ATPase_2 DUF234 DUF4973 DUF4361 DUF1793 TIG DUF1793 SusD_RagB SusD-like_3 Plug CarbopepD_reg_2
+NODE_1_length_84411_cov_37.930277_cutoff_0,Chromosome,0,Muraidase DNA_methylase PKD BACON BACON KTSC Phage_T4_gp19 Collar PhageMin_Tail LysM Baseplate_J GPW_gp25 Helicase_C ResIII SWI2_SNF2 DnaB_C dUTPase Thymidylat_synt DNA_pol_A DNA_pol_A_exo1 Peptidase_S74 RecA Cpn10 gp32 AAA_28 Metallophos HNH_3 5_3_exonuc_N 5_3_exonuc AAA_23 SbcCD_C
+NODE_2_length_82419_cov_3.462595_cutoff_0,Plasmid,2.60,DUF2442 DUF4160 Fer4_12 DUF4417 DDE_Tnp_1_3 Cys_rich_KTR Bro-N ANT DNA_methylase DNA_methylase Hint_2 DNA_methylase SSB Phage_cap_E HTH_3 RecT CxxCxxCC Phage_prot_Gp6 DUF5051 LemA YopX IstB_IS21 Phage_integrase N6_N4_Mtase N6_N4_Mtase Mga Phage_holin_Dp1 Phage_pRha Lipase_GDSL_2 ORF6C Bro-N ORF6C Phage_pRha SLT Big_7 Big_3_4 PG_binding_1 HTH_3 Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 ANT AntA Spo0A_C SSB
+NODE_3_length_6168_cov_6.474963_cutoff_0,Plasmid,8.52,Rep_3 YoeB_toxin T4SS-DNA_transf
+NODE_4_length_5049_cov_49.822808_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_5_length_4225_cov_856.196721_cutoff_0,Plasmid,8.86,Rep_3 YoeB_toxin Relaxase
+NODE_6_length_2829_cov_434.377544_cutoff_0,Chromosome,--
+NODE_7_length_2051_cov_10.845491_cutoff_0,Plasmid,5.20,RepL
+NODE_8_length_1010_cov_2.245445_cutoff_0,Chromosome,--
+NODE_1_length_9438_cov_9.698857_cutoff_5,Chromosome,-2.4971416835774463,Uma2 HTH_3 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 VirE HTH_17
+NODE_2_length_8844_cov_40.634425_cutoff_5,Plasmid,8.52,T4SS-DNA_transf DUF2582 DUF2582 HTH_3 Gp49 Rep_3
+NODE_3_length_6077_cov_3.557000_cutoff_5,Chromosome,0,Phage_F Phage_F
+NODE_4_length_1616_cov_2.359324_cutoff_5,Chromosome,0,PTPlike_phytase
+NODE_5_length_1456_cov_3.306019_cutoff_5,Chromosome,--
+NODE_6_length_1177_cov_2.374545_cutoff_5,Chromosome,--

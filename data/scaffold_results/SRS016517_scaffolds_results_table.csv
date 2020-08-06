@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2589_cov_142.611863_cutoff_198,Chromosome,0,FtsX MacB_PCD
+NODE_1_length_13397_cov_6.564489_cutoff_10,Plasmid,2.48,DUF5348 AAA_31 RelB HTH_3
+NODE_1_length_17358_cov_60.460101_cutoff_70,Plasmid,2.91,HTH_17 Fic HTH_24 MarR HTH_17 Glyoxalase Lactamase_B_3 HTH_36 AAA_14 DUF4143 Recombinase Resolvase DUF4368 Zn_ribbon_recom DUF262 DUF1524 DNA_methylase DNA_methylase Virulence_RhuM
+NODE_1_length_96028_cov_13.670363_cutoff_0,Chromosome,0,DnaB_C dUTPase HNH GIY-YIG NUMOD3 NUMOD3 AAA GIY-YIG Sigma70_r2 Sigma70_r4_2 AAA_5 zf-CHC2 DUF3799 AAA_24 Asp_protease_2
+NODE_2_length_78041_cov_236.587463_cutoff_0,Chromosome,0,SMC_N Metallophos AAA_28 5_3_exonuc_N RecA gp32 Cpn10 HNH_3 PhageMin_Tail HNH_3 DNA_methylase PKD HNH_3 Phage_T4_gp19 GPW_gp25 Baseplate_J DnaB_C HNH_3 Helicase_C ResIII Amidase_3 KTSC dUTPase_2 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt dUTPase
+NODE_3_length_77721_cov_855.738074_cutoff_0,Plasmid,30.04,DUF87 fn3 fn3 Relaxase AAA_28 T4SS-DNA_transf TrbL MobC HTH_28 rve HTH_21 SSB DUF5348 RNase_T Mrr_cat zf-C4_Topoisom SpaA SpaA RHH_3 DUF3970 DUF4942 MTS Resolvase DUF3846 DUF4314 DUF4314 LRR_5 LRR_5 DUF932 ParBc DUF4317 SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA HTH_3 AAA_31 Topoisom_bac Toprim_Crpt Toprim MazE_antitoxin Lar_restr_allev
+NODE_4_length_41348_cov_10.698747_cutoff_0,Plasmid,3.98,DUF1140 D5_N HNH Terminase_4 Terminase_1 Phage_portal Phage_TTP_1 Phage_H_T_join Phage_connect_1 Phage_capsid Peptidase_S78 Prophage_tail XhlA PhageMin_Tail Sipho_tail Glutaredoxin Phage_holin_1 SH3_5 Amidase_2 MethyltransfD12 DUF1351 Lactamase_B_3 DUF3310 SNF2_N Prim-Pol PriCT_1
+NODE_5_length_30643_cov_136.466172_cutoff_0,Plasmid,2.67,Sipho_tail HTH_36 HTH_17 DUF488 SSB RusA Glyco_hydro_25 LysM LysM LysM Terminase_3 L_lactis_ph-MCP Phage_portal Phage_Mu_F ParBc DUF1360 HTH_3 ERF
+NODE_6_length_12025_cov_2.778624_cutoff_0,Plasmid,9.30,AAA_31 RelB YoeB_toxin MobA_MobL T4SS-DNA_transf DUF3847
+NODE_7_length_7493_cov_20.766990_cutoff_0,Plasmid,5.35,DNA_methylase Rep_3 Gp49 HTH_3
+NODE_8_length_3738_cov_14.309751_cutoff_0,Plasmid,12.49,Replicase PriCT_1 MobA_MobL
+NODE_9_length_3190_cov_4.910376_cutoff_0,Chromosome,0,DUF4313
+NODE_10_length_2365_cov_3.181381_cutoff_0,Chromosome,0,HTH_31 Couple_hipA DUF3836 DUF3836 HipA_C
+NODE_11_length_2310_cov_28.094492_cutoff_0,Chromosome,0,Na_H_antiporter Na_H_antiporter
+NODE_12_length_1917_cov_2.140217_cutoff_0,Chromosome,0,LPD29
+NODE_13_length_1736_cov_1.761302_cutoff_0,Chromosome,0,RNase_T BRCT DUF4177
+NODE_14_length_717_cov_0.956250_cutoff_0,Chromosome,--
+NODE_15_length_587_cov_1.445098_cutoff_0,Chromosome,--
+NODE_1_length_45570_cov_3.182292_cutoff_5,Chromosome,0,GATase_3 CbiA AAA_26 Peripla_BP_2 Fer4_NifH Oxidored_nitro Oxidored_nitro Peripla_BP_2 FecCD CobN-Mg_chel Radical_SAM SPASM TP_methylase TP_methylase CbiG_C CbiG_N TP_methylase MotA_ExbB TonB_C CbiD CbiJ TP_methylase Met_10 ABC_membrane ABC_tran PQQ_2 CbiQ ABC_tran ABC_tran ABC_tran TonB_dep_Rec Plug TonB_dep_Rec Plug ABC2_membrane ABC_tran MerR_1 CbiZ AAA_lid_2 Mg_chelatase AAA_5 TonB_dep_Rec Plug CN_hydrolase AAA_lid_2 VWA_2 VWA AAA_5 ExbD
+NODE_2_length_1745_cov_2.724820_cutoff_5,Chromosome,0,AAA-ATPase_like Uma2 PDDEXK_9 AAA-ATPase_like
+NODE_3_length_1239_cov_2.747849_cutoff_5,Chromosome,--
+NODE_1_length_9740_cov_38.186588_cutoff_33,Plasmid,14.34,Rep_3 Rep_3 MobA_MobL Y1_Tnp OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605
+NODE_1_length_35889_cov_32.045208_cutoff_15,Plasmid,31.35,Relaxase MobC MipZ bPH_2 DUF2582 DUF2582 Toprim_2 AbiEii DUF3945 DUF3945 DUF1738 MPTase-PolyVal Transposon_TraM DUF4138 DUF4138 T4SS-DNA_transf PLCC Resolvase HTH_7 HTH_11 TrbL TraO SSB DUF3875 Resolvase HTH_7 AbiEii HTH_3

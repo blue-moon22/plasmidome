@@ -1,0 +1,22 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_80274_cov_8.540544_cutoff_10,Chromosome,-7.375662077579058,DNA_methylase NTP_transferase WYL_2 Cpn10 dCMP_cyt_deam_1 DUF2828 Band_7 Thymidylat_synt DNA_ligase_A_M DNA_topoisoIV RNaseH_C 5_3_exonuc_N Phage_DsbA ArfA Endonuclease_7 Glutaredoxin Glutaredoxin Thymidylat_synt Ribonuc_red_sm Metallophos YadA_anchor YadA_stalk YadA_head YadA_stalk YadA_head YadA_head DUF1768 AAA_23 DUF5051 AAA_30 UvrD_C_2 PCRF RF-1 AAA_33 Phage_clamp_A YqeY Ribonuc_red_lgC gp45-slide_C AAA DHFR_1 PAAR_motif gp32 Endonuclease_NS Ribonuc_red_lgC Ribonuc_red_lgC OmpA SmpA_OmlA RNA_lig_T4_1 Macro Ribonuc_red_lgC DNA_gyraseB HATPase_c TOPRIM_C HATPase_c_3 AsiA
+NODE_1_length_6385_cov_5.520926_cutoff_0,Chromosome,0,HTH_Tnp_4 DDE_Tnp_4 ABC_tran ABC_tran
+NODE_2_length_3280_cov_14.487043_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_3_length_1329_cov_1.640575_cutoff_0,Chromosome,--
+NODE_4_length_1205_cov_1.881206_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_5_length_982_cov_2.360221_cutoff_0,Chromosome,--
+NODE_6_length_889_cov_0.374384_cutoff_0,Chromosome,0,Hydrolase_3 Hydrolase_3
+NODE_7_length_829_cov_2.767287_cutoff_0,Chromosome,--
+NODE_8_length_754_cov_1.639586_cutoff_0,Chromosome,--
+NODE_9_length_713_cov_2.816038_cutoff_0,Chromosome,--
+NODE_10_length_698_cov_4.884058_cutoff_0,Chromosome,--
+NODE_11_length_632_cov_2.488288_cutoff_0,Chromosome,--
+NODE_12_length_587_cov_2.545098_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT
+NODE_1_length_6759_cov_23.265489_cutoff_26,Chromosome,0,DUF4123
+NODE_2_length_1267_cov_20.185714_cutoff_26,Chromosome,--
+NODE_1_length_2444_cov_2.907055_cutoff_5,Chromosome,0,CitMHS Cupin_2
+NODE_2_length_2029_cov_6.731045_cutoff_5,Chromosome,0,PTS_2-RNA
+NODE_3_length_1766_cov_7.480166_cutoff_5,Chromosome,--
+NODE_4_length_1391_cov_3.090563_cutoff_5,Chromosome,--
+NODE_5_length_1079_cov_2.802395_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_6733_cov_28.722206_cutoff_33,Chromosome,0,Fil_haemagg_2

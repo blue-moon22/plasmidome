@@ -1,0 +1,8 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_50466_cov_26.146361_cutoff_10,Plasmid,15.72,RepA_N UPF0236 DUF2786 Endonuclea_NS_2 Toprim_2 MobL PBECR4 LPD25 Topoisom_bac Toprim AAA_2 AAA_lid_9 ClpB_D2-small AAA TraG-D_C T4SS-DNA_transf SSB Gram_pos_anchor AgI_II_C2 Antigen_C Antigen_C Adhesin_P1_N Gram_pos_anchor Thioredoxin PriCT_1 AAA_31 CHAP Glucosaminidase DUF5592 BRCT
+NODE_1_length_151616_cov_7.458113_cutoff_0,Chromosome,-11.125566729647694,Phage_sheath_1 Phage_sheath_1C Peptidase_S80 Phage_T4_gp19 WYL_2 RecA Gp23 Peptidase_S77 Glutaredoxin Endonuclease_7 DNA_topoisoIV DNA_Packaging AsiA HATPase_c_3 DNA_gyraseB HATPase_c TOPRIM_C Macro RNA_lig_T4_1 RNA_ligase T4_Rnl2_C AAA_33 Gly_radical T4_gp9_10 Peptidase_S74 PCRF RF-1 YqeY Phage_clamp_A DNA_ligase_A_M DNA_pol_B Glyco_hydro_20 Endonuclease_NS PAAR_motif Glutaredoxin YadA_anchor YadA_stalk YadA_head YadA_head YadA_stalk YadA_head OmpA SmpA_OmlA DUF1768 AAA DNA_methylase gp45-slide_C NTP_transferase Thymidylat_synt T4_neck-protein Phage-Gp8 Phage-Gp8 DNA_pol_B_exo1 DNA_pol_B Band_7 DUF2828 dCMP_cyt_deam_1 AAA_23 Metallophos NAPRTase DUF5598 Pribosyltran Phage_gp53 Metallophos UvsY T4-gp15_tss DHFR_1 Thymidylat_synt gp32 Trans_coact RNaseH_C 5_3_exonuc_N Phage_DsbA T4_tail_cap T4_baseplate Peptidase_S80 Peptidase_S80 ResIII Phage_gp49_66 Ribonuc_red_lgC Ribonuc_red_sm ArfA Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC AAA_30 UvrD_C_2 DUF5051
+NODE_2_length_5259_cov_5.195870_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_3_length_2385_cov_31.751733_cutoff_0,Plasmid,2.65,RHH_3
+NODE_4_length_1697_cov_1.188272_cutoff_0,Chromosome,--
+NODE_5_length_826_cov_0.700935_cutoff_0,Chromosome,--
+NODE_6_length_690_cov_3.460033_cutoff_0,Chromosome,--

@@ -1,0 +1,31 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1512_cov_763.478049_cutoff_198,Chromosome,0,DUF1269
+NODE_1_length_52959_cov_21.507583_cutoff_10,Chromosome,0,HK97-gp10_like DUF3310 Hydrolase_2 RdRP Collagen Collagen Collagen SH3_5 CHAP Terminase_1 Phage_capsid Phage_portal DUF2800 Phage_holin_1 DUF859
+NODE_2_length_42228_cov_13.356053_cutoff_10,Plasmid,2.67,DnaB_C ERF HTH_8 SSB DUF3310 Spherulin4 Glyco_hydro_25 Phage_r1t_holin TIG Collar DUF5403 Phage_capsid Phage_Gp19 Phage_prot_Gp6
+NODE_3_length_5347_cov_39.086717_cutoff_10,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_1_length_36057_cov_75.633797_cutoff_70,Plasmid,3.98,AAA_24 VirE DUF3310 DUF669 Prim-Pol PriCT_1 DUF4355 Phage_capsid HeH Phage_connect_1 Terminase_3 Terminase_3C Phage_prot_Gp6 Phage_Mu_F Terminase_2 DUF1492 DUF1642 DUF1372 HTH_26 Phage_holin_6_1 SH3_5 Sipho_Gp157 Phage_integrase Arm-DNA-bind_4 Phage_int_SAM_3 TM2 Peptidase_M78 HTH_3 Sipho_tail Prophage_tail Phage_tail_2 Phage_TAC_12
+NODE_1_length_5259_cov_3.464685_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_2_length_4551_cov_36.393160_cutoff_0,Chromosome,0,Rep_trans DUF961 FtsK_SpoIIIE
+NODE_3_length_4380_cov_43.787125_cutoff_0,Chromosome,0,ParE_toxin Integrase_1 Phage_int_SAM_1
+NODE_4_length_3918_cov_41.128092_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_5_length_2835_cov_8.941262_cutoff_0,Plasmid,14.27,Mob_Pre RepL RepL
+NODE_6_length_2772_cov_783.952505_cutoff_0,Plasmid,5.35,Rep_3 HigB-like_toxin HTH_3
+NODE_7_length_2386_cov_91.545258_cutoff_0,Plasmid,2.65,RHH_3
+NODE_8_length_2347_cov_2.307048_cutoff_0,Chromosome,0,N6_Mtase HsdM_N
+NODE_9_length_2176_cov_3.838495_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_10_length_1798_cov_9.589773_cutoff_0,Plasmid,5.20,RepL
+NODE_11_length_1606_cov_50.216481_cutoff_0,Plasmid,5.20,RepL
+NODE_12_length_1592_cov_12.365677_cutoff_0,Chromosome,--
+NODE_13_length_1475_cov_5.585122_cutoff_0,Chromosome,--
+NODE_14_length_1401_cov_69.251511_cutoff_0,Plasmid,2.52,Rep_2
+NODE_15_length_1134_cov_2.207190_cutoff_0,Chromosome,--
+NODE_16_length_1130_cov_0.977208_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_17_length_1035_cov_0.757829_cutoff_0,Chromosome,--
+NODE_18_length_623_cov_1.653846_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind
+NODE_1_length_1483_cov_22.314367_cutoff_26,Chromosome,--
+NODE_1_length_32902_cov_5.793389_cutoff_5,Chromosome,-2.3395127393717043,SSB VRR_NUC N6_N4_Mtase ParBc RecT YqaJ HTH_36 CW_7 DUF859 Phage_TTP_12 HK97-gp10_like Phage_prot_Gp6 DUF4355 Phage_Mu_F Gln_amidase HNH S-AdoMet_synt_N
+NODE_2_length_4114_cov_2.717860_cutoff_5,Plasmid,5.93,Resolvase HTH_7 HTH_38 HTH_3 Excalibur PASTA
+NODE_3_length_2513_cov_2.785304_cutoff_5,Chromosome,--
+NODE_1_length_37228_cov_20.474334_cutoff_33,Chromosome,0,Phage_integrase Phage_int_SAM_3 HTH_3 NLPC_P60 CHAP DUF4326 SSB HTH_3 HTH_3 HTH_17 P22_CoatProtein Phage_prot_Gp6 SSB
+NODE_1_length_1319_cov_17.566828_cutoff_15,Chromosome,--
+NODE_2_length_1226_cov_18.711923_cutoff_15,Chromosome,0,CbiM CbiN CbiM

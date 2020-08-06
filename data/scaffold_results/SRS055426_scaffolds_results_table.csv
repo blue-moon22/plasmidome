@@ -1,0 +1,30 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_64842_cov_43.305088_cutoff_10,Plasmid,3.02,DUF1599 Terminase_1 Phage_capsid Peptidase_S78 Phage_portal Phage_holin_4_1 Sipho_tail DUF859 ZoocinA_TRD Amidase_5 Phage_holin_1 Glucosaminidase HTH_23 HTH_7
+NODE_2_length_3916_cov_8.852826_cutoff_10,Chromosome,0,Flavodoxin_2 TetR_N ABC2_membrane ABC_tran
+NODE_1_length_82614_cov_54.549123_cutoff_0,Chromosome,0.2974939534367387,AAA_28 5_3_exonuc_N 5_3_exonuc DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt DUF3310 RecA gp32 Metallophos AAA_23 SbcCD_C Baseplate_J Phage_holin_4_1 DnaB_C Toprim_3 Helicase_C ResIII dUTPase DNA_ligase_aden DNA_ligase_OB Muraidase PKD CotH DNA_methylase GPW_gp25 Phage_T4_gp19 PhageMin_Tail KTSC
+NODE_2_length_5351_cov_8.279674_cutoff_0,Plasmid,5.20,Rep_trans RepL FtsK_SpoIIIE
+NODE_3_length_4624_cov_17.678029_cutoff_0,Plasmid,3.86,ParE_toxin Mob_Pre
+NODE_4_length_4476_cov_20.665833_cutoff_0,Chromosome,0,FtsK_SpoIIIE
+NODE_5_length_4136_cov_2.170239_cutoff_0,Chromosome,0,AAA_22 Rep_trans Rol_Rep_N
+NODE_6_length_3739_cov_8.755052_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_7_length_3309_cov_3.271349_cutoff_0,Plasmid,9.34,Mob_Pre Rep_1
+NODE_8_length_3097_cov_3.393709_cutoff_0,Chromosome,0,LXG
+NODE_9_length_2348_cov_4.265962_cutoff_0,Chromosome,--
+NODE_10_length_1886_cov_36.796020_cutoff_0,Chromosome,--
+NODE_11_length_1863_cov_37.549832_cutoff_0,Chromosome,--
+NODE_12_length_1707_cov_16.170552_cutoff_0,Chromosome,0,Rep_trans
+NODE_13_length_1178_cov_1.317893_cutoff_0,Chromosome,0,HTH_28 rve
+NODE_14_length_1034_cov_7.897597_cutoff_0,Chromosome,--
+NODE_15_length_873_cov_1.379397_cutoff_0,Chromosome,0,OMP_b-brl
+NODE_1_length_40893_cov_17.233340_cutoff_5,Chromosome,0,Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 HTH_3 Peptidase_M78 HTH_17 DUF739 AAA_15 Prophage_tail Peptidase_S74 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_6_1 Collagen AAA_24 AAA_25 PriCT_2 DNA_methylase ResIII Helicase_C RusA Phage_H_T_join Phage_connect_1 PhageMin_Tail Phage_TTP_1 Phage_capsid CLP_protease Phage_portal Terminase_4 Terminase_1 DUF1492 HNH HTH_3 DUF1372 YopX Phage_holin_4_1
+NODE_2_length_3186_cov_10.514957_cutoff_5,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_3_length_2772_cov_57.649722_cutoff_5,Plasmid,5.35,HTH_3 Rep_3 HigB-like_toxin
+NODE_4_length_2322_cov_10.467706_cutoff_5,Chromosome,--
+NODE_5_length_1826_cov_40.915380_cutoff_5,Chromosome,--
+NODE_6_length_1783_cov_1.407972_cutoff_5,Chromosome,--
+NODE_7_length_1695_cov_1.711990_cutoff_5,Chromosome,-5.129126545870328,MMR_HSR1 MMR_HSR1
+NODE_8_length_1688_cov_2.688392_cutoff_5,Chromosome,0,YadA_stalk
+NODE_9_length_1338_cov_14.444092_cutoff_5,Chromosome,--
+NODE_10_length_1319_cov_8.200483_cutoff_5,Chromosome,0,Mub_B2 Mub_B2 MucBP_2 MucBP_2 MucBP MucBP MucBP
+NODE_11_length_1198_cov_5.989295_cutoff_5,Chromosome,0,2-Hacid_dh_C 2-Hacid_dh
+NODE_12_length_821_cov_13.065860_cutoff_5,Chromosome,--

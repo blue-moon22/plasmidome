@@ -1,0 +1,18 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2880_cov_156.308241_cutoff_54,Plasmid,10.53,Omega_Repress Epsilon_antitox Methyltransf_11 RrnaAD Zeta_toxin
+NODE_1_length_9019_cov_168.778349_cutoff_10,Plasmid,5.35,DJ-1_PfpI Gp49 HTH_3 HTH_18 Rep_3
+NODE_1_length_41210_cov_4.369655_cutoff_0,Chromosome,-2.4971416835774463,HTH_26 Peptidase_S24 HTH_3 HTH_26 Peptidase_M15_4 LPD38 LPD3 Cu_amine_oxidN1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 zf-CHC2 DNA_methylase DNA_methylase ERCC4 Collagen Collagen Phage_holin_5_2 DUF927 HTH_56 AAA_23 DUF3799 SSB Terminase_2
+NODE_2_length_36233_cov_2.474167_cutoff_0,Plasmid,2.91,HTH_3 Virulence_RhuM Resolvase Recombinase Zn_ribbon_recom Amidase_3 Phage_holin_1 Sipho_Gp37 Peptidase_M78 DZR HSDR_N HTH_3 DUF739 AAA_15 AAA_24 DUF1778 DUF4406 RusA AAA_25 PriCT_2 ResIII Helicase_C ParE_toxin Thioredoxin Terminase_2 Phage_prot_Gp6 Phage_Mu_F DUF5072 Phage_tail_2 S-l_SbsC_C S-l_SbsC_C DUF4355
+NODE_3_length_8841_cov_31.271565_cutoff_0,Plasmid,8.52,Rep_3 Gp49 HTH_3 DUF2582 T4SS-DNA_transf DUF2582
+NODE_4_length_4720_cov_9.939910_cutoff_0,Plasmid,2.91,HTH_3 Resolvase
+NODE_5_length_4226_cov_1039.587611_cutoff_0,Plasmid,8.86,Rep_3 Relaxase YoeB_toxin
+NODE_6_length_2861_cov_204.003233_cutoff_0,Chromosome,--
+NODE_7_length_1326_cov_11.079263_cutoff_0,Chromosome,--
+NODE_8_length_1280_cov_1.036575_cutoff_0,Chromosome,0,Acetyltransf_3
+NODE_1_length_14783_cov_32.440432_cutoff_26,Chromosome,0,Peptidase_C11 T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug
+NODE_1_length_12868_cov_48.794934_cutoff_42,Chromosome,0,TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg SusD-like_2 SusD-like AAA_14 SusD-like_2 SusD-like SusD-like_2
+NODE_1_length_63071_cov_13.640617_cutoff_5,Chromosome,0,Phage_holin_5_2 RVT_1 RVT_1 Phage_XkdX Sipho_Gp37 Sipho_tail Glyco_hydro_25 CHAP GW GW HK97-gp10_like Phage_portal Terminase_1 DUF2800 Hydrolase_2 DUF3310 N6_Mtase DEDD_Tnp_IS110 Transposase_20 Phage_integrase zinc_ribbon_2
+NODE_2_length_32208_cov_3.355358_cutoff_5,Chromosome,0,Big_2 Collagen Collagen Collagen OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 PhageMin_Tail
+NODE_3_length_24143_cov_3.211419_cutoff_5,Chromosome,-3.9754263257916342,LpxB SurE PDDEXK_2 DoxX DUF1080 GFO_IDH_MocA Sigma70_r2 Sigma70_r4_2 NigD_C NigD_N Sigma70_r2 Sigma70_r4_2 Peptidase_M28 PA Lactamase_B Lactamase_B_2 Cyt_bd_oxida_I Cyt_bd_oxida_II PDDEXK_2 GFO_IDH_MocA DUF4492
+NODE_4_length_2652_cov_2.316505_cutoff_5,Chromosome,0,HATPase_c_4 DUF4869
+NODE_1_length_6827_cov_16.672889_cutoff_15,Chromosome,0,Imm-NTF2-2 DUF4329

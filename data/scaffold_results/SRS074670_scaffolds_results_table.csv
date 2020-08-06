@@ -1,0 +1,17 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_9205_cov_225.053352_cutoff_198,Plasmid,5.35,GerE Gp49 Rep_3 HTH_3
+NODE_1_length_4771_cov_74.439497_cutoff_91,Chromosome,-2.4971416835774463,Phage_int_SAM_5 Phage_integrase
+NODE_1_length_13613_cov_139.169252_cutoff_54,Plasmid,10.69,Rep_3 AAA_14 DUF4143 Rep_3 HTH_3 Gp49
+NODE_2_length_9205_cov_225.053352_cutoff_54,Plasmid,5.35,GerE Gp49 HTH_3 Rep_3
+NODE_1_length_30465_cov_5.397887_cutoff_10,Chromosome,0,DUF4974 FecR Dak1 Sigma70_r2 Sigma70_r4_2 IclR HTH_IclR FGE-sulfatase HZS_alpha NPCBM NPCBM Cytochrom_C_asm ResB Dak2 DeoC Sigma70_r4_2 Sigma70_r2 Glyco_hydro_85 Laminin_G_3 DUF4974 FecR SusD-like SusD-like TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg STN
+NODE_2_length_5369_cov_32.938209_cutoff_10,Chromosome,--
+NODE_1_length_185461_cov_25.651432_cutoff_0,Chromosome,-3.9451744388784746,Isochorismatase Metallophos Peptidase_S74 Cluap1 CTP_transf_like AAA NAD_synthase NUDIX Anthrax-tox_M NAPRTase NAPRTase_N Glucosaminidase HNH_3 AAA AAA_30 UvrD_C_2 Ferritin Helicase_C ResIII Thy1 PDDEXK_1 DUF192 DnaB_C NRDD ATP-cone ParBc Band_7 PDDEXK_5 Adenylsucc_synt DNA_ligase_A_M dUTPase PolyA_pol AAA_33 RNase_H AAA_30 PDDEXK_1 HAD_SAK_2 YqeY DNA_pol_A DNA_pol_A_exo1 SEC-C Metallophos NUMOD4 HNH_3 FeThRed_B
+NODE_2_length_98156_cov_176.678137_cutoff_0,Plasmid,2.43,Phage_gp49_66 DUF932 Sipho_Gp157 Thy1 PG_binding_3 DNA_ligase_A_M AAA_30 UvrD_C_2 Glyco_hydro_108 RVT_1
+NODE_3_length_56893_cov_22.421959_cutoff_0,Plasmid,10.74,AAA DnaB_C Bro-N ANT HNH HTH_31 Band_7 AAA_31 DUF551 Rep_3 HTH_3 HTH_19 Phage_cap_E DUF5055 AAA_24 HTH_26 Phage_holin_6_1 Glyco_hydro_25 Resolvase YjcQ Phage_prot_Gp6
+NODE_4_length_5757_cov_5.805810_cutoff_0,Plasmid,3.86,Mob_Pre YoeB_toxin RelB TetR_N
+NODE_5_length_5671_cov_919.083482_cutoff_0,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_6_length_2828_cov_3207.165394_cutoff_0,Chromosome,--
+NODE_7_length_872_cov_13.884277_cutoff_0,Chromosome,--
+NODE_1_length_186994_cov_5.146145_cutoff_5,Chromosome,-8.87458182770142,PDDEXK_1 AAA_30 DUF192 Radical_SAM Adenylsucc_synt HAD_SAK_2 YqeY NUDIX CTP_transf_like Band_7 RNase_H TerD TerD E1-E2_ATPase Cation_ATPase_C Hydrolase Cation_ATPase Cation_ATPase_N Hydrolase_3 NAPRTase NAPRTase_N NAD_synthase Isochorismatase Metallophos Metallophos AAA_23 Ferritin DNA_pol_A DNA_pol_A_exo1 CYTH Thy1 UDG DnaB_C RVT_1 AAA_24 AAA_33 PolyA_pol ResIII Helicase_C FeThRed_B SLT PDDEXK_1 DNA_ligase_A_M dUTPase AAA_30 UvrD_C_2 NRDD ATP-cone PDDEXK_1 Amidase_3 Metallophos DUF2828 CxxCxxCC
+NODE_2_length_5608_cov_14.387814_cutoff_5,Chromosome,0,Phage_F
+NODE_1_length_16452_cov_15.381435_cutoff_15,Chromosome,0,DUF2400 Lysine_decarbox GlcNAc_2-epim ROK HTH_24 Lipase_GDSL_2 SASA Glyco_hydro_20 Glyco_hydro_20b BNR_assoc_N BNR_2 BNR_3 MFS_1 DHDPS Abhydrolase_3 2-Hacid_dh_C DNA_alkylation

@@ -1,0 +1,40 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_63071_cov_9.947852_cutoff_0,Plasmid,3.57,DNA_pol_A DNA_pol_A DNA_pol_A_exo1 Big_8 Collagen_bind AAA_25 RepB_primase HNH_3 RuvC GbpC Glyco_hydro_25 BspA_v BspA_v Glucosaminidase DUF1642 dUTPase AAA_24 Phage_holin_Dp1 PDDEXK_1 DUF3310
+NODE_2_length_36028_cov_97.318044_cutoff_0,Chromosome,0,Terminase_1 Phage_integrase HTH_3 HTH_3 HTH_17 Phage_r1t_holin P22_CoatProtein Phage_prot_Gp6 DUF5403 Peptidase_M23 Glyco_hydro_25 Bro-N
+NODE_3_length_8530_cov_2.373004_cutoff_0,Chromosome,0,N_methyl T2SSF T2SSF SpoIIE T2SSE SpoIIE
+NODE_4_length_5530_cov_2.662754_cutoff_0,Chromosome,0,TetR_N ABC_ATPase MFS_1
+NODE_5_length_2462_cov_2.329140_cutoff_0,Chromosome,--
+NODE_6_length_2359_cov_1.666959_cutoff_0,Chromosome,0,FCD GntR CCG CCG
+NODE_7_length_1463_cov_1.157287_cutoff_0,Chromosome,0,DUF2931
+NODE_8_length_1341_cov_1.248418_cutoff_0,Chromosome,--
+NODE_9_length_1325_cov_10.678686_cutoff_0,Chromosome,0,MucBP_2 MucBP_2 Mub_B2 Mub_B2 MucBP MucBP
+NODE_10_length_1269_cov_1.887584_cutoff_0,Chromosome,--
+NODE_11_length_1091_cov_5.986193_cutoff_0,Chromosome,0,YadA_stalk
+NODE_12_length_1040_cov_0.814123_cutoff_0,Chromosome,--
+NODE_13_length_994_cov_1.797165_cutoff_0,Chromosome,--
+NODE_14_length_922_cov_2.002367_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_15_length_891_cov_3.191646_cutoff_0,Chromosome,--
+NODE_16_length_835_cov_1.389182_cutoff_0,Chromosome,--
+NODE_17_length_815_cov_2.760163_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_18_length_805_cov_0.883242_cutoff_0,Chromosome,-5.7281830953725255,FKBP_C FKBP_N
+NODE_19_length_782_cov_2.736170_cutoff_0,Chromosome,--
+NODE_20_length_704_cov_3.602871_cutoff_0,Chromosome,--
+NODE_21_length_686_cov_2.397373_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind
+NODE_22_length_611_cov_1.462547_cutoff_0,Chromosome,0,Cna_B Cna_B
+NODE_23_length_602_cov_1.123810_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_43409_cov_39.271762_cutoff_26,Chromosome,0,Phage_holin_Dp1 GDPD HNH_3 HNH_3 Sipho_tail Phage_capsid Peptidase_S78 Terminase_1 Phage_portal Sipho_Gp37 Sipho_Gp37
+NODE_1_length_5661_cov_75.515759_cutoff_42,Chromosome,--
+NODE_1_length_260559_cov_4.446173_cutoff_5,Chromosome,-3.4217312182624724,Hydrolase_2 Beta_helix Phage_gp49_66 Ribonuc_red_sm Ribonuc_red_sm Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom DnaB_C HAD_SAK_2 ResIII Helicase_C YadA_anchor YadA_stalk YadA_head YadA_head YadA_head DUF3323 DHFR_1 Macro dUTPase Thymidylat_synt HNH_3 ATP-cone Ribonuc_red_lgC Ribonuc_red_lgN Ribonuc_red_lgC RNase_H HNH_3 NUMOD4 HNH_3
+NODE_2_length_247700_cov_14.364954_cutoff_5,Chromosome,-4.641729013751645,Radical_SAM Radical_SAM Thymidylat_synt DNA_pol_B DUF2974 AAA Collar Thg1 HAD_SAK_2 Thymidylate_kin Phage_lysozyme DNA_gyraseB HATPase_c Toprim DNA_gyraseB_C DNA_topoisoIV DnaB_C Metallophos ResIII Helicase_C HNH_3
+NODE_3_length_71210_cov_5.482448_cutoff_5,Plasmid,3.98,Bac_DNA_binding Thy1 DUF2201_N DUF2201 SLT DUF3310 RNase_H PriCT_1 AAA_24 DNA_pol_A DNA_pol_A_exo1 DUF1653 Ribonuc_red_sm Glyco_hydro_19 DUF1768 RNA_pol
+NODE_4_length_3878_cov_2.652197_cutoff_5,Chromosome,0,DUF4401 GDYXXLXY DUF2157
+NODE_5_length_2002_cov_5.684156_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_6_length_1428_cov_2.692080_cutoff_5,Chromosome,--
+NODE_7_length_1376_cov_2.940724_cutoff_5,Chromosome,0,SUKH_6 SUKH_6 SUKH_6
+NODE_8_length_1292_cov_2.986831_cutoff_5,Chromosome,0,Peptidase_S41
+NODE_9_length_1271_cov_3.615578_cutoff_5,Chromosome,--
+NODE_10_length_1264_cov_1.824768_cutoff_5,Chromosome,0,DUF4876
+NODE_11_length_1227_cov_2.140870_cutoff_5,Chromosome,0,Methylase_S Methylase_S
+NODE_12_length_1158_cov_3.691952_cutoff_5,Chromosome,--
+NODE_1_length_14619_cov_127.931371_cutoff_33,Chromosome,0,HTH_3 Amidase_2 Phage_portal Whib HNH
+NODE_2_length_3476_cov_41.614004_cutoff_33,Chromosome,0,AMP-binding Condensation AMP-binding PP-binding AMP-binding_C

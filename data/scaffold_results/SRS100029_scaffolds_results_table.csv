@@ -1,0 +1,4 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_8236_cov_12.209094_cutoff_10,Plasmid,2.52,Bac_luciferase HTH_5 E1-E2_ATPase Hydrolase Rep_2 RNA_helicase
+NODE_1_length_875_cov_4.023810_cutoff_0,Chromosome,0,Rib Rib
+NODE_2_length_608_cov_0.860640_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2

@@ -1,0 +1,6 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_3660_cov_9.785375_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_2_length_900_cov_1.215067_cutoff_0,Chromosome,--
+NODE_3_length_627_cov_1.667273_cutoff_0,Chromosome,--
+NODE_4_length_596_cov_1.233141_cutoff_0,Chromosome,0,Mub_B2
+NODE_1_length_788_cov_109.136428_cutoff_15,Chromosome,0,Rib Rib Rib Rib

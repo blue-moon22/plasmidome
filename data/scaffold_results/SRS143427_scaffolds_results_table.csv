@@ -1,0 +1,14 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_31109_cov_15.629995_cutoff_0,Chromosome,0,DUF2746 Amidase_2 SH3_5 SSB RecT DUF5403 RusA Phage_Gp19 Phage_capsid Phage_prot_Gp6 YqaJ HTH_36 Terminase_1
+NODE_2_length_19097_cov_27.475657_cutoff_0,Plasmid,6.44,AAA_10 SSB TpcC RepA_C HTH_17 CHAP
+NODE_3_length_4649_cov_1.895451_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_4_length_4041_cov_4.573915_cutoff_0,Chromosome,0,AAA Rep_trans
+NODE_5_length_3919_cov_13.911504_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_6_length_3498_cov_7.606255_cutoff_0,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_7_length_2691_cov_14.283474_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_8_length_2576_cov_13.110444_cutoff_0,Chromosome,--
+NODE_9_length_1592_cov_1.414521_cutoff_0,Chromosome,-3.1692354549351105,Porph_ging
+NODE_10_length_939_cov_2.683295_cutoff_0,Chromosome,--
+NODE_11_length_764_cov_2.289665_cutoff_0,Chromosome,--
+NODE_1_length_4629_cov_7.539543_cutoff_5,Plasmid,5.35,ParE_toxin Cation_efflux Rep_3
+NODE_2_length_1373_cov_3.948302_cutoff_5,Chromosome,--

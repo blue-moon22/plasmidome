@@ -1,0 +1,37 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1813_cov_5.937212_cutoff_10,Chromosome,--
+NODE_1_length_5138_cov_2.420668_cutoff_0,Chromosome,0,LRR_5 OmpA OMP_b-brl
+NODE_2_length_4264_cov_4.081681_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_3_length_2697_cov_5.604198_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_1968_cov_1.775780_cutoff_0,Chromosome,--
+NODE_5_length_1808_cov_2.732525_cutoff_0,Chromosome,0,DUF389
+NODE_6_length_1605_cov_53.252618_cutoff_0,Chromosome,--
+NODE_7_length_1297_cov_0.554098_cutoff_0,Chromosome,--
+NODE_8_length_1296_cov_0.640689_cutoff_0,Chromosome,--
+NODE_9_length_1103_cov_7.036062_cutoff_0,Chromosome,--
+NODE_10_length_1041_cov_2.071577_cutoff_0,Chromosome,--
+NODE_11_length_941_cov_3.144676_cutoff_0,Chromosome,--
+NODE_12_length_930_cov_0.426729_cutoff_0,Chromosome,--
+NODE_13_length_890_cov_0.968020_cutoff_0,Chromosome,0,SBP_bac_3
+NODE_14_length_870_cov_0.836066_cutoff_0,Chromosome,--
+NODE_15_length_843_cov_1.396867_cutoff_0,Chromosome,--
+NODE_16_length_737_cov_1.750000_cutoff_0,Chromosome,--
+NODE_17_length_695_cov_1.414239_cutoff_0,Chromosome,--
+NODE_18_length_687_cov_0.478689_cutoff_0,Chromosome,0,N_methyl
+NODE_19_length_674_cov_2.355109_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_20_length_629_cov_7.516304_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_21_length_588_cov_1.379648_cutoff_0,Chromosome,--
+NODE_1_length_6969_cov_6.436883_cutoff_5,Chromosome,0,Zot TonB_C DUF2523 Neisseria_TspB
+NODE_2_length_3236_cov_11.578348_cutoff_5,Chromosome,0,AMP-binding Condensation PP-binding AMP-binding_C
+NODE_3_length_2508_cov_2.921020_cutoff_5,Chromosome,0,DUF805 DUF805 DUF805
+NODE_4_length_2148_cov_4.034283_cutoff_5,Chromosome,--
+NODE_5_length_2103_cov_5.500494_cutoff_5,Chromosome,--
+NODE_6_length_1837_cov_2.344318_cutoff_5,Chromosome,--
+NODE_7_length_1801_cov_5.178654_cutoff_5,Chromosome,0,Porin_4
+NODE_8_length_1714_cov_6.031155_cutoff_5,Chromosome,--
+NODE_9_length_1519_cov_3.053398_cutoff_5,Chromosome,--
+NODE_10_length_1403_cov_1.669683_cutoff_5,Chromosome,0,Fic
+NODE_11_length_1280_cov_1.520366_cutoff_5,Chromosome,0,DUF2931
+NODE_12_length_1113_cov_6.072394_cutoff_5,Chromosome,--
+NODE_1_length_1231_cov_12.074523_cutoff_15,Chromosome,0,SMI1_KNR4
+NODE_2_length_1112_cov_16.176812_cutoff_15,Chromosome,--

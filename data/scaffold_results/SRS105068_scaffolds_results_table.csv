@@ -1,0 +1,32 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_33550_cov_5.615153_cutoff_10,Chromosome,0,Radical_SAM Fer4_12 Radical_SAM Radical_SAM RNA_pol_Rpb1_2 YadA_stalk YadA_anchor SLH YadA_stalk YadA_stalk YadA_head YadA_head YadA_head YadA_stalk Radical_SAM
+NODE_1_length_30115_cov_33.351721_cutoff_0,Plasmid,53.68,Rep_3 T4SS DUF1738 MPTase-PolyVal TrbC Cag12 T4SS-DNA_transf CagE_TrbE_VirB VirB3 CagX VirB8 TrbL SLT Fic T2SSE TrbI TrbM Resolvase AAA_31 AAA_31 Topoisom_bac Toprim_Crpt Toprim zf-C4_Topoisom
+NODE_2_length_15795_cov_4.604339_cutoff_0,Chromosome,0,Phage_integrase Phage_portal Amidase_2 HTH_26 HTH_26 Terminase_1 Peptidase_S78
+NODE_3_length_4645_cov_3.643608_cutoff_0,Plasmid,2.52,RNA_helicase Rep_2
+NODE_4_length_4039_cov_6.229682_cutoff_0,Chromosome,--
+NODE_5_length_3383_cov_4.747126_cutoff_0,Chromosome,--
+NODE_6_length_3294_cov_7.598694_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_7_length_3166_cov_1.401101_cutoff_0,Chromosome,0,MethyltransfD12 MethyltransfD12
+NODE_8_length_1819_cov_7.226177_cutoff_0,Chromosome,--
+NODE_9_length_1622_cov_1.175405_cutoff_0,Chromosome,0,Acetyltransf_3
+NODE_10_length_833_cov_2.149471_cutoff_0,Chromosome,--
+NODE_11_length_809_cov_1.056011_cutoff_0,Chromosome,--
+NODE_12_length_797_cov_1.311111_cutoff_0,Chromosome,--
+NODE_13_length_758_cov_2.525698_cutoff_0,Chromosome,--
+NODE_14_length_752_cov_0.585185_cutoff_0,Chromosome,0,Big_9
+NODE_15_length_713_cov_2.316038_cutoff_0,Chromosome,0,Big_6
+NODE_16_length_704_cov_2.637959_cutoff_0,Chromosome,--
+NODE_17_length_645_cov_0.853873_cutoff_0,Chromosome,--
+NODE_18_length_638_cov_17.073084_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_19_length_623_cov_0.783883_cutoff_0,Chromosome,--
+NODE_1_length_40284_cov_9.621534_cutoff_5,Chromosome,0,Phage_holin_Dp1 Sipho_Gp37 Phage_portal Terminase_1 Sipho_tail Phage_capsid Peptidase_S78 HNH_3 CHAP
+NODE_2_length_30581_cov_8.392932_cutoff_5,Chromosome,0,Amidase_2 SH3_5 SSB Phage_Gp19 HTH_36 Phage_capsid DUF5403 YqaJ Phage_prot_Gp6 RecT Terminase_1
+NODE_3_length_4651_cov_15.006777_cutoff_5,Plasmid,3.51,Relaxase
+NODE_4_length_2085_cov_2.177291_cutoff_5,Chromosome,--
+NODE_5_length_1397_cov_4.181818_cutoff_5,Chromosome,0,DUF559
+NODE_6_length_1258_cov_1.816257_cutoff_5,Chromosome,--
+NODE_7_length_1212_cov_1.601762_cutoff_5,Chromosome,0,DAHP_synth_1 DAHP_snth_FXD
+NODE_8_length_1097_cov_8.420588_cutoff_5,Chromosome,0,AgI_II_C2 FctA AgI_II_C2
+NODE_9_length_1094_cov_2.387414_cutoff_5,Chromosome,--
+NODE_1_length_9168_cov_29.747333_cutoff_33,Chromosome,0,SSF
+NODE_1_length_1490_cov_12.777070_cutoff_15,Chromosome,--

@@ -1,0 +1,15 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_55445_cov_243.327319_cutoff_54,Plasmid,3.19,Phage_capsid Bro-N Phage_portal Peptidase_S78 Peptidase_M15_3 HTH_DeoR HTH_17 VRR_NUC DUF4494 ERF ASCH N6_N4_Mtase PAPS_reduct DUF772 DDE_Tnp_1_2 Methyltransf_11 Phage_integrase Phage_int_SAM_1 DUF551 Terminase_3 HTH_7 Phage_int_SAM_5 Phage_integrase Arm-DNA-bind_5 Terminase_2 Phage_pRha KilA-N ANT Bro-N ANT Phage_pRha
+NODE_1_length_23975_cov_5.020336_cutoff_10,Chromosome,-3.9754263257916342,Sigma70_r2 Sigma70_r4_2 DUF1080 GFO_IDH_MocA DoxX GFO_IDH_MocA Cyt_bd_oxida_I Sigma70_r2 Sigma70_r4_2 DUF4492 PDDEXK_2 Peptidase_M28 PA Cyt_bd_oxida_II PDDEXK_2 LpxB NigD_C NigD_N PDDEXK_2 SurE Lactamase_B Lactamase_B_2
+NODE_1_length_39268_cov_2.678625_cutoff_0,Chromosome,-42.16235932127306,DUF111 CorC_HlyC DUF21 CBS DEAD Helicase_C Radical_SAM_C NAD_synthase CN_hydrolase UPF0054 PhoH MMR_HSR1 KH_2 dCMP_cyt_deam_1 Ribosomal_L19 LptF_LptG DUF3084 Tex_YqgF Sigma70_r3 Sigma70_r2 Sigma70_r4 Sigma70_r1_2 Lip_A_acyltrans LptC OstA ABC_tran DBI_PRT DBI_PRT DUF2939 DUF488 Cpn60_TCP1 Cpn10 MurB_C FAD_binding_4 Com_YlbF SpoU_methylase LpxK Glycos_transf_N Glycos_transf_1 DAHP_synth_1 CTP_transf_3 LpxI_C LpxI_N SDF ABC_membrane ABC_tran LpxB Hydrolase_3 SIS CBS CBS
+NODE_2_length_7492_cov_14.808092_cutoff_0,Plasmid,5.35,Rep_3 Gp49 HTH_3 DNA_methylase
+NODE_3_length_4986_cov_25.658586_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_4_length_4391_cov_139.616829_cutoff_0,Plasmid,8.86,Relaxase Rep_3 YoeB_toxin
+NODE_5_length_2790_cov_22.098046_cutoff_0,Chromosome,--
+NODE_6_length_2678_cov_82.203768_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_7_length_1848_cov_4.079616_cutoff_0,Chromosome,--
+NODE_1_length_14783_cov_23.840745_cutoff_20,Chromosome,0,NlpE Peptidase_C11 TonB_dep_Rec Plug T2SS-T3SS_pil_N
+NODE_1_length_39167_cov_3.636940_cutoff_5,Chromosome,0,DUF805 LysM HTH_17 DUF4065 Head-tail_con MuF_C DNA_methylase dUTPase Tube HTH_31 PemK_toxin Phage_integrase Phage_int_SAM_3 Glucosaminidase SSB
+NODE_2_length_29889_cov_4.981249_cutoff_5,Chromosome,0,DUF4858 Sigma54_activat Response_reg HTH_8 HATPase_c HATPase_c Response_reg HisKA TonB_dep_Rec CarbopepD_reg_2 CarboxypepD_reg Plug Methyltransf_30 Thioredoxin DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 Response_reg HTH_18 HATPase_c Y_Y_Y HisKA HTH_AraC Reg_prop Reg_prop MacB_PCD FtsX NUDIX zf-NADH-PPase OMP_b-brl_3 CarboxypepD_reg CarbopepD_reg_2 Acetyltransf_1 Methyltransf_11
+NODE_3_length_2841_cov_2.923300_cutoff_5,Chromosome,0,ABC_tran
+NODE_1_length_75697_cov_25.643057_cutoff_15,Plasmid,26.23,FecR DUF4974 Sigma70_r4_2 Sigma70_r2 TonB_dep_Rec Plug CarbopepD_reg_2 Alpha_L_fucos Resolvase DUF5106 Thioredoxin_8 IMS IMS_C DUF234 SusD_RagB SusD-like_3 SSB Toprim_2 YpsA DUF3873 DUF1738 MPTase-PolyVal SSB TraG-D_C DUF3945 DUF3945 DUF3875 Transposon_TraM DUF4138 DUF4138 DUF3868 DUF3575 P_gingi_FimA Mfa2 cNMP_binding AbiEii ATPase_2 Rep_3 AbiEi_4 MipZ DUF3408 MobC Relaxase DUF4172 Fic SPASM Abi_2 DDE_Tnp_1 DDE_Tnp_Tn3 YafQ_toxin

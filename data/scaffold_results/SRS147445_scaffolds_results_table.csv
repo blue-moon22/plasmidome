@@ -1,0 +1,8 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_10920_cov_6.244490_cutoff_10,Chromosome,-2.4971416835774463,Phage_integrase RadC DUF3871 Phage_int_SAM_5 Arm-DNA-bind_5
+NODE_1_length_86100_cov_50.801646_cutoff_0,Chromosome,0,PKD DNA_methylase Phage_T4_gp19 PhageMin_Tail GPW_gp25 Baseplate_J LysM DnaB_C Peptidase_S74 BACON BACON Collar AAA_23 SbcCD_C Thymidylat_synt DNA_pol_A DNA_pol_A_exo1 Metallophos KTSC 5_3_exonuc_N 5_3_exonuc AAA_28 gp32 RecA Cpn10 Muraidase Helicase_C ResIII SWI2_SNF2 dUTPase
+NODE_2_length_5721_cov_18.398122_cutoff_0,Plasmid,6.15,Rep_3 Relaxase FKBP_C DUF4848
+NODE_3_length_5048_cov_6.398713_cutoff_0,Plasmid,8.86,Rep_3 Relaxase
+NODE_4_length_3142_cov_1.832626_cutoff_0,Chromosome,0,Methylase_S Bro-N Phage_integrase Phage_int_SAM_4
+NODE_5_length_1828_cov_1.141633_cutoff_0,Chromosome,0,PT-HINT
+NODE_1_length_4225_cov_31.775313_cutoff_5,Plasmid,8.86,Relaxase YoeB_toxin Rep_3

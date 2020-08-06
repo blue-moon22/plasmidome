@@ -1,0 +1,21 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1866_cov_20.132476_cutoff_10,Chromosome,0,ABC_tran ABC_tran
+NODE_1_length_10099_cov_4.907104_cutoff_0,Plasmid,10.69,ToxN_toxin ToxN_toxin Phage_integrase Rep_3 N6_Mtase
+NODE_2_length_5202_cov_6.586341_cutoff_0,Plasmid,5.35,Rep_3 Phage_int_SAM_4 PemK_toxin
+NODE_3_length_5136_cov_8.278514_cutoff_0,Chromosome,0,Asp23 TOBE Sigma70_r2 Sigma70_r4_2 Sigma70_r4 Asp23
+NODE_4_length_2379_cov_7.689401_cutoff_0,Chromosome,--
+NODE_5_length_1973_cov_2.824895_cutoff_0,Chromosome,0,Transp_cyt_pur
+NODE_6_length_1404_cov_1.452901_cutoff_0,Chromosome,--
+NODE_7_length_989_cov_34.019737_cutoff_0,Chromosome,-9.904353097512036,DUF1542 DUF1542 DUF1542 DUF1542
+NODE_8_length_846_cov_1.336801_cutoff_0,Chromosome,--
+NODE_9_length_701_cov_1.910256_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_10_length_638_cov_16.320856_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_11_length_602_cov_2.245714_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_12_length_581_cov_6.337302_cutoff_0,Chromosome,--
+NODE_1_length_8598_cov_2.557094_cutoff_5,Chromosome,-2.314820126776768,KilA-N P22_AR_C AntA Phage_integrase Arm-DNA-bind_1 SSB DUF4760 P22_AR_N P22_AR_C RecT
+NODE_2_length_2395_cov_2.695858_cutoff_5,Chromosome,--
+NODE_3_length_1499_cov_8.393108_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_4_length_1409_cov_3.228228_cutoff_5,Chromosome,--
+NODE_5_length_1403_cov_15.890649_cutoff_5,Chromosome,--
+NODE_6_length_1181_cov_10.007246_cutoff_5,Chromosome,0,YadA_stalk
+NODE_7_length_1121_cov_11.711686_cutoff_5,Chromosome,0,MucBP_2 Mub_B2

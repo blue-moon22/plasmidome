@@ -1,0 +1,11 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_40891_cov_62.468320_cutoff_10,Chromosome,0.23422446800783092,Rho_N Phage_integrase Arm-DNA-bind_4 Phage_int_SAM_3 Phage_tail_3 Terminase_3 Terminase_3C Band_7 YopX Phage_Mu_F HTH_26 Mtd_N DUF1653 DnaB_2 CW_binding_1 CW_binding_1 CW_binding_1 Amidase_2 CW_binding_1 CW_binding_1 Gp58 Peptidase_S74 DUF4355 Phage_holin_1 SSB HK97-gp10_like ERF DUF1642 Phage_prot_Gp6 YjzC DUF4145 DUF1372 Terminase_2 HTH_19 Peptidase_S24 CD20 DUF1492 Sipho_Gp157 IstB_IS21 NUMOD3 GIY-YIG
+NODE_1_length_9380_cov_13.700312_cutoff_0,Plasmid,5.48,Phage_integrase HTH_3 HTH_3 RelA_SpoT Rep_1 HTH_3
+NODE_2_length_2954_cov_47.285019_cutoff_0,Plasmid,5.35,Rep_3
+NODE_3_length_2895_cov_4.955287_cutoff_0,Chromosome,--
+NODE_4_length_2700_cov_15.483797_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_5_length_1970_cov_16.517169_cutoff_0,Chromosome,0,CRISPR_Cas2
+NODE_6_length_770_cov_2.670996_cutoff_0,Chromosome,-9.904353097512036,DUF1542 DUF1542 DUF1542 DUF1542
+NODE_1_length_34972_cov_34.235163_cutoff_20,Plasmid,2.67,HTH_36 Phage_capsid PhageMin_Tail Phage_lysozyme2 CHAP DUF4214 Sipho_tail SSB ParBc Phage_portal Phage_Mu_F Whib ERF Phage_connect_1
+NODE_1_length_66710_cov_6.711254_cutoff_5,Chromosome,-6.7943416391899305,dUTPase Collagen Collagen Rad52_Rad22 RNR_Alpha ATP-cone Ribonuc_red_lgC DnaB_C zf-CHC2 Toprim_2 Toprim_N Toprim_4 LAGLIDADG_3 HTH_24 DNA_pol3_alpha DNA_pol3_finger PHP DUF370 SNF2_N Helicase_C LAGLIDADG_3 SSB Terminase_6C DUF5309 Amidase_2 Phage_lysozyme2 Thy1
+NODE_2_length_36518_cov_11.777119_cutoff_5,Chromosome,0,CAP DnaB_C DnaB_C ATPase HTH_3 DUF5309 Terminase_6 Terminase_3C AAA_5 NinG DUF4214 Whib

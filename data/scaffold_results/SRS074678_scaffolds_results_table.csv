@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5031_cov_25.143924_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_2_length_4475_cov_36.694407_cutoff_0,Plasmid,5.35,Integrase_1 Phage_int_SAM_1 Rep_3 HTH_3
+NODE_3_length_3396_cov_15.203676_cutoff_0,Chromosome,0,HTH_36
+NODE_4_length_3128_cov_6.966241_cutoff_0,Plasmid,5.35,VbhA Rep_3
+NODE_5_length_1925_cov_1.370130_cutoff_0,Chromosome,0,DAGK_cat
+NODE_6_length_1685_cov_4.317164_cutoff_0,Chromosome,0,YadA_stalk
+NODE_7_length_1478_cov_1.049964_cutoff_0,Chromosome,--
+NODE_8_length_1315_cov_5.090468_cutoff_0,Chromosome,--
+NODE_9_length_1188_cov_1.410441_cutoff_0,Chromosome,0,PT-VENN
+NODE_10_length_1187_cov_1.318018_cutoff_0,Chromosome,0,Trp_ring
+NODE_11_length_1136_cov_2.348442_cutoff_0,Chromosome,0,Trp_ring Trp_ring
+NODE_12_length_992_cov_0.751913_cutoff_0,Chromosome,--
+NODE_13_length_961_cov_0.822398_cutoff_0,Chromosome,--
+NODE_14_length_887_cov_32.612346_cutoff_0,Chromosome,0,FIVAR
+NODE_15_length_707_cov_3.626984_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_16_length_707_cov_2.923810_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_17_length_707_cov_2.588889_cutoff_0,Chromosome,--
+NODE_18_length_683_cov_2.387789_cutoff_0,Chromosome,--
+NODE_19_length_637_cov_0.958929_cutoff_0,Chromosome,--
+NODE_1_length_61886_cov_5.567231_cutoff_5,Plasmid,3.57,HTH_3 AAA_25 RepB_primase MucBP MucBP BspA_v Phage_holin_Dp1 DUF1642 N6_N4_Mtase DNA_pol_A DNA_pol_A DNA_pol_A_exo1 HNH_3 DUF3882 Phage_Mu_F DHFR_1 dUTPase DUF3310 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 AAA_24 Phage_lysozyme2 PDDEXK_1 CHAP
+NODE_2_length_1447_cov_2.343796_cutoff_5,Chromosome,--
+NODE_3_length_1286_cov_5.033912_cutoff_5,Chromosome,--
+NODE_4_length_1205_cov_3.616135_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk

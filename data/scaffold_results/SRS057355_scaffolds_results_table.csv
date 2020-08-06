@@ -1,0 +1,18 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_16862_cov_153.946679_cutoff_198,Chromosome,-43.75173338913511,SecE GTP_EFTU_D3 Ribosom_S12_S23 Ribosomal_S7 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L11_N Ribosomal_L11 Ribosomal_L1 NusG KOW RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 Ribosomal_L10 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2
+NODE_1_length_11353_cov_81.811281_cutoff_91,Chromosome,-19.68066296441752,Ribosomal_L12 Ribosomal_L12_N Ribosomal_L11_N Ribosomal_L11 NifU_N HhH-GPD Aminotran_5 Peptidase_S11 Peptidase_M32 FUR Ribosomal_L33 NusG SecE Ribosomal_L10 Ribosomal_L1
+NODE_1_length_39231_cov_38.343030_cutoff_54,Plasmid,0.80,VirE DUF2800 Terminase_3 Terminase_3C SNF2_N DUF3310 DUF1492 Terminase_2 DUF2460 Peptidase_M15_3 Phage-tail_3 NLPC_P60 VRR_NUC Phage_tail_2 HTH_17 PcfJ DNA_pol_A DUF2815 PemK_toxin Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 HTH_26 HTH_3 DUF739 DUF2163 Phage_BR0599
+NODE_1_length_54025_cov_147.001724_cutoff_10,Plasmid,3.96,VRR_NUC DUF5051 SNF2_N Helicase_C Methyltransf_23 PRA-PH Thymidylat_synt Collagen Phage_holin_3_3 dCMP_cyt_deam_1 DUF2829 CHAP LPD38 Phage_lysozyme PDDEXK_1 DNA_pol_A DUF3854 DNA_ligase_OB_2 DNA_ligase_A_M
+NODE_1_length_1463_cov_54.871573_cutoff_70,Chromosome,0,LprI
+NODE_2_length_1268_cov_86.310663_cutoff_70,Chromosome,0,YadA_stalk
+NODE_1_length_2165_cov_10.188697_cutoff_0,Plasmid,5.48,Rep_1
+NODE_2_length_985_cov_13.831498_cutoff_0,Chromosome,--
+NODE_3_length_936_cov_11.402794_cutoff_0,Chromosome,0,LRR_5
+NODE_4_length_785_cov_24.309322_cutoff_0,Chromosome,0,Big_6
+NODE_5_length_713_cov_11.399371_cutoff_0,Chromosome,0,Big_6
+NODE_6_length_713_cov_8.355346_cutoff_0,Chromosome,--
+NODE_7_length_683_cov_8.869637_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind
+NODE_8_length_590_cov_7.980507_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_1292_cov_119.357202_cutoff_42,Chromosome,--
+NODE_1_length_1336_cov_3.725179_cutoff_5,Chromosome,--
+NODE_1_length_1796_cov_6.649796_cutoff_15,Chromosome,0,TonB_C

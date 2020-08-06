@@ -1,0 +1,36 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5386_cov_5.313807_cutoff_10,Chromosome,--
+NODE_1_length_44522_cov_20.906941_cutoff_0,Chromosome,-3.357743509589909,GerE Trp_repressor Phage_holin_6_1 Collagen Collagen CHAP CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Prophage_tail Phage_portal Terminase_1 Phage_capsid Peptidase_S78 DUF3310
+NODE_2_length_39617_cov_56.806980_cutoff_0,Chromosome,0,HNH_3 Pox_D5 Terminase_1 Phage_portal Phage_capsid HK97-gp10_like Amidase_2 Phage_holin_Dp1
+NODE_3_length_5018_cov_17.227889_cutoff_0,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_4_length_4924_cov_60.070559_cutoff_0,Chromosome,0,AAA_19 UvrD_C_2 FtsK_SpoIIIE
+NODE_5_length_4888_cov_15.836001_cutoff_0,Chromosome,0,AAA_19 UvrD_C UvrD_C_2
+NODE_6_length_4784_cov_7.285745_cutoff_0,Chromosome,0,AAA_19 UvrD_C UvrD_C_2 FtsK_SpoIIIE
+NODE_7_length_4731_cov_4.634723_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_8_length_4487_cov_41.548753_cutoff_0,Plasmid,7.03,Relaxase Relaxase
+NODE_9_length_4154_cov_4.183223_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_10_length_3795_cov_4.476600_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_11_length_3632_cov_2.632068_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_12_length_3509_cov_43.497378_cutoff_0,Chromosome,0,Viral_Rep RNA_helicase FtsK_SpoIIIE
+NODE_13_length_2340_cov_1.996023_cutoff_0,Chromosome,0,Response_reg Trans_reg_C HATPase_c HisKA
+NODE_14_length_1670_cov_4.870056_cutoff_0,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1
+NODE_15_length_1427_cov_1.809630_cutoff_0,Chromosome,--
+NODE_16_length_1329_cov_1.526358_cutoff_0,Chromosome,0,Glycos_transf_1 Glyco_transf_4
+NODE_17_length_1315_cov_5.608239_cutoff_0,Chromosome,--
+NODE_18_length_1168_cov_6.524290_cutoff_0,Chromosome,0,CbiN CbiM
+NODE_19_length_713_cov_3.864780_cutoff_0,Chromosome,0,Big_6
+NODE_20_length_704_cov_1.545455_cutoff_0,Chromosome,0,Big_6
+NODE_21_length_689_cov_1.496732_cutoff_0,Chromosome,0,Methylase_S
+NODE_22_length_638_cov_4.975045_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_1_length_39717_cov_7.008249_cutoff_20,Plasmid,2.91,PriCT_2 Collagen_bind Big_8 SSB DUF1351 RecT HTH_11 RusA Peptidase_M78 Resolvase Recombinase Zn_ribbon_recom IstB_IS21 DnaB_2 HTH_3 HTH_3 Phage_Gp15 Sipho_tail Prophage_tail CBM_4_9 Minor_capsid_2 Minor_capsid_3 Terminase_3 Terminase_3C Terminase_2 Phage_min_cap2 ADPrib_exo_Tox Phage_prot_Gp6 Minor_capsid_1 Phage_holin_6_1 ZoocinA_TRD Amidase_5 RusA HTH_3 DUF1642 DUF1492
+NODE_1_length_59447_cov_29.655179_cutoff_5,Chromosome,0,DUF1599 Phage_holin_6_1 Terminase_1 Phage_portal Amidase_5 DUF1366 Collagen Peptidase_S78 L_lactis_ph-MCP Gp58 Prophage_tail Collagen_bind Big_8 Gram_pos_anchor
+NODE_2_length_43591_cov_6.886427_cutoff_5,Plasmid,3.02,AAA_25 Toprim_2 RNase_H_2 PDDEXK_1 Phage_prot_Gp6 Glutaredoxin ArdA DUF5403
+NODE_3_length_34410_cov_13.608656_cutoff_5,Plasmid,14.43,HTH_17 rve HTH_21 HTH_28 HTH_28 CHAP SLT DUF4913 TrwC AAA_30 AAA_19 RepA_C T4SS-DNA_transf
+NODE_4_length_15547_cov_6.522883_cutoff_5,Chromosome,0,HTH_26 PhageMin_Tail Amidase_2 Phage_integrase Peptidase_S78 HNH Phage_portal
+NODE_5_length_6101_cov_3.037517_cutoff_5,Chromosome,-2.7900185729020013,Beta-lactamase Lipase_GDSL_2 rve DUF520 Transposase_mut
+NODE_6_length_1490_cov_2.615004_cutoff_5,Chromosome,--
+NODE_7_length_1394_cov_9.384966_cutoff_5,Chromosome,0,MucBP_2 Mub_B2
+NODE_8_length_1329_cov_8.794728_cutoff_5,Chromosome,0,DUF3290 DUF421
+NODE_9_length_1143_cov_1.770169_cutoff_5,Chromosome,--
+NODE_10_length_1097_cov_4.434314_cutoff_5,Chromosome,0,AgI_II_C2 FctA AgI_II_C2
+NODE_1_length_1224_cov_19.530950_cutoff_15,Chromosome,0,DUF559

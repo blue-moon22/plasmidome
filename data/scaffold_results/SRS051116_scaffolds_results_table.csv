@@ -1,0 +1,5 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_4970_cov_19.690170_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_2_length_1679_cov_1.234707_cutoff_0,Chromosome,0,CAP
+NODE_3_length_602_cov_14.958095_cutoff_0,Chromosome,--
+NODE_1_length_1487_cov_87.555319_cutoff_15,Chromosome,0,YadA_stalk

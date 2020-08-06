@@ -1,0 +1,14 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5641_cov_55.952732_cutoff_0,Plasmid,5.35,PemK_toxin Integrase_1 Rep_3
+NODE_2_length_5128_cov_69.658088_cutoff_0,Plasmid,10.39,Rep_2 Rep_3 Rep_2
+NODE_3_length_1487_cov_1.395745_cutoff_0,Chromosome,0,YadA_stalk
+NODE_4_length_1070_cov_1.783484_cutoff_0,Chromosome,0,Trp_ring
+NODE_5_length_974_cov_1.061315_cutoff_0,Chromosome,--
+NODE_6_length_638_cov_30.853832_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_1_length_11499_cov_43.772194_cutoff_42,Plasmid,5.35,PBECR4 Phage_integrase Rep_3 DDE_Tnp_1 DUF772
+NODE_1_length_638_cov_52.458111_cutoff_20,Chromosome,0,Big_11 Big_11
+NODE_1_length_180119_cov_8.859000_cutoff_5,Chromosome,-5.023742099404458,Toprim DNA_gyraseB_C DNA_gyraseB DUF1002 NMN_transporter DNA_pol_A DNA_pol_A_exo1 Peptidase_S24 Glutaredoxin Helicase_C ResIII FtsK_SpoIIIE DNA_pol3_delta2 SpoVG ATP-cone DnaJ UvrD-helicase UvrD_C DUF1653 zf-CHC2 DNA_topoisoIV DnaB_C Fic Phage_lysozyme2 DNA_ligase_aden CHAP 5_3_exonuc_N AgI_II_C2 Antigen_C Antigen_C Gram_pos_anchor Gram_pos_anchor Endonuclea_NS_2 MPTase-PolyVal DUF1738 Pkinase Toprim_2 FHA PP2C_2 YdjM Metallophos_2 dUTPase AAA_27 PALP DUF2325 Glycos_transf_1
+NODE_2_length_1559_cov_2.269906_cutoff_5,Chromosome,--
+NODE_3_length_1100_cov_3.029326_cutoff_5,Chromosome,--
+NODE_4_length_770_cov_10.203463_cutoff_5,Chromosome,--
+NODE_1_length_11739_cov_44.210770_cutoff_33,Plasmid,5.35,Phage_integrase PBECR4 DDE_Tnp_1 DUF772 Rep_3

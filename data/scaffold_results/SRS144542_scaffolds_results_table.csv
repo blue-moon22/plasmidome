@@ -1,0 +1,20 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_46964_cov_5.359524_cutoff_10,Chromosome,-2.677056500337752,SecA_DEAD MobL AgI_II_C2 Antigen_C Peptidase_S24 AAA_2 AAA Phage_lysozyme2 CHAP Gram_pos_anchor MucBP MucBP MucBP
+NODE_1_length_335877_cov_21.280435_cutoff_0,Chromosome,-12.570353545645645,NERD PCAF_N FtsK_SpoIIIE OrfB_Zn_ribbon Resolvase MerR_1 MerR Metallophos PHP DNA_pol3_alpha dUTPase CPBP DNA_pol3_finger DNA_pol3_alpha HHH_6 YiaAB PolyA_pol PolyA_pol_RNAbd Thg1 Thg1C HTH_19 DHFR_1 Macro Metallophos DUF2263 DUF4326 MS_channel PFL-like Gly_radical DHFR_1 CHAP Rotamase_2 NDK S6PP GDP_Man_Dehyd Pyr_redox_2 Methyltransf_23 NTP_transferase FemAB PDDEXK_1 DNA_pol3_delta2 TcpE AAA_10 Thymidylat_synt Thymidylat_synt DNA_topoisoIV YdjM G5 G5 CAP G5 G5 G5 Transgly Transpeptidase Sortase RNA_ligase DUF1768 RNA_lig_T4_1 YpsA SfsA SfsA_N HAD SecY SecA_DEAD SecA_SW SecA_SW Helicase_C Ribonuc_red_sm RNase_T ADP_ribosyl_GH AAA_31 PC4 ThiF Bac_DNA_binding PASTA DUF2828 PDDEXK_4 DNA_gyraseB DNA_gyraseB_C Toprim AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2 Antigen_C Adhesin_P1_N Gram_pos_anchor dTDP_sugar_isom Resolvase MerR HTH_17 MerR_1 Peptidase_S24 YqeY 5_3_exonuc_N Glutaredoxin OrfB_Zn_ribbon HD_4 TelA DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT HHH_5 NTP_transferase TrbL TraG-D_C zf-CHC2 Toprim_N Toprim_4 Toprim_2 OrfB_Zn_ribbon HTH_OrfB_IS605 Band_7 Bax1-I RNA_ligase HAD_SAK_2 Acetyltransf_1 SLT YopX SSB OrfB_IS605 KTSC CHAP Goodbye RNase_T Sigma70_r2 OrfB_Zn_ribbon Resolvase GDP_Man_Dehyd AAA_33 PIF1 DUF262 NUDIX Epimerase NMN_transporter AAA_28 CTP_transf_like NRDD ATP-cone Fer4_12 GreA_GreB_N GreA_GreB AAA_23 LytR_cpsA_psr Thioredoxin_4 RecA DnaB_C DnaB TrbL OrfB_IS605 PspC Gram_pos_anchor DUF975 Ribonuc_red_lgC RNR_N Ribonuc_red_lgN T2SSE T2SSE Endonuclea_NS_2 Flavodoxin_NdrI HD AAA_5 THF_DHG_CYH_C THF_DHG_CYH OrfB_IS605 Helicase_C DEAD ResIII Peptidase_S24 OrfB_IS605 OrfB_Zn_ribbon
+NODE_2_length_4231_cov_105.773231_cutoff_0,Plasmid,9.21,Mob_Pre HTH_3 Rep_3
+NODE_3_length_3939_cov_90.647592_cutoff_0,Plasmid,5.35,Rep_3 Integrase_1 Phage_int_SAM_1
+NODE_4_length_3843_cov_78.316516_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_5_length_3734_cov_7.194695_cutoff_0,Plasmid,6.39,RHH_1 Rep_2 Mob_Pre
+NODE_6_length_3324_cov_43.422544_cutoff_0,Plasmid,3.86,Mob_Pre RHH_1
+NODE_7_length_2911_cov_106.779817_cutoff_0,Plasmid,5.35,Rep_3
+NODE_8_length_2694_cov_9.761177_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_9_length_1584_cov_61.689449_cutoff_0,Plasmid,5.20,RepL
+NODE_10_length_640_cov_1.879218_cutoff_0,Chromosome,--
+NODE_11_length_617_cov_25.727778_cutoff_0,Chromosome,0,Big_6
+NODE_12_length_602_cov_32.803810_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_13_length_602_cov_23.870476_cutoff_0,Chromosome,--
+NODE_14_length_599_cov_2.044061_cutoff_0,Chromosome,0,G5 G5 G5
+NODE_1_length_2343_cov_47.712710_cutoff_42,Chromosome,0,Ion_trans_2 DUF1211 DUF389 DUF389
+NODE_1_length_6126_cov_2.425360_cutoff_5,Plasmid,3.51,RrnaAD Relaxase
+NODE_2_length_2890_cov_1.681479_cutoff_5,Chromosome,--
+NODE_3_length_1670_cov_1.820465_cutoff_5,Chromosome,0,AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2

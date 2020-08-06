@@ -1,0 +1,4 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_40210_cov_9.870356_cutoff_10,Plasmid,3.54,DnaB_C DnaB Phage_portal Terminase_1 Phage_capsid CLP_protease Phage_TTP_1 DUF1642 DUF1642 HTH_3 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 DUF4429 RNase_T BRCT HTH_3 DUF1372 PhageMin_Tail Sipho_tail Phage_integrase DUF1366 Prophage_tail Collagen YopX DUF859 GIY-YIG IstB_IS21 Phage_holin_6_1 Glyco_hydro_25 CW_7 CW_7 CW_7 HNH ORF6C Bro-N Phg_2220_C RepA_N
+NODE_2_length_2286_cov_72.239022_cutoff_10,Plasmid,4.20,Multi_Drug_Res DDE_Tnp_IS240
+NODE_1_length_1364_cov_1.452214_cutoff_5,Chromosome,0,NAD_binding_2 NAD_binding_11 NAD_binding_2

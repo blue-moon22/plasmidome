@@ -1,0 +1,21 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_881_cov_15.590796_cutoff_10,Chromosome,--
+NODE_2_length_770_cov_39.681097_cutoff_10,Chromosome,--
+NODE_1_length_3128_cov_14.099639_cutoff_0,Plasmid,5.35,VbhA Rep_3
+NODE_2_length_3036_cov_1.298412_cutoff_0,Chromosome,--
+NODE_3_length_2791_cov_11.906411_cutoff_0,Chromosome,--
+NODE_4_length_2683_cov_346.616654_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_5_length_2343_cov_1.462048_cutoff_0,Chromosome,0,GDP_Man_Dehyd dTDP_sugar_isom Glycos_transf_2 Epimerase
+NODE_6_length_1292_cov_2.184362_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP
+NODE_7_length_1268_cov_3.078925_cutoff_0,Chromosome,0,YadA_stalk
+NODE_8_length_1200_cov_1.404274_cutoff_0,Chromosome,--
+NODE_9_length_1038_cov_0.804370_cutoff_0,Chromosome,--
+NODE_10_length_995_cov_19.496732_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_11_length_718_cov_5.355694_cutoff_0,Chromosome,--
+NODE_12_length_598_cov_0.451056_cutoff_0,Chromosome,--
+NODE_13_length_591_cov_0.548638_cutoff_0,Chromosome,--
+NODE_1_length_92081_cov_7.457208_cutoff_5,Chromosome,0,DUF3310 DNA_pol_A Thy1 AAA_24 DnaB_C Phage_lysozyme DNA_pol_A_exo1 dUTPase DUF1064 DUF3799 ThiF Myb_DNA-bind_6 ResIII TROVE Cpn60_TCP1
+NODE_2_length_1209_cov_2.677562_cutoff_5,Chromosome,0,PDDEXK_2
+NODE_3_length_1205_cov_15.934397_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_1_length_1121_cov_40.083333_cutoff_15,Chromosome,0,Mub_B2 MucBP_2
+NODE_2_length_770_cov_39.681097_cutoff_15,Chromosome,--

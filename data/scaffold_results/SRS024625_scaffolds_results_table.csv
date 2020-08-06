@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_180495_cov_329.567449_cutoff_153,Chromosome,-3.258416974368888,AAA_23 UDG dUTPase Sigma70_r2 Sigma70_r3 Sigma70_r4 Metallophos YqeY DNA_pol_A DNA_pol_A_exo1 DUF1848 Thy1 HAD_SAK_2 PolyA_pol Shufflon_N GIY-YIG PDDEXK_1 NRDD ATP-cone Metallophos CTP_transf_like DNA_ligase_A_M Thioredoxin AAA DnaB_C AAA_24 ResIII Helicase_C ResIII DUF192 RVT_1 Glucosaminidase NAPRTase DUF5598 RNase_H OmpA OMP_b-brl Ada_Zn_binding AAA_33 Band_7 Thg1 Thg1C tRNA_lig_CPD PDDEXK_1
+NODE_2_length_23077_cov_56.730783_cutoff_153,Chromosome,0,adh_short_C2 TPP_enzyme_N Glycos_transf_2 EpsG PS_pyruv_trans Glyco_transf_4 RmlD_sub_bind dTDP_sugar_isom NTP_transferase DUF1972 Glycos_transf_1 Epimerase Glycos_transf_1 MaoC_dehydratas HpcH_HpaI Polysacc_synt_3 Polysacc_synt_C DegT_DnrJ_EryC1 CPSase_L_D2 ATPgrasp_N Hexapep
+NODE_1_length_33289_cov_93.338402_cutoff_118,Plasmid,19.16,YpsA SSB TraG-D_C PLCC Toprim_2 DUF1738 MPTase-PolyVal DUF3945 DUF3945 DUF3408 DUF3875 Transposon_TraM DUF4138 DUF4138 Bac_DNA_binding IMS DUF4113 IMS_C Peptidase_S24 Relaxase DUF2582 TraO cNMP_binding MipZ MobC RHH_1
+NODE_1_length_68528_cov_25.856452_cutoff_10,Chromosome,-2.4971416835774463,Terminase_6 Band_7 D5_N Phage_prot_Gp6 YopX Phage_integrase DUF3799 HTH_17 Phage_int_SAM_5 Phage_integrase RecT DUF2400 N6_N4_Mtase DUF551 DNA_methylase RtcB MazG DUF3127 Bac_DNA_binding DUF4065 KilA-N
+NODE_1_length_85365_cov_394.685278_cutoff_0,Chromosome,0,PKD HNH_3 HNH_3 BACON BACON Muraidase Helicase_C ResIII Rubrerythrin dUTPase KTSC Baseplate_J GPW_gp25 Phage_holin_4_1 Metallophos AAA_23 SbcCD_C RecA 5_3_exonuc_N AAA_28 gp32 Cpn10 DNA_pol_A DNA_pol_A_exo1 Thymidylat_synt DNA_methylase DnaB_C PhageMin_Tail LysM Phage_T4_gp19
+NODE_2_length_8608_cov_2.810925_cutoff_0,Chromosome,0,Phage_integrase DUF4355 Cys_rich_KTR AAA_25 Phage_int_SAM_3 Arm-DNA-bind_4 HTH_3 HTH_3
+NODE_3_length_6349_cov_3.128827_cutoff_0,Chromosome,0,Phage_base_V HTH_3 PhageMin_Tail Peptidase_M78
+NODE_4_length_6247_cov_11.562885_cutoff_0,Chromosome,0,Phage_F Phage_F Peptidase_M15_3
+NODE_5_length_2862_cov_472.565171_cutoff_0,Chromosome,--
+NODE_6_length_1615_cov_1.905722_cutoff_0,Chromosome,--
+NODE_7_length_975_cov_2.279510_cutoff_0,Chromosome,--
+NODE_8_length_611_cov_9.709738_cutoff_0,Chromosome,--
+NODE_9_length_599_cov_1.101533_cutoff_0,Chromosome,--
+NODE_10_length_593_cov_1.511628_cutoff_0,Chromosome,0,Collagen
+NODE_1_length_6465_cov_43.826863_cutoff_20,Plasmid,5.35,Rep_3 AAA_14 DUF4143
+NODE_1_length_100958_cov_13.667826_cutoff_5,Chromosome,0,HNH_3 NUMOD4 AAA_5 zf-CHC2 DnaB_C AAA_24 AAA NUMOD1 Sigma70_r4_2 Sigma70_r2 Phage_holin_4_1 ART-PolyVal DUF3799 dUTPase DUF1064 RVT_1
+NODE_2_length_91966_cov_21.310614_cutoff_5,Plasmid,2.43,Glyco_hydro_108 PG_binding_3 DNA_ligase_A_M DNA_pol_B AAA_30 UvrD_C_2 Sipho_Gp157 dUTPase DUF932 Thy1
+NODE_3_length_69775_cov_25.534936_cutoff_5,Chromosome,-2.4971416835774463,KilA-N DUF4065 Terminase_6 Phage_prot_Gp6 D5_N YopX DUF3799 RecT Band_7 Bac_DNA_binding DUF551 N6_N4_Mtase DUF2400 DNA_methylase RtcB MazG DUF3127 ParA Phage_integrase Phage_int_SAM_5 Phage_integrase HTH_17
+NODE_4_length_36074_cov_11.297247_cutoff_5,Chromosome,-2.1613903343221175,Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 HTH_26 Peptidase_M78 TM2 Mrr_cat RusA DUF3850 AAA_25 PriCT_2 ResIII Helicase_C AAA_23 AAA_24 Phage_GP20 Terminase_3 Terminase_3C Phage_min_cap2 YfbU Phage_Gp15 Phage_XkdX SecB YopD Glyco_hydro_25 LysM DUF262 Minor_capsid_2
+NODE_5_length_5913_cov_10.900446_cutoff_5,Chromosome,0,Peptidase_M15_3 Phage_F Phage_F
+NODE_6_length_3818_cov_4.654638_cutoff_5,Chromosome,--
+NODE_7_length_2212_cov_7.469321_cutoff_5,Chromosome,0,Amidase_6
+NODE_8_length_1264_cov_2.245998_cutoff_5,Chromosome,--

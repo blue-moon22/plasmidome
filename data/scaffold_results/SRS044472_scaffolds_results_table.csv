@@ -1,0 +1,15 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2761_cov_44.526826_cutoff_54,Chromosome,--
+NODE_1_length_44429_cov_21.208040_cutoff_0,Plasmid,2.67,Phage_r1t_holin Glyco_hydro_25 Collar ERF DUF3310 DUF5403 Phage_capsid Phage_Gp19 Spherulin4 HTH_36 DnaB_C HNH SSB HTH_8 HNH Phage_prot_Gp6 LAGLIDADG_3 LAGLIDADG_3
+NODE_2_length_7589_cov_6.378328_cutoff_0,Plasmid,5.35,ABC_tran TfoX_N ABC_tran HTH_3 Rep_3
+NODE_3_length_3305_cov_7.539343_cutoff_0,Plasmid,3.35,MerT HMA UPF0060 MerR_1
+NODE_4_length_1381_cov_4.095092_cutoff_0,Plasmid,5.20,RepL
+NODE_5_length_755_cov_1.374631_cutoff_0,Chromosome,0,DUF4189
+NODE_6_length_638_cov_9.582888_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_7_length_638_cov_8.573975_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_1753_cov_126.120525_cutoff_42,Chromosome,--
+NODE_1_length_38509_cov_36.494067_cutoff_20,Plasmid,81.97,TraF TraF Resolvase TraA TrwC AAA_30 AAA_19 Histone_HNS DUF2726 TraK TraE TraL SLT DnaJ TrwB_AAD_bind CbiA TraC_F_IV SSB TraN TrbC_Ftype TraU TrbI_Ftype TraH TraV TrbI TraG_N
+NODE_2_length_1487_cov_71.532624_cutoff_20,Chromosome,--
+NODE_1_length_24977_cov_3.799237_cutoff_5,Chromosome,0,Condensation AMP-binding AMP-binding KR Thioesterase PP-binding adh_short PP-binding AMP-binding_C Transposase_mut Condensation AMP-binding Condensation Condensation AMP-binding KR PP-binding adh_short PP-binding AMP-binding_C Transposase_mut ABC_tran AbiEi_4 Thioesterase AbiEii ACPS
+NODE_2_length_3305_cov_7.539343_cutoff_5,Plasmid,3.35,MerT HMA UPF0060 MerR_1
+NODE_3_length_1374_cov_1.615266_cutoff_5,Chromosome,0,Tox-REase-5

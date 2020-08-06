@@ -1,0 +1,34 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_43978_cov_208.618482_cutoff_118,Chromosome,0,Guanylate_kin HNH_3 HNH_3 DUF2800 Phage_holin_Dp1 Phage_portal Peptidase_S78 Phage_capsid Terminase_1 Sipho_tail Sipho_Gp37 Spherulin4 Collagen GDPD CHAP
+NODE_1_length_21634_cov_6.238298_cutoff_10,Chromosome,0,DUF5082 DUF4176 Rft-1 LXG DUF4176 DUF5082 FtsK_SpoIIIE FtsK_SpoIIIE YukC WXG100 DUF5085 HTH_21 DUF4176 rve
+NODE_2_length_2286_cov_5.401539_cutoff_10,Chromosome,0,Nitroreductase MRJP
+NODE_3_length_1605_cov_43.857330_cutoff_10,Chromosome,--
+NODE_1_length_69315_cov_5.004737_cutoff_0,Chromosome,0,KilA-N Bac_DNA_binding CHAP Phage_lysozyme2 LPD38 HtrL_YibB DNA_pol_A SNF2_N Thy1 HNH_4 PDDEXK_1 DUF927 DUF3310 AntA
+NODE_2_length_39658_cov_32.463783_cutoff_0,Chromosome,0,dUTPase DUF3799 Collar DUF5403 Phage_Gp19 Phage_capsid SSB HTH_3 Phage_prot_Gp6 Phage_capsid Collagen Collagen Glyco_hydro_25 DUF4355
+NODE_3_length_37667_cov_6.615669_cutoff_0,Plasmid,8.42,TssD TssD TssO GPW_gp25 AAA_21 AAA_2 AAA_lid_9 ClpB_D2-small AAA Resolvase HTH_7 NTase_sub_bind Polbeta DUF2931 TssC T6SS_TssF TssD Phage_GPD DUF2235 DUF2931 DUF4280 TssN T6SS_TssG NLPC_P60 AAA_31
+NODE_4_length_8037_cov_2.936181_cutoff_0,Chromosome,0,Rep_trans DUF2523 Zot Neisseria_TspB
+NODE_5_length_2176_cov_4.818961_cutoff_0,Plasmid,5.48,Rep_1
+NODE_6_length_1643_cov_2.173691_cutoff_0,Chromosome,0,YadA_stalk
+NODE_7_length_1314_cov_3.066289_cutoff_0,Chromosome,--
+NODE_8_length_1100_cov_4.413490_cutoff_0,Chromosome,--
+NODE_9_length_777_cov_5.234286_cutoff_0,Chromosome,--
+NODE_10_length_760_cov_0.663250_cutoff_0,Chromosome,0,Acetyltransf_1
+NODE_11_length_704_cov_3.604466_cutoff_0,Chromosome,--
+NODE_12_length_701_cov_0.782051_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_13_length_680_cov_4.227197_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_14_length_680_cov_2.971808_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_15_length_674_cov_0.641541_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_16_length_611_cov_1.346442_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_17_length_596_cov_1.136802_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related
+NODE_1_length_1431_cov_22.827179_cutoff_26,Chromosome,--
+NODE_1_length_33576_cov_836.731126_cutoff_42,Plasmid,3.57,Phage_capsid Terminase_6C Terminase_6 Prophage_tail AAA_24 AAA_25 RepB_primase PDDEXK_1 DNA_pol_A DNA_pol_A_exo1 Amidase_2 Thymidylat_synt dUTPase_2 Helicase_C SNF2_N
+NODE_2_length_1328_cov_41.408473_cutoff_42,Chromosome,0,Flavodoxin_2
+NODE_1_length_55625_cov_7.876251_cutoff_5,Chromosome,0,Terminase_6C Terminase_6 DUF669 AAA_24 PDDEXK_1 SNF2_N Prim-Pol AAA_25 Phage_r1t_holin Glyco_hydro_25 Collar Spherulin4 DNA_pol_A DNA_methylase DUF3310 HK97-gp10_like Phage_Mu_F
+NODE_2_length_49098_cov_7.780482_cutoff_5,Chromosome,0,Phage_cap_E SNF2_N VirE DUF2815 DUF2800 DUF2800 DUF3310 DNA_pol_A Amidase_2 Pectate_lyase_3
+NODE_3_length_37667_cov_6.615669_cutoff_5,Plasmid,8.42,TssD TssD TssD GPW_gp25 DUF2235 Phage_GPD T6SS_TssF TssC DUF2931 DUF2931 AAA_31 NLPC_P60 AAA_2 AAA_lid_9 ClpB_D2-small AAA T6SS_TssG TssN DUF4280 NTase_sub_bind AAA_21 TssO Polbeta Resolvase HTH_7
+NODE_4_length_37143_cov_28.147143_cutoff_5,Plasmid,5.82,Minor_capsid_2 Minor_capsid_1 DUF859 Prophage_tail Glucosaminidase CHAP Sipho_tail Phage_Gp15 Minor_capsid_3 DUF1366 Abi_2 Peptidase_M78 Phage_r1t_holin Phage_integrase RecT Big_8 Collagen_bind Gram_pos_anchor DnaB_2 Phage_rep_org_N HTH_3 Phage_GP20 Phage_prot_Gp6 Phage_min_cap2 Ntox50 Terminase_2 Terminase_6 DUF1492 YopX PcfJ RuvC PcfK DUF1351
+NODE_5_length_6678_cov_5.835934_cutoff_5,Chromosome,0,Neisseria_TspB DUF2523 Zot Rep_trans
+NODE_6_length_1766_cov_6.672587_cutoff_5,Chromosome,--
+NODE_7_length_1729_cov_3.811138_cutoff_5,Chromosome,--
+NODE_1_length_49151_cov_89.008742_cutoff_33,Chromosome,0,PhageMin_Tail Glutaredoxin Thymidylat_synt Thymidylat_synt Helicase_C DNA_methylase Radical_SAM NRDD dUTPase DUF2190 DNA_pol_A DUF3987 Whib AAA_24 DHFR_1
+NODE_1_length_4345_cov_19.211340_cutoff_15,Chromosome,0,Peptidase_S8 SLH SLH SLH

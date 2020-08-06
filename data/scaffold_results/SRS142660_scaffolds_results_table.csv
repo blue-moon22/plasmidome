@@ -1,0 +1,19 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1424_cov_52.107647_cutoff_10,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_2_length_1016_cov_16.429180_cutoff_10,Chromosome,--
+NODE_1_length_58115_cov_146.490420_cutoff_0,Chromosome,-3.2703315718062616,Terminase_6 SNF2_N Helicase_C DUF2786 QueC QueF Fer4_14 PTPS QueT DNA_pol3_delta2 DNA_pol3_gamma3 DNA_pol3_delta2 RecU dUTPase RecA RecA GTP_cyclohydroI Flg_new Phage_GP20 Phage_cap_E Phage_prot_Gp6 Glyco_hydro_25 CW_7 CW_7 CW_7 PhageMin_Tail Prophage_tail DUF859 Phage_holin_Dp1 DnaB_C Sigma70_r2 Toprim_2 DNA_pol_A DNA_pol_A_exo1 DUF2156
+NODE_2_length_43026_cov_4.059140_cutoff_0,Plasmid,18.55,AAA_31 PriCT_1 TraG-D_C T4SS-DNA_transf SSB Gram_pos_anchor YSIRK_signal Gram_pos_anchor CHAP Glucosaminidase RepA_N UPF0236 Endonuclea_NS_2 TrbC Topoisom_bac Toprim AAA_2 AAA_lid_9 ClpB_D2-small AAA PBECR4 LPD25 LPD25 Toprim_2 MobL BRCT
+NODE_3_length_5384_cov_11.664971_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_4_length_4779_cov_1.542110_cutoff_0,Chromosome,0,DUF1778 Rep_trans Rol_Rep_N AAA_22
+NODE_5_length_4730_cov_15.477971_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_6_length_3749_cov_30.845861_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_7_length_3266_cov_2.771402_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_8_length_3247_cov_4.796215_cutoff_0,Chromosome,--
+NODE_9_length_638_cov_13.488414_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_1_length_36737_cov_7.879842_cutoff_5,Plasmid,2.67,CW_binding_1 CW_binding_1 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 Collagen Phage_holin_1 DUF1064 DUF4373 DnaB_2 HNHc_6 ERF SSB Sipho_tail Mtd_N Collagen DUF1492 Glutaredoxin Abi_2 HTH_3 HTH_3 Peptidase_S24 Phage_integrase Arm-DNA-bind_4 HK97-gp10_like Terminase_2 Phage_Mu_F Phage_prot_Gp6 DUF4355 Phage_connect_1 Rho_N DUF3310 Gp58 Prophage_tail Phage_tail_2 Phage_TAC_12
+NODE_2_length_7202_cov_36.129404_cutoff_5,Plasmid,5.35,ABC_tran Rep_3 ABC2_membrane_3 ComR_TPR HTH_31 HTH_3
+NODE_3_length_5515_cov_2.623391_cutoff_5,Chromosome,-14.411687305412862,TPP_enzyme_N TPP_enzyme_C TPP_enzyme_M ALS_ss_C ACT_5 ACT IlvN IlvC
+NODE_4_length_3627_cov_35.016901_cutoff_5,Plasmid,5.35,Rep_3
+NODE_5_length_2400_cov_19.187688_cutoff_5,Chromosome,0,DUF4230 DDE_Tnp_ISL3 zf-ISL3
+NODE_6_length_1923_cov_1.845070_cutoff_5,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1 Amidase_3 CW_binding_1
+NODE_1_length_45980_cov_20.890748_cutoff_15,Chromosome,-5.416676149578109,RdgC RecT YqaJ SSB DUF1364 RusA Phage_holin_3_1 DUF2570 Phage_fiber_2 DUF4376 Phage_integrase YdaS_antitoxin HTH_39 Peptidase_S24 HTH_3 HTH_31 HTH_19 Dam DUF1367 Phage_rep_O IstB_IS21 PBECR5 ddrB-ParB LPD38 ART-PolyVal

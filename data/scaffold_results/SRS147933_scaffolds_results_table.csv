@@ -1,0 +1,21 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_43951_cov_88.158408_cutoff_70,Chromosome,0,Sipho_Gp37 HNH_3 NUMOD4 CHAP HNH_3 DUF2800 Phage_holin_Dp1 GDPD Phage_portal Peptidase_S78 Phage_capsid Spherulin4 Collagen Terminase_1 Sipho_tail
+NODE_1_length_43979_cov_7.554508_cutoff_0,Plasmid,2.67,Glyco_hydro_25 Collar SSB DnaB_C LAGLIDADG_3 Hom_end Spherulin4 Phage_prot_Gp6 Phage_capsid Phage_Gp19 Phage_r1t_holin DUF5403 TIG HNH ERF HTH_8 DUF3310
+NODE_2_length_6962_cov_2.730719_cutoff_0,Chromosome,0,Zot DUF2523 Rep_trans
+NODE_3_length_5712_cov_2.823248_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_4_length_5576_cov_4.444808_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_5_length_2134_cov_1.813807_cutoff_0,Chromosome,--
+NODE_6_length_1885_cov_2.751659_cutoff_0,Chromosome,--
+NODE_7_length_1812_cov_2.323919_cutoff_0,Chromosome,--
+NODE_8_length_1701_cov_2.174877_cutoff_0,Chromosome,0,Glycos_transf_1
+NODE_9_length_1637_cov_1.915385_cutoff_0,Chromosome,--
+NODE_10_length_1311_cov_1.136143_cutoff_0,Chromosome,--
+NODE_11_length_1091_cov_13.886588_cutoff_0,Chromosome,0,YadA_stalk
+NODE_12_length_1085_cov_0.887897_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_13_length_905_cov_1.004831_cutoff_0,Chromosome,0,AAA
+NODE_14_length_698_cov_3.737520_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP_2
+NODE_15_length_608_cov_0.858757_cutoff_0,Chromosome,0,AgI_II_C2 AgI_II_C2
+NODE_1_length_58765_cov_4.837582_cutoff_5,Chromosome,0,DNA_pol_A HicB DUF3310 Dam Phage_lysozyme Helicase_C PDDEXK_1 PDDEXK_1 DUF5051 DUF927 SNF2_N
+NODE_2_length_53602_cov_26.473498_cutoff_5,Chromosome,0,Hydrolase_2 Phage_portal Phage_capsid DUF3310 HK97-gp10_like SH3_5 CHAP DUF2800 RdRP Phage_holin_1 Terminase_1 Collagen Collagen DUF859
+NODE_3_length_43979_cov_7.554508_cutoff_5,Plasmid,2.67,DnaB_C LAGLIDADG_3 Hom_end Glyco_hydro_25 Collar DUF3310 HNH ERF HTH_8 SSB Phage_r1t_holin Phage_Gp19 Phage_capsid DUF5403 Phage_prot_Gp6 TIG Spherulin4
+NODE_4_length_3187_cov_2.450804_cutoff_5,Plasmid,2.59,TniB LZ_Tnp_IS481

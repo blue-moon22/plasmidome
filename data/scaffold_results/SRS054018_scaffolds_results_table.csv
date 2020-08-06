@@ -1,0 +1,10 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5259_cov_10.054805_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_2_length_3896_cov_7.242472_cutoff_0,Plasmid,9.21,Rep_3 Mob_Pre
+NODE_3_length_2691_cov_53.461744_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_4_length_1592_cov_28.456766_cutoff_0,Chromosome,--
+NODE_5_length_767_cov_1.250725_cutoff_0,Chromosome,--
+NODE_6_length_607_cov_2.807547_cutoff_0,Chromosome,--
+NODE_1_length_42228_cov_48.082798_cutoff_26,Plasmid,2.67,ERF HTH_8 SSB DUF5403 Phage_Gp19 Collar TIG Phage_prot_Gp6 Phage_r1t_holin Spherulin4 Phage_capsid DnaB_C Glyco_hydro_25 DUF3310
+NODE_1_length_60236_cov_5.005020_cutoff_5,Chromosome,0,Phage_portal Big_8 Collagen_bind Gram_pos_anchor DUF1599 HTH_24 Prophage_tail Sipho_tail Phage_capsid Peptidase_S78 Terminase_1 CHAP SH3_5 CHAP Phage_holin_1 DUF1366 DUF859
+NODE_2_length_3896_cov_7.242472_cutoff_5,Plasmid,9.21,Rep_3 Mob_Pre

@@ -1,0 +1,23 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_39311_cov_3.316486_cutoff_0,Plasmid,71.22,DUF5338 KfrB AAA_31 TrbI TrbH TrbL TrbM Resolvase CRISPR_Cas2 Zeta_toxin KfrB Peptidase_M15_2 Activator-TraM CagX VirB8 TrbC T2SSE CagE_TrbE_VirB VirB3 TrfA HTH_3 SSB Peptidase_S26 Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom MPTase-PolyVal DUF1738 Relaxase LPD7 T4SS-DNA_transf ParBc KorB KorB_C KfrB
+NODE_2_length_8861_cov_1.645378_cutoff_0,Chromosome,-2.5577663053942086,DUF2523 Zot Phage_CRI Phage_X DUF1496 DUF2158 Phage_DNA_bind Secretin
+NODE_3_length_4535_cov_1.440108_cutoff_0,Chromosome,0,AAA_15 AAA_19 Val_tRNA-synt_C AAA_15
+NODE_4_length_4151_cov_1.494600_cutoff_0,Chromosome,--
+NODE_5_length_3895_cov_3.437402_cutoff_0,Plasmid,5.35,Rep_3 Phage_int_SAM_1
+NODE_6_length_2693_cov_7.237768_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_7_length_1698_cov_2.392350_cutoff_0,Chromosome,0,Amidase_3 CW_binding_1
+NODE_8_length_1245_cov_1.736301_cutoff_0,Chromosome,0,Glyco_transf_25
+NODE_9_length_1220_cov_9.263342_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_1046_cov_1.184727_cutoff_0,Chromosome,--
+NODE_11_length_872_cov_7.836478_cutoff_0,Chromosome,0,Rib Rib
+NODE_12_length_680_cov_1.058043_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_13_length_671_cov_2.176768_cutoff_0,Chromosome,0,Methylase_S
+NODE_14_length_662_cov_1.145299_cutoff_0,Chromosome,0,Methylase_S
+NODE_15_length_638_cov_2.368984_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_16_length_620_cov_26.410681_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_17_length_614_cov_0.875233_cutoff_0,Chromosome,--
+NODE_1_length_4611_cov_5.352448_cutoff_5,Plasmid,5.35,Rep_3
+NODE_2_length_2119_cov_5.675808_cutoff_5,Chromosome,--
+NODE_3_length_1781_cov_2.920775_cutoff_5,Chromosome,0,CAP
+NODE_4_length_1571_cov_4.625837_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk YadA_stalk
+NODE_5_length_1424_cov_2.449889_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP

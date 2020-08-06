@@ -1,0 +1,10 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5136_cov_11.250247_cutoff_10,Chromosome,0,Asp23 Asp23 Sigma70_r2 Sigma70_r4_2 Sigma70_r4 TOBE
+NODE_1_length_2849_cov_0.921717_cutoff_0,Chromosome,0,MORN_2 MORN_2 MORN_2 MORN_2
+NODE_2_length_1013_cov_1.035256_cutoff_0,Chromosome,0,DUF1911 DUF1910
+NODE_3_length_808_cov_1.229822_cutoff_0,Chromosome,--
+NODE_4_length_794_cov_0.835425_cutoff_0,Chromosome,--
+NODE_5_length_638_cov_4.247772_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_1667_cov_2.401887_cutoff_5,Chromosome,0,Rib Rib Rib Rib
+NODE_2_length_1475_cov_5.372675_cutoff_5,Chromosome,--
+NODE_1_length_1424_cov_29.373422_cutoff_15,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP

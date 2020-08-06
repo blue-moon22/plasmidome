@@ -1,0 +1,26 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_56104_cov_63.873579_cutoff_0,Plasmid,13.41,Phage_prot_Gp6 Phage_cap_E Resolvase Glyco_hydro_25 Phage_holin_6_1 DUF5055 Rep_3 HTH_3 HTH_19 DUF551 ERF AAA DUF551 AAA_31 Lar_restr_allev DnaB_C SSB TFIIS_C zf-trcl HTH_26
+NODE_2_length_7687_cov_5.099606_cutoff_0,Plasmid,3.86,Mob_Pre Flg_new SLH SLH SLH RelB YafQ_toxin
+NODE_3_length_6744_cov_5.904305_cutoff_0,Chromosome,0,HTH_3 Zot
+NODE_4_length_6168_cov_308.464456_cutoff_0,Plasmid,5.48,Rep_1 PemK_toxin PemK_toxin
+NODE_5_length_5897_cov_327.031443_cutoff_0,Plasmid,8.86,Relaxase YoeB_toxin PhdYeFM_antitox Rep_3
+NODE_6_length_5831_cov_3.208029_cutoff_0,Chromosome,0,Phage_F
+NODE_7_length_5243_cov_7.882307_cutoff_0,Chromosome,0,HTH_3
+NODE_8_length_4225_cov_345.377049_cutoff_0,Plasmid,8.86,Relaxase YoeB_toxin Rep_3
+NODE_9_length_2828_cov_523.565613_cutoff_0,Chromosome,--
+NODE_10_length_1893_cov_1.525330_cutoff_0,Chromosome,--
+NODE_11_length_1738_cov_2.043949_cutoff_0,Plasmid,3.02,HTH_7 rve
+NODE_12_length_1335_cov_2.142289_cutoff_0,Chromosome,0,PIN
+NODE_1_length_18644_cov_25.068347_cutoff_42,Chromosome,-3.914207703359528,Response_reg HATPase_c HTH_18 Y_Y_Y HTH_AraC Reg_prop Reg_prop YtxH Mn_catalase OmpA DAO YhcG_C DUF1016_N DUF2971 N6_Mtase HsdM_N DDE_Tnp_1 HTH_3 Transgly_assoc OMP_b-brl
+NODE_1_length_16888_cov_15.798049_cutoff_20,Chromosome,-7.764001581639231,TrkA_N TrkA_N TrkA_C TrkA_C DXP_synthase_N Transket_pyr Transketolase_C RuvA_N HHH_5 RuvA_C TrkH UDG SprA_N SprA_N AIRS AIRS_C LpxK
+NODE_1_length_47994_cov_6.797483_cutoff_5,Plasmid,8.80,DUF4417 GP3_package Terminase_6 Phage_min_cap2 Minor_capsid_2 Phage_cap_E Flg_new Phage_GP20 Phage_Gp15 Collar Collar PcfJ DUF3102 DUF551 Resolvase Recombinase Zn_ribbon_recom NYN HTH_3 HTH_3 DUF1064 DUF4352 Phage_holin_6_1
+NODE_2_length_11105_cov_3.791168_cutoff_5,Chromosome,0,Glyco_hydro_3 Glyco_hydro_3_C PA14 Fn3-like Glyco_hydro_16 Metallophos Glyco_hydro_20 Glyco_hydro_20b Glyco_hydro_16
+NODE_3_length_8244_cov_5.837027_cutoff_5,Chromosome,0,Laminin_G_3 Laminin_G_3
+NODE_4_length_7711_cov_2.641341_cutoff_5,Chromosome,0,DctM DctP DctQ Response_reg HTH_18 HTH_AraC DctP Glyco_hydro_2_C His_kinase HAMP HATPase_c
+NODE_5_length_6039_cov_10.945824_cutoff_5,Plasmid,3.86,YafQ_toxin RelB Mob_Pre
+NODE_6_length_5293_cov_8.253451_cutoff_5,Plasmid,3.86,Acetyltransf_3 Mob_Pre YafQ_toxin RelB
+NODE_7_length_2871_cov_3.062992_cutoff_5,Chromosome,0,ORF6N HATPase_c_4 AlbA_2 HTH_24
+NODE_8_length_2100_cov_1.360850_cutoff_5,Chromosome,-2.5379636780964834,IspD Methyltransf_25
+NODE_9_length_2069_cov_1.213855_cutoff_5,Chromosome,--
+NODE_10_length_1855_cov_3.586614_cutoff_5,Chromosome,0,Peptidase_M91
+NODE_11_length_1078_cov_4.367632_cutoff_5,Chromosome,--

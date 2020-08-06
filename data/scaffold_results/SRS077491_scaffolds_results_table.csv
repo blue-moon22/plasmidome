@@ -1,0 +1,7 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2987_cov_1.870447_cutoff_0,Plasmid,5.35,Rep_3
+NODE_2_length_938_cov_1.471545_cutoff_0,Chromosome,0,YadA_stalk
+NODE_3_length_638_cov_6.532977_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_44159_cov_11.423052_cutoff_5,Plasmid,2.67,Phage_prot_Gp6 Amidase_2 Spherulin4 HNH Collar ERF DUF3310 Phage_r1t_holin SSB GDPD TIG DUF5403 Phage_capsid Phage_Gp19 HTH_17 LAGLIDADG_3 DnaB_C ANT
+NODE_2_length_2125_cov_2.363281_cutoff_5,Chromosome,0,Pentapeptide_3
+NODE_3_length_1996_cov_1.869203_cutoff_5,Chromosome,-3.923257538881126,tRNA_U5-meth_tr Abhydrolase_1

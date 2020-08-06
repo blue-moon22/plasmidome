@@ -1,0 +1,30 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5254_cov_39.497392_cutoff_54,Chromosome,--
+NODE_1_length_50520_cov_8.850128_cutoff_10,Chromosome,0,VRR_NUC Lactamase_B_2 WYL_2 DUF4406 Phage_integrase Prophage_tail Glucosaminidase N6_N4_Mtase RecT Methylase_S HSDR_N_2 Peptidase_M78 HTH_3 DUF1351 YopX DNA_methylase Phage_prot_Gp6 Peptidase_S24 Terminase_3 Terminase_3C PAPS_reduct DnaB_C DnaB Phage_head_fibr
+NODE_2_length_26021_cov_13.861664_cutoff_10,Plasmid,29.36,HTH_Tnp_1 TrwC AAA_30 AAA_19 CbiA Replicase HTH_5 Type_ISP_C N6_Mtase ParG Replicase HTH_11 HTH_5 DDE_Tnp_IS240 rve HTH_21 RrnaAD MFS_1 HTH_Tnp_1 rve HTH_21 TetR_C_1 TetR_N DUF1772 NAD_binding_10 Resolvase HTH_7 CENP-B_N RHH_1
+NODE_3_length_2512_cov_5.049281_cutoff_10,Chromosome,0,Fic Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_1_length_1428_cov_45.351591_cutoff_70,Chromosome,--
+NODE_1_length_55040_cov_6.338482_cutoff_0,Chromosome,0,Collar SNF2_N HTH_23 DNA_pol_A Prim-Pol AAA_25 Terminase_6 Terminase_6C PDDEXK_1 AAA_24 DUF669 Phage_r1t_holin Phage_Mu_F Spherulin4 Glyco_hydro_25 HK97-gp10_like DUF3310
+NODE_2_length_5449_cov_5.791139_cutoff_0,Plasmid,9.00,MobA_MobL Rep_3
+NODE_3_length_4299_cov_4.621033_cutoff_0,Plasmid,12.95,MobC Relaxase Rep_3 CRISPR_Cas2
+NODE_4_length_2922_cov_10.188752_cutoff_0,Chromosome,0,YoeB_toxin
+NODE_5_length_2091_cov_9.711023_cutoff_0,Chromosome,--
+NODE_6_length_1605_cov_67.009817_cutoff_0,Chromosome,--
+NODE_7_length_1590_cov_48.462657_cutoff_0,Chromosome,--
+NODE_8_length_1466_cov_2.229662_cutoff_0,Chromosome,--
+NODE_9_length_1290_cov_2.590272_cutoff_0,Chromosome,0,TPR_8 TPR_7 TPR_8 TPR_8 PPR
+NODE_10_length_946_cov_2.156502_cutoff_0,Chromosome,--
+NODE_11_length_898_cov_5.701583_cutoff_0,Chromosome,--
+NODE_12_length_750_cov_1.490342_cutoff_0,Chromosome,0,NTP_transf_2 Polbeta DUF86
+NODE_13_length_671_cov_1.649832_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_14_length_653_cov_5.954861_cutoff_0,Chromosome,0,G5 G5
+NODE_15_length_619_cov_1.273063_cutoff_0,Chromosome,--
+NODE_16_length_593_cov_1.974806_cutoff_0,Chromosome,--
+NODE_1_length_1850_cov_62.472645_cutoff_42,Chromosome,0,PTR2
+NODE_1_length_1828_cov_35.617362_cutoff_20,Chromosome,0,Tox-REase-5
+NODE_1_length_11515_cov_9.404179_cutoff_5,Plasmid,12.95,Relaxase CRISPR_Cas2 Rep_3 Peptidase_C39 MobC
+NODE_2_length_2756_cov_4.309444_cutoff_5,Chromosome,0,OMP_b-brl_3
+NODE_3_length_1675_cov_7.183354_cutoff_5,Chromosome,0,Abhydrolase_1 DDE_Tnp_ISL3
+NODE_4_length_1352_cov_1.810196_cutoff_5,Chromosome,--
+NODE_5_length_1250_cov_1.473998_cutoff_5,Chromosome,--
+NODE_6_length_1231_cov_5.012998_cutoff_5,Chromosome,0,Methylase_S Methylase_S

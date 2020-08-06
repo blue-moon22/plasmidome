@@ -1,0 +1,5 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_11029_cov_3.461651_cutoff_0,Plasmid,14.56,Mob_Pre ComR_TPR HTH_31 HTH_3 Rep_3 ABC2_membrane_3 Rep_3 ABC_tran
+NODE_2_length_1094_cov_0.891839_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_3_length_830_cov_1.474104_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_4_length_755_cov_0.734513_cutoff_0,Chromosome,0,FctA FctA

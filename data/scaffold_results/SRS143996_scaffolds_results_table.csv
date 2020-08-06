@@ -1,0 +1,30 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_43809_cov_7.799117_cutoff_10,Chromosome,0,HNH_3 NUMOD4 HNH_3 Sipho_tail Sipho_Gp37 Spherulin4 Collagen Phage_holin_Dp1 DUF2800 Terminase_1 GDPD Phage_portal AAA_33 CHAP Terminase_1 Peptidase_S78 Phage_capsid
+NODE_1_length_5377_cov_6.587925_cutoff_0,Chromosome,0,Rep_trans Zot
+NODE_2_length_5027_cov_3.057172_cutoff_0,Chromosome,0,PBECR3 FtsK_SpoIIIE Rep_trans
+NODE_3_length_4588_cov_4.314564_cutoff_0,Chromosome,0,AAA_22 Rep_trans Rol_Rep_N
+NODE_4_length_3946_cov_14.472474_cutoff_0,Plasmid,5.35,Rep_3 ParE_toxin
+NODE_5_length_3274_cov_47.464185_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_6_length_3128_cov_21.945264_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_7_length_2712_cov_8.033776_cutoff_0,Chromosome,0,ParE_toxin
+NODE_8_length_2140_cov_11.136694_cutoff_0,Chromosome,--
+NODE_9_length_1592_cov_4.600000_cutoff_0,Chromosome,--
+NODE_10_length_1427_cov_1.125185_cutoff_0,Chromosome,--
+NODE_11_length_1362_cov_5.624125_cutoff_0,Chromosome,--
+NODE_12_length_1088_cov_0.570722_cutoff_0,Plasmid,2.42,GAD-like
+NODE_13_length_957_cov_1.262500_cutoff_0,Chromosome,--
+NODE_14_length_937_cov_0.770930_cutoff_0,Chromosome,0,ParE_toxin
+NODE_15_length_887_cov_3.720988_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_16_length_875_cov_1.312030_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_17_length_821_cov_1.248656_cutoff_0,Chromosome,0,TonB_C
+NODE_18_length_800_cov_1.011065_cutoff_0,Chromosome,--
+NODE_19_length_779_cov_3.044160_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_20_length_773_cov_4.689655_cutoff_0,Chromosome,--
+NODE_21_length_734_cov_1.301370_cutoff_0,Chromosome,--
+NODE_22_length_660_cov_1.679245_cutoff_0,Chromosome,--
+NODE_1_length_19628_cov_7.640223_cutoff_5,Plasmid,23.36,TrwC AAA_30 AAA_19 Histone_HNS TrwB_AAD_bind DUF2726 TraG_N TraF TraH SSB CbiA
+NODE_2_length_12309_cov_2.506295_cutoff_5,Chromosome,0,CHU_C SprB SprB HYR
+NODE_3_length_5660_cov_10.456565_cutoff_5,Plasmid,9.44,CRISPR_Cas2 Rep_3 MobC
+NODE_4_length_4065_cov_11.195336_cutoff_5,Plasmid,12.95,Relaxase MobC Rep_3
+NODE_5_length_1969_cov_1.567653_cutoff_5,Chromosome,--
+NODE_6_length_1424_cov_2.930215_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP

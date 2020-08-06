@@ -1,0 +1,14 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_36028_cov_32.081667_cutoff_0,Chromosome,0,HTH_3 Terminase_1 Peptidase_M23 Glyco_hydro_25 Phage_r1t_holin HTH_17 Phage_integrase HTH_3 DUF5403 Bro-N P22_CoatProtein Phage_prot_Gp6
+NODE_2_length_21557_cov_2.802188_cutoff_0,Chromosome,-9.190583509625217,GDP_Man_Dehyd NTP_transferase Sigma70_r4 Sigma70_r2 Sigma70_r1_2 Phytase-like tRNA-synt_2 GAD DUF2582 tRNA-synt_1c tRNA-synt_1c_C TPR_8 TPR_16 TetR_N TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg tRNA-synt_2 tRNA_anti-codon GAD Cupin_2 Transgly_assoc Flavin_Reduct HTH_42
+NODE_3_length_3029_cov_3.110095_cutoff_0,Chromosome,0,Omp28 Big_2 Big_2 Omp28 Big_2 Big_2 Big_2
+NODE_4_length_2273_cov_3.310109_cutoff_0,Chromosome,0,5_nucleotid_C Metallophos
+NODE_5_length_1861_cov_1.461883_cutoff_0,Chromosome,0,Glyco_transf_25 Glyco_transf_25 Glyco_transf_8
+NODE_6_length_1105_cov_1.032101_cutoff_0,Chromosome,0,DUF1963 DUF1963
+NODE_7_length_705_cov_1.401274_cutoff_0,Chromosome,--
+NODE_8_length_704_cov_2.240829_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind
+NODE_1_length_7094_cov_2.060995_cutoff_5,Plasmid,6.62,Zeta_toxin TrwC AAA_30 AAA_19 Pentapeptide_4 Pentapeptide Pentapeptide_4 Pentapeptide
+NODE_2_length_5458_cov_2.730719_cutoff_5,Chromosome,0,DUF4157 DUF4474
+NODE_3_length_2437_cov_4.533051_cutoff_5,Chromosome,--
+NODE_4_length_2227_cov_2.779070_cutoff_5,Chromosome,--
+NODE_5_length_1479_cov_1.959344_cutoff_5,Chromosome,--

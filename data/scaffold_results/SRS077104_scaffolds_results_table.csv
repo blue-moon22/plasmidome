@@ -1,0 +1,27 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1989_cov_254.824791_cutoff_91,Chromosome,0,DDE_Tnp_1
+NODE_1_length_41030_cov_96.005348_cutoff_54,Chromosome,0,Phage_r1t_holin DUF2190 HTH_17 Phage_prot_Gp6 DUF2744 SLT Peptidase_M78 ANT AntA DUF1906 TM2 Phage_integrase Phage_int_SAM_3
+NODE_1_length_16367_cov_18.851197_cutoff_10,Plasmid,3.26,Fil_haemagg_2 Haemagg_act PT-VENN Fil_haemagg_2 Fil_haemagg_2 Fil_haemagg_2 Fil_haemagg_2 YafQ_toxin RelB CRISPR_Cas2 DUF5397 RPA ShlB POTRA_3 POTRA_2
+NODE_2_length_2805_cov_8.423387_cutoff_10,Chromosome,0,TMP-TENI HK TENA_THI-4
+NODE_3_length_1420_cov_10.399851_cutoff_10,Chromosome,--
+NODE_1_length_42753_cov_74.682163_cutoff_0,Chromosome,0,dUTPase DUF3310 SNF2_N DUF669 DUF3987 Phage_capsid Phage_H_T_join Terminase_6 Phage_prot_Gp6 AAA_24 NLPC_P60 Spherulin4 HNH_5
+NODE_2_length_14851_cov_11.164140_cutoff_0,Chromosome,0,Amidase_2 Phage_portal HTH_3
+NODE_3_length_7874_cov_2.058869_cutoff_0,Plasmid,8.02,ToxN_toxin Rep_3
+NODE_4_length_4413_cov_2.806734_cutoff_0,Plasmid,16.14,MobA_MobL MobA_MobL Replicase PriCT_1 ParE_toxin
+NODE_5_length_2098_cov_3.137061_cutoff_0,Chromosome,--
+NODE_6_length_1648_cov_3.939529_cutoff_0,Chromosome,--
+NODE_7_length_1591_cov_1.560106_cutoff_0,Chromosome,--
+NODE_8_length_1073_cov_3.614458_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_9_length_1031_cov_7.040881_cutoff_0,Chromosome,0,YadA_stalk
+NODE_10_length_1030_cov_1.265477_cutoff_0,Chromosome,0,TPM_phosphatase
+NODE_11_length_875_cov_1.023810_cutoff_0,Chromosome,--
+NODE_12_length_809_cov_0.655738_cutoff_0,Chromosome,0,Y1_Tnp
+NODE_13_length_761_cov_2.568713_cutoff_0,Chromosome,--
+NODE_14_length_713_cov_19.443396_cutoff_0,Chromosome,--
+NODE_15_length_669_cov_4.094595_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind
+NODE_16_length_578_cov_0.572854_cutoff_0,Chromosome,--
+NODE_1_length_1791_cov_19.027421_cutoff_20,Chromosome,0,Abhydrolase_1
+NODE_1_length_7423_cov_1.849442_cutoff_5,Chromosome,0,Zot DUF2523 Phage_CRI Phage_X
+NODE_2_length_6223_cov_6.199642_cutoff_5,Chromosome,0,RVT_2 rve
+NODE_3_length_5759_cov_7.296199_cutoff_5,Plasmid,9.00,MobA_MobL Rep_3 PemK_toxin
+NODE_4_length_3733_cov_1.968271_cutoff_5,Plasmid,2.91,Resolvase DUF2000 EamA EamA

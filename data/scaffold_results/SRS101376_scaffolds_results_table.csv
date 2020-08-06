@@ -1,0 +1,11 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_15691_cov_48.322787_cutoff_54,Chromosome,0,IstB_IS21 DUF4406 Phage_prot_Gp6 HTH_Tnp_1_2 SSB
+NODE_1_length_60856_cov_56.141710_cutoff_0,Chromosome,0,ORF6C Bro-N HTH_3 HTH_3 DNA_methylase DNA_methylase SSB Phage_integrase Phage_int_SAM_3 Tn916-Xis Phage_prot_Gp6 Peptidase_S74 RecT Lactamase_B RHH_1 Glyco_hydro_25 YopX DUF3310 Phage_Mu_F Inhibitor_G39P Phage_cap_E Phage_holin_5_2
+NODE_2_length_12071_cov_5.989995_cutoff_0,Plasmid,7.72,YafQ_toxin RelB Mob_Pre YafQ_toxin RelB Mob_Pre
+NODE_3_length_4986_cov_153.270524_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_4_length_2872_cov_16.728444_cutoff_0,Plasmid,9.06,Mob_Pre RepL
+NODE_5_length_1467_cov_4.707194_cutoff_0,Plasmid,4.14,RHH_6 PIN_3
+NODE_6_length_587_cov_1.101961_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_1_length_4730_cov_4.115194_cutoff_5,Chromosome,0,P_gingi_FimA Mfa_like_1 BACON
+NODE_2_length_2015_cov_2.836945_cutoff_5,Chromosome,--
+NODE_3_length_1612_cov_2.185016_cutoff_5,Chromosome,--

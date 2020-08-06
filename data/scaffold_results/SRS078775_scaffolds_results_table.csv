@@ -1,0 +1,34 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_56453_cov_49.447034_cutoff_10,Chromosome,0,Vut_1 GTP_cyclohydroI Fer4_14 PTPS QueC DNA_pol_A DNA_pol_A_exo1 RecU dUTPase RecA RecA DNA_ligase_aden DNA_pol3_delta2 DNA_pol3_delta2 DNA_pol3_gamma3 DNA_pol3_delta2 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 SNF2_N Helicase_C DUF859 Phage_holin_Dp1 Toprim_2 Sigma70_r2 DnaB_C IstB_IS21 Terminase_6 Phage_GP20 Phage_prot_Gp6 Prophage_tail Flg_new PhageMin_Tail Phage_cap_E
+NODE_1_length_4831_cov_8.927640_cutoff_0,Plasmid,2.55,TraG-D_C
+NODE_2_length_4805_cov_16.904822_cutoff_0,Chromosome,0,Astacin YafQ_toxin
+NODE_3_length_3975_cov_3.234992_cutoff_0,Plasmid,5.35,Rep_3 CRISPR_Cas2
+NODE_4_length_3907_cov_15.751697_cutoff_0,Chromosome,0,DUF308 DUF308 DUF772 DDE_Tnp_1_6 DDE_Tnp_1
+NODE_5_length_3613_cov_64.833428_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_6_length_3128_cov_18.098656_cutoff_0,Plasmid,10.69,Rep_3 Rep_3 VbhA
+NODE_7_length_3060_cov_6.234328_cutoff_0,Plasmid,9.34,Rep_1 Mob_Pre
+NODE_8_length_2822_cov_7.252095_cutoff_0,Plasmid,5.35,Rep_3
+NODE_9_length_2641_cov_6.017941_cutoff_0,Plasmid,9.06,RepL Mob_Pre
+NODE_10_length_2549_cov_9.429207_cutoff_0,Plasmid,9.06,Mob_Pre RepL
+NODE_11_length_2202_cov_2.518118_cutoff_0,Plasmid,5.48,Rep_1
+NODE_12_length_2011_cov_3.941055_cutoff_0,Chromosome,0,RVT_1 GIIM
+NODE_13_length_1809_cov_6.272517_cutoff_0,Chromosome,--
+NODE_14_length_1735_cov_3.238239_cutoff_0,Plasmid,10.96,Rep_1 Rep_1
+NODE_15_length_1487_cov_3.719149_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_16_length_1475_cov_1.995708_cutoff_0,Chromosome,0,Fic
+NODE_17_length_1386_cov_1.430863_cutoff_0,Chromosome,0,DUF559
+NODE_18_length_1190_cov_4.798742_cutoff_0,Chromosome,--
+NODE_19_length_1037_cov_0.706250_cutoff_0,Chromosome,0,PDDEXK_2
+NODE_20_length_887_cov_3.644444_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 Mub_B2
+NODE_21_length_681_cov_1.291391_cutoff_0,Chromosome,--
+NODE_1_length_2394_cov_39.750539_cutoff_26,Plasmid,4.20,DDE_Tnp_IS240 Multi_Drug_Res
+NODE_1_length_40248_cov_42.248015_cutoff_20,Plasmid,6.89,D5_N PriCT_1 Minor_capsid_3 Phage_Gp15 Peptidase_S74 Resolvase Zn_ribbon_recom Recombinase HTH_3 Peptidase_S24 DUF739 Phage_holin_5_2 Amidase_2 DUF669 SNF2_N Helicase_C dUTPase HTH_26 AAA_24 PDDEXK_1 Hjc HTH_3 Minor_capsid_2 Minor_capsid_1 Phage_prot_Gp6 Phage_min_cap2 ADPrib_exo_Tox Phage_GP20 Terminase_3 Terminase_3C ParBc DUF1492 HTH_23 DNA_methylase YopX
+NODE_1_length_19940_cov_5.212405_cutoff_5,Chromosome,0,Plug CarbopepD_reg_2 TonB_dep_Rec CarboxypepD_reg SusD-like_2 SusD-like_2 SusD-like Dynamin_N Dynamin_N Dynamin_N
+NODE_2_length_11761_cov_11.128381_cutoff_5,Plasmid,5.35,Phage_integrase PBECR4 DDE_Tnp_1 DUF772 Rep_3
+NODE_3_length_4488_cov_1.595330_cutoff_5,Chromosome,-2.624141374338601,DUF4853 DUF4853 DUF4853 Abhydrolase_8 DUF4853 DUF4853
+NODE_4_length_3920_cov_2.551652_cutoff_5,Plasmid,3.86,Mob_Pre RHH_1
+NODE_5_length_2557_cov_6.569758_cutoff_5,Chromosome,0,Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1
+NODE_6_length_1643_cov_5.146871_cutoff_5,Chromosome,0,YadA_stalk
+NODE_7_length_1480_cov_1.233785_cutoff_5,Chromosome,--
+NODE_8_length_1211_cov_1.365079_cutoff_5,Chromosome,--
+NODE_1_length_2763_cov_10.673864_cutoff_15,Chromosome,--

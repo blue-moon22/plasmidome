@@ -1,0 +1,18 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_56823_cov_928.873559_cutoff_0,Chromosome,0,Phage_cap_E Phage_GP20 Flg_new PhageMin_Tail DUF859 Prophage_tail Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_Dp1 GTP_cyclohydroI Vut_1 Phage_prot_Gp6 Terminase_6 RecA RecA DNA_ligase_aden dUTPase RecU IstB_IS21 SNF2_N Helicase_C DNA_pol3_delta2 DNA_pol3_delta2 DNA_pol3_delta2 DNA_pol3_gamma3 QueC DNA_pol_A DNA_pol_A_exo1 Sigma70_r2 Toprim_2 DnaB_C Fer4_14 PTPS
+NODE_2_length_13251_cov_188.386215_cutoff_0,Plasmid,3.25,CbiA VbhA DUF1456 Resolvase HTH_7 HTH_psq Fic SLT DnaJ
+NODE_3_length_5561_cov_458.830051_cutoff_0,Plasmid,2.67,Rep_trans ToxN_toxin
+NODE_4_length_3853_cov_2.250794_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_3720_cov_3.666209_cutoff_0,Plasmid,5.35,Integrase_1 Rep_3
+NODE_6_length_3613_cov_3.828620_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2 RNA_helicase
+NODE_7_length_3128_cov_2.675188_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_8_length_1409_cov_1.511261_cutoff_0,Chromosome,--
+NODE_9_length_1190_cov_286.921833_cutoff_0,Chromosome,--
+NODE_10_length_750_cov_1.973254_cutoff_0,Chromosome,--
+NODE_11_length_704_cov_30.502392_cutoff_0,Chromosome,--
+NODE_12_length_605_cov_3.696970_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_1_length_11499_cov_22.466118_cutoff_20,Plasmid,5.35,Phage_integrase DDE_Tnp_1 DUF772 PBECR4 Rep_3
+NODE_1_length_2243_cov_2.599723_cutoff_5,Chromosome,--
+NODE_1_length_68336_cov_36.111956_cutoff_15,Chromosome,0,Phage_lysozyme2 Amidase_2 DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 HTH_3 RNR_Alpha Phage_integrase DUF5309 Phage_holin_4_1 Collagen Collagen Collagen Collagen Rad52_Rad22 HTH_17 HNH_3 DnaB_C zf-CHC2 Toprim_2 Toprim_N SNF2_N Helicase_C Cpn10 Terminase_6C Thy1 Ribonuc_red_lgC dUTPase DUF370
+NODE_2_length_40333_cov_15.714775_cutoff_15,Plasmid,3.54,HNH GIY-YIG Terminase_1 Phage_portal HTH_3 Phage_integrase Phg_2220_C RepA_N YopX RNase_T BRCT HTH_3 HTH_3 ORF6C Bro-N DUF4429 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 DnaB_C DnaB DUF1642 IstB_IS21 Glyco_hydro_25 CW_7 CW_7 CW_7 Phage_holin_6_1 DUF1366 DUF859 Prophage_tail Collagen Sipho_tail PhageMin_Tail Phage_capsid CLP_protease Phage_TTP_1 DUF1642 DUF1372
+NODE_3_length_11521_cov_22.494844_cutoff_15,Plasmid,5.35,PBECR4 DDE_Tnp_1 DUF772 Rep_3 Phage_integrase

@@ -1,0 +1,15 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_34742_cov_83.699697_cutoff_70,Plasmid,21.66,PLCC PALP Methyltransf_25 ParG AAA_31 DUF234 ATPase_2 AAA_14 Hexapep Glu_cys_ligase ATP-grasp_6 Glu_cys_ligase RimK Dala_Dala_lig_C MatE MatE Polysacc_synt_C MurJ HTH_20 Resolvase HTH_7 HSDR_N_2 RadC CAT Bac_DNA_binding HTH_3 Peptidase_M23 TraO DUF4138 DUF4138 Transposon_TraM TraG-D_C DUF4393 SprT-like Rep_3
+NODE_1_length_97442_cov_876.116962_cutoff_0,Chromosome,-3.37261042092746,GIY-YIG NUMOD1 HNH_3 NUMOD4 NUMOD1 Phage_head_fibr DUF3799 Metallophos NUMOD1 GIY-YIG NUMOD3 NUMOD3 dUTPase AAA Sigma70_r4_2 Sigma70_r2 zf-CHC2 Toprim_4 AAA_24 DnaB_C Phage_holin_4_1
+NODE_2_length_35895_cov_83.359428_cutoff_0,Plasmid,21.66,SprT-like Rep_3 TraG-D_C DUF4393 TraO HTH_3 Peptidase_M23 DUF4138 DUF4138 Transposon_TraM Resolvase HTH_7 RadC HSDR_N_2 Bac_DNA_binding CAT AAA_31 DUF234 ATPase_2 AAA_14 Methyltransf_25 ParG MatE MatE Polysacc_synt_C MurJ HTH_20 Hexapep Glu_cys_ligase ATP-grasp_6 Glu_cys_ligase RimK Dala_Dala_lig_C PLCC PALP
+NODE_3_length_7493_cov_124.224110_cutoff_0,Plasmid,5.35,DNA_methylase Rep_3 HTH_3 Gp49
+NODE_4_length_7216_cov_5.031657_cutoff_0,Chromosome,0,Acetyltransf_1 PadR MutS_V HTH_3 NYN RelE
+NODE_5_length_6117_cov_11.973510_cutoff_0,Plasmid,3.86,Mob_Pre RelB RelB YafQ_toxin
+NODE_6_length_5840_cov_28.048933_cutoff_0,Chromosome,0,Phage_F
+NODE_7_length_4225_cov_482.769769_cutoff_0,Plasmid,8.86,Rep_3 YoeB_toxin Relaxase
+NODE_8_length_3959_cov_18.105873_cutoff_0,Chromosome,--
+NODE_9_length_2860_cov_738.432986_cutoff_0,Chromosome,--
+NODE_1_length_5505_cov_483.744473_cutoff_434,Plasmid,5.35,Rep_3
+NODE_1_length_25602_cov_20.955103_cutoff_26,Chromosome,-53.242766318617925,Ribosomal_L33 GTP_EFTU_D3 Ribosomal_L11_N Ribosomal_L11 NusG KOW SecE Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 COX1 Ribosomal_L1 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 RNA_pol_Rpb2_6 RNA_pol_Rpb2_3 RNA_pol_Rpb2_1 RNA_pol_Rpb2_45 RNA_pol_Rpb2_7 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_5 RNA_pol_Rpb1_4 Lyase_1 FumaraseC_C PMT Ribosom_S12_S23 Ribosomal_L7Ae BCCT GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7
+NODE_1_length_9560_cov_15.756195_cutoff_5,Chromosome,0,Sigma70_r2 Sigma70_r3 IstB_IS21 HTH_36 HTH_26 HTH_3 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4
+NODE_2_length_1650_cov_1.868404_cutoff_5,Chromosome,0,DDE_Tnp_1_6 DUF772

@@ -1,0 +1,19 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_43694_cov_101.619781_cutoff_70,Chromosome,0,Sipho_tail Phage_holin_Dp1 Sipho_Gp37 Guanylate_kin GDPD Spherulin4 Collagen Collagen DUF2800 HNH_3 Peptidase_S78 Phage_capsid Phage_portal CHAP Terminase_1 HNH_3
+NODE_1_length_63197_cov_13.190637_cutoff_0,Plasmid,3.57,AAA_24 dUTPase DUF3310 PDDEXK_1 Big_8 Collagen_bind DNA_pol_A DNA_pol_A DNA_pol_A_exo1 AAA_25 RepB_primase DNA_methylase DNA_methylase RuvC Glyco_hydro_25 BspA_v BspA_v GbpC Glucosaminidase Phage_holin_Dp1 DUF1642
+NODE_2_length_57717_cov_493.517418_cutoff_0,Chromosome,0,DUF1599 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Terminase_1 Phage_portal HK97-gp10_like Phage_holin_6_1 RdRP Prophage_tail Peptidase_S78
+NODE_3_length_9219_cov_9.573179_cutoff_0,Plasmid,5.35,PBECR4 Rep_3
+NODE_4_length_6979_cov_2.654303_cutoff_0,Chromosome,0,N6_Mtase HsdM_N HTH_3 Lipoprotein_9 SWI2_SNF2 HSDR_N DUF3387 Methylase_S Methylase_S
+NODE_5_length_4439_cov_5.097662_cutoff_0,Plasmid,5.35,Cation_efflux Rep_3
+NODE_6_length_3846_cov_4.593261_cutoff_0,Plasmid,5.35,Rep_3
+NODE_7_length_2202_cov_2.886118_cutoff_0,Chromosome,--
+NODE_8_length_1487_cov_2.628369_cutoff_0,Chromosome,0,YadA_stalk
+NODE_9_length_1466_cov_6.293017_cutoff_0,Chromosome,--
+NODE_10_length_1242_cov_2.128755_cutoff_0,Plasmid,3.52,TraX
+NODE_11_length_887_cov_0.906173_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_12_length_875_cov_24.045113_cutoff_0,Chromosome,0,Rib Rib
+NODE_13_length_695_cov_1.129450_cutoff_0,Chromosome,0,Glyoxalase
+NODE_14_length_656_cov_3.203800_cutoff_0,Chromosome,--
+NODE_1_length_34868_cov_3.771234_cutoff_5,Plasmid,2.67,Phage_capsid HTH_36 Phage_portal Phage_Mu_F SSB PhageMin_Tail ParBc Phage_connect_1 Phage_lysozyme2 CHAP DUF4214 ERF Whib Sipho_tail
+NODE_2_length_4166_cov_3.707997_cutoff_5,Chromosome,0,YadA_anchor YadA_stalk YadA_stalk YadA_head YadA_head
+NODE_3_length_1323_cov_2.038523_cutoff_5,Chromosome,--

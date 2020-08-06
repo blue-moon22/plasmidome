@@ -1,0 +1,41 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_9847_cov_8.703582_cutoff_10,Chromosome,0,MFS_1 Beta-lactamase2 Radical_SAM DJ-1_PfpI DDE_Tnp_1
+NODE_1_length_41520_cov_9.249668_cutoff_0,Chromosome,0,AAA_28 Sipho_tail Sipho_Gp37 Phage_holin_Dp1 Pox_D5 DUF2800 Terminase_1 Phage_portal Peptidase_S78 Phage_capsid
+NODE_2_length_33551_cov_235.610952_cutoff_0,Plasmid,3.57,AAA_25 RepB_primase Amidase_2 Thymidylat_synt AAA_24 dUTPase_2 Helicase_C SNF2_N DNA_pol_A DNA_pol_A_exo1 PDDEXK_1 Terminase_6C Terminase_6 Phage_capsid Prophage_tail
+NODE_3_length_5558_cov_2.231162_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_4_length_4325_cov_7.318032_cutoff_0,Plasmid,9.00,CRISPR_Cas2 MobA_MobL Rep_3
+NODE_5_length_3881_cov_3.005521_cutoff_0,Chromosome,0,DUF2399 DDE_Tnp_ISL3 MFS_1
+NODE_6_length_3820_cov_15.571200_cutoff_0,Plasmid,5.35,Rep_3 CRISPR_Cas2
+NODE_7_length_2389_cov_8.871972_cutoff_0,Chromosome,--
+NODE_8_length_1788_cov_1.275862_cutoff_0,Chromosome,--
+NODE_9_length_1636_cov_1.760744_cutoff_0,Plasmid,10.50,TrbM TrbM DUF4189
+NODE_10_length_1570_cov_1.511721_cutoff_0,Chromosome,--
+NODE_11_length_1462_cov_2.667148_cutoff_0,Plasmid,5.20,RepL
+NODE_12_length_1223_cov_2.168412_cutoff_0,Chromosome,--
+NODE_13_length_1126_cov_1.052431_cutoff_0,Chromosome,--
+NODE_14_length_879_cov_1.178304_cutoff_0,Chromosome,--
+NODE_15_length_726_cov_0.993837_cutoff_0,Chromosome,0,BioY BioY
+NODE_16_length_709_cov_1.890823_cutoff_0,Chromosome,0,NTP_transf_2 HTH_3
+NODE_17_length_671_cov_3.882155_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_18_length_650_cov_34.375218_cutoff_0,Chromosome,--
+NODE_19_length_643_cov_1.413428_cutoff_0,Chromosome,--
+NODE_20_length_632_cov_2.369369_cutoff_0,Chromosome,--
+NODE_21_length_605_cov_1.054924_cutoff_0,Chromosome,--
+NODE_1_length_1349_cov_20.327044_cutoff_26,Chromosome,0,MacB_PCD FtsX
+NODE_1_length_2885_cov_22.523148_cutoff_20,Chromosome,--
+NODE_1_length_269287_cov_4.722655_cutoff_5,Chromosome,-3.4217312182624724,Fer4_12 Inovirus_Gp2 Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_lgC Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN Thymidylat_synt Inovirus_Gp2 DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT HHH_5 HHH_5 HNH_3 Inovirus_Gp2 RNase_H CLP_protease HNH_3 NUMOD1 Glucosaminidase DHFR_1 dUTPase Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom Inovirus_Gp2 Hydrolase_2 Fer4_14
+NODE_2_length_41367_cov_295.610681_cutoff_5,Chromosome,0,Collar dUTPase DUF5403 Phage_capsid Phage_Gp19 LAGLIDADG_3 Phage_prot_Gp6 TIG Mrr_cat SSB HTH_36 Bro-N ANT DnaB_C DnaB Thymidylate_kin
+NODE_3_length_9490_cov_2.790715_cutoff_5,Chromosome,-2.66606368071953,Response_reg GerE Sensor HisKA_3 CPBP tRNA_edit Big_8 Zn_peptidase SIR2
+NODE_4_length_5894_cov_2.791645_cutoff_5,Chromosome,0,ThiF AAA_12 AAA_30 AAA_19 MFS_1
+NODE_5_length_3206_cov_21.309364_cutoff_5,Chromosome,0,Phage_CRI HTH_3
+NODE_6_length_2860_cov_2.189005_cutoff_5,Chromosome,0,adh_short_C2 OB_RNB Phage_holin_3_6 DUF883 adh_short_C2
+NODE_7_length_2017_cov_1.668041_cutoff_5,Chromosome,0,Abhydrolase_1
+NODE_8_length_1918_cov_2.065725_cutoff_5,Chromosome,0,AMP-binding
+NODE_9_length_1888_cov_28.924351_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_10_length_1865_cov_2.289150_cutoff_5,Chromosome,--
+NODE_11_length_1715_cov_2.393773_cutoff_5,Plasmid,5.56,DUF664 HTH_23 HTH_28 HTH_Tnp_1 HTH_29 HTH_7 LZ_Tnp_IS481 RNase_T
+NODE_12_length_1533_cov_2.313874_cutoff_5,Chromosome,--
+NODE_13_length_1342_cov_3.324111_cutoff_5,Chromosome,0,TPM_phosphatase
+NODE_14_length_1269_cov_5.125000_cutoff_5,Chromosome,0,NLPC_P60 NLPC_P60
+NODE_1_length_1316_cov_12.753027_cutoff_15,Chromosome,--
+NODE_2_length_1223_cov_18.691972_cutoff_15,Chromosome,0,Fic

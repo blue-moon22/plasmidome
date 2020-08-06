@@ -1,0 +1,26 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5865_cov_50.010539_cutoff_54,Chromosome,0,SusD-like_2 SusD-like SusD-like_2 TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg
+NODE_1_length_3518_cov_32.402209_cutoff_10,Chromosome,--
+NODE_2_length_3504_cov_9.112051_cutoff_10,Chromosome,0,Big_2 Big_2 Big_2
+NODE_3_length_1421_cov_25.845982_cutoff_10,Chromosome,--
+NODE_1_length_12011_cov_45.055388_cutoff_70,Chromosome,0,Endonuclea_NS_2 RHS_repeat RHS_repeat RHS_repeat TssD FRG DUF4065 SUKH_6 Phage_GPD
+NODE_1_length_12025_cov_38.680365_cutoff_0,Plasmid,9.30,T4SS-DNA_transf MobA_MobL DUF3847 AAA_31 YoeB_toxin RelB
+NODE_2_length_4226_cov_575.673897_cutoff_0,Plasmid,8.86,Relaxase YoeB_toxin Rep_3
+NODE_3_length_2330_cov_2.967155_cutoff_0,Chromosome,0,Methylase_S Methylase_S Phage_integrase Phage_int_SAM_4
+NODE_4_length_2266_cov_1.262220_cutoff_0,Chromosome,0,DDE_Tnp_1 DDE_Tnp_1
+NODE_5_length_1769_cov_1.919031_cutoff_0,Chromosome,--
+NODE_6_length_1654_cov_1.286620_cutoff_0,Chromosome,0,Mtd_N Mtd_N
+NODE_7_length_1368_cov_1.288149_cutoff_0,Chromosome,0,Porin_4
+NODE_8_length_1109_cov_2.270349_cutoff_0,Chromosome,--
+NODE_1_length_5381_cov_10.032240_cutoff_5,Plasmid,7.61,Relaxase MobC
+NODE_2_length_3970_cov_2.618803_cutoff_5,Chromosome,0,DDE_Tnp_1_4 DDE_Tnp_1_4
+NODE_3_length_3734_cov_6.961170_cutoff_5,Chromosome,0,TetR_C_8
+NODE_4_length_2582_cov_3.841517_cutoff_5,Chromosome,0,LRR_5 LRR_5 fn3 fn3 fn3
+NODE_5_length_1935_cov_7.074812_cutoff_5,Chromosome,--
+NODE_6_length_1792_cov_5.408746_cutoff_5,Chromosome,--
+NODE_7_length_1559_cov_1.773954_cutoff_5,Chromosome,0,RCC1 RCC1 RCC1 RCC1_2 RCC1
+NODE_8_length_1551_cov_4.213026_cutoff_5,Chromosome,--
+NODE_9_length_1442_cov_9.539927_cutoff_5,Chromosome,0,HATPase_c_5
+NODE_10_length_1293_cov_3.471217_cutoff_5,Chromosome,0,Virulence_RhuM Gp49 HTH_3 Virulence_RhuM
+NODE_11_length_1120_cov_6.548418_cutoff_5,Chromosome,0,Sigma70_r4 Sigma70_r4
+NODE_1_length_4645_cov_16.313485_cutoff_15,Chromosome,0,Peptidase_M91

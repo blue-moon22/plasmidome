@@ -1,0 +1,55 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_43963_cov_296.328305_cutoff_153,Chromosome,0,HNH_3 DUF2800 Terminase_1 Peptidase_S78 Phage_capsid Phage_portal CHAP Spherulin4 Collagen Collagen GDPD Sipho_tail Sipho_Gp37 Phage_holin_Dp1 HNH_3 Guanylate_kin
+NODE_1_length_1706_cov_24.664825_cutoff_10,Chromosome,-17.332617920646072,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_2_length_1425_cov_18.663947_cutoff_10,Chromosome,--
+NODE_3_length_1261_cov_3.882601_cutoff_10,Chromosome,0,DUF4876
+NODE_1_length_240526_cov_14.444414_cutoff_0,Plasmid,11.46,OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 Resolvase MerR_1 OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 TraG-D_C SecY Glutaredoxin dUTPase GIY-YIG DNA_methylase Topoisom_bac Toprim MUG113 OrfB_Zn_ribbon HTH_OrfB_IS605 Peptidase_M23 T4SS-DNA_transf DUF4325 DUF4065 TraX YqaJ DUF5011 Transglycosylas SecA_DEAD SecA_SW HTH_OrfB_IS605 5_3_exonuc_N 5_3_exonuc OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 HD AAA_2 AAA_lid_9 ClpB_D2-small AAA Endonuclea_NS_2 Transgly sCache_2 DUF5011 Pentapeptide Pentapeptide Pentapeptide_4 Pentapeptide_4 Pentapeptide Pentapeptide Pentapeptide Pentapeptide_4 Pentapeptide AAA_30 UvrD_C_2 SH3_13 HHH_4 HHH_5 UvrD-helicase UvrD_C UvrD_C_2 Peptidase_S24 CHAP OrfB_Zn_ribbon OrfB_IS605 Pentapeptide Pentapeptide_4 Pentapeptide Pentapeptide Pentapeptide Pentapeptide Pentapeptide Pentapeptide Pentapeptide DUF1768 OrfB_IS605 HTH_OrfB_IS605 Sortase OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 G5 CAP Flg_new Flg_new Flg_new Flg_new HTH_3 Big_8 Collagen_bind GbpC MucBP MucBP Gram_pos_anchor MucBP DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 MethyltransfD12 DUF975 OrfB_Zn_ribbon DNA_ligase_A_M DNA_ligase_OB_2 RecJ_OB Helicase_C DEAD DHHA1 ResIII DHH RecG_wedge Gram_pos_anchor OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 Y1_Tnp SatD Pentapeptide_4 Pentapeptide_4 Pentapeptide Pentapeptide Pentapeptide Pentapeptide Pentapeptide Pentapeptide Pentapeptide N6_N4_Mtase HTH_3 DUF1064 StbA DUF3854 Phage_lysozyme2 GbpC DNA_methylase OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605
+NODE_2_length_32680_cov_20.048983_cutoff_0,Chromosome,0,Dam YqaJ RecT DUF3310 Terminase_6C Terminase_6 RecT Spherulin4 PhageMin_Tail Mu-like_gpT HK97-gp10_like DUF2190
+NODE_3_length_9318_cov_13.453955_cutoff_0,Plasmid,15.86,Resolvase MobC Rep_3 Relaxase
+NODE_4_length_6385_cov_5.561668_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_5_length_5525_cov_4.200441_cutoff_0,Plasmid,5.20,Rep_trans FtsK_SpoIIIE RepL
+NODE_6_length_4674_cov_22.175114_cutoff_0,Plasmid,8.86,Relaxase Rep_3
+NODE_7_length_4219_cov_4.216321_cutoff_0,Plasmid,12.95,Relaxase MobC Rep_3
+NODE_8_length_3942_cov_5.522380_cutoff_0,Chromosome,0,Y1_Tnp
+NODE_9_length_3641_cov_3.162458_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_10_length_3433_cov_3.825387_cutoff_0,Plasmid,5.35,Rep_3
+NODE_11_length_3359_cov_30.620049_cutoff_0,Plasmid,3.49,TrfA ParE_toxin
+NODE_12_length_3261_cov_2.634108_cutoff_0,Plasmid,5.48,Rep_1
+NODE_13_length_3128_cov_92.237627_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_14_length_2965_cov_22.055402_cutoff_0,Plasmid,13.07,Rep_3 Mob_Pre Mob_Pre
+NODE_15_length_2656_cov_1.829391_cutoff_0,Chromosome,--
+NODE_16_length_2003_cov_2.861371_cutoff_0,Chromosome,0,Lipoprotein_21
+NODE_17_length_1942_cov_1.685791_cutoff_0,Chromosome,0,DUF3275
+NODE_18_length_1709_cov_2.140931_cutoff_0,Chromosome,-2.873377153368259,tRNA-synt_2b Seryl_tRNA_N
+NODE_19_length_1671_cov_33.699498_cutoff_0,Chromosome,0,Rep_trans
+NODE_20_length_1590_cov_62.923331_cutoff_0,Chromosome,--
+NODE_21_length_1442_cov_1.842491_cutoff_0,Chromosome,0,MORN_2 MORN_2 MORN_2 MORN_2 MORN_2 MORN_2 MORN_2 MORN_2 MORN_2
+NODE_22_length_1281_cov_5.061462_cutoff_0,Chromosome,--
+NODE_23_length_1201_cov_4.839858_cutoff_0,Chromosome,0,N_methyl N_methyl
+NODE_24_length_1188_cov_1.672367_cutoff_0,Chromosome,--
+NODE_25_length_1056_cov_3.473953_cutoff_0,Chromosome,0,DUF1778 Acetyltransf_1
+NODE_26_length_1040_cov_1.047767_cutoff_0,Chromosome,--
+NODE_27_length_1001_cov_1.414502_cutoff_0,Chromosome,0,MucBP MucBP MucBP MucBP MucBP
+NODE_28_length_822_cov_3.159732_cutoff_0,Chromosome,0,DUF1566
+NODE_29_length_727_cov_2.547692_cutoff_0,Chromosome,--
+NODE_30_length_704_cov_5.055821_cutoff_0,Chromosome,0,Big_6 Big_6
+NODE_31_length_683_cov_18.881188_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_32_length_650_cov_2.130890_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind
+NODE_33_length_632_cov_5.879279_cutoff_0,Chromosome,--
+NODE_34_length_632_cov_0.735135_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_35_length_581_cov_1.285714_cutoff_0,Chromosome,--
+NODE_1_length_2197_cov_29.448585_cutoff_26,Chromosome,--
+NODE_1_length_10628_cov_36.264146_cutoff_42,Chromosome,-2.476088274378009,PBECR4 Trep_Strep ABC_tran ABC_membrane HTH_18 Phage_lysozyme2 CHAP ABC_tran ABC_tran CbiQ ABC_tran ABC_membrane
+NODE_1_length_6551_cov_17.231542_cutoff_20,Chromosome,0,FtsK_SpoIIIE
+NODE_1_length_34898_cov_15.267281_cutoff_5,Plasmid,2.67,PhageMin_Tail Phage_connect_1 Phage_portal Phage_Mu_F SSB ERF Phage_capsid Whib Sipho_tail CHAP DUF4214 ParBc HTH_36 Phage_lysozyme2
+NODE_2_length_30977_cov_37.209903_cutoff_5,Plasmid,43.71,TrbI VirB8 CagX T4SS-DNA_transf T4SS TrbL TrbC T2SSE CagE_TrbE_VirB VirB3 Peptidase_M23 TrbL DUF1738 MPTase-PolyVal MPTase-PolyVal DUF1738 MobA_MobL Topoisom_bac zf-C4_Topoisom Toprim SLT ToxN_toxin CbiA
+NODE_3_length_17870_cov_5.200472_cutoff_5,Chromosome,0,ABC_tran Peptidase_C39 ABC_tran ABC_membrane ABC_tran Radical_SAM B12-binding Bac_luciferase Peptidase_M20 Nitroreductase YcaO ABC2_membrane_3
+NODE_4_length_11233_cov_20.098871_cutoff_5,Plasmid,8.02,Rep_3 Phage_integrase ToxN_toxin
+NODE_5_length_2952_cov_16.846261_cutoff_5,Chromosome,0,SBP_bac_5 GST_N_2 GST_C_2
+NODE_6_length_2182_cov_5.916390_cutoff_5,Chromosome,0,AAA_21 RloB
+NODE_7_length_1766_cov_7.322084_cutoff_5,Chromosome,--
+NODE_8_length_1567_cov_2.112752_cutoff_5,Chromosome,--
+NODE_9_length_1367_cov_3.598450_cutoff_5,Chromosome,0,DUF4304 Tox-REase-9
+NODE_10_length_1329_cov_2.307508_cutoff_5,Chromosome,--
+NODE_11_length_1311_cov_10.615883_cutoff_5,Chromosome,0,Flagellin_N Flagellin_C
+NODE_12_length_1286_cov_2.081059_cutoff_5,Chromosome,0,MucBP MucBP MucBP MucBP MucBP

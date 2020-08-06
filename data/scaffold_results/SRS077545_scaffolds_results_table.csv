@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_4588_cov_4.044558_cutoff_0,Chromosome,0,AAA_22 Rep_trans Rol_Rep_N
+NODE_2_length_1604_cov_6.516699_cutoff_0,Chromosome,0,Mub_B2 Mub_B2 MucBP_2 MucBP_2
+NODE_3_length_1091_cov_7.085799_cutoff_0,Chromosome,0,YadA_stalk
+NODE_4_length_986_cov_8.555556_cutoff_0,Chromosome,--
+NODE_5_length_986_cov_2.778878_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_6_length_971_cov_1.530201_cutoff_0,Chromosome,0,MtN3_slv
+NODE_7_length_938_cov_47.068525_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_8_length_875_cov_2.788221_cutoff_0,Chromosome,0,Rib Rib
+NODE_9_length_710_cov_1.306477_cutoff_0,Chromosome,--
+NODE_10_length_657_cov_1.063793_cutoff_0,Chromosome,--
+NODE_11_length_636_cov_1.164580_cutoff_0,Chromosome,0,DUF805 DUF805
+NODE_12_length_610_cov_1.258912_cutoff_0,Chromosome,--
+NODE_1_length_1604_cov_6.516699_cutoff_5,Chromosome,0,Mub_B2 Mub_B2 MucBP_2 MucBP_2
+NODE_2_length_1424_cov_6.008166_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_3_length_1097_cov_1.383333_cutoff_5,Chromosome,0,AgI_II_C2 FctA

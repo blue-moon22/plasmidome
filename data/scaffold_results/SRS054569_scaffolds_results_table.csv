@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2746_cov_90.988760_cutoff_91,Chromosome,0,DUF389 Ion_trans_2 DUF1211
+NODE_1_length_3024_cov_30.820835_cutoff_10,Chromosome,0,Pyr_redox_2 Pyr_redox_dim HMA MerR_1
+NODE_1_length_5726_cov_39.820676_cutoff_70,Chromosome,0,LANC_like Pkinase MFS_1 HTH_3
+NODE_1_length_9840_cov_25.427533_cutoff_0,Plasmid,5.35,Rep_3 AbiEii
+NODE_2_length_4809_cov_6.740068_cutoff_0,Plasmid,5.35,Rep_3 Cation_efflux ParE_toxin
+NODE_3_length_3213_cov_18.697704_cutoff_0,Plasmid,5.48,Rep_1
+NODE_4_length_1541_cov_1.503415_cutoff_0,Chromosome,--
+NODE_5_length_1067_cov_1.426263_cutoff_0,Chromosome,0,Trp_ring
+NODE_6_length_944_cov_2.096886_cutoff_0,Chromosome,--
+NODE_7_length_698_cov_2.566828_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_1_length_56255_cov_10.363025_cutoff_5,Chromosome,0,Terminase_1 Phage_portal Phage_capsid Peptidase_S78 Prophage_tail Gp58 Amidase_5 Acetyltransf_10 Collagen_bind Big_8 Gram_pos_anchor DUF1599 Phage_holin_6_1
+NODE_2_length_1797_cov_1.758721_cutoff_5,Chromosome,--
+NODE_3_length_1497_cov_2.240141_cutoff_5,Chromosome,0,Rhomboid
+NODE_4_length_1496_cov_16.120507_cutoff_5,Chromosome,--
+NODE_5_length_1215_cov_6.282074_cutoff_5,Chromosome,--

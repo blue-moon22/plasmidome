@@ -1,0 +1,36 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_3303_cov_85.725976_cutoff_118,Chromosome,0,tRNA_edit MULE
+NODE_1_length_54250_cov_48.235136_cutoff_54,Chromosome,-31.845593195873505,DUF3021 MecA Glycos_transf_4 ABC_tran UPF0051 Aminotran_5 NifU_N UPF0051 HSP33 ABC_tran DUF3013 Tyr_Deacylase Glyco_hydro_66 Flavodoxin_NdrI HD_4 RelA_SpoT TGS ACT_4 Methyltrans_RNA 5_nucleotid_C Metallophos Gram_pos_anchor NUDIX PrmA ABC-3 ABC_tran PTS_EIIC PTS_EIIA_1 PTS_EIIB Mem_trans Mem_trans PGI PTS_EIIA_2 PRD Mga HTH_11 adh_short MarR Dus BacA SBP_bac_3 BPD_transp_1 Gram_pos_anchor VanZ Ribosomal_S15 MFS_1 cNMP_binding HTH_Crp_2 Pep_deformylase PALP Thr_dehydrat_C Transposase_mut PTSIIA_gutA EIIBC-GUT_N EIIBC-GUT_C Exo_endo_phos DDE_Tnp_ISL3 HTH_Tnp_ISL3 zf-ISL3 SIS GATase_6 SIS GATase_7 GATase_4 Transposase_20 EII-GUT GutM
+NODE_1_length_49567_cov_19.150697_cutoff_10,Chromosome,0,ANT GDPD Glutaredoxin DUF669 DUF3987 Bro-N DNA_pol_A DNA_pol_A DNA_pol_A_exo1 AAA_24 dCMP_cyt_deam_1 SNF2_N PhageMin_Tail Whib dUTPase Hom_end Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_2_length_2392_cov_6.245788_cutoff_10,Chromosome,0,Phage_integrase Phage_int_SAM_4 Methylase_S
+NODE_3_length_1070_cov_20.761329_cutoff_10,Chromosome,0,YadA_stalk
+NODE_1_length_59309_cov_9.955328_cutoff_0,Chromosome,0,DUF927 Helicase_C SNF2_N PDDEXK_1 DUF5051 HicB DNA_pol_A Dam Phage_lysozyme DUF3310
+NODE_2_length_46397_cov_88.814162_cutoff_0,Plasmid,5.58,ERF RusA SSB Collagen_bind Big_8 ANT AntA Peptidase_M78 Resolvase Recombinase Zn_ribbon_recom Glyco_hydro_25 CHAP Spherulin4 Phage_holin_1 DUF1351 DUF859 DUF1366 Terminase_2 Phage_prot_Gp6 Terminase_6 Terminase_6C DUF4355 Phage_Mu_F Phage_cap_E Phage_connect_1 DUF1372 YopX DUF1340 DUF1642 Phage_TAC_12 Phage_tail_2 Prophage_tail Glucosaminidase CHAP Collagen Sipho_tail
+NODE_3_length_40803_cov_23.678436_cutoff_0,Chromosome,0,CHAP Phage_portal Terminase_1 Phage_capsid Peptidase_S78 Sipho_Gp37 Sipho_tail Phage_holin_Dp1
+NODE_4_length_35605_cov_21.761146_cutoff_0,Chromosome,0,SNF2_N VirE DUF2800 VRR_NUC DUF2786 DUF2815 GDPD Phage_prot_Gp6 DUF5309 NLPC_P60 Collar fn3 PG_binding_1 NLPC_P60
+NODE_5_length_6706_cov_14.995022_cutoff_0,Plasmid,9.00,NusG_II ParE_toxin Rep_3 MobA_MobL
+NODE_6_length_4624_cov_8.182978_cutoff_0,Plasmid,3.86,Mob_Pre ParE_toxin
+NODE_7_length_3044_cov_2.859117_cutoff_0,Plasmid,9.06,RepL Mob_Pre
+NODE_8_length_2825_cov_43.773654_cutoff_0,Plasmid,4.09,HTH_23 MobC
+NODE_9_length_1990_cov_5.856247_cutoff_0,Chromosome,--
+NODE_10_length_1407_cov_2.069925_cutoff_0,Chromosome,--
+NODE_11_length_1121_cov_1.572797_cutoff_0,Chromosome,--
+NODE_12_length_1053_cov_0.615779_cutoff_0,Chromosome,--
+NODE_13_length_809_cov_3.349727_cutoff_0,Chromosome,0,Rib Rib
+NODE_14_length_755_cov_1.489676_cutoff_0,Chromosome,--
+NODE_15_length_680_cov_1.283582_cutoff_0,Chromosome,--
+NODE_16_length_671_cov_1.639731_cutoff_0,Chromosome,--
+NODE_17_length_665_cov_0.955782_cutoff_0,Chromosome,--
+NODE_18_length_611_cov_1.308989_cutoff_0,Chromosome,0,WG_beta_rep WG_beta_rep WG_beta_rep WG_beta_rep WG_beta_rep WG_beta_rep
+NODE_19_length_608_cov_1.048964_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind
+NODE_20_length_593_cov_1.833333_cutoff_0,Chromosome,0,RicinB_lectin_2 RicinB_lectin_2
+NODE_21_length_589_cov_1.871094_cutoff_0,Chromosome,-8.721797529584581,Ribosomal_S20p Ribosomal_S20p
+NODE_22_length_581_cov_1.954365_cutoff_0,Chromosome,0,Big_2 Big_2
+NODE_1_length_91478_cov_8.122056_cutoff_5,Plasmid,3.02,Collagen Thy1 G5 DUF1064 DUF3799 ArdA DnaB_C Helicase_C ResIII DUF4494 DUF3310 DUF3310 AAA_24
+NODE_2_length_36138_cov_6.176895_cutoff_5,Chromosome,0,HTH_23 DUF1492 DUF4065 MethyltransfD12 DUF4406 Minor_capsid_2 Phage_capsid PEGA DUF3799 SSB ERCC4 zf-CHC2 DUF927 HTH_56 HTH_3 HTH_3 Peptidase_S24 SLT Phage_holin_Dp1 CW_7 Amidase_2 CW_7 Sipho_tail Sipho_Gp37 Phage_Gp15 PhageMin_Tail Phage_integrase Abi_2 Phage_GP20 Phage_min_cap2
+NODE_3_length_4584_cov_2.779454_cutoff_5,Plasmid,7.03,Relaxase Relaxase
+NODE_4_length_2837_cov_6.953261_cutoff_5,Chromosome,0,ABC_tran
+NODE_5_length_1630_cov_5.922086_cutoff_5,Plasmid,5.20,RepL
+NODE_6_length_1215_cov_3.403339_cutoff_5,Chromosome,--
+NODE_1_length_1903_cov_27.979189_cutoff_33,Chromosome,--
+NODE_1_length_2303_cov_12.321653_cutoff_15,Chromosome,--

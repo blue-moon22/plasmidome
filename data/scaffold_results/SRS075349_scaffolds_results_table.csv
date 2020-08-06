@@ -1,0 +1,13 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_8282_cov_3.033760_cutoff_0,Chromosome,-2.5577663053942086,Zot DUF1496 DUF2523 Secretin Phage_DNA_bind Phage_CRI Phage_X
+NODE_2_length_1797_cov_6.103488_cutoff_0,Chromosome,--
+NODE_3_length_1289_cov_5.186469_cutoff_0,Chromosome,--
+NODE_4_length_1091_cov_5.609467_cutoff_0,Chromosome,0,YadA_stalk
+NODE_5_length_998_cov_1.135722_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_992_cov_6.519126_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_7_length_875_cov_17.998747_cutoff_0,Chromosome,0,Rib Rib
+NODE_8_length_809_cov_1.714481_cutoff_0,Chromosome,--
+NODE_9_length_725_cov_2.814815_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_3282_cov_1.857098_cutoff_5,Plasmid,3.35,UPF0060 MerT MerR_1 HMA UPF0060
+NODE_2_length_1673_cov_5.562030_cutoff_5,Chromosome,0,Trp_ring
+NODE_3_length_1487_cov_21.614894_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk

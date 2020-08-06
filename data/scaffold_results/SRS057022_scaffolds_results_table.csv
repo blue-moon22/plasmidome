@@ -1,0 +1,30 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2400_cov_6.554886_cutoff_10,Chromosome,0,DDE_Tnp_ISL3 zf-ISL3 DUF4230
+NODE_1_length_6489_cov_6.048347_cutoff_0,Plasmid,2.52,RNA_helicase Rep_2
+NODE_2_length_5762_cov_5.336324_cutoff_0,Plasmid,5.20,Rep_trans Rol_Rep_N FtsK_SpoIIIE RepL
+NODE_3_length_5277_cov_3.086731_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans Rol_Rep_N PemK_toxin
+NODE_4_length_5261_cov_8.607253_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_5_length_4522_cov_4.191451_cutoff_0,Plasmid,16.45,MobC Replicase PriCT_1 HTH_11 Relaxase
+NODE_6_length_3895_cov_70.126244_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_7_length_3575_cov_5.392796_cutoff_0,Plasmid,5.35,Rep_3
+NODE_8_length_3493_cov_11.408372_cutoff_0,Plasmid,2.52,Rep_2
+NODE_9_length_3386_cov_5.373225_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_10_length_3025_cov_2.605495_cutoff_0,Chromosome,--
+NODE_11_length_2994_cov_1.885156_cutoff_0,Chromosome,0,RrnaAD rve HTH_38 Nitroreductase
+NODE_12_length_2987_cov_6.240550_cutoff_0,Plasmid,5.35,Rep_3
+NODE_13_length_1670_cov_9.761456_cutoff_0,Plasmid,6.72,Rib Rib Rib Big_3_3 Big_3_3 Big_3_2 Big_3_2 Rib
+NODE_14_length_1582_cov_1.778738_cutoff_0,Chromosome,0,LRR_5
+NODE_15_length_1144_cov_1.073102_cutoff_0,Chromosome,--
+NODE_16_length_1042_cov_0.985492_cutoff_0,Chromosome,--
+NODE_17_length_854_cov_1.563707_cutoff_0,Chromosome,--
+NODE_18_length_732_cov_0.980153_cutoff_0,Chromosome,--
+NODE_19_length_602_cov_2.194286_cutoff_0,Chromosome,--
+NODE_20_length_581_cov_1.029762_cutoff_0,Chromosome,0,Flg_new
+NODE_1_length_7274_cov_19.946922_cutoff_20,Chromosome,0,Redoxin ABC_tran Peptidase_C39 ABC_tran ComR_TPR
+NODE_1_length_4803_cov_22.160178_cutoff_5,Plasmid,5.35,Rep_3 Integrase_1 Phage_int_SAM_1 HTH_3
+NODE_2_length_3169_cov_5.972833_cutoff_5,Plasmid,5.48,Rep_1
+NODE_3_length_1972_cov_3.164116_cutoff_5,Chromosome,0,Transp_cyt_pur Transp_cyt_pur
+NODE_4_length_1745_cov_3.387890_cutoff_5,Chromosome,0,CAP
+NODE_5_length_1180_cov_1.404352_cutoff_5,Chromosome,0,PemK_toxin
+NODE_6_length_1150_cov_2.673812_cutoff_5,Chromosome,--
+NODE_7_length_1139_cov_7.338983_cutoff_5,Chromosome,0,Mub_B2 MucBP_2 MucBP_2

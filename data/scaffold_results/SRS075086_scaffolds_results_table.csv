@@ -1,0 +1,21 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1487_cov_38.457447_cutoff_10,Chromosome,--
+NODE_1_length_44429_cov_40.803211_cutoff_0,Plasmid,2.67,SSB Glyco_hydro_25 LAGLIDADG_3 HTH_8 Spherulin4 Phage_capsid Phage_Gp19 DUF5403 HTH_36 DnaB_C HNH HNH Collar Phage_r1t_holin Phage_prot_Gp6 LAGLIDADG_3 DUF3310 ERF
+NODE_2_length_5701_cov_17.479374_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_3_length_3007_cov_7.093174_cutoff_0,Plasmid,7.61,Relaxase MobC
+NODE_4_length_2942_cov_12.264572_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_2822_cov_5.334791_cutoff_0,Plasmid,5.35,Rep_3
+NODE_6_length_1892_cov_9.377410_cutoff_0,Plasmid,5.20,RepL
+NODE_7_length_1381_cov_17.845859_cutoff_0,Plasmid,5.20,RepL
+NODE_8_length_1353_cov_22.365204_cutoff_0,Chromosome,0,Big_6 Big_6 Big_6 Big_6 Big_6 Big_6
+NODE_9_length_1205_cov_1.585106_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_10_length_995_cov_4.348584_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_11_length_826_cov_1.736983_cutoff_0,Chromosome,--
+NODE_1_length_2747_cov_46.545693_cutoff_42,Chromosome,0,DUF389 Ion_trans_2 DUF1211
+NODE_1_length_7589_cov_7.654819_cutoff_5,Plasmid,5.35,HTH_3 TfoX_N Rep_3 ABC_tran ABC_tran ABC_tran
+NODE_2_length_1670_cov_10.624608_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_3_length_1424_cov_7.121752_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_4_length_1204_cov_2.249335_cutoff_5,Chromosome,-4.850336367898969,DUF1176 DUF1176
+NODE_5_length_1199_cov_2.146168_cutoff_5,Chromosome,0,N_methyl N_methyl
+NODE_6_length_1136_cov_7.409821_cutoff_5,Chromosome,0,Trp_ring Trp_ring
+NODE_1_length_44429_cov_40.803211_cutoff_15,Plasmid,2.67,DUF3310 Collar Glyco_hydro_25 HNH ERF LAGLIDADG_3 Phage_r1t_holin Phage_Gp19 Phage_capsid DUF5403 HTH_36 DnaB_C Phage_prot_Gp6 HNH SSB HTH_8 Spherulin4 LAGLIDADG_3

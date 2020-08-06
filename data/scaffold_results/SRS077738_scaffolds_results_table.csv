@@ -1,0 +1,11 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1424_cov_26.494432_cutoff_10,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_1_length_42247_cov_6.001992_cutoff_0,Plasmid,2.67,DUF3310 ERF Phage_capsid Phage_Gp19 Phage_prot_Gp6 Glyco_hydro_25 Phage_r1t_holin TIG Collar DUF5403 DnaB_C HTH_8 SSB Spherulin4
+NODE_2_length_4127_cov_3.046914_cutoff_0,Chromosome,0,DUF3349 PHO4
+NODE_3_length_3918_cov_9.037230_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_4_length_2772_cov_1.069017_cutoff_0,Plasmid,5.35,Rep_3 HigB-like_toxin HTH_3
+NODE_5_length_1592_cov_16.127393_cutoff_0,Chromosome,--
+NODE_6_length_981_cov_1.835177_cutoff_0,Chromosome,--
+NODE_7_length_698_cov_11.019324_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_1_length_1952_cov_2.399467_cutoff_5,Chromosome,--
+NODE_2_length_1697_cov_2.662346_cutoff_5,Chromosome,--

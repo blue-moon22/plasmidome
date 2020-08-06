@@ -1,0 +1,40 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_16797_cov_96.455203_cutoff_91,Chromosome,-41.353031778371445,SecE RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 NusG KOW Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 Ribosomal_S7 Ribosom_S12_S23 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2
+NODE_1_length_1511_cov_10.297768_cutoff_10,Chromosome,--
+NODE_1_length_2878_cov_75.380221_cutoff_70,Chromosome,0,ABC_tran
+NODE_1_length_37124_cov_6.388372_cutoff_0,Chromosome,0,P22_CoatProtein CHAP NLPC_P60 SSB ROS_MUCR HTH_3 Phage_integrase HTH_3 HTH_3 HTH_17 Phage_prot_Gp6
+NODE_2_length_26659_cov_4.306674_cutoff_0,Plasmid,5.82,PcfJ Phage_integrase PcfK ANT AntA Phage_integrase Glyco_hydro_25 LysM LysM DUF739 HTH_3 Peptidase_S24 Phage_capsid Phage_portal Terminase_1 Peptidase_S78 HNH Baseplate
+NODE_3_length_6876_cov_13.485807_cutoff_0,Plasmid,5.35,Rep_3 ABC2_membrane_3 adh_short_C2 ComR_TPR ABC_tran
+NODE_4_length_5732_cov_2.772414_cutoff_0,Plasmid,2.52,FtsK_SpoIIIE Rep_2 RNA_helicase
+NODE_5_length_4759_cov_2.852200_cutoff_0,Plasmid,10.69,CRISPR_Cas2 Rep_3 Rep_3
+NODE_6_length_4445_cov_4.062271_cutoff_0,Chromosome,0,ABC_tran Pyr_redox_2 Pyr_redox_dim NMT1 BPD_transp_1
+NODE_7_length_3444_cov_2.548857_cutoff_0,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_8_length_3438_cov_24.675394_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_9_length_3305_cov_2.074349_cutoff_0,Plasmid,3.35,HMA UPF0060 MerR_1 MerT
+NODE_10_length_1937_cov_2.298925_cutoff_0,Plasmid,8.84,HTH_23 Replicase PriCT_1
+NODE_11_length_1634_cov_0.833654_cutoff_0,Chromosome,0,Big_3
+NODE_12_length_1313_cov_2.714401_cutoff_0,Chromosome,0,He_PIG
+NODE_13_length_1097_cov_2.660784_cutoff_0,Chromosome,--
+NODE_14_length_1070_cov_7.112790_cutoff_0,Chromosome,0,YadA_stalk
+NODE_15_length_1029_cov_0.788866_cutoff_0,Chromosome,0,PIN PIN MazE_antitoxin
+NODE_16_length_967_cov_1.097753_cutoff_0,Chromosome,--
+NODE_17_length_952_cov_2.499429_cutoff_0,Chromosome,--
+NODE_18_length_890_cov_2.947109_cutoff_0,Chromosome,--
+NODE_19_length_782_cov_3.103546_cutoff_0,Chromosome,--
+NODE_20_length_746_cov_1.284006_cutoff_0,Chromosome,--
+NODE_21_length_704_cov_1.792663_cutoff_0,Chromosome,0,Big_6
+NODE_22_length_698_cov_1.753623_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_23_length_671_cov_2.838384_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind
+NODE_24_length_638_cov_3.525847_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_25_length_591_cov_2.784047_cutoff_0,Chromosome,--
+NODE_1_length_39423_cov_14.318533_cutoff_5,Chromosome,0,Phage_holin_Dp1 Sipho_Gp37 Sipho_tail CHAP Phage_capsid Peptidase_S78 Terminase_1 Phage_portal HNH_3
+NODE_2_length_37124_cov_6.388372_cutoff_5,Chromosome,0,HTH_3 CHAP NLPC_P60 ROS_MUCR Phage_integrase HTH_3 Phage_prot_Gp6 P22_CoatProtein HTH_3 HTH_17 SSB
+NODE_3_length_36993_cov_6.828177_cutoff_5,Chromosome,-2.4971416835774463,DUF4406 Phage_r1t_holin NYN Phage_integrase Phage_int_SAM_5 HTH_3 HTH_3 Peptidase_S24 Minor_capsid_2 Phage_Gp15 PhageMin_Tail Sipho_tail Sipho_Gp37 SLT SSB ERCC4 DUF3799 KTSC zf-CHC2 DUF927 HTH_56 HTH_3 DUF1492 DUF4065 Glyco_hydro_25 CW_binding_2 CW_binding_2 CW_binding_2 HTH_3 HTH_23 Phage_min_cap2 YjcQ Phage_capsid PEGA Phage_GP20
+NODE_4_length_16515_cov_8.345541_cutoff_5,Chromosome,0,Phage_integrase Amidase_2 Phage_portal Peptidase_S78 HNH
+NODE_5_length_11753_cov_3.061322_cutoff_5,Chromosome,0,Big_9 Big_9 fn3 Big_9 Big_9 Big_9 Cadherin_4 Cadherin_4 Cadherin_4 Pkinase DUF58 Transglut_core DUF58
+NODE_6_length_6732_cov_4.516905_cutoff_5,Plasmid,5.93,Resolvase HTH_7
+NODE_7_length_6579_cov_22.961704_cutoff_5,Plasmid,5.93,FtsK_SpoIIIE Resolvase HTH_7
+NODE_8_length_3808_cov_5.272313_cutoff_5,Plasmid,10.69,Phage_int_SAM_1 Rep_3 Rep_3
+NODE_9_length_1974_cov_5.341065_cutoff_5,Chromosome,--
+NODE_1_length_1695_cov_34.956737_cutoff_33,Chromosome,--
+NODE_1_length_1322_cov_36.059438_cutoff_15,Chromosome,0,Peptidase_S8

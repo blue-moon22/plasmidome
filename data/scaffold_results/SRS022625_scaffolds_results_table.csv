@@ -1,0 +1,17 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_60241_cov_4.642893_cutoff_0,Plasmid,3.57,DUF1642 DUF1642 Phage_lysozyme2 HTH_19 DNA_pol_A_exo1 DNA_pol_A PDDEXK_1 DUF3310 DHFR_1 dUTPase AAA_24 LAGLIDADG_3 AAA_25 RepB_primase HNH_3 DUF3882 Phage_holin_Dp1 Amidase_2 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 BspA_v
+NODE_2_length_33561_cov_3.380480_cutoff_0,Plasmid,3.57,Amidase_2 AAA_25 RepB_primase PDDEXK_1 AAA_24 Terminase_6C Terminase_6 Thymidylat_synt dUTPase_2 Helicase_C SNF2_N DNA_pol_A DNA_pol_A_exo1 Prophage_tail Phage_capsid
+NODE_3_length_1643_cov_3.807791_cutoff_0,Chromosome,0,YadA_stalk
+NODE_4_length_1514_cov_1.847599_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_5_length_1058_cov_1.197757_cutoff_0,Chromosome,0,Big_6
+NODE_6_length_935_cov_1.470862_cutoff_0,Chromosome,--
+NODE_7_length_887_cov_7.562963_cutoff_0,Chromosome,--
+NODE_8_length_806_cov_2.325103_cutoff_0,Chromosome,--
+NODE_9_length_800_cov_1.450899_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_10_length_734_cov_0.881279_cutoff_0,Chromosome,--
+NODE_11_length_704_cov_0.917065_cutoff_0,Chromosome,--
+NODE_12_length_594_cov_0.348162_cutoff_0,Chromosome,--
+NODE_1_length_1424_cov_30.128434_cutoff_20,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_1_length_228035_cov_24.063301_cutoff_5,Chromosome,-5.74457690514668,phiKZ_IP phiKZ_IP SmpA_OmlA Endonuclease_NS Peptidase_S74 HNH_3 NUMOD1 CHAP DPBB_1 Peptidase_S74 Peptidase_S74 RNase_H DNA_pol_B_exo1 RNA_pol_Rpb2_6 DUF1353 Glyco_hydro_108 PG_binding_3 Thymidylate_kin Peptidase_M48 Glyco_hydro_20 HNH_3 YadA_anchor YadA_stalk YadA_stalk YadA_head YadA_head YadA_head
+NODE_2_length_60673_cov_4.804129_cutoff_5,Chromosome,0,HTH_24 DUF1599 Terminase_1 Phage_portal DUF859 DUF1366 Prophage_tail CHAP Phage_holin_1 Sipho_tail Big_8 Collagen_bind Gram_pos_anchor CHAP SH3_5 Phage_capsid Peptidase_S78
+NODE_3_length_10130_cov_5.731921_cutoff_5,Plasmid,8.02,ToxN_toxin N6_Mtase Phage_integrase Rep_3

@@ -1,0 +1,30 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_64250_cov_457.878126_cutoff_54,Plasmid,3.57,Glyco_hydro_25 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 DUF3310 dUTPase Phage_holin_Dp1 DHFR_1 PDDEXK_1 DUF1642 HTH_19 AAA_24 DNA_pol_A DNA_pol_A DNA_pol_A_exo1 AAA_25 RepB_primase Phage_lysozyme2 DUF3882
+NODE_1_length_38752_cov_11.183142_cutoff_0,Chromosome,0,RusA Phage_capsid Peptidase_S78 YqaJ Terminase_1 DUF3310 Phage_portal Sipho_tail HNH HTH_36 Amidase_2 RecT SSB Sipho_Gp37 Pectate_lyase_3
+NODE_2_length_8805_cov_4.708983_cutoff_0,Chromosome,0,Phage_X Phage_CRI Putative_G5P DUF3892 Zot Secretin DUF2523
+NODE_3_length_4643_cov_19.182873_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_4_length_4231_cov_22.304285_cutoff_0,Plasmid,5.35,ParE_toxin Rep_3 Cation_efflux
+NODE_5_length_3280_cov_4.381830_cutoff_0,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_6_length_3128_cov_2.972468_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_7_length_2628_cov_2.705606_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_8_length_1895_cov_4.925743_cutoff_0,Chromosome,--
+NODE_9_length_1848_cov_4.653868_cutoff_0,Chromosome,--
+NODE_10_length_1605_cov_10.537304_cutoff_0,Chromosome,--
+NODE_11_length_1474_cov_2.814603_cutoff_0,Chromosome,--
+NODE_12_length_1227_cov_3.673043_cutoff_0,Chromosome,--
+NODE_13_length_1037_cov_17.340625_cutoff_0,Chromosome,--
+NODE_14_length_1000_cov_1.242687_cutoff_0,Chromosome,--
+NODE_15_length_992_cov_11.601093_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_16_length_973_cov_1.036830_cutoff_0,Chromosome,--
+NODE_17_length_969_cov_1.348655_cutoff_0,Chromosome,--
+NODE_18_length_830_cov_1.960159_cutoff_0,Chromosome,0,LRR_5
+NODE_19_length_701_cov_2.900641_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_20_length_695_cov_3.778317_cutoff_0,Chromosome,0,GA
+NODE_21_length_630_cov_1.732369_cutoff_0,Chromosome,-4.042041074870221,NAD_Gly3P_dh_N
+NODE_22_length_608_cov_2.030132_cutoff_0,Chromosome,-3.6095472943785776,Kdo
+NODE_23_length_602_cov_8.516190_cutoff_0,Chromosome,--
+NODE_24_length_602_cov_4.459048_cutoff_0,Chromosome,0,FIVAR FIVAR FIVAR
+NODE_1_length_4814_cov_1.150095_cutoff_5,Chromosome,0,Bac_luciferase BPD_transp_1 LysR_substrate HTH_1 ABC_tran ABC_tran oligo_HPY oligo_HPY
+NODE_2_length_1871_cov_2.761427_cutoff_5,Chromosome,0,SHMT Sua5_yciO_yrdC SHMT
+NODE_3_length_1232_cov_1.714286_cutoff_5,Chromosome,-12.380441371890043,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_1_length_1424_cov_41.789903_cutoff_15,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP

@@ -1,0 +1,34 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_17014_cov_76.168979_cutoff_91,Chromosome,-43.75173338913507,NusG KOW Ribosomal_L11_N Ribosomal_L11 SecE GTP_EFTU_D3 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 Ribosomal_L1 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 Ribosomal_S7 Ribosom_S12_S23 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2
+NODE_1_length_19369_cov_18.012078_cutoff_10,Plasmid,14.85,HTH_36 SSB AAA_10 NLPC_P60 SLT SLT_2 Phage_integrase TrwB_AAD_bind Resolvase HTH_7 HTH_38 HTH_23 RHH_1 AAA_31
+NODE_2_length_1925_cov_10.422619_cutoff_10,Chromosome,--
+NODE_1_length_19790_cov_12.042713_cutoff_0,Plasmid,24.14,MobC T4SS-DNA_transf DUF3801 NLPC_P60 SLT SLT_2 AAA_31 Relaxase Zeta_toxin ParB_C AAA_31 Resolvase HTH_7
+NODE_2_length_8238_cov_5.142875_cutoff_0,Chromosome,0,Secretin DUF2523 Zot DUF2158 Phage_X Phage_CRI Putative_G5P
+NODE_3_length_5334_cov_2.672627_cutoff_0,Plasmid,5.20,RepL FtsK_SpoIIIE Rep_trans
+NODE_4_length_5303_cov_10.388634_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase FtsK_SpoIIIE
+NODE_5_length_4133_cov_4.750740_cutoff_0,Plasmid,3.86,Mob_Pre
+NODE_6_length_3587_cov_21.844729_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_7_length_2691_cov_3.591048_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_8_length_2317_cov_14.573214_cutoff_0,Chromosome,--
+NODE_9_length_2275_cov_13.554595_cutoff_0,Chromosome,0,Rep_trans
+NODE_10_length_1895_cov_307.846535_cutoff_0,Chromosome,--
+NODE_11_length_1847_cov_260.712429_cutoff_0,Chromosome,--
+NODE_12_length_1688_cov_2.443824_cutoff_0,Chromosome,0,YadA_stalk
+NODE_13_length_1572_cov_1.668896_cutoff_0,Chromosome,--
+NODE_14_length_1377_cov_2.463077_cutoff_0,Chromosome,--
+NODE_15_length_1334_cov_2.860780_cutoff_0,Chromosome,--
+NODE_16_length_929_cov_0.940141_cutoff_0,Chromosome,0,Rib Rib
+NODE_17_length_716_cov_1.342723_cutoff_0,Chromosome,0,SpaA
+NODE_18_length_650_cov_1.490401_cutoff_0,Chromosome,0,MucBP MucBP MucBP
+NODE_1_length_1430_cov_70.245381_cutoff_26,Chromosome,--
+NODE_1_length_23216_cov_33.282337_cutoff_42,Chromosome,-53.24276631861784,Ribosomal_L12 Ribosomal_L12_N COX1 Ribosomal_L33 GTP_EFTU_D3 Ribosomal_L11_N Ribosomal_L11 Ribosomal_L1 SecE NusG KOW Ribosomal_L10 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 Ribosomal_L7Ae Ribosom_S12_S23 Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 PMT_2 Lyase_1 FumaraseC_C RNA_pol_Rpb2_6 RNA_pol_Rpb2_3 RNA_pol_Rpb2_45 RNA_pol_Rpb2_1 RNA_pol_Rpb2_7 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_5 RNA_pol_Rpb1_4
+NODE_1_length_3376_cov_15.363747_cutoff_20,Chromosome,--
+NODE_1_length_25456_cov_10.232397_cutoff_5,Plasmid,30.07,HTH_3 Zeta_toxin Zeta_toxin AAA_31 Relaxase MobC HTH_36 HTH_17 T4SS-DNA_transf AAA_31 TrbL PrgI CHAP RepA_C
+NODE_2_length_19790_cov_12.042713_cutoff_5,Plasmid,24.14,AAA_31 Resolvase HTH_7 Zeta_toxin ParB_C AAA_31 Relaxase MobC T4SS-DNA_transf DUF3801 NLPC_P60 SLT SLT_2
+NODE_3_length_16469_cov_5.628050_cutoff_5,Chromosome,0,Helicase_C AAA_30 ResIII ResIII YopX
+NODE_4_length_4895_cov_8.850145_cutoff_5,Plasmid,7.61,MobC Relaxase
+NODE_5_length_3574_cov_15.957678_cutoff_5,Plasmid,5.35,Rep_3
+NODE_6_length_2931_cov_18.117029_cutoff_5,Plasmid,3.86,Mob_Pre
+NODE_7_length_2128_cov_1.854705_cutoff_5,Chromosome,--
+NODE_8_length_1521_cov_13.188366_cutoff_5,Chromosome,0,VbhA Fic
+NODE_1_length_1078_cov_16.138861_cutoff_15,Chromosome,--

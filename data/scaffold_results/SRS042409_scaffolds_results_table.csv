@@ -1,0 +1,13 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_4724_cov_22.856036_cutoff_0,Chromosome,0,Rep_trans
+NODE_2_length_4471_cov_32.165453_cutoff_0,Plasmid,5.35,Integrase_1 Phage_int_SAM_1 HTH_3 Rep_3
+NODE_3_length_3280_cov_7.340306_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_4_length_3128_cov_5.421829_cutoff_0,Plasmid,10.69,Rep_3 VbhA Rep_3
+NODE_5_length_2545_cov_1.724068_cutoff_0,Plasmid,5.48,Rep_1
+NODE_6_length_1592_cov_2.128053_cutoff_0,Chromosome,--
+NODE_7_length_680_cov_0.985075_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_8_length_632_cov_2.482883_cutoff_0,Chromosome,--
+NODE_1_length_3722_cov_16.454047_cutoff_5,Plasmid,5.35,ParE_toxin Rep_3
+NODE_2_length_2397_cov_4.276724_cutoff_5,Chromosome,0,DUF637 PT-VENN DUF637
+NODE_3_length_1309_cov_2.605519_cutoff_5,Chromosome,0,DUF4189
+NODE_1_length_1643_cov_50.022350_cutoff_15,Chromosome,0,YadA_stalk

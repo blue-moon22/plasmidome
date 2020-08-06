@@ -1,0 +1,7 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_14779_cov_108.923752_cutoff_118,Chromosome,0,T2SS-T3SS_pil_N NlpE Peptidase_C11 TonB_dep_Rec Plug
+NODE_2_length_5671_cov_1337.591169_cutoff_118,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_1_length_9194_cov_94.615663_cutoff_0,Plasmid,5.35,Gp49 HTH_3 GerE Rep_3
+NODE_2_length_3132_cov_21.058265_cutoff_0,Plasmid,14.56,Rep_3 Mob_Pre Rep_3
+NODE_1_length_3941_cov_46.768116_cutoff_42,Chromosome,0,SWI2_SNF2 EcoR124_C HSDR_N
+NODE_1_length_2954_cov_3.720890_cutoff_5,Chromosome,0,Response_reg HATPase_c HisKA PAS_3 SnoaL_3

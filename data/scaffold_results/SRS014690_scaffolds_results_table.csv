@@ -1,0 +1,25 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_238446_cov_30.412835_cutoff_10,Plasmid,8.25,Ribonuc_red_sm Ribonuc_red_sm Ribonuc_red_sm YopX DUF3310 SNF2_N Helicase_C zf-CHC2 DnaB_C OrfB_Zn_ribbon Y1_Tnp Peptidase_S26 ATP-cone OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 MazE_antitoxin OrfB_Zn_ribbon OrfB_IS605 UvrD-helicase Gram_pos_anchor AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2 Antigen_C Adhesin_P1_N Gram_pos_anchor DNA_methylase Resolvase MerR MerR_1 OrfB_IS605 OrfB_Zn_ribbon FHA CHAP Resolvase MerR_1 DNA_methylase HTH_OrfB_IS605 OrfB_IS605 5_3_exonuc_N Cauli_VI RNase_H Glutaredoxin DNA_pol3_delta2 Bac_DNA_binding DnaJ YopX DUF1002 DHFR_1 Toprim_2 SpoVG DUF262 HNH N6_N4_Mtase DUF3850 Fic DNA_pol_A DNA_pol_A_exo1 CHAP Resolvase FtsK_SpoIIIE OrfB_IS605 OrfB_Zn_ribbon DNA_methylase YdjM Pkinase Phage_lysozyme2 HD PP2C_2 Metallophos DUF975
+NODE_2_length_5351_cov_4.743269_cutoff_10,Chromosome,0,FtsK_SpoIIIE
+NODE_3_length_2448_cov_6.718262_cutoff_10,Chromosome,--
+NODE_1_length_334782_cov_10.047481_cutoff_0,Chromosome,-4.496535978542369,AAA_23 AAA_31 Thioredoxin_4 DnaB_C DnaB TrbL RecA AAA_10 TcpE Thymidylat_synt Thymidylat_synt GDP_Man_Dehyd Band_7 Bax1-I DNA_topoisoIV RNA_ligase Peptidase_S24 YqeY OrfB_Zn_ribbon YpsA SfsA OrfB_Zn_ribbon Resolvase MerR_1 MerR SfsA_N MerR Resolvase Endonuclea_NS_2 RNase_T Metallophos Macro DHFR_1 PolyA_pol PolyA_pol_RNAbd Thg1 Thg1C Resolvase MerR HTH_17 MerR_1 NRDD ATP-cone Ribonuc_red_sm OrfB_IS605 OrfB_Zn_ribbon HAD TelA THF_DHG_CYH_C THF_DHG_CYH SecA_DEAD SecA_SW SecA_SW Helicase_C DUF262 SecY OrfB_IS605 OrfB_Zn_ribbon RNA_ligase HAD_SAK_2 HTH_19 DNA_pol3_delta2 MS_channel PFL-like Gly_radical Sortase PHP DNA_pol3_alpha YiaAB T2SSE T2SSE OrfB_Zn_ribbon HD_4 Zeta_toxin G5 G5 CAP G5 G5 G5 PC4 Bac_DNA_binding OrfB_IS605 OrfB_Zn_ribbon GreA_GreB_N GreA_GreB LytR_cpsA_psr DUF1768 PASTA RNA_lig_T4_1 Resolvase 5_3_exonuc_N Transgly Transpeptidase OrfB_Zn_ribbon HTH_OrfB_IS605 YdjM PIF1 Acetyltransf_1 DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT dTDP_sugar_isom Fer4_12 PDDEXK_4 DUF2828 DUF2828 Epimerase AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2 AgI_II_C2 Antigen_C Adhesin_P1_N Gram_pos_anchor DNA_gyraseB DNA_gyraseB_C Toprim Ribonuc_red_lgC RNR_N Ribonuc_red_lgN OrfB_IS605 AAA_33 SLT FtsK_SpoIIIE NERD Chordopox_E11 CHAP Sigma70_r2 KTSC DUF975 PDDEXK_1 zf-CHC2 Toprim_N Toprim_4 Toprim_2 CHAP DHFR_1 NDK Rotamase_2 RNase_T DNA_pol3_finger DNA_pol3_alpha HHH_6 HD TraG-D_C DUF2263 TrbL CPBP dUTPase Glutaredoxin PspC Gram_pos_anchor Metallophos AAA_5 Helicase_C DEAD ResIII Peptidase_S24 NTP_transferase ThiF GDP_Man_Dehyd NTP_transferase FemAB Methyltransf_23 SSB Pyr_redox_2 Flavodoxin_NdrI
+NODE_2_length_13173_cov_3.468845_cutoff_0,Plasmid,5.35,Rep_3 AbiEii ComR_TPR HTH_31 ABC_tran ABC2_membrane_3
+NODE_3_length_7566_cov_24.496194_cutoff_0,Plasmid,14.56,Rep_3 Mob_Pre Rep_3
+NODE_4_length_3787_cov_7.361456_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_5_length_3096_cov_2.130507_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_6_length_1808_cov_3.391103_cutoff_0,Chromosome,0,DUF389 DUF389
+NODE_7_length_1157_cov_1.658333_cutoff_0,Chromosome,0,TPM_phosphatase
+NODE_8_length_1091_cov_3.121302_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_9_length_835_cov_2.143799_cutoff_0,Chromosome,--
+NODE_10_length_756_cov_1.104566_cutoff_0,Chromosome,--
+NODE_11_length_725_cov_1.407407_cutoff_0,Chromosome,--
+NODE_12_length_713_cov_1.025157_cutoff_0,Chromosome,0,Big_6
+NODE_13_length_626_cov_2.856102_cutoff_0,Chromosome,0,Lipoprotein_Ltp Lipoprotein_Ltp
+NODE_1_length_10597_cov_23.811027_cutoff_26,Chromosome,0,CHU_C
+NODE_1_length_66710_cov_19.077994_cutoff_5,Chromosome,-6.7943416391899305,LAGLIDADG_3 Terminase_6C DUF5309 SNF2_N Helicase_C DUF370 dUTPase SSB Thy1 RNR_Alpha ATP-cone Ribonuc_red_lgC Rad52_Rad22 DNA_pol3_alpha DNA_pol3_finger PHP DnaB_C zf-CHC2 Toprim_2 Toprim_N Toprim_4 LAGLIDADG_3 HTH_24 Amidase_2 Phage_lysozyme2 Collagen Collagen
+NODE_2_length_3730_cov_15.737202_cutoff_5,Chromosome,0,Type_ISP_C N6_Mtase
+NODE_3_length_2895_cov_53.306955_cutoff_5,Chromosome,--
+NODE_4_length_1923_cov_3.670098_cutoff_5,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1 Amidase_3 CW_binding_1
+NODE_5_length_1424_cov_9.765405_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_6_length_1153_cov_3.898699_cutoff_5,Chromosome,--
+NODE_1_length_2301_cov_26.610612_cutoff_33,Chromosome,--

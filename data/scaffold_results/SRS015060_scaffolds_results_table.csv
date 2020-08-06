@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_39830_cov_199.183885_cutoff_118,Chromosome,0.47726211149166886,DUF1351 YopX DUF1372 MazG DUF1642 DUF3882 DUF3310 AlphaC_C Rho_N DUF3799 DNA_methylase Phage_tail_3 Phage_holin_1 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 HK97-gp10_like DUF4355 Peptidase_S74 Phage_prot_Gp6 RecT Phage_Mu_F Terminase_2 DUF1492 Band_7 Mtd_N Gp58 Resolvase Recombinase Zn_ribbon_recom CD20 Peptidase_S24 HTH_3 HTH_26 HTH_24 HTH_3 Terminase_3 Terminase_3C
+NODE_1_length_71669_cov_26.748003_cutoff_0,Plasmid,3.98,SLT RNase_H DUF2201_N DUF2201 Thy1 Bac_DNA_binding DNA_pol_A DNA_pol_A_exo1 NUMOD4 HNH_3 RNA_pol DUF1768 Glyco_hydro_19 Ribonuc_red_sm PriCT_1 AAA_24 DUF3310
+NODE_2_length_63071_cov_39.930803_cutoff_0,Plasmid,3.57,Phage_holin_Dp1 BspA_v BspA_v Glyco_hydro_25 GbpC Glucosaminidase AAA_24 dUTPase DUF3310 PDDEXK_1 DNA_pol_A AAA_25 RepB_primase DUF1642 Big_8 Collagen_bind DNA_pol_A DNA_pol_A_exo1 RuvC HNH_3
+NODE_3_length_43486_cov_148.493492_cutoff_0,Plasmid,2.67,HTH_17 SSB Glyco_hydro_25 Phage_r1t_holin Spherulin4 DUF3310 Collar DUF5403 Phage_prot_Gp6 Phage_capsid LAGLIDADG_3 Phage_Gp19 TIG Bro-N ANT DnaB_C ERF
+NODE_4_length_43409_cov_42.709314_cutoff_0,Chromosome,0,Sipho_tail Sipho_Gp37 Sipho_Gp37 Phage_holin_Dp1 GDPD HNH_3 HNH_3 Phage_portal Terminase_1 Phage_capsid Peptidase_S78
+NODE_5_length_15689_cov_2.408596_cutoff_0,Plasmid,3.26,Fil_haemagg_2 Fil_haemagg_2 PT-VENN Fil_haemagg_2 Fil_haemagg_2 Haemagg_act ShlB POTRA_3 POTRA_2 YafQ_toxin RelB DUF5397 RPA
+NODE_6_length_4570_cov_42.706432_cutoff_0,Plasmid,5.35,ParE_toxin Cation_efflux Rep_3
+NODE_7_length_1544_cov_9.501022_cutoff_0,Chromosome,--
+NODE_8_length_1449_cov_3.564140_cutoff_0,Chromosome,0,CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_9_length_1301_cov_0.966503_cutoff_0,Chromosome,0,HisKA_3
+NODE_10_length_1112_cov_2.904348_cutoff_0,Chromosome,0,YadA_stalk
+NODE_11_length_1040_cov_4.362409_cutoff_0,Chromosome,--
+NODE_12_length_1031_cov_1.215933_cutoff_0,Chromosome,0,YadA_stalk
+NODE_13_length_710_cov_0.748815_cutoff_0,Chromosome,--
+NODE_1_length_8282_cov_12.949421_cutoff_5,Chromosome,-2.5577663053942086,DUF1496 Phage_DNA_bind Phage_CRI Phage_X DUF2523 Zot Secretin
+NODE_2_length_6626_cov_8.088869_cutoff_5,Plasmid,6.45,TraD HTH_23 CRISPR_Cas2 MobA_MobL
+NODE_3_length_4971_cov_7.856150_cutoff_5,Chromosome,0,FtsK_SpoIIIE Rep_trans
+NODE_4_length_2317_cov_2.829911_cutoff_5,Chromosome,--
+NODE_5_length_1379_cov_3.222734_cutoff_5,Chromosome,--
+NODE_6_length_1166_cov_3.109275_cutoff_5,Chromosome,--
+NODE_7_length_1103_cov_4.012671_cutoff_5,Chromosome,0,SpaA SpaA SpaA
+NODE_8_length_1090_cov_2.276407_cutoff_5,Chromosome,0,Glycos_transf_2
+NODE_1_length_1292_cov_66.122634_cutoff_15,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk

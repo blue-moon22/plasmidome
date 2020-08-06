@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5585_cov_2.262164_cutoff_0,Plasmid,14.21,Rep_3 Relaxase Rep_3
+NODE_2_length_4225_cov_3.489634_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_3_length_2163_cov_4.014382_cutoff_0,Chromosome,0,RHS
+NODE_4_length_1797_cov_15.173837_cutoff_0,Chromosome,--
+NODE_5_length_1504_cov_2.511563_cutoff_0,Chromosome,--
+NODE_6_length_1487_cov_3.877305_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_1447_cov_1.115328_cutoff_0,Chromosome,--
+NODE_8_length_1067_cov_1.511111_cutoff_0,Chromosome,0,Big_6
+NODE_9_length_998_cov_2.705755_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_10_length_875_cov_7.402256_cutoff_0,Chromosome,0,Rib Rib
+NODE_11_length_701_cov_0.971154_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP
+NODE_12_length_659_cov_1.457045_cutoff_0,Chromosome,--
+NODE_13_length_632_cov_1.036036_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_14_length_623_cov_0.686813_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_1_length_132612_cov_5.401939_cutoff_5,Chromosome,0,T4-gp15_tss PARP T4_neck-protein Tn7_Tnp_TnsA_N GPW_gp25 dUTPase gp45-slide_C Thy1 AAA_28 DUF5051 Phage_DsbA RecA gp32 5_3_exonuc_N RNaseH_C UvsY Laminin_G_3 PAAR_motif Gp5_OB Peptidase_M15_3 DnaB_C dCMP_cyt_deam_1 RNA_ligase NosD T4_baseplate Gp23 Peptidase_S77 Peptidase_S80 Phage_T4_gp19 Phage_sheath_1 Phage_sheath_1C DUF4815 DUF4815 DUF4815 ResIII Helicase_C dCMP_cyt_deam_1 Ribonuc_red_sm Ribonuc_red_lgC Ribonuc_red_lgC Ribonuc_red_lgC Thioredoxin Laminin_G_3 DNA_pol_B AAA CLP_protease Metallophos PhoH T4_tail_cap Phage_gp53 Translat_reg AAA_23 DNA_ligase_A_M AAA_33 PDDEXK_1 Phage_clamp_A SprT-like DNA_pol_B DNA_pol_B_exo1 PARP Terminase_6C Terminase_6 Trans_coact
+NODE_2_length_3628_cov_4.206702_cutoff_5,Chromosome,0,Peptidase_S8 Peptidase_S8 Peptidase_S8
+NODE_3_length_2994_cov_3.278711_cutoff_5,Chromosome,0,Glycos_transf_1 Glyco_transf_4 Glycos_transf_2 Glycos_transf_2
+NODE_4_length_2519_cov_1.661343_cutoff_5,Chromosome,--
+NODE_5_length_1367_cov_1.559690_cutoff_5,Chromosome,0,DUF1310 DUF1310
+NODE_6_length_1314_cov_2.085691_cutoff_5,Chromosome,--
+NODE_7_length_1286_cov_4.370554_cutoff_5,Chromosome,0,MucBP MucBP MucBP MucBP MucBP MucBP
+NODE_8_length_1278_cov_3.288093_cutoff_5,Chromosome,--
+NODE_9_length_1168_cov_2.647113_cutoff_5,Chromosome,-2.540816747082557,MGS

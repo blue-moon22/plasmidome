@@ -1,0 +1,33 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_42699_cov_57.521843_cutoff_70,Plasmid,8.53,Baseplate_J DUF2577 DUF2634 LysM Phage_TAC_5 DUF2001 Phage_sheath_1 Phage_sheath_1C HK97-gp10_like YopX DUF1492 Terminase_2 Terminase_3 Terminase_3C Phage_prot_Gp6 Phage_Mu_F Phage_GP20 CHAP CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_1 DUF2335 RecT DUF1642 DUF3882 MazG DUF1372 PcfK DUF3799 PcfJ DUF3102 HTH_26 ORF6C HTH_26 Peptidase_M78 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4
+NODE_1_length_64250_cov_362.369314_cutoff_0,Plasmid,3.57,PDDEXK_1 DUF3310 dUTPase AAA_24 DHFR_1 DNA_pol_A DNA_pol_A DNA_pol_A_exo1 HTH_19 DUF1642 DUF3882 Glyco_hydro_25 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 AAA_25 RepB_primase Phage_lysozyme2 Phage_holin_Dp1
+NODE_2_length_38731_cov_234.259171_cutoff_0,Chromosome,0,HTH_36 Amidase_2 DUF3310 Pectate_lyase_3 YqaJ RusA Phage_capsid Peptidase_S78 Phage_portal Terminase_1 HNH Sipho_tail Sipho_Gp37 SSB RecT
+NODE_3_length_31767_cov_34.931966_cutoff_0,Chromosome,0,HK97-gp10_like PhageMin_Tail HTH_17 YqaJ DUF2190 Terminase_6C Terminase_6 Mu-like_gpT Spherulin4 DUF3310 RecT
+NODE_4_length_4643_cov_27.452694_cutoff_0,Chromosome,0,FtsK_SpoIIIE Rep_trans Rep_trans
+NODE_5_length_4231_cov_84.319451_cutoff_0,Plasmid,5.35,Cation_efflux ParE_toxin Rep_3
+NODE_6_length_3574_cov_4.007721_cutoff_0,Plasmid,5.35,Rep_3
+NODE_7_length_3128_cov_1.902327_cutoff_0,Plasmid,10.69,VbhA Rep_3 Rep_3
+NODE_8_length_1895_cov_4.088009_cutoff_0,Chromosome,--
+NODE_9_length_1490_cov_5.035386_cutoff_0,Chromosome,--
+NODE_10_length_1475_cov_10.381259_cutoff_0,Chromosome,--
+NODE_11_length_971_cov_8.244966_cutoff_0,Chromosome,0,DUF285
+NODE_12_length_830_cov_3.563081_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_13_length_776_cov_2.389127_cutoff_0,Chromosome,--
+NODE_14_length_771_cov_2.809798_cutoff_0,Chromosome,--
+NODE_15_length_725_cov_3.270062_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_16_length_713_cov_0.606918_cutoff_0,Chromosome,--
+NODE_17_length_700_cov_0.990369_cutoff_0,Chromosome,--
+NODE_18_length_683_cov_6.523102_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_19_length_620_cov_2.677716_cutoff_0,Chromosome,--
+NODE_20_length_605_cov_1.553030_cutoff_0,Chromosome,0,LTD
+NODE_21_length_602_cov_34.634286_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_22_length_602_cov_4.520000_cutoff_0,Chromosome,--
+NODE_23_length_581_cov_1.541667_cutoff_0,Chromosome,0,Lipoprotein_Ltp Lipoprotein_Ltp
+NODE_1_length_31587_cov_34.965059_cutoff_26,Chromosome,0,Mu-like_gpT HK97-gp10_like Terminase_6C Terminase_6 PhageMin_Tail Spherulin4 HTH_17 DUF3310 YqaJ RecT DUF2190
+NODE_1_length_3587_cov_5.413390_cutoff_5,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_2_length_1976_cov_2.036862_cutoff_5,Chromosome,0,Crystall
+NODE_3_length_1496_cov_1.789288_cutoff_5,Chromosome,--
+NODE_4_length_1289_cov_7.588284_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_5_length_1150_cov_9.552656_cutoff_5,Chromosome,0,TPR_8 TPR_8 TPR_8
+NODE_6_length_1090_cov_5.311945_cutoff_5,Chromosome,0,Glycos_transf_2
+NODE_1_length_1001_cov_65.307359_cutoff_15,Chromosome,-9.904353097512036,DUF1542 DUF1542 DUF1542 DUF1542

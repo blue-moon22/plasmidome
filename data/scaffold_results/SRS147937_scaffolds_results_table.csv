@@ -1,0 +1,32 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_36045_cov_151.213523_cutoff_91,Chromosome,0,PhageMin_Tail Phage_capsid Peptidase_S78 Amidase_2 DNA_pol_A DNA_pol_A_exo1 DUF2815 DUF3310 SNF2_N Terminase_1 Phage_portal DUF2800 Terminase_4 VirE
+NODE_1_length_44342_cov_77.323890_cutoff_54,Chromosome,0,DUF2800 HNH_3 NUMOD4 HNH_3 CHAP Spherulin4 Collagen Collagen GDPD Sipho_tail Sipho_Gp37 Phage_holin_Dp1 Terminase_1 Phage_portal Peptidase_S78 Phage_capsid
+NODE_1_length_43979_cov_18.834518_cutoff_10,Plasmid,2.67,Spherulin4 Phage_r1t_holin HTH_8 SSB ERF Phage_prot_Gp6 TIG DUF5403 Phage_Gp19 Phage_capsid Collar Glyco_hydro_25 HNH DUF3310 DnaB_C LAGLIDADG_3 Hom_end
+NODE_2_length_8282_cov_9.152590_cutoff_10,Chromosome,-2.5577663053942086,DUF1496 Phage_DNA_bind Phage_CRI Phage_X DUF2523 Zot Secretin
+NODE_3_length_2243_cov_6.842105_cutoff_10,Chromosome,0,Peptidase_M13 Peptidase_M13_N Peptidase_M13
+NODE_1_length_1082_cov_92.995025_cutoff_70,Plasmid,2.42,GAD-like DUF1851
+NODE_1_length_184620_cov_10.722054_cutoff_0,Chromosome,-2.0025479378967788,Peptidase_M23 Whirly SpoVG AdoMet_dc RNase_H Glutaredoxin LAGLIDADG_2 Ribonuc_red_lgC Ribonuc_red_lgC ThiF RVT_1 Prok-E2_D Tn7_Tnp_TnsA_N Intein_splicing DUF559 RuvC Phage_lysozyme HHH_6 Hydrolase_2 PDDEXK_1 DUF1768 Toprim_2 DnaB_C Toprim_N Phage_portal PRA-PH PHP DNA_pol3_alpha DNA_pol3_alpha LAGLIDADG_3 Helicase_RecD Terminase_6 HATPase_c_3 YadA_anchor YadA_stalk YadA_head DNA_pol3_alpha Spermine_synth Radical_SAM SNase Thymidylat_synt NAPRTase DUF5598 tRNA-synt_1g Peptidase_M23 Fer2_BFD DHFR_1 RecA Collagen Collagen Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN Band_7
+NODE_2_length_43979_cov_18.834518_cutoff_0,Plasmid,2.67,Phage_r1t_holin Spherulin4 Collar Glyco_hydro_25 DUF5403 Phage_capsid Phage_Gp19 Phage_prot_Gp6 DnaB_C LAGLIDADG_3 Hom_end DUF3310 HNH TIG HTH_8 SSB ERF
+NODE_3_length_41793_cov_5.966512_cutoff_0,Chromosome,0,Terminase_2 Phage_capsid Tube DUF1351 HNH Phage_rep_org_N dUTPase SSB N6_N4_Mtase SprT-like Peptidase_M78 HTH_3 HTH_17 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 Head-tail_con DUF2833 MuF_C NLPC_P60 Pectate_lyase_3
+NODE_4_length_36240_cov_150.834112_cutoff_0,Chromosome,0,DUF3310 Terminase_1 Amidase_2 PhageMin_Tail Phage_portal Peptidase_S78 Phage_capsid DNA_pol_A DNA_pol_A_exo1 Terminase_4 DUF2800 VirE SNF2_N DUF2815
+NODE_5_length_4474_cov_13.192404_cutoff_0,Plasmid,9.00,MobA_MobL PemK_toxin Rep_3
+NODE_6_length_2885_cov_10.633903_cutoff_0,Chromosome,--
+NODE_7_length_1592_cov_1.749835_cutoff_0,Chromosome,--
+NODE_8_length_1503_cov_1.376578_cutoff_0,Chromosome,0,Toxin-JAB1
+NODE_9_length_1226_cov_1.231506_cutoff_0,Chromosome,--
+NODE_10_length_1184_cov_1.651310_cutoff_0,Chromosome,0,YadA_stalk
+NODE_11_length_887_cov_7.113580_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 Mub_B2
+NODE_12_length_863_cov_0.675573_cutoff_0,Chromosome,--
+NODE_13_length_713_cov_1.647799_cutoff_0,Chromosome,--
+NODE_14_length_690_cov_1.469821_cutoff_0,Chromosome,--
+NODE_15_length_614_cov_0.770950_cutoff_0,Chromosome,--
+NODE_1_length_63619_cov_12.833921_cutoff_5,Plasmid,3.57,dUTPase PDDEXK_1 DUF3310 Glucosaminidase Glyco_hydro_25 Phage_holin_Dp1 BspA_v BspA_v RuvC HNH_3 Big_8 Collagen_bind DNA_pol_A DNA_pol_A DNA_pol_A_exo1 AAA_25 RepB_primase YopX DUF1642 AAA_24 GbpC
+NODE_2_length_1969_cov_1.754228_cutoff_5,Plasmid,4.55,VirC1
+NODE_3_length_1577_cov_1.414000_cutoff_5,Chromosome,--
+NODE_4_length_1403_cov_2.467572_cutoff_5,Chromosome,--
+NODE_5_length_1361_cov_2.421340_cutoff_5,Chromosome,0,GT87 GT87
+NODE_6_length_1166_cov_3.521579_cutoff_5,Chromosome,--
+NODE_7_length_1109_cov_2.567829_cutoff_5,Chromosome,0,YadA_stalk
+NODE_8_length_1091_cov_7.300789_cutoff_5,Chromosome,0,YadA_stalk
+NODE_9_length_1079_cov_1.586826_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_1085_cov_49.875992_cutoff_15,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind

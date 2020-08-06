@@ -1,0 +1,58 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5660_cov_28.432026_cutoff_10,Plasmid,9.44,MobC Rep_3 CRISPR_Cas2
+NODE_2_length_1920_cov_5.813890_cutoff_10,Chromosome,0,Beta-lactamase Beta-lactamase
+NODE_3_length_1509_cov_40.812151_cutoff_10,Chromosome,0,rve
+NODE_4_length_984_cov_20.517089_cutoff_10,Chromosome,--
+NODE_1_length_36608_cov_6.951302_cutoff_0,Chromosome,0,P22_CoatProtein GDPD Phage_integrase HTH_3 Phage_prot_Gp6 CdiA_C HNH_4 SSB HTH_17 CHAP NLPC_P60 ParBc
+NODE_2_length_33526_cov_58.477114_cutoff_0,Plasmid,3.57,dUTPase_2 Thymidylat_synt Terminase_6C Terminase_6 AAA_25 RepB_primase Prophage_tail Amidase_2 AAA_24 DNA_pol_A DNA_pol_A_exo1 PDDEXK_1 Helicase_C SNF2_N Phage_capsid
+NODE_3_length_25447_cov_11.053449_cutoff_0,Plasmid,19.71,Replicase Peptidase_S9 HTH_11 LANC_like Pkinase ABC_tran ABC_membrane EamA EamA DUF2000 RHH_1 Replicase HTH_5 Resolvase HTH_28 CENP-B_N CbiA TrwC AAA_30 AAA_19 Resolvase
+NODE_4_length_22917_cov_28.962785_cutoff_0,Plasmid,30.10,AAA_31 AAA_31 CHAP SLT HTH_17 AAA_31 Relaxase MobC Resolvase HTH_23 TraG-D_C DUF4913 RepA_C VbhA Fic VbhA ParB_C AAA_31 Fic VbhA
+NODE_5_length_14840_cov_300.721601_cutoff_0,Chromosome,0,Amidase_2 Phage_portal HTH_3
+NODE_6_length_6796_cov_23.033934_cutoff_0,Plasmid,5.48,HTH_3 Zot Rep_1 DUF2523
+NODE_7_length_6619_cov_21.780190_cutoff_0,Chromosome,0,DUF2523 Phage_CRI Phage_X Zot Zot HTH_3
+NODE_8_length_3928_cov_3.685017_cutoff_0,Plasmid,3.86,Mob_Pre RHH_1
+NODE_9_length_3385_cov_15.572551_cutoff_0,Plasmid,5.48,YoeB_toxin Rep_1
+NODE_10_length_3280_cov_22.866375_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_11_length_3174_cov_22.301259_cutoff_0,Plasmid,5.35,Rep_3 YafQ_toxin RelB
+NODE_12_length_3128_cov_84.737135_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_13_length_2374_cov_4.421419_cutoff_0,Plasmid,2.65,Rep_trans RHH_3
+NODE_14_length_2318_cov_3.033021_cutoff_0,Chromosome,--
+NODE_15_length_2310_cov_19.583072_cutoff_0,Chromosome,0,CRISPR_Cas2
+NODE_16_length_2140_cov_46.060591_cutoff_0,Chromosome,--
+NODE_17_length_1993_cov_1.919624_cutoff_0,Chromosome,0,DUF4832
+NODE_18_length_1785_cov_1.673888_cutoff_0,Chromosome,0,AHH RHS
+NODE_19_length_1751_cov_31.217443_cutoff_0,Chromosome,--
+NODE_20_length_1610_cov_1.427919_cutoff_0,Chromosome,--
+NODE_21_length_1592_cov_37.484488_cutoff_0,Chromosome,--
+NODE_22_length_1371_cov_2.833076_cutoff_0,Chromosome,--
+NODE_23_length_1293_cov_1.598684_cutoff_0,Chromosome,--
+NODE_24_length_1105_cov_4.015564_cutoff_0,Chromosome,0,DJ-1_PfpI
+NODE_25_length_1031_cov_2.109015_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_26_length_982_cov_3.762431_cutoff_0,Chromosome,0,Defensin_2 Defensin_2
+NODE_27_length_962_cov_1.405650_cutoff_0,Chromosome,--
+NODE_28_length_777_cov_2.010000_cutoff_0,Chromosome,--
+NODE_29_length_750_cov_1.826152_cutoff_0,Chromosome,0,Polbeta DUF86 Polbeta
+NODE_30_length_720_cov_2.276827_cutoff_0,Chromosome,--
+NODE_31_length_713_cov_10.179245_cutoff_0,Chromosome,--
+NODE_32_length_710_cov_4.232227_cutoff_0,Chromosome,--
+NODE_33_length_704_cov_9.127592_cutoff_0,Chromosome,--
+NODE_34_length_698_cov_1.323671_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_35_length_671_cov_2.168350_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind
+NODE_36_length_651_cov_33.543554_cutoff_0,Chromosome,--
+NODE_37_length_632_cov_23.688288_cutoff_0,Chromosome,--
+NODE_38_length_620_cov_2.418048_cutoff_0,Chromosome,0,Mub_B2 MucBP_2
+NODE_39_length_587_cov_1.941176_cutoff_0,Chromosome,0,SHIRT SHIRT SHIRT
+NODE_40_length_581_cov_5.176587_cutoff_0,Chromosome,0,SHIRT SHIRT
+NODE_1_length_11963_cov_25.477116_cutoff_26,Chromosome,-2.5962325862213618,Transposase_mut Transposase_mut DnaB_C DnaB_C ABC_tran ABC_membrane TetR_N ABC_tran ABC_tran AAA_21 ABC_tran ABC_tran ABC_tran ABC_membrane ABC_cobalt
+NODE_1_length_43423_cov_3.991003_cutoff_5,Chromosome,0,DUF2800 Phage_holin_Dp1 Sipho_tail Sipho_Gp37 HNH_3 Guanylate_kin HNH_3 CHAP Phage_portal Terminase_1 Peptidase_S78 Phage_capsid
+NODE_2_length_32588_cov_12.479868_cutoff_5,Chromosome,0,Phage_Mu_F HK97-gp10_like Phage_TTP_12 N6_N4_Mtase ParBc Phage_prot_Gp6 DUF4355 Cactin_mid DUF859 SH3_5 YqaJ
+NODE_3_length_9645_cov_8.368834_cutoff_5,Chromosome,0,HTH_26 HTH_3 D5_N
+NODE_4_length_2189_cov_8.001894_cutoff_5,Chromosome,--
+NODE_5_length_2093_cov_15.847718_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_6_length_1706_cov_13.464088_cutoff_5,Chromosome,-17.332617920646072,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_7_length_1547_cov_2.753061_cutoff_5,Chromosome,0,MucBP MucBP MucBP MucBP MucBP MucBP MucBP MucBP
+NODE_8_length_1408_cov_3.126972_cutoff_5,Chromosome,--
+NODE_9_length_1314_cov_2.717057_cutoff_5,Chromosome,--
+NODE_10_length_1276_cov_3.127606_cutoff_5,Chromosome,--
+NODE_11_length_1111_cov_2.751451_cutoff_5,Chromosome,--
+NODE_1_length_1562_cov_8.717845_cutoff_15,Chromosome,--

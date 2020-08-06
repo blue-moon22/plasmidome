@@ -1,0 +1,32 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1926_cov_61.797729_cutoff_257,Chromosome,--
+NODE_1_length_1232_cov_179.759307_cutoff_91,Chromosome,0,Trp_ring
+NODE_1_length_971_cov_134.496644_cutoff_54,Chromosome,0,SSURE SSURE
+NODE_1_length_1205_cov_294.179965_cutoff_70,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_1_length_57337_cov_30.300873_cutoff_0,Chromosome,0,DUF1599 Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_6_1 Terminase_1 Phage_portal Peptidase_S78 RdRP Prophage_tail CBM_4_9 HK97-gp10_like
+NODE_2_length_5525_cov_15.198421_cutoff_0,Plasmid,5.20,Rep_trans RepL
+NODE_3_length_4475_cov_26.434516_cutoff_0,Plasmid,5.35,HTH_3 Integrase_1 Phage_int_SAM_1 Rep_3
+NODE_4_length_3128_cov_59.232055_cutoff_0,Plasmid,5.35,Rep_3 VbhA
+NODE_5_length_1675_cov_1.953066_cutoff_0,Chromosome,0,Abhydrolase_1 DDE_Tnp_ISL3
+NODE_6_length_1532_cov_2.169072_cutoff_0,Chromosome,--
+NODE_7_length_1394_cov_2.516325_cutoff_0,Chromosome,--
+NODE_8_length_1125_cov_0.958969_cutoff_0,Chromosome,--
+NODE_9_length_971_cov_134.496644_cutoff_0,Chromosome,0,SSURE SSURE
+NODE_10_length_866_cov_1.803549_cutoff_0,Chromosome,--
+NODE_11_length_824_cov_0.663989_cutoff_0,Chromosome,--
+NODE_12_length_797_cov_1.027778_cutoff_0,Chromosome,0,DUF4189
+NODE_13_length_713_cov_2.611635_cutoff_0,Chromosome,0,Big_6
+NODE_14_length_653_cov_1.895833_cutoff_0,Chromosome,--
+NODE_15_length_644_cov_2.453263_cutoff_0,Chromosome,--
+NODE_16_length_593_cov_2.875969_cutoff_0,Chromosome,0,Collagen Collagen
+NODE_1_length_971_cov_134.496644_cutoff_26,Chromosome,0,SSURE SSURE
+NODE_1_length_958_cov_47.399546_cutoff_42,Chromosome,--
+NODE_1_length_8044_cov_18.124137_cutoff_20,Chromosome,0,Putative_G5P Phage_X Phage_CRI Secretin Zot DUF2523
+NODE_2_length_1472_cov_58.764158_cutoff_20,Chromosome,--
+NODE_3_length_1409_cov_24.798799_cutoff_20,Chromosome,--
+NODE_1_length_3488_cov_18.958370_cutoff_5,Chromosome,0,ParE_toxin
+NODE_2_length_2351_cov_1.212841_cutoff_5,Chromosome,0,CW_binding_1 CW_binding_1
+NODE_3_length_1301_cov_10.395425_cutoff_5,Chromosome,--
+NODE_4_length_1200_cov_3.288513_cutoff_5,Chromosome,0,Alpha_L_fucos
+NODE_5_length_1164_cov_1.821527_cutoff_5,Chromosome,--
+NODE_6_length_1136_cov_2.628895_cutoff_5,Chromosome,0,Trp_ring

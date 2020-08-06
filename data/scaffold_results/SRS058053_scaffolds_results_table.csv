@@ -1,0 +1,60 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_68458_cov_18.638043_cutoff_10,Chromosome,0,SLT PDDEXK_1 AAA_24 Peptidase_C39_2 Prim-Pol D5_N Spherulin4 Sipho_Gp37 Phage_cap_E Phage_prot_Gp6 SNF2_N Helicase_C Ribonuc_red_lgC RNR_N Ribonuc_red_lgC Ribonuc_red_lgN PDDEXK_1 DNA_pol3_alpha PHP DNA_pol3_finger Ribonuc_red_sm Terminase_1 Thy1 PRA-PH
+NODE_2_length_56354_cov_18.704657_cutoff_10,Chromosome,0,Phage_portal Big_8 Collagen_bind Gram_pos_anchor Phage_holin_6_1 Amidase_5 Gp58 Prophage_tail HK97-gp10_like Terminase_1 Phage_capsid Peptidase_S78 DUF1599
+NODE_3_length_33529_cov_19.065407_cutoff_10,Plasmid,3.57,Terminase_6C Terminase_6 Phage_capsid Amidase_2 Prophage_tail Helicase_C SNF2_N DNA_pol_A DNA_pol_A_exo1 PDDEXK_1 AAA_24 AAA_25 RepB_primase dUTPase_2 Thymidylat_synt
+NODE_1_length_60533_cov_5.352058_cutoff_0,Chromosome,0,DUF1366 DUF1599 HTH_24 Prophage_tail Sipho_tail DUF859 Phage_holin_1 CHAP CHAP SH3_5 Terminase_1 Phage_portal Phage_capsid Peptidase_S78 Collagen_bind Gram_pos_anchor Big_8
+NODE_2_length_56354_cov_18.704657_cutoff_0,Chromosome,0,Phage_holin_6_1 Terminase_1 Phage_capsid Peptidase_S78 Phage_portal Collagen_bind Gram_pos_anchor Amidase_5 Gp58 Prophage_tail HK97-gp10_like Big_8 DUF1599
+NODE_3_length_43471_cov_7.084228_cutoff_0,Plasmid,4.21,Hjc Pentapeptide Pentapeptide Pentapeptide Pentapeptide_4 YqaJ DNA_methylase ERF ResIII Helicase_C HTH_24 N6_N4_Mtase Pox_D5 D5_N PriCT_1 DUF3310 HTH_26 DUF1653 Phage_tail_3 Phage_prot_Gp6 Phage_connect_1 DUF5055 ANT Bro-N Phage_holin_1 Peptidase_M78 HTH_3 HTH_3
+NODE_4_length_38371_cov_14.215569_cutoff_0,Chromosome,0,Amidase_2 Spherulin4 PhageMin_Tail D5_N Prim-Pol DUF2190 Mu-like_gpT HK97-gp10_like Phage_integrase HTH_17 HTH_3 HTH_26 DUF3310 Phage_Mu_F Terminase_6C Terminase_6
+NODE_5_length_6045_cov_25.462131_cutoff_0,Plasmid,12.95,Relaxase Rep_3 MobC RelB YoeB_toxin HicB_lk_antitox
+NODE_6_length_5052_cov_10.720603_cutoff_0,Chromosome,0,FtsK_SpoIIIE YoeB_toxin
+NODE_7_length_4823_cov_5.010957_cutoff_0,Chromosome,0,Zot Rep_trans
+NODE_8_length_4631_cov_9.053140_cutoff_0,Plasmid,5.35,YoeB_toxin Rep_3
+NODE_9_length_3280_cov_12.354980_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_10_length_3128_cov_7.427729_cutoff_0,Plasmid,10.69,VbhA Rep_3 Rep_3
+NODE_11_length_2992_cov_12.630532_cutoff_0,Plasmid,8.84,ParE_toxin Replicase PriCT_1
+NODE_12_length_2772_cov_13.256772_cutoff_0,Plasmid,5.35,HTH_3 HigB-like_toxin Rep_3
+NODE_13_length_2545_cov_18.715154_cutoff_0,Plasmid,5.48,Rep_1
+NODE_14_length_2182_cov_1.760570_cutoff_0,Chromosome,0,RloB AAA_21
+NODE_15_length_1964_cov_8.775835_cutoff_0,Chromosome,0,CRISPR_Cas2
+NODE_16_length_1733_cov_1.834541_cutoff_0,Chromosome,--
+NODE_17_length_1661_cov_2.796717_cutoff_0,Chromosome,0,Imm-NTF2
+NODE_18_length_1331_cov_1.321372_cutoff_0,Chromosome,0,DUF3368
+NODE_19_length_1268_cov_0.937867_cutoff_0,Chromosome,--
+NODE_20_length_1250_cov_5.751066_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_21_length_1213_cov_1.824824_cutoff_0,Chromosome,0,DUF559
+NODE_22_length_1130_cov_1.097816_cutoff_0,Chromosome,--
+NODE_23_length_1088_cov_2.651830_cutoff_0,Chromosome,0,Cadherin_4
+NODE_24_length_1007_cov_3.654839_cutoff_0,Chromosome,--
+NODE_25_length_887_cov_1.420988_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_26_length_868_cov_4.620733_cutoff_0,Chromosome,--
+NODE_27_length_834_cov_1.458388_cutoff_0,Chromosome,--
+NODE_28_length_824_cov_1.879518_cutoff_0,Chromosome,0,TonB_C
+NODE_29_length_735_cov_2.794833_cutoff_0,Chromosome,--
+NODE_30_length_713_cov_1.056604_cutoff_0,Chromosome,--
+NODE_31_length_704_cov_1.969697_cutoff_0,Chromosome,0,Big_6 Big_6
+NODE_32_length_692_cov_1.352846_cutoff_0,Chromosome,0,LRR_5 LRR_5
+NODE_33_length_671_cov_1.252525_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_34_length_668_cov_0.818951_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind
+NODE_35_length_651_cov_3.170732_cutoff_0,Chromosome,--
+NODE_36_length_644_cov_2.352734_cutoff_0,Chromosome,--
+NODE_37_length_638_cov_1.916221_cutoff_0,Chromosome,--
+NODE_38_length_629_cov_1.125000_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_39_length_611_cov_2.011236_cutoff_0,Chromosome,0,Big_2
+NODE_40_length_602_cov_1.495238_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind
+NODE_41_length_601_cov_2.286260_cutoff_0,Chromosome,--
+NODE_42_length_579_cov_0.758964_cutoff_0,Chromosome,0,Ald_Xan_dh_C
+NODE_1_length_2042_cov_33.275827_cutoff_20,Chromosome,--
+NODE_1_length_171753_cov_35.510229_cutoff_5,Chromosome,-4.481777019464783,DNA_pol3_finger DNA_pol3_alpha DNA_pol3_finger RNase_H Phage_lysozyme PHP DNA_pol3_alpha Radical_SAM Peptidase_M23 SLT OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 HNH_3 Ribonuc_red_sm Glutaredoxin DNA_ligase_OB_2 Peptidase_M23 Collagen Collagen Collagen Collagen Collagen Collagen Intein_splicing DUF559 RNA_ligase PRA-PH Toprim_2 Toprim_N DnaB_C RecA Tn7_Tnp_TnsA_N RVT_1 PDDEXK_1 RuvC Terminase_6 LAGLIDADG_3 HHH_6 Thymidylat_synt RNase_H SpoVG Whirly AdoMet_dc Phage_portal SNase GIY-YIG Thymidylat_synt Bac_DNA_binding DHFR_1 Fer2_BFD Hydrolase_2 Ribonuc_red_lgC ATP-cone Ribonuc_red_lgN
+NODE_2_length_93033_cov_3.807834_cutoff_5,Plasmid,3.02,G5 Thy1 AAA_24 ArdA DUF3799 DUF1064 DnaB_C Helicase_C ResIII DUF3310 DUF3310 Collagen DUF4494
+NODE_3_length_2709_cov_24.298632_cutoff_5,Chromosome,0,DDE_Tnp_1 DUF772 Abi_2
+NODE_4_length_2680_cov_2.866308_cutoff_5,Chromosome,0,SLH SLH
+NODE_5_length_2407_cov_2.727897_cutoff_5,Chromosome,0,Epimerase GDP_Man_Dehyd
+NODE_6_length_2220_cov_5.564162_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_7_length_2002_cov_6.656623_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_8_length_1768_cov_23.048492_cutoff_5,Chromosome,--
+NODE_9_length_1499_cov_2.854430_cutoff_5,Chromosome,--
+NODE_10_length_1482_cov_2.507473_cutoff_5,Chromosome,0,AAA_14 DUF4143
+NODE_11_length_1428_cov_4.421170_cutoff_5,Chromosome,--
+NODE_12_length_1248_cov_2.450043_cutoff_5,Chromosome,0,DUF2931
+NODE_13_length_1244_cov_1.467009_cutoff_5,Chromosome,0,adh_short_C2

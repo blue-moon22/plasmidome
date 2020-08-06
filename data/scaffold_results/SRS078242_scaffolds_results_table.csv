@@ -1,0 +1,28 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_47757_cov_18.678482_cutoff_10,Chromosome,-2.4971416835774463,Prophage_tail VRR_NUC Phage_int_SAM_5 Arm-DNA-bind_5 Terminase_6 Phage_prot_Gp6 GerE AAA_23 Bac_DNA_binding Lactamase_B_2 HTH_Tnp_1_2 RVT_1 DNA_methylase DNA_methylase Phage_cap_E DUF4406 Bac_DnaA_C IstB_IS21 SSB Laminin_G_3
+NODE_2_length_42085_cov_12.051657_cutoff_10,Plasmid,3.21,Hydrolase_2 SSB RVT_1 GP3_package Terminase_3 Phage_holin_6_1 Gp58 Big_3 Big_3 DUF1064 Phage_gp49_66 HTH_38 HTH_38 HTH_19 DnaJ PBECR5 LPD23 DUF3846
+NODE_3_length_6302_cov_14.009799_cutoff_10,Chromosome,0,TonB_dep_Rec Plug SusD-like_3 SusD_RagB
+NODE_1_length_102003_cov_11.860899_cutoff_0,Chromosome,0,Glucosaminidase GIY-YIG GGACT DnaB_C DnaB_C AAA_24 Metallophos_2 Thy1 PDDEXK_1 RusA Peptidase_C26 Amidoligase_2 GATase_6 COOH-NH2_lig DNA_pol_A DNA_pol_A_exo1 LAGLIDADG_2 Ribonuc_red_lgC Ribonuc_red_lgC Laminin_G_3 DUF5051 dUTPase Cpn10 Phage_head_fibr Intein_splicing LAGLIDADG_3 LAGLIDADG_3
+NODE_2_length_94449_cov_55.162008_cutoff_0,Chromosome,0,Sigma70_r4_2 Sigma70_r2 DnaB_C Thy1 Thy1 AAA_24 NUMOD4 HNH_3 Metallophos NUMOD4 HNH_3 NUMOD1
+NODE_3_length_55429_cov_42.103682_cutoff_0,Plasmid,14.28,DUF551 RHH_1 HTH_3 HTH_19 AAA_31 Rep_3 AAA_24 TFIIS_C HTH_26 Phage_cap_E Phage_prot_Gp6 Phage_holin_6_1 Glyco_hydro_25 Bro-N DUF5055 Lar_restr_allev DnaB_C RepA_N RtcB RtcB Resolvase DUF551 MazG DUF551 PAPS_reduct
+NODE_4_length_47709_cov_5.844075_cutoff_0,Chromosome,0,Phage_cap_E Phage_holin_4_1 Sipho_tail DUF4406 SSB Phage_prot_Gp6 HTH_Tnp_1_2 Glyco_hydro_108 PG_binding_3 DUF3853 GerE DUF2786 RVT_1 AAA_23 Lactamase_B_2 Bac_DNA_binding
+NODE_5_length_32530_cov_44.109574_cutoff_0,Chromosome,-2.599999069015565,N6_N4_Mtase DUF4406 VRR_NUC Terminase_1 Terminase_1 Phage_portal RHH_1 Phage_capsid Peptidase_S78 Sipho_tail HK97-gp10_like Sipho_Gp37 23S_rRNA_IVP RVT_1 SPOR Amidase_2 Phage_holin_6_1 HTH_31 HTH_38 Hydrolase_2 DUF3310 Dam HTH_38
+NODE_6_length_6643_cov_146.648949_cutoff_0,Chromosome,0,SSB
+NODE_7_length_2828_cov_74.860051_cutoff_0,Chromosome,--
+NODE_8_length_2588_cov_1.416567_cutoff_0,Chromosome,0,Virulence_RhuM Virulence_RhuM
+NODE_9_length_2213_cov_2.396067_cutoff_0,Chromosome,--
+NODE_10_length_1194_cov_1.233662_cutoff_0,Chromosome,--
+NODE_11_length_691_cov_0.840391_cutoff_0,Chromosome,0,ORF6N
+NODE_12_length_665_cov_4.457483_cutoff_0,Chromosome,--
+NODE_13_length_646_cov_1.230228_cutoff_0,Chromosome,--
+NODE_14_length_590_cov_2.081871_cutoff_0,Chromosome,0,Big_2 Big_2 Big_2
+NODE_1_length_60000_cov_16.083457_cutoff_5,Chromosome,-7.799997207046694,NRDD MazG N6_Mtase Hydrolase_2 Bro-N CW_7 SPOR Amidase_2 SPOR SPOR Sipho_tail Sipho_Gp37 Phage_portal Phage_integrase Fer4_12 SH3_3 DUF2800 RVT_1 Terminase_1 DUF4839
+NODE_2_length_22183_cov_3.351669_cutoff_5,Chromosome,-6.258880793289716,Rubredoxin HTH_18 AraC_binding Cupin_2 NADH_4Fe-4S Fer4_9 Fer4 HTH_30 HSP20 Pyr_redox_2 Fer2_4 Fer4_20 NADH-G_4Fe-4S_3 Fer2 Fer4_7 Fer4_10 Fer4 FAD_binding_2 AP_endonuc_2 Glyco_hydro_39 HTH_18 AraC_binding Cupin_2 GFO_IDH_MocA GFO_IDH_MocA_C AP_endonuc_2 Glyco_hydro_39 HTH_18 Cupin_2 HTH_AraC AraC_binding MFS_1 MFS_1 MFS_2 FMN_red GFO_IDH_MocA GFO_IDH_MocA_C
+NODE_3_length_18273_cov_5.541493_cutoff_5,Chromosome,-3.5215324263207712,Acyltransferase SBP_bac_10 Acetyltransf_5 HTH_18 DDE_Tnp_IS66 DDE_Tnp_IS66_C MFS_1 TnpB_IS66 LZ_Tnp_IS66 PMT_2 Methyltr_RsmB-F CBM_4_9 CBM9_1 Glyco_hydro_42 LysR_substrate
+NODE_4_length_10492_cov_3.654633_cutoff_5,Chromosome,0,SusD_RagB SusD-like_3 DUF4973 DUF4361 ATPase_2 DUF234 DUF1793 TIG CarbopepD_reg_2 Plug
+NODE_5_length_2871_cov_2.492484_cutoff_5,Chromosome,0,HATPase_c_4 AlbA_2 HTH_24 ORF6N
+NODE_6_length_2104_cov_1.981746_cutoff_5,Chromosome,0,Toxin-JAB1 Imm65
+NODE_7_length_1783_cov_2.042204_cutoff_5,Chromosome,--
+NODE_8_length_1698_cov_2.450339_cutoff_5,Chromosome,0,LytR_cpsA_psr
+NODE_9_length_1404_cov_23.788244_cutoff_5,Chromosome,0,HTH_3
+NODE_1_length_92280_cov_56.157999_cutoff_15,Chromosome,0,AAA_24 Sigma70_r4_2 Sigma70_r2 DnaB_C NUMOD4 HNH_3 NUMOD1 Metallophos NUMOD4 HNH_3 Thy1 Thy1

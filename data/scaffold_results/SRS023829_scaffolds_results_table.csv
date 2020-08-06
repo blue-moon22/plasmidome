@@ -1,0 +1,11 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_14781_cov_111.619491_cutoff_91,Chromosome,0,Peptidase_C11 T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug
+NODE_1_length_9194_cov_162.693430_cutoff_0,Plasmid,5.35,GerE HTH_3 Rep_3 Gp49
+NODE_2_length_5358_cov_10.630184_cutoff_0,Chromosome,--
+NODE_3_length_3132_cov_13.300164_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_4_length_2860_cov_2943.697808_cutoff_0,Chromosome,--
+NODE_1_length_4225_cov_1797.567743_cutoff_434,Plasmid,8.86,YoeB_toxin Relaxase Rep_3
+NODE_1_length_1229_cov_20.759549_cutoff_26,Chromosome,0,Stealth_CR2 Stealth_CR1 Stealth_CR2
+NODE_1_length_5671_cov_811.501609_cutoff_42,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_1_length_5099_cov_15.044405_cutoff_5,Plasmid,14.98,Relaxase Aminoglyc_resit MobC Relaxase
+NODE_1_length_3941_cov_17.915631_cutoff_15,Chromosome,0,SWI2_SNF2 EcoR124_C HSDR_N

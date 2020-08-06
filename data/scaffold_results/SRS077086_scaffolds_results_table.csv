@@ -1,0 +1,23 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_40151_cov_313.215302_cutoff_118,Chromosome,0,DUF2800 IstB_IS21 Head-tail_con Amidase_3
+NODE_2_length_19128_cov_125.579760_cutoff_118,Chromosome,0,Terminase_6 Phage_holin_4_1 Peptidase_M15_3 CLP_protease
+NODE_3_length_6738_cov_472.820297_cutoff_118,Plasmid,8.86,Relaxase DUF772 DDE_Tnp_1_2 Rep_3
+NODE_1_length_14781_cov_6.158528_cutoff_10,Chromosome,0,TonB_dep_Rec Plug NlpE T2SS-T3SS_pil_N Peptidase_C11
+NODE_1_length_25785_cov_161.289793_cutoff_70,Chromosome,-19.45479546208682,DUF3871 Phage_integrase DMT_6 Lipocalin_4 ATP_bind_3 DMT_6 HATPase_c Response_reg HisKA PAS_3 NAD_binding_10 PNP_UDP_1 YdfA_immunity Phage_int_SAM_5 Arm-DNA-bind_5 HTH_17 MnmE_helical TrmE_N NfeD TPR_16 PD40 DDE_Tnp_1 Resolvase Recombinase
+NODE_1_length_59560_cov_111.064741_cutoff_0,Chromosome,-5.19999813803113,NRDD MazG Fer4_12 DUF4839 DUF2800 CW_7 SPOR Amidase_2 SPOR RVT_1 Sipho_Gp37 Sipho_tail SH3_3 Terminase_1 Phage_portal Phage_integrase N6_Mtase Hydrolase_2
+NODE_2_length_34908_cov_120.466797_cutoff_0,Chromosome,0,CLP_protease Phage_holin_4_1 SNF2_N dUTPase_2 Thymidylat_synt Asn_synthase GATase_6 GATase_7 VRR_NUC VirE DNA_pol_A DUF2815 DUF2800 Peptidase_M15_3 dUTPase Terminase_6
+NODE_3_length_12563_cov_7.301858_cutoff_0,Plasmid,5.37,Cys_rich_VLP HTH_3 HTH_26 Zeta_toxin NYN AAA_25 Sigma70_r2 Sigma70_r4 Resolvase Recombinase
+NODE_4_length_9315_cov_3.728837_cutoff_0,Chromosome,0,Glycos_transf_1 Glyco_transf_4 Glycos_transf_2 DUF5030 Toxin-JAB1 Glyco_trans_1_4 Glyco_transf_4 Methyltransf_21
+NODE_5_length_5163_cov_9.615022_cutoff_0,Plasmid,7.61,Relaxase MobC
+NODE_6_length_2828_cov_560.576518_cutoff_0,Chromosome,--
+NODE_7_length_2541_cov_2.085227_cutoff_0,Chromosome,--
+NODE_8_length_2492_cov_2.298965_cutoff_0,Chromosome,0,Phage_integrase
+NODE_9_length_1637_cov_2.816667_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_10_length_1544_cov_1.510566_cutoff_0,Chromosome,0,LRR_5 LRR_5 LRR_5
+NODE_11_length_956_cov_0.888510_cutoff_0,Chromosome,--
+NODE_12_length_707_cov_0.674603_cutoff_0,Chromosome,--
+NODE_1_length_1483_cov_197.248222_cutoff_42,Chromosome,0,DDE_Tnp_ISL3
+NODE_1_length_6084_cov_6.928916_cutoff_5,Plasmid,3.86,Mob_Pre RelB YafQ_toxin RelB
+NODE_2_length_4225_cov_589.201543_cutoff_5,Plasmid,8.86,YoeB_toxin Relaxase Rep_3
+NODE_3_length_1494_cov_2.689485_cutoff_5,Chromosome,--
+NODE_4_length_1466_cov_1.416847_cutoff_5,Chromosome,0,Fic

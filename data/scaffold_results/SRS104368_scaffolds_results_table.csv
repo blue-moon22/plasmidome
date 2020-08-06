@@ -1,0 +1,25 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_31156_cov_10.266772_cutoff_10,Plasmid,38.30,TrbC CagE_TrbE_VirB T2SSE Peptidase_M23 Rep_3 ArdA SLT Topoisom_bac Toprim zf-C4_Topoisom zf-C4_Topoisom zf-C4_Topoisom Zeta_toxin CagX VirB8 MobA_MobL T4SS-DNA_transf TrbI HTH_3 CbiA Zeta_toxin Resolvase
+NODE_2_length_2198_cov_7.168788_cutoff_10,Chromosome,0,TPM_phosphatase
+NODE_1_length_16898_cov_68.193389_cutoff_70,Chromosome,-41.353031778371474,Ribosomal_L1 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 Ribosom_S12_S23 Ribosomal_S7 Ribosomal_L10 Ribosomal_L12 Ribosomal_L12_N RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 NusG KOW Ribosomal_L11_N Ribosomal_L11 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 SecE GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2
+NODE_1_length_45363_cov_11.736475_cutoff_0,Plasmid,2.60,Collar TMP TMP TMP TMP TMP TMP DUF5403 TIG DNA_pol_A DUF3310 dUTPase SNF2_N DUF4417 GDPD VirE VRR_NUC HNH Phage_Gp19 Phage_prot_Gp6 Phage_capsid DUF2815 HTH_23 DUF2800
+NODE_2_length_8502_cov_6.402849_cutoff_0,Chromosome,0,HTH_3
+NODE_3_length_7348_cov_2.523449_cutoff_0,Chromosome,0,DUF2523 Zot
+NODE_4_length_5942_cov_5.762319_cutoff_0,Plasmid,5.35,Rep_3 HTH_3
+NODE_5_length_3279_cov_102.973454_cutoff_0,Chromosome,0,HicA_toxin HicB-like_2
+NODE_6_length_1605_cov_4.803010_cutoff_0,Chromosome,--
+NODE_7_length_1592_cov_3.248845_cutoff_0,Chromosome,--
+NODE_8_length_1391_cov_2.193303_cutoff_0,Chromosome,--
+NODE_9_length_1205_cov_6.059397_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_10_length_822_cov_1.659060_cutoff_0,Chromosome,0,TonB_C
+NODE_11_length_701_cov_3.283654_cutoff_0,Chromosome,0,MucBP_2 Mub_B2
+NODE_12_length_599_cov_0.727969_cutoff_0,Chromosome,--
+NODE_13_length_592_cov_1.419417_cutoff_0,Chromosome,--
+NODE_1_length_38534_cov_37.841979_cutoff_26,Chromosome,-7.204719064243946,Lambda_tail_I NLPC_P60 Prok-JAB Phage-tail_3 DUF1983 HTH_3 DUF2303 PyocinActivator Prim_Zn_Ribbon Pox_D5 Phage_integrase Phage_H_T_join DUF3168 Phage_tail_3 Phage_TAC_4 DUF1799 TMP_2 SLT Tape_meas_lam_C Phage_min_tail Phage_tail_L Phage_portal DUF3310 Phage_connect_1 Phage_capsid CLP_protease Terminase_1 HNH
+NODE_1_length_13676_cov_15.715641_cutoff_20,Chromosome,0,FCD GntR MFS_1 FAD_binding_3 Phe_hydrox_dim HpcH_HpaI Glyoxalase Glyoxalase Aldedh SSF FAA_hydrolase RraA-like Aldedh Aldedh
+NODE_1_length_24977_cov_3.231687_cutoff_5,Chromosome,0,ACPS Transposase_mut Transposase_mut ABC_tran AbiEii AbiEi_4 Condensation AMP-binding AMP-binding KR Thioesterase PP-binding adh_short PP-binding AMP-binding_C Transposase_mut Condensation AMP-binding Condensation Condensation AMP-binding KR PP-binding adh_short PP-binding AMP-binding_C Thioesterase
+NODE_2_length_2994_cov_5.235516_cutoff_5,Chromosome,0,RrnaAD Nitroreductase rve HTH_38
+NODE_3_length_1442_cov_3.797802_cutoff_5,Chromosome,--
+NODE_4_length_1430_cov_4.171471_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk
+NODE_5_length_1400_cov_4.170068_cutoff_5,Chromosome,0,GST_C BrnA_antitoxin BrnT_toxin
+NODE_1_length_104807_cov_26.184207_cutoff_33,Chromosome,-54.78739280456017,Mur_ligase Mur_ligase_M Mur_ligase_C HCBP_related HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind NUDIX Pyr_redox_2 Pyr_redox_dim Glyoxalase MazG Lactamase_B_3 HD_3 Methyltransf_4 Sua5_yciO_yrdC MS_channel NUDIX Response_reg Trans_reg_C CBS HATPase_c HisKA PMT_2 Glycos_transf_2 Glyco_tranf_2_3 DivIC LssY_C HSP70 FKBP_C GrpE Guanylate_kin GrpB Peptidase_S51 LepA_C EFG_C GTP_EFTU NUDIX NUDIX OpgC_C MurJ Peptidase_M41 AAA AAA_lid_3 AAA_5 PMT_2 Kdo VIT1 VIT1 His_Phos_1 DUF308 DUF308 Bac_transf TGT HrcA HrcA_DNA-bdg N_methyl GATase_3 DUF1727 Mur_ligase_M ATP_bind_3 AAA_18 AdoMet_dc Spermine_synth AAA_2 ClpB_D2-small AAA_lid_9 AAA HD_4 Inositol_P IMS HhH-GPD Lyase_aromatic HATPase_c HisKA Response_reg HxlR NUDIX Lyase_aromatic Chlorophyllase2 Thioredoxin_4 tRNA-synt_2 tRNA_anti-codon NUDIX tRNA-synt_1b S4 Acetyltransf_3 MFS_1 Vut_1 SHMT EPSP_synthase HTH_3 HTH_31 N_methyl N_methyl N_methyl THF_DHG_CYH_C THF_DHG_CYH MurB_C FAD_binding_4

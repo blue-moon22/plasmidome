@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2914_cov_11.850194_cutoff_10,Chromosome,--
+NODE_1_length_63071_cov_16.821808_cutoff_0,Plasmid,3.57,BspA_v BspA_v PDDEXK_1 RuvC dUTPase Glucosaminidase Glyco_hydro_25 AAA_25 RepB_primase AAA_24 GbpC HNH_3 DUF1642 Big_8 Collagen_bind DNA_pol_A DNA_pol_A_exo1 DNA_pol_A DUF3310 Phage_holin_Dp1
+NODE_2_length_2300_cov_9.164642_cutoff_0,Chromosome,0,LysE YqcI_YcgG
+NODE_3_length_1681_cov_3.862843_cutoff_0,Chromosome,0,PTR2
+NODE_4_length_1549_cov_1.761549_cutoff_0,Chromosome,--
+NODE_5_length_1283_cov_2.029022_cutoff_0,Chromosome,--
+NODE_6_length_1167_cov_2.325688_cutoff_0,Chromosome,--
+NODE_7_length_984_cov_1.552370_cutoff_0,Chromosome,0,Ntox47
+NODE_8_length_784_cov_2.289958_cutoff_0,Chromosome,0,Imm5 Imm5
+NODE_9_length_766_cov_3.182874_cutoff_0,Chromosome,0,Band_7 Band_7
+NODE_10_length_707_cov_0.861905_cutoff_0,Chromosome,--
+NODE_11_length_663_cov_1.858362_cutoff_0,Chromosome,--
+NODE_12_length_632_cov_3.879279_cutoff_0,Chromosome,--
+NODE_1_length_4127_cov_30.002963_cutoff_26,Chromosome,0,PHO4 DUF3349
+NODE_1_length_26439_cov_15.266027_cutoff_5,Chromosome,0,HisKA_3 Ribonuc_red_sm ABC_membrane ABC_tran ketoacyl-synt Ketoacyl-synt_C Response_reg GerE AMP-binding Aldedh APH NAD_binding_9 TPP_enzyme_N TPP_enzyme_M TPP_enzyme_C CbiA DEDD_Tnp_IS110 Transposase_20 DDE_Tnp_4 Phage_integrase Phage_int_SAM_1 PP-binding
+NODE_2_length_2002_cov_4.193247_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_3_length_1844_cov_4.063384_cutoff_5,Chromosome,0,HipA_C Couple_hipA HTH_31
+NODE_4_length_1808_cov_2.638359_cutoff_5,Chromosome,0,DUF3137
+NODE_5_length_1769_cov_4.268913_cutoff_5,Chromosome,0,SBP_bac_5
+NODE_6_length_1699_cov_1.266338_cutoff_5,Chromosome,0,DUF418
+NODE_7_length_1365_cov_5.656056_cutoff_5,Chromosome,0,DUF1707
+NODE_8_length_1238_cov_8.220500_cutoff_5,Chromosome,--
+NODE_9_length_1174_cov_5.888788_cutoff_5,Chromosome,0,TENA_THI-4

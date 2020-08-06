@@ -1,0 +1,17 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_34991_cov_372.654236_cutoff_198,Chromosome,0,CHAP NLPC_P60 HNH_4 CdiA_C Phage_prot_Gp6 ParBc SSB GDPD Phage_integrase HTH_3 HTH_17
+NODE_1_length_138006_cov_75.595901_cutoff_91,Chromosome,-94.99638158488779,SNARE_assoc Methyltransf_4 Response_reg LytTR His_kinase HATPase_c_5 Lum_binding Lum_binding Pyr_redox_2 Pyr_redox_dim GDC-P GDC-P GCV_H GCV_T GCV_T_C Ribosomal_L33 Ribosomal_L28 SmpB DUF4375 S-methyl_trans Pterin_bind B12-binding_2 B12-binding CinA Peptidase_M22 Shikimate_dh_N FMN_bind Fer4_5 Fer4_5 Fer4_5 Fer4_5 Fer4_5 Fer4_5 PhoH SAICAR_synt Ubie_methyltran Urocanase_C Urocanase Urocanase_N Lyase_aromatic Amidohydro_1 Ribosomal_S16 DnaJ DnaJ_C Rho_RNA_bind ATP-synt_ab RelA_SpoT HD_4 TGS ACT_4 FTCD_N FTCD_C FTCD adh_short rve HTH_38 HTH_32 HTH_23 AIRS_C CTP_transf_3 PCRF RF-1 OMPdecase PCMD OMP_b-brl_2 SPOUT_MTase Maf YceG HAD_2 adh_short_C2 PseudoU_synth_2 GDP_Man_Dehyd TetR_N HAD_2 DUF2520 F420_oxidored Rossmann-like Cation_efflux Peptidase_M24 Glyco_hydro_25 Hexapep Hexapep UPF0020 THUMP DPPIV_N Peptidase_S9 DLH BAAT_C DUF4301 Transpeptidase DUF5103 UvrD-helicase UvrD_C UvrD_C_2 Radical_SAM B12-binding DUF4295 DnaB_C DnaB FTHFS GARS_A GARS_N GARS_C Ribosomal_S6 Ribosomal_L9_C Ribosomal_L9_N Ribosomal_S18 GFO_IDH_MocA Orn_DAP_Arg_deC UvrD-helicase UvrD_C UvrD_C PDDEXK_1 HSP90 HATPase_c_3 HATPase_c Peptidase_M20 Transgly OmpH MORN MORN MORN MORN MORN MORN MORN MORN MORN MORN MORN MORN MORN MORN MORN Alpha-amylase_C CBM_48 Alpha-amylase Cytochrom_C_asm ResB ABC_tran Peptidase_M75 DHOR AAA_28 Pribosyltran_N Pribosyl_synth Pribosyltran GHMP_kinases_C Lipase_GDSL_2 AMP-binding SurA_N_2 Rotamase_3 Hydrolase_3 DUF4105 DUF21 CorC_HlyC CBS LptC Glyco_hydro_25 SecA_DEAD SecA_SW SEC-C
+NODE_2_length_4738_cov_76.803476_cutoff_91,Chromosome,0,Ank_2
+NODE_1_length_9682_cov_39.357418_cutoff_10,Plasmid,9.21,Mob_Pre ABC_tran AbiEii Rep_3
+NODE_1_length_40979_cov_65.869297_cutoff_0,Chromosome,0,Terminase_GpA DUF3310 SNF2_N Helicase_C Amidase_2 NLPC_P60 Phage-tail_3 fn3 Phage_min_tail Phage_tail_L Peptidase_S78 Mu-like_gpT Phage_portal_2 HTH_26 Phage_integrase HTH_31 HTH_26 DUF2800 DNA_pol_A DUF2815 YadA_stalk YadA_anchor YadA_head YadA_head VirE DUF2190 Tape_meas_lam_C
+NODE_2_length_4505_cov_70.341689_cutoff_0,Plasmid,3.86,ParE_toxin Mob_Pre
+NODE_3_length_2255_cov_46.916896_cutoff_0,Plasmid,8.84,Replicase PriCT_1
+NODE_4_length_1812_cov_3.873775_cutoff_0,Chromosome,--
+NODE_5_length_1538_cov_1.551677_cutoff_0,Chromosome,0,SUKH_6
+NODE_6_length_1401_cov_6.966012_cutoff_0,Plasmid,5.05,Rep_2 Rep_2
+NODE_7_length_1001_cov_1.923160_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_8_length_749_cov_2.214286_cutoff_0,Chromosome,0,FctA FctA
+NODE_9_length_654_cov_2.925477_cutoff_0,Chromosome,--
+NODE_1_length_40979_cov_65.869297_cutoff_20,Chromosome,0,Amidase_2 Phage_integrase HTH_26 HTH_31 HTH_26 YadA_stalk YadA_anchor YadA_head YadA_head VirE SNF2_N Helicase_C DUF3310 DNA_pol_A DUF2815 Phage_portal_2 Peptidase_S78 Mu-like_gpT Terminase_GpA DUF2190 Phage-tail_3 fn3 NLPC_P60 Phage_tail_L Phage_min_tail Tape_meas_lam_C DUF2800
+NODE_1_length_1490_cov_2.200991_cutoff_5,Chromosome,--
+NODE_1_length_32330_cov_43.026571_cutoff_15,Chromosome,-4.9942833671548925,SSB Phage_prot_Gp6 Phage_Gp19 Phage_capsid Glyco_hydro_25 CW_binding_1 CW_binding_1 CW_binding_1 Phage_holin_1 HicA_toxin Phage_integrase Phage_int_SAM_5 Phage_int_SAM_4 Phage_int_SAM_1 RNase_T HTH_3 HTH_3 Bro-N ANT zinc_ribbon_2 DUF4406 Big_8 Collagen_bind Phage_integrase Phage_int_SAM_5

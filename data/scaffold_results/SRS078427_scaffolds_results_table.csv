@@ -1,0 +1,19 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_12137_cov_59.413101_cutoff_0,Plasmid,5.35,HTH_3 Gp49 Rep_3
+NODE_2_length_3720_cov_154.874554_cutoff_0,Plasmid,5.35,Integrase_1 Rep_3
+NODE_3_length_3574_cov_2.898198_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_2822_cov_5.288525_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_1205_cov_6.602837_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_6_length_1031_cov_0.811321_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_728_cov_2.497696_cutoff_0,Chromosome,--
+NODE_8_length_701_cov_11.266026_cutoff_0,Chromosome,--
+NODE_9_length_653_cov_1.902778_cutoff_0,Chromosome,0,G5 G5
+NODE_10_length_644_cov_2.564374_cutoff_0,Chromosome,--
+NODE_11_length_615_cov_1.756506_cutoff_0,Chromosome,0,DUF4189
+NODE_12_length_590_cov_2.580897_cutoff_0,Chromosome,0,MucBP MucBP MucBP
+NODE_1_length_5593_cov_9.380711_cutoff_5,Plasmid,5.48,Zot Rep_1
+NODE_2_length_4186_cov_7.524459_cutoff_5,Plasmid,5.35,Cation_efflux Rep_3
+NODE_3_length_3280_cov_8.389323_cutoff_5,Chromosome,0,HicB-like_2 HicA_toxin
+NODE_4_length_1832_cov_4.298006_cutoff_5,Chromosome,0,Trp_ring TAA-Trp-ring TAA-Trp-ring
+NODE_5_length_1532_cov_19.683849_cutoff_5,Chromosome,--
+NODE_6_length_1139_cov_4.353107_cutoff_5,Chromosome,0,Mub_B2 MucBP_2 MucBP_2

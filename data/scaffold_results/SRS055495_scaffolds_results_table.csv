@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5778_cov_12.541133_cutoff_0,Plasmid,2.52,Rep_2 RNA_helicase
+NODE_2_length_4720_cov_6.604781_cutoff_0,Chromosome,0,Rep_trans
+NODE_3_length_4175_cov_2.093704_cutoff_0,Chromosome,0,Rep_trans AAA_22
+NODE_4_length_2673_cov_9.471880_cutoff_0,Plasmid,5.48,Rep_1
+NODE_5_length_2142_cov_13.636320_cutoff_0,Plasmid,5.48,Rep_1
+NODE_6_length_2105_cov_1.679980_cutoff_0,Chromosome,0,DDE_Tnp_1
+NODE_7_length_1205_cov_0.816489_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_8_length_875_cov_4.161654_cutoff_0,Chromosome,0,Rib Rib
+NODE_9_length_869_cov_3.405303_cutoff_0,Chromosome,--
+NODE_10_length_707_cov_1.695238_cutoff_0,Chromosome,0,Rib Rib Rib
+NODE_11_length_704_cov_1.346093_cutoff_0,Chromosome,0,Big_6 Big_6
+NODE_12_length_638_cov_18.930481_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_13_length_638_cov_2.643494_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_1_length_1610_cov_3.673842_cutoff_5,Plasmid,5.20,RepL
+NODE_2_length_1185_cov_4.470217_cutoff_5,Chromosome,-2.4251681839494843,DUF1176

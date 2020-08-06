@@ -1,0 +1,24 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_15647_cov_18.020103_cutoff_10,Chromosome,0,NUDIX Thymidylate_kin PqqD APH NUDIX CYTH ABC2_membrane ABC_tran HTH_19 DUF772 Thymidylat_synt HATPase_c_4 Queuosine_synth
+NODE_2_length_2392_cov_6.050108_cutoff_10,Chromosome,--
+NODE_1_length_48062_cov_5.734188_cutoff_0,Chromosome,0,VRR_NUC Glyco_hydro_25 LysM LysM Prim-Pol
+NODE_2_length_20020_cov_8.699193_cutoff_0,Plasmid,8.02,ABC_membrane Peptidase_C39 ABC_tran TfoX_N HlyD_3 ToxN_toxin PemK_toxin HTH_3 ABC_tran Rep_3 ComR_TPR HTH_3
+NODE_3_length_6248_cov_16.464430_cutoff_0,Plasmid,10.69,Rep_3 YafQ_toxin Rep_3
+NODE_4_length_5658_cov_8.344741_cutoff_0,Plasmid,5.35,Integrase_1 PemK_toxin Rep_3
+NODE_5_length_4526_cov_1.593392_cutoff_0,Plasmid,3.02,HTH_7 AAA_14
+NODE_6_length_1205_cov_2.460106_cutoff_0,Chromosome,0,YadA_stalk YadA_stalk
+NODE_7_length_1174_cov_2.291705_cutoff_0,Chromosome,0,Fic
+NODE_8_length_1154_cov_5.926648_cutoff_0,Chromosome,--
+NODE_9_length_1118_cov_2.962536_cutoff_0,Chromosome,--
+NODE_10_length_917_cov_1.435714_cutoff_0,Chromosome,--
+NODE_11_length_632_cov_2.881081_cutoff_0,Chromosome,-4.952176548756018,DUF1542 DUF1542
+NODE_12_length_623_cov_1.296703_cutoff_0,Chromosome,0,Big_6
+NODE_1_length_81767_cov_9.532232_cutoff_5,Chromosome,0,DUF3310 Peptidase_M15_4 AAA_24 Helicase_C ThiF PDDEXK_1 DNA_pol_A DUF3799 dUTPase
+NODE_2_length_3007_cov_3.860068_cutoff_5,Chromosome,0,Fic Methylase_S Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S
+NODE_3_length_2663_cov_3.815545_cutoff_5,Chromosome,0,Trp_ring Trp_ring
+NODE_4_length_2407_cov_0.985408_cutoff_5,Chromosome,0,ComC
+NODE_5_length_2152_cov_1.972048_cutoff_5,Chromosome,0,HemolysinCabind
+NODE_6_length_2052_cov_5.060253_cutoff_5,Chromosome,--
+NODE_7_length_1839_cov_1.932463_cutoff_5,Chromosome,0,Pec_lyase_C
+NODE_8_length_1228_cov_2.802780_cutoff_5,Chromosome,0,PDDEXK_2
+NODE_1_length_2295_cov_14.764202_cutoff_15,Chromosome,0,Endonuclea_NS_2

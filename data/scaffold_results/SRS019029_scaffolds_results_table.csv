@@ -1,0 +1,39 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_7363_cov_3.800714_cutoff_10,Chromosome,0,OEP OEP TetR_N ABC_tran HlyD_3 Biotin_lipoyl_2 ABC2_membrane_3 ABC_tran ABC2_membrane_3
+NODE_1_length_29039_cov_5.560666_cutoff_0,Plasmid,22.03,Toprim_2 Fic Relaxase CbiA MobC Resolvase HTH_7 TrbL Astacin DUF4377 DUF3875 TraO DUF4138 DUF4138 MPTase-PolyVal DUF1738 Transposon_TraM TraG-D_C SSB bPH_2
+NODE_2_length_11226_cov_6.506593_cutoff_0,Plasmid,6.42,Resolvase Toprim_2 Relaxase
+NODE_3_length_7566_cov_2.862598_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_4_length_7514_cov_4.027565_cutoff_0,Chromosome,-3.1692354549351105,OMP_b-brl_3 Porph_ging
+NODE_5_length_4499_cov_21.851877_cutoff_0,Plasmid,5.35,Rep_3 CRISPR_Cas2
+NODE_6_length_3812_cov_3.723963_cutoff_0,Plasmid,2.52,Zot Rep_2
+NODE_7_length_3710_cov_5.094963_cutoff_0,Plasmid,5.35,YafQ_toxin Rep_3
+NODE_8_length_2980_cov_7.367206_cutoff_0,Plasmid,5.35,Rep_3
+NODE_9_length_2470_cov_2.244463_cutoff_0,Chromosome,0,MacB_PCD FtsX
+NODE_10_length_2234_cov_3.554474_cutoff_0,Chromosome,--
+NODE_11_length_1970_cov_18.574221_cutoff_0,Chromosome,0,CRISPR_Cas2
+NODE_12_length_1967_cov_1.574074_cutoff_0,Chromosome,0,HemolysinCabind HemolysinCabind HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_13_length_1940_cov_3.975845_cutoff_0,Chromosome,0,RHH_1 HipA_C Couple_hipA ParE_toxin
+NODE_14_length_1697_cov_2.645062_cutoff_0,Chromosome,0,MucBP_2 MucBP_2 Mub_B2 Mub_B2
+NODE_15_length_1009_cov_1.831545_cutoff_0,Chromosome,--
+NODE_16_length_929_cov_1.109155_cutoff_0,Chromosome,--
+NODE_17_length_812_cov_3.194558_cutoff_0,Chromosome,--
+NODE_18_length_731_cov_1.120795_cutoff_0,Chromosome,0,PepSY PepSY
+NODE_19_length_713_cov_6.616352_cutoff_0,Chromosome,--
+NODE_20_length_704_cov_1.385965_cutoff_0,Chromosome,--
+NODE_21_length_701_cov_2.495192_cutoff_0,Chromosome,--
+NODE_22_length_672_cov_1.011765_cutoff_0,Chromosome,--
+NODE_23_length_669_cov_1.521959_cutoff_0,Chromosome,--
+NODE_24_length_665_cov_1.387755_cutoff_0,Chromosome,--
+NODE_25_length_644_cov_1.213404_cutoff_0,Chromosome,0,PNTB PNTB
+NODE_26_length_632_cov_8.477477_cutoff_0,Chromosome,0,HCBP_related HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind HemolysinCabind
+NODE_27_length_611_cov_0.893258_cutoff_0,Chromosome,0,Cna_B Cna_B
+NODE_1_length_5278_cov_3.015574_cutoff_5,Chromosome,0,SusD-like_3 SusD_RagB TonB_dep_Rec CarbopepD_reg_2 Plug CarboxypepD_reg
+NODE_2_length_2788_cov_7.006271_cutoff_5,Chromosome,0,Peptidase_C10 Inhibitor_I69
+NODE_3_length_2649_cov_2.311042_cutoff_5,Chromosome,--
+NODE_4_length_2134_cov_1.483228_cutoff_5,Chromosome,0,PMT_2
+NODE_5_length_1568_cov_2.439973_cutoff_5,Chromosome,0,LRR_5
+NODE_6_length_1413_cov_5.806886_cutoff_5,Chromosome,0,Glyco_transf_4 Glyco_trans_1_4
+NODE_7_length_1365_cov_8.938665_cutoff_5,Chromosome,--
+NODE_8_length_1346_cov_4.013396_cutoff_5,Chromosome,-3.1692354549351105,Porph_ging
+NODE_9_length_1168_cov_1.372136_cutoff_5,Chromosome,--
+NODE_10_length_1110_cov_5.980639_cutoff_5,Chromosome,0,ASCH

@@ -1,0 +1,15 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_4230_cov_3.326993_cutoff_0,Plasmid,5.35,Cation_efflux ParE_toxin Rep_3
+NODE_2_length_3756_cov_3.073390_cutoff_0,Plasmid,5.48,Rep_1
+NODE_3_length_1840_cov_1.855927_cutoff_0,Chromosome,--
+NODE_4_length_1815_cov_5.661680_cutoff_0,Chromosome,--
+NODE_5_length_1661_cov_5.005051_cutoff_0,Chromosome,0,Trp_ring
+NODE_6_length_1424_cov_3.021529_cutoff_0,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_7_length_641_cov_6.760638_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_8_length_638_cov_4.743316_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_9_length_629_cov_5.782609_cutoff_0,Chromosome,--
+NODE_10_length_602_cov_18.059048_cutoff_0,Chromosome,--
+NODE_11_length_587_cov_0.705882_cutoff_0,Chromosome,0,DUF1310
+NODE_1_length_2746_cov_13.981641_cutoff_5,Chromosome,0,Ion_trans_2 DUF1211 DUF389
+NODE_2_length_1487_cov_13.424113_cutoff_5,Chromosome,--
+NODE_3_length_1134_cov_2.171239_cutoff_5,Chromosome,--

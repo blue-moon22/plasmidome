@@ -1,0 +1,21 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_1184_cov_27.425474_cutoff_10,Chromosome,0,YadA_stalk
+NODE_1_length_37143_cov_4.989074_cutoff_0,Plasmid,5.82,Minor_capsid_3 PcfJ Phage_GP20 RuvC Minor_capsid_2 Phage_r1t_holin DUF1366 DUF859 Prophage_tail Glucosaminidase CHAP PcfK Phage_integrase HTH_3 YopX DUF1492 Terminase_2 Terminase_6 Phage_prot_Gp6 Phage_min_cap2 Ntox50 Big_8 Collagen_bind Gram_pos_anchor DUF1351 Minor_capsid_1 Sipho_tail Phage_Gp15 DnaB_2 Phage_rep_org_N Peptidase_M78 Abi_2 RecT
+NODE_2_length_3720_cov_33.686797_cutoff_0,Plasmid,5.35,Rep_3 Integrase_1
+NODE_3_length_3591_cov_1.581673_cutoff_0,Plasmid,3.86,Rep_trans Mob_Pre
+NODE_4_length_3056_cov_3.019805_cutoff_0,Plasmid,2.53,rve HTH_28 HTH_29 HTH_23 LZ_Tnp_IS481
+NODE_5_length_1379_cov_6.079877_cutoff_0,Chromosome,--
+NODE_6_length_968_cov_0.662177_cutoff_0,Chromosome,-2.581980563512385,DUF1266
+NODE_7_length_773_cov_9.612069_cutoff_0,Chromosome,--
+NODE_8_length_698_cov_1.442834_cutoff_0,Chromosome,0,N_methyl
+NODE_9_length_698_cov_0.694042_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_1_length_2763_cov_30.534252_cutoff_42,Chromosome,--
+NODE_1_length_2989_cov_8.298764_cutoff_5,Chromosome,0,Fic Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S Methylase_S
+NODE_2_length_2583_cov_1.577813_cutoff_5,Chromosome,-6.31400577300818,YchF-GTPase_C YchF-GTPase_C
+NODE_3_length_1913_cov_4.104031_cutoff_5,Chromosome,0,HTH_20 MFS_1
+NODE_4_length_1496_cov_9.281184_cutoff_5,Chromosome,--
+NODE_5_length_1376_cov_3.834488_cutoff_5,Chromosome,0,NAD_binding_2 NAD_binding_11 Peptidase_S66C
+NODE_6_length_1190_cov_1.362983_cutoff_5,Chromosome,0,Bacteriocin_IIc
+NODE_7_length_641_cov_9.161348_cutoff_5,Chromosome,0,Big_11 Big_11
+NODE_1_length_43977_cov_55.692916_cutoff_33,Chromosome,0,Spherulin4 Collagen CHAP GDPD Sipho_tail Sipho_Gp37 Peptidase_S78 Phage_capsid Phage_portal Terminase_1 HNH_3 DUF2800 Phage_holin_Dp1 Guanylate_kin HNH_3
+NODE_1_length_1643_cov_48.729246_cutoff_15,Chromosome,0,YadA_stalk

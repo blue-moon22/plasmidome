@@ -1,0 +1,14 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_9405_cov_48.380360_cutoff_91,Chromosome,0,Gram_pos_anchor YSIRK_signal
+NODE_1_length_1123_cov_14.802103_cutoff_10,Chromosome,--
+NODE_1_length_66688_cov_4.861885_cutoff_0,Chromosome,0,Terminase_6C Rad52_Rad22 dUTPase Thy1 DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 Amidase_2 RNR_Alpha Ribonuc_red_lgC HTH_17 Phage_integrase HTH_3 HNH_3 DnaB_C zf-CHC2 Toprim_2 Toprim_N DUF5309 Phage_lysozyme2 Cpn10 Phage_holin_4_1 Collagen Collagen Collagen DUF370 SNF2_N Helicase_C
+NODE_2_length_6181_cov_13.808322_cutoff_0,Plasmid,10.69,Rep_3 HTH_3 Rep_3
+NODE_3_length_2703_cov_9.271516_cutoff_0,Plasmid,5.35,Rep_3
+NODE_4_length_2318_cov_12.427488_cutoff_0,Chromosome,--
+NODE_5_length_995_cov_1.273420_cutoff_0,Chromosome,0,GBS_Bsp-like GBS_Bsp-like GBS_Bsp-like GBS_Bsp-like
+NODE_6_length_635_cov_2.526882_cutoff_0,Chromosome,--
+NODE_7_length_599_cov_3.563218_cutoff_0,Chromosome,0,Collagen Collagen
+NODE_1_length_1466_cov_72.343413_cutoff_20,Chromosome,0,YadA_stalk YadA_stalk
+NODE_1_length_33946_cov_7.052496_cutoff_5,Chromosome,0,Phage_prot_Gp6 Terminase_1 HTH_26 Amidase_2 SH3_5 Phage_integrase Phage_Gp19 Phage_capsid Peptidase_M78 HNH D5_N
+NODE_2_length_8281_cov_6.098489_cutoff_5,Chromosome,-2.5577663053942086,Secretin DUF2523 Zot Phage_DNA_bind Phage_CRI Phage_X DUF1496
+NODE_3_length_1514_cov_9.934586_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk YadA_stalk

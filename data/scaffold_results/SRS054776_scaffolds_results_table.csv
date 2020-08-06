@@ -1,0 +1,23 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_49842_cov_14.864825_cutoff_0,Chromosome,0,Pectate_lyase_3 DUF2746 Amidase_2 Spherulin4 DUF3310 VirE DUF2800 DUF2800 DUF2815 DNA_pol_A DNA_pol_A_exo1 SNF2_N Phage_cap_E Phage_prot_Gp6 AAA_33
+NODE_2_length_4506_cov_6.622262_cutoff_0,Plasmid,2.52,FtsK_SpoIIIE Rep_2 RNA_helicase
+NODE_3_length_4212_cov_3.184764_cutoff_0,Plasmid,9.00,MobA_MobL Rep_3 VbhA
+NODE_4_length_1588_cov_2.197220_cutoff_0,Chromosome,--
+NODE_5_length_1207_cov_1.746018_cutoff_0,Chromosome,-4.850336367898969,DUF1176 DUF1176
+NODE_6_length_1108_cov_0.600388_cutoff_0,Chromosome,0,APH
+NODE_7_length_1001_cov_2.433983_cutoff_0,Chromosome,--
+NODE_8_length_971_cov_3.596197_cutoff_0,Chromosome,0,DUF285 DUF285 LRR_5
+NODE_9_length_836_cov_2.378129_cutoff_0,Chromosome,--
+NODE_10_length_829_cov_1.320479_cutoff_0,Chromosome,--
+NODE_11_length_824_cov_1.736278_cutoff_0,Chromosome,0,Rib
+NODE_12_length_764_cov_2.541485_cutoff_0,Chromosome,--
+NODE_13_length_611_cov_1.870787_cutoff_0,Chromosome,--
+NODE_14_length_593_cov_1.135659_cutoff_0,Chromosome,0,FIVAR FIVAR FIVAR
+NODE_15_length_592_cov_0.869903_cutoff_0,Chromosome,--
+NODE_1_length_3485_cov_8.504401_cutoff_5,Plasmid,5.35,Rep_3 ParE_toxin
+NODE_2_length_2002_cov_1.760000_cutoff_5,Chromosome,0,Peptidase_C2
+NODE_3_length_1694_cov_8.841064_cutoff_5,Chromosome,0,Trp_ring
+NODE_4_length_1658_cov_20.205566_cutoff_5,Chromosome,0,YadA_stalk
+NODE_5_length_1205_cov_7.224291_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk
+NODE_6_length_1184_cov_6.848238_cutoff_5,Chromosome,0,YadA_stalk
+NODE_7_length_1094_cov_2.438545_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk

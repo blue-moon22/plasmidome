@@ -1,0 +1,16 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_16367_cov_3.810436_cutoff_0,Plasmid,3.26,ShlB POTRA_3 POTRA_2 Fil_haemagg_2 Haemagg_act PT-VENN Fil_haemagg_2 Fil_haemagg_2 Fil_haemagg_2 Fil_haemagg_2 DUF5397 CRISPR_Cas2 RPA YafQ_toxin RelB
+NODE_2_length_5759_cov_3.061070_cutoff_0,Plasmid,9.00,Rep_3 MobA_MobL PemK_toxin
+NODE_3_length_5679_cov_4.137451_cutoff_0,Plasmid,2.67,Rep_trans ToxN_toxin FtsK_SpoIIIE
+NODE_4_length_4575_cov_17.444864_cutoff_0,Chromosome,0,AAA_22 Rep_trans Rol_Rep_N
+NODE_5_length_3736_cov_6.799672_cutoff_0,Plasmid,6.39,Mob_Pre RHH_1 Rep_2
+NODE_6_length_2923_cov_8.182010_cutoff_0,Plasmid,5.35,Rep_3 HTH_3 HigB-like_toxin
+NODE_7_length_2786_cov_2.984865_cutoff_0,Chromosome,0,Rep_trans
+NODE_8_length_1382_cov_3.638314_cutoff_0,Chromosome,--
+NODE_9_length_1232_cov_1.089177_cutoff_0,Chromosome,0,Methyltransf_11 Methyltransf_25
+NODE_10_length_755_cov_0.775811_cutoff_0,Chromosome,0,SMI1_KNR4
+NODE_11_length_662_cov_1.755556_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_1_length_226788_cov_25.522829_cutoff_5,Chromosome,-2.6512923634001293,YadA_anchor YadA_stalk YadA_head YadA_stalk ESPR YadA_head Thymidylate_kin Endonuclease_NS SmpA_OmlA DUF1353 Peptidase_S74 RNase_H Peptidase_S74 Peptidase_S74 CHAP HNH_3 Glyco_hydro_108 PG_binding_3 Peptidase_M48 phiKZ_IP phiKZ_IP DNA_pol_B_exo1 DPBB_1 Glyco_hydro_20
+NODE_2_length_4828_cov_1.730162_cutoff_5,Chromosome,0,Peptidase_S74
+NODE_3_length_1976_cov_2.280674_cutoff_5,Chromosome,--
+NODE_4_length_1086_cov_1.607532_cutoff_5,Chromosome,--

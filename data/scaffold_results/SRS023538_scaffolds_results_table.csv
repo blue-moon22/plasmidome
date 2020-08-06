@@ -1,0 +1,14 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_3884_cov_7.473601_cutoff_10,Chromosome,0,AAA_30 UvrD_C_2
+NODE_2_length_3614_cov_28.430591_cutoff_10,Chromosome,0,Type_ISP_C N6_Mtase
+NODE_1_length_60467_cov_179.793906_cutoff_0,Chromosome,0,Prophage_tail CHAP SH3_5 Sipho_tail Phage_capsid Peptidase_S78 Big_8 Collagen_bind Gram_pos_anchor CHAP Phage_holin_1 DUF1366 DUF859 Phage_portal Terminase_1 HTH_24 DUF1599
+NODE_2_length_2733_cov_5.074172_cutoff_0,Chromosome,0,PS_pyruv_trans Polysacc_synt_C Polysacc_synt
+NODE_3_length_2660_cov_2.287650_cutoff_0,Chromosome,--
+NODE_4_length_1531_cov_4.075653_cutoff_0,Chromosome,--
+NODE_5_length_1374_cov_11.029298_cutoff_0,Chromosome,0,Tox-REase-5
+NODE_6_length_836_cov_0.524374_cutoff_0,Chromosome,--
+NODE_7_length_632_cov_5.763964_cutoff_0,Chromosome,--
+NODE_1_length_10511_cov_26.821449_cutoff_20,Chromosome,0,zf-ISL3 DDE_Tnp_ISL3 DUF1768 PTS_2-RNA Imm6
+NODE_2_length_8838_cov_25.876498_cutoff_20,Plasmid,9.21,AbiEii DUF1269 Rep_3 Mob_Pre
+NODE_1_length_5083_cov_33.043748_cutoff_5,Chromosome,0,Mrr_cat_2 ResIII Ribonuc_red_sm DUF1269
+NODE_1_length_44094_cov_79.767090_cutoff_15,Chromosome,0,Terminase_1 Peptidase_S78 Phage_capsid Phage_portal Phage_holin_Dp1 HNH_3 Guanylate_kin HNH_3 DUF2800 Spherulin4 Collagen Collagen GDPD CHAP Sipho_tail Sipho_Gp37

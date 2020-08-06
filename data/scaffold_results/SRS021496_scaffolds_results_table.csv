@@ -1,0 +1,53 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_8564_cov_205.113939_cutoff_198,Plasmid,8.86,Relaxase OMP_b-brl_2 ORF6N Rep_3
+NODE_2_length_3161_cov_208.856680_cutoff_198,Plasmid,5.35,Rep_3
+NODE_1_length_10126_cov_15.837695_cutoff_10,Plasmid,11.73,RelB Rep_3 Mob_Pre Rep_2
+NODE_2_length_6233_cov_33.619558_cutoff_10,Chromosome,0,EamA ABC_tran ABC_tran BPD_transp_1 BPD_transp_1 SBP_bac_5 EamA
+NODE_3_length_1361_cov_16.499221_cutoff_10,Chromosome,--
+NODE_1_length_1945_cov_48.063169_cutoff_70,Chromosome,0,SLH
+NODE_1_length_4280_cov_15.051154_cutoff_0,Plasmid,6.39,RHH_1 Rep_2 Mob_Pre
+NODE_2_length_3762_cov_1.954953_cutoff_0,Chromosome,0,HATPase_c_4 AlbA_2 DDE_Tnp_1 DUF772
+NODE_3_length_3172_cov_6.208724_cutoff_0,Plasmid,8.91,Mob_Pre Rep_2 Rep_2
+NODE_4_length_2988_cov_4.760220_cutoff_0,Plasmid,5.35,Rep_3
+NODE_5_length_2123_cov_3.243891_cutoff_0,Chromosome,0,Acyl_transf_3
+NODE_6_length_2021_cov_1.939300_cutoff_0,Chromosome,--
+NODE_7_length_1966_cov_11.570672_cutoff_0,Chromosome,--
+NODE_8_length_1843_cov_1.644960_cutoff_0,Chromosome,0,Fic
+NODE_9_length_1510_cov_1.344033_cutoff_0,Chromosome,0,Transposase_31
+NODE_10_length_1420_cov_17.950856_cutoff_0,Plasmid,5.05,Rep_2 Rep_2
+NODE_11_length_1295_cov_2.202791_cutoff_0,Chromosome,0,DHBP_synthase GTP_cyclohydro2 GTP_cyclohydro2
+NODE_12_length_1212_cov_3.722467_cutoff_0,Chromosome,0,Methylase_S
+NODE_13_length_1212_cov_3.117181_cutoff_0,Chromosome,--
+NODE_14_length_1037_cov_1.585417_cutoff_0,Chromosome,0,LTD LTD
+NODE_15_length_969_cov_1.123318_cutoff_0,Chromosome,--
+NODE_16_length_799_cov_1.026316_cutoff_0,Chromosome,--
+NODE_17_length_755_cov_1.789086_cutoff_0,Chromosome,--
+NODE_18_length_674_cov_1.041876_cutoff_0,Chromosome,--
+NODE_19_length_649_cov_3.204545_cutoff_0,Chromosome,--
+NODE_20_length_635_cov_2.707885_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_21_length_614_cov_1.396648_cutoff_0,Chromosome,--
+NODE_1_length_623_cov_32.058608_cutoff_26,Chromosome,--
+NODE_1_length_62572_cov_34.236499_cutoff_42,Chromosome,-18.293280236373988,HhH-GPD NUDIX_4 EndIII_4Fe-2S Tricorn_C1 Peptidase_S41 PD40 PD40 PD40 PD40 PD40 PD40 PD40 Aminotran_1_2 Ecotin Acyl_transf_3 FAD_binding_2 Succ_DH_flav_C Fer2_3 Fer4_8 Fer4_7 Fer4_17 DUF87 SIR2_2 HU-HIG EcoR124_C SWI2_SNF2 HSDR_N ResIII AAA_13 Methylase_S Methylase_S N6_Mtase HsdM_N HlyD_D23 ACR_tran OEP OEP Acetyltransf_11 Hexapep Hexapep Hexapep DHquinase_II Phage_integrase Phage_int_SAM_1 DUF2723 Radical_SAM UPF0004 TRAM Polysacc_deac_1 PK PK_C Peptidase_M23 LysM OMP_b-brl_3 ABC_membrane ABC_tran DUF4848 Sigma70_r2 Sigma70_r4_2 Sigma70_r4 AAA_2 ClpB_D2-small Clp_N GATase_5 AIRS_C FGAR-AT_linker AIRS_C FGAR-AT_N
+NODE_2_length_818_cov_77.890688_cutoff_42,Chromosome,--
+NODE_1_length_5803_cov_25.633077_cutoff_5,Plasmid,5.35,Arc YafQ_toxin Rep_3
+NODE_2_length_5607_cov_2.278662_cutoff_5,Chromosome,0,DUF4123
+NODE_3_length_4737_cov_6.277897_cutoff_5,Chromosome,0,Rep_trans Rol_Rep_N AAA_22
+NODE_4_length_4033_cov_2.464358_cutoff_5,Chromosome,0,PucR HTH_30 Transp_cyt_pur DUF917
+NODE_5_length_3196_cov_5.135300_cutoff_5,Chromosome,0,ABC_tran ABC_membrane HTH_3
+NODE_6_length_3079_cov_3.223185_cutoff_5,Chromosome,--
+NODE_7_length_2721_cov_1.478442_cutoff_5,Chromosome,0,fn3 fn3 fn3 Big_3_2
+NODE_8_length_2291_cov_7.558266_cutoff_5,Chromosome,--
+NODE_9_length_1866_cov_7.522079_cutoff_5,Chromosome,0,ABC_tran
+NODE_10_length_1402_cov_2.647547_cutoff_5,Chromosome,0,DUF3114
+NODE_11_length_1355_cov_3.412363_cutoff_5,Chromosome,0,YadA_stalk
+NODE_12_length_1283_cov_3.988391_cutoff_5,Chromosome,--
+NODE_13_length_1274_cov_2.471178_cutoff_5,Chromosome,0,DUF2931
+NODE_14_length_1266_cov_12.482759_cutoff_5,Chromosome,0,Methylase_S Methylase_S
+NODE_15_length_1236_cov_5.575496_cutoff_5,Chromosome,--
+NODE_16_length_1226_cov_5.225413_cutoff_5,Chromosome,0,CbiM CbiN
+NODE_17_length_1097_cov_26.774510_cutoff_5,Chromosome,--
+NODE_1_length_6856_cov_89.111078_cutoff_33,Chromosome,0,DUF2523 Zot Rep_trans
+NODE_2_length_749_cov_97.120536_cutoff_33,Chromosome,--
+NODE_1_length_2094_cov_13.135350_cutoff_15,Chromosome,-11.073121884532355,PduV-EutP BMC BMC BMC
+NODE_2_length_2055_cov_13.053084_cutoff_15,Chromosome,0,Sel1 Sel1 Sel1 Sel1 Sel1
+NODE_3_length_623_cov_32.058608_cutoff_15,Chromosome,--

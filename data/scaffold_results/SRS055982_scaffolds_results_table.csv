@@ -1,0 +1,33 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_2995_cov_147.441056_cutoff_153,Chromosome,0,DUF4065
+NODE_1_length_2687_cov_73.314559_cutoff_91,Chromosome,0,DUF4221 DUF1573
+NODE_1_length_27953_cov_10.770376_cutoff_10,Plasmid,3.03,DUF1778 CN_hydrolase RE_HaeIII DNA_methylase AbiJ_NTD4 Acetyltransf_1 HTH_38 AAA_21 FMN_red Acetyltransf_1 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 HTH_19 Acetyltransf_1 Acetyltransf_1 HATPase_c_4 AAA_11 AAA_12 DUF2726 HAD_2 NUDIX AlbA_2 HTH_26 NUDIX His_Phos_1
+NODE_2_length_16576_cov_10.396873_cutoff_10,Chromosome,0,DUF4973 DUF4361 SusD_RagB SusD-like_3 Sulfatase Sulfatase DUF1793 CarbopepD_reg_2 Plug TIG NHL Sulfatase Sulfatase DUF1793 ATPase_2 DUF234
+NODE_3_length_14779_cov_12.592096_cutoff_10,Chromosome,0,Peptidase_C11 T2SS-T3SS_pil_N NlpE TonB_dep_Rec Plug
+NODE_1_length_30887_cov_55.445148_cutoff_70,Chromosome,0,Aminotran_1_2 TP_methylase CbiG_N CbiG_C CbiG_mid CbiD CbiJ GATase_3 CbiA AAA_26 Cob_adeno_trans CbiC TP_methylase GATase_3 CbiA AAA_26 DUF2149 PhosphMutase Phosphodiest FecCD CbiK CarbopepD_reg_2 Plug MotA_ExbB CobN-Mg_chel ABC_tran Peripla_BP_2 His_Phos_1 CobD_Cbib DBI_PRT CobS PepSY_TM CobU Peptidase_M23
+NODE_2_length_14341_cov_71.904445_cutoff_70,Chromosome,0,PfkB SusD_RagB SusD-like_3 Ureide_permease Ureide_permease TonB_dep_Rec Plug CarbopepD_reg_2 CarboxypepD_reg IU_nuc_hydro DNA_pol_A
+NODE_1_length_100219_cov_5.698318_cutoff_0,Chromosome,0,ResIII Helicase_C Mtd_N Beta_helix Sigma70_r4_2 Sigma70_r2 RNase_T Hom_end_hint Bac_DNA_binding Mtd_N aGPT-Pplase1 aGPT-Pplase1 DUF2786 5_3_exonuc_N Ferritin dUTPase Gln_amidase Phage_portal PG_binding_3 NUMOD3 NUMOD3 DnaB_C Radical_SAM SPASM Glyco_hydro_108 Metallophos RecA DUF1599 HD_2 DNA_pol3_alpha DNA_pol3_finger HHH_6 PHP Thymidylat_synt UvrD_C AAA_19 UvrD-helicase DNA_methylase Peptidase_M23 Baseplate_J
+NODE_2_length_6039_cov_17.485743_cutoff_0,Plasmid,3.86,Mob_Pre YafQ_toxin RelB
+NODE_3_length_5897_cov_772.649485_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 PhdYeFM_antitox Relaxase
+NODE_4_length_5831_cov_4.127216_cutoff_0,Chromosome,0,Phage_F
+NODE_5_length_4225_cov_534.693105_cutoff_0,Plasmid,8.86,Rep_3 Relaxase YoeB_toxin
+NODE_6_length_4094_cov_1.804083_cutoff_0,Chromosome,0,Tubulin_2
+NODE_7_length_3952_cov_2.668645_cutoff_0,Chromosome,--
+NODE_8_length_2854_cov_4.279078_cutoff_0,Chromosome,0,DUF86 Arm-DNA-bind_5
+NODE_9_length_2829_cov_839.420058_cutoff_0,Chromosome,--
+NODE_10_length_1677_cov_1.106250_cutoff_0,Chromosome,0,Fic
+NODE_11_length_972_cov_0.654749_cutoff_0,Chromosome,--
+NODE_1_length_16009_cov_34.212089_cutoff_42,Chromosome,0,Glyco_hydro_43 TonB_dep_Rec Plug CarbopepD_reg_2 Adenine_glyco SusD_RagB SusD-like_3 Response_reg HATPase_c Y_Y_Y HTH_18 HTH_AraC HisKA Reg_prop Reg_prop Reg_prop Reg_prop Reg_prop VirE_N DUF3874 VirE AAA_14 DUF4143
+NODE_1_length_4746_cov_10.577211_cutoff_20,Chromosome,0,HipA_C Couple_hipA DUF553 HTH_3
+NODE_2_length_618_cov_75.144177_cutoff_20,Chromosome,--
+NODE_1_length_64789_cov_17.435993_cutoff_5,Plasmid,2.71,DUF2577 DUF2313 Baseplate_J DUF2001 Phage_TAC_5 DUF2786 DUF2634 Phage_cap_E HK97-gp10_like Phage_sheath_1C Phage_sheath_1 Phage_GP20 Phage_Mu_F SNF2_N Helicase_C RVT_1 Amidase_2 DNA_pol_A DNA_pol_A_exo1 RecU GTP_cyclohydroI PTPS Radical_SAM QueC Toprim_2 DnaB_C HTH_36 HTH_3 dUTPase Terminase_3 Terminase_3C Phage_prot_Gp6 DNA_pol3_delta2 DNA_pol3_delta2 DNA_ligase_aden RecA RecA HD
+NODE_2_length_12951_cov_3.633292_cutoff_5,Chromosome,0,N6_Mtase HsdM_N HTH_17 SWI2_SNF2 HSDR_N DUF3387 Methylase_S Methylase_S DUF45 HATPase_c_4 HTH_24 HTH_11
+NODE_3_length_6441_cov_1.307982_cutoff_5,Chromosome,0,rve
+NODE_4_length_4152_cov_5.272393_cutoff_5,Chromosome,0,ABC_tran ABC_membrane HTH_31
+NODE_5_length_3195_cov_2.241822_cutoff_5,Chromosome,0,DUF3990 Methylase_S Methylase_S Phage_integrase Phage_int_SAM_4
+NODE_6_length_2136_cov_2.283147_cutoff_5,Chromosome,0,Trans_reg_C
+NODE_7_length_1748_cov_1.185518_cutoff_5,Chromosome,0,CitMHS CitMHS
+NODE_8_length_1676_cov_3.742964_cutoff_5,Chromosome,--
+NODE_9_length_1109_cov_3.076550_cutoff_5,Chromosome,--
+NODE_1_length_1380_cov_246.461243_cutoff_33,Chromosome,0,DDE_Tnp_1
+NODE_1_length_1810_cov_10.508367_cutoff_15,Chromosome,0,TNT

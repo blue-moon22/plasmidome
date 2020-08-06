@@ -1,0 +1,11 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5259_cov_5.054033_cutoff_0,Plasmid,5.48,Rep_1 Zot
+NODE_2_length_3918_cov_3.819058_cutoff_0,Plasmid,9.21,Mob_Pre Rep_3
+NODE_3_length_2691_cov_21.889824_cutoff_0,Chromosome,0,Rep_trans Rol_Rep_N
+NODE_4_length_1592_cov_6.654125_cutoff_0,Chromosome,--
+NODE_5_length_956_cov_2.659841_cutoff_0,Chromosome,0,ParE_toxin PhdYeFM_antitox
+NODE_6_length_938_cov_2.823461_cutoff_0,Chromosome,0,YadA_stalk
+NODE_7_length_612_cov_1.727103_cutoff_0,Chromosome,--
+NODE_1_length_1866_cov_3.253773_cutoff_5,Chromosome,0,ABC_tran ABC_tran
+NODE_2_length_1697_cov_2.162346_cutoff_5,Chromosome,--
+NODE_3_length_1178_cov_3.670300_cutoff_5,Chromosome,--

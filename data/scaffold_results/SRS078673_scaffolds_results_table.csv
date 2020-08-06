@@ -1,0 +1,19 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_58161_cov_91.983438_cutoff_0,Chromosome,0,Prophage_tail DUF1599 RdRP Gp58 Peptidase_S78 Terminase_1 Phage_portal Phage_holin_6_1 HK97-gp10_like Amidase_5 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1 CW_binding_1
+NODE_2_length_2703_cov_31.203351_cutoff_0,Plasmid,5.35,Rep_3
+NODE_3_length_2374_cov_11.008707_cutoff_0,Plasmid,2.65,RHH_3 Rep_trans
+NODE_4_length_2318_cov_30.401606_cutoff_0,Chromosome,--
+NODE_5_length_1642_cov_1.739297_cutoff_0,Chromosome,0,DUF772 DDE_Tnp_1_6
+NODE_6_length_1286_cov_1.674938_cutoff_0,Chromosome,--
+NODE_7_length_968_cov_1.758698_cutoff_0,Chromosome,--
+NODE_8_length_869_cov_1.193182_cutoff_0,Chromosome,0,Rib Rib
+NODE_9_length_665_cov_1.484694_cutoff_0,Chromosome,--
+NODE_10_length_653_cov_8.309028_cutoff_0,Chromosome,--
+NODE_11_length_638_cov_2.593583_cutoff_0,Chromosome,0,Big_11 Big_11
+NODE_12_length_635_cov_2.512545_cutoff_0,Chromosome,--
+NODE_13_length_619_cov_0.536900_cutoff_0,Chromosome,0,OPT
+NODE_14_length_580_cov_1.326044_cutoff_0,Chromosome,--
+NODE_1_length_1214_cov_17.167986_cutoff_26,Chromosome,0,Big_11 Big_11 Big_11 Big_11 Big_11
+NODE_1_length_1673_cov_14.294486_cutoff_5,Chromosome,0,Trp_ring
+NODE_2_length_1514_cov_9.385525_cutoff_5,Chromosome,0,YadA_stalk YadA_stalk YadA_stalk YadA_stalk
+NODE_3_length_1466_cov_3.509719_cutoff_5,Chromosome,--

@@ -1,0 +1,13 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_38417_cov_5.290558_cutoff_0,Chromosome,0,HTH_3 Peptidase_M78 Phage_integrase Phage_int_SAM_3 Phage_r1t_holin CHAP DUF1366 N6_N4_Mtase DUF1642 RusA DNA_methylase HK97-gp10_like DUF1351 RecT Spore_Cse60 IstB_IS21 Phage_rep_org_N DnaB_2 Phage_tail_2 Phage_TAC_12 Sipho_tail DUF859 Prophage_tail Glucosaminidase CHAP Big_8 Collagen_bind Gram_pos_anchor ANT AntA Phage_prot_Gp6 Phage_Mu_F DUF4355 Rho_N Phage_connect_1
+NODE_2_length_8104_cov_2.707861_cutoff_0,Chromosome,0,Peptidase_M26_C Peptidase_M26_N G5 YSIRK_signal
+NODE_3_length_5300_cov_10.933372_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_4_length_1874_cov_1.179188_cutoff_0,Chromosome,0,DUF1304 TetR_N
+NODE_5_length_1002_cov_1.300541_cutoff_0,Chromosome,--
+NODE_6_length_683_cov_5.140264_cutoff_0,Chromosome,--
+NODE_7_length_635_cov_0.655914_cutoff_0,Chromosome,0,Big_6
+NODE_8_length_581_cov_1.724206_cutoff_0,Chromosome,--
+NODE_1_length_3247_cov_3.936593_cutoff_5,Chromosome,--
+NODE_2_length_1645_cov_1.450255_cutoff_5,Chromosome,0,2-oxoacid_dh Biotin_lipoyl E3_binding E3_binding
+NODE_3_length_1424_cov_2.152190_cutoff_5,Chromosome,0,MucBP_2 Mub_B2 MucBP MucBP
+NODE_4_length_1181_cov_5.411232_cutoff_5,Chromosome,0,YadA_stalk

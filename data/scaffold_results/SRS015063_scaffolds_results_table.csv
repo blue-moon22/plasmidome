@@ -1,0 +1,28 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5812_cov_159.051613_cutoff_118,Chromosome,--
+NODE_1_length_36028_cov_21.982393_cutoff_10,Chromosome,0,Bro-N Phage_prot_Gp6 P22_CoatProtein Peptidase_M23 Glyco_hydro_25 Phage_r1t_holin Phage_integrase HTH_17 DUF5403 Terminase_1 HTH_3 HTH_3
+NODE_2_length_3306_cov_5.044596_cutoff_10,Chromosome,0,DNA_methylase RE_NgoBV
+NODE_3_length_1250_cov_8.323956_cutoff_10,Chromosome,--
+NODE_1_length_63071_cov_52.444153_cutoff_0,Plasmid,3.57,BspA_v BspA_v GbpC Glyco_hydro_25 Phage_holin_Dp1 Glucosaminidase DNA_pol_A AAA_25 RepB_primase HNH_3 RuvC DNA_pol_A DNA_pol_A_exo1 Big_8 Collagen_bind DUF1642 PDDEXK_1 DUF3310 dUTPase AAA_24
+NODE_2_length_43486_cov_55.768159_cutoff_0,Plasmid,2.67,Bro-N ANT LAGLIDADG_3 Glyco_hydro_25 Collar Phage_prot_Gp6 Phage_capsid Phage_Gp19 DUF5403 TIG Spherulin4 Phage_r1t_holin SSB HTH_17 ERF DnaB_C DUF3310
+NODE_3_length_35256_cov_11.881037_cutoff_0,Chromosome,0,Phage_prot_Gp6 Phage_capsid Phage_Gp19 HTH_26 VRR_NUC Amidase_2 Dam TMP TMP TMP Collagen Spherulin4 HTH_26 Phage_integrase HNH
+NODE_4_length_15689_cov_11.338522_cutoff_0,Plasmid,3.26,RPA DUF5397 YafQ_toxin RelB ShlB POTRA_3 POTRA_2 Fil_haemagg_2 Haemagg_act Fil_haemagg_2 PT-VENN Fil_haemagg_2 Fil_haemagg_2 DUF5397
+NODE_5_length_14619_cov_192.098198_cutoff_0,Chromosome,0,Phage_portal Amidase_2 HTH_3 Whib HNH
+NODE_6_length_1072_cov_7.810050_cutoff_0,Chromosome,--
+NODE_7_length_1013_cov_3.121795_cutoff_0,Chromosome,0,YadA_stalk
+NODE_8_length_909_cov_1.076923_cutoff_0,Chromosome,--
+NODE_9_length_839_cov_2.688976_cutoff_0,Chromosome,-2.49779251340658,EPSP_synthase
+NODE_10_length_806_cov_1.131687_cutoff_0,Chromosome,--
+NODE_11_length_676_cov_0.893155_cutoff_0,Chromosome,0,ABC_tran ABC_tran
+NODE_12_length_650_cov_2.048866_cutoff_0,Chromosome,--
+NODE_13_length_632_cov_2.140541_cutoff_0,Chromosome,--
+NODE_1_length_17000_cov_30.715890_cutoff_42,Chromosome,-41.35303177837146,GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7 Ribosom_S12_S23 Ribosomal_L11_N Ribosomal_L11 Ribosomal_L10 Ribosomal_L1 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 Ribosomal_L12 Ribosomal_L12_N RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 SecE GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 NusG KOW
+NODE_1_length_15000_cov_20.588823_cutoff_20,Chromosome,-4.8652063248722435,TMP_2 Tape_meas_lam_C Phage_TAC_4 Phage_tail_3 NLPC_P60 Prok-JAB Phage_tail_L Phage_min_tail Phage_Nu1 Phage_capsid Peptidase_S78 Phage_portal_2 Terminase_GpA
+NODE_2_length_3260_cov_38.999686_cutoff_20,Chromosome,0,DDE_Tnp_1 LtrA
+NODE_1_length_71669_cov_14.896678_cutoff_5,Plasmid,3.98,Ribonuc_red_sm RNase_H DUF3310 RNA_pol DUF1768 Glyco_hydro_19 AAA_24 PriCT_1 NUMOD4 HNH_3 Bac_DNA_binding Thy1 DUF2201_N DUF2201 DNA_pol_A DNA_pol_A_exo1 SLT
+NODE_2_length_1920_cov_3.250136_cutoff_5,Chromosome,0,Beta-lactamase
+NODE_3_length_1791_cov_9.704201_cutoff_5,Chromosome,0,GH-E
+NODE_4_length_1549_cov_4.707880_cutoff_5,Chromosome,--
+NODE_5_length_1215_cov_3.600176_cutoff_5,Chromosome,0,Tli4_C
+NODE_6_length_1171_cov_1.893053_cutoff_5,Chromosome,0,DUF2931 DUF2931
+NODE_1_length_5048_cov_17.575136_cutoff_15,Chromosome,--

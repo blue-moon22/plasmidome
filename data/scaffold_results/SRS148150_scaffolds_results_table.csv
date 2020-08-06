@@ -1,0 +1,45 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_3147_cov_6.366124_cutoff_10,Chromosome,--
+NODE_2_length_1208_cov_25.734748_cutoff_10,Chromosome,--
+NODE_1_length_5670_cov_74.055426_cutoff_70,Chromosome,-14.411687305412862,TPP_enzyme_N TPP_enzyme_C TPP_enzyme_M IlvN IlvC ALS_ss_C ACT_5 ACT
+NODE_1_length_39547_cov_19.938966_cutoff_0,Chromosome,0,Amidase_2 HK97-gp10_like Phage_holin_Dp1 Terminase_1 Phage_portal Phage_capsid Pox_D5 HNH_3
+NODE_2_length_36745_cov_15.983773_cutoff_0,Plasmid,24.65,MobC CHAP PrgI AAA_10 DUF87 T4SS-DNA_transf Relaxase TraX DUF1292 Peptidase_S26 Toprim_2 RelB RelB ParBc AAA_31 Resolvase LPD25 Topoisom_bac Toprim GntR
+NODE_3_length_26016_cov_16.341455_cutoff_0,Plasmid,16.09,T4SS-DNA_transf Glucosaminidase CHAP YukC DUF87 SSB AAA_31 Topoisom_bac Toprim zf-C4_Topoisom Resolvase T4SS_CagC MobA_MobL NES_C_h HTH_3 LPD25 Peptidase_M78
+NODE_4_length_12728_cov_15.015098_cutoff_0,Plasmid,11.77,Relaxase Toprim_2 Rep_3 DnaB_C Resolvase
+NODE_5_length_10322_cov_4.139092_cutoff_0,Plasmid,5.13,HTH_17 AAA_31 Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 DnaB_C Toprim_2 Toprim_3
+NODE_6_length_7242_cov_5.469644_cutoff_0,Plasmid,3.86,Mob_Pre RrnaAD RelB YafQ_toxin
+NODE_7_length_5643_cov_15.953108_cutoff_0,Plasmid,5.20,Rep_trans FtsK_SpoIIIE RepL
+NODE_8_length_4498_cov_3.696449_cutoff_0,Chromosome,0,ParE_toxin
+NODE_9_length_4307_cov_1.341371_cutoff_0,Plasmid,6.39,Rep_2 Mob_Pre
+NODE_10_length_4039_cov_36.291519_cutoff_0,Chromosome,0,Rep_trans FtsK_SpoIIIE
+NODE_11_length_3854_cov_2.227164_cutoff_0,Plasmid,6.39,Mob_Pre Rep_2
+NODE_12_length_3108_cov_2.271528_cutoff_0,Chromosome,0,HTH_36
+NODE_13_length_3106_cov_7.127105_cutoff_0,Plasmid,5.35,Rep_3 YoeB_toxin
+NODE_14_length_2762_cov_1.670019_cutoff_0,Chromosome,-6.371651287123893,LppC Cons_hypoth698 UPF0102 SIS_2
+NODE_15_length_1673_cov_2.112155_cutoff_0,Chromosome,0,RVT_1
+NODE_16_length_1221_cov_1.012238_cutoff_0,Chromosome,--
+NODE_17_length_1166_cov_1.751148_cutoff_0,Chromosome,--
+NODE_18_length_968_cov_2.079686_cutoff_0,Chromosome,--
+NODE_19_length_835_cov_3.422164_cutoff_0,Chromosome,0,Y1_Tnp
+NODE_20_length_824_cov_1.068273_cutoff_0,Chromosome,0,Rib
+NODE_21_length_809_cov_1.168033_cutoff_0,Chromosome,--
+NODE_22_length_779_cov_4.314815_cutoff_0,Chromosome,--
+NODE_23_length_743_cov_4.069069_cutoff_0,Chromosome,--
+NODE_24_length_743_cov_3.698198_cutoff_0,Chromosome,--
+NODE_25_length_740_cov_0.776772_cutoff_0,Chromosome,--
+NODE_26_length_635_cov_6.741935_cutoff_0,Chromosome,0,Big_11 Big_11 Big_11
+NODE_27_length_623_cov_2.300366_cutoff_0,Chromosome,0,HemolysinCabind HCBP_related
+NODE_28_length_610_cov_1.407129_cutoff_0,Chromosome,--
+NODE_29_length_578_cov_1.115768_cutoff_0,Chromosome,--
+NODE_1_length_231213_cov_31.377232_cutoff_5,Chromosome,-8.526205379013781,DUF1064 RRXRR HNH Fer4_12 NRDD ATP-cone Thymidylate_kin Resolvase MerR_1 Macro Metallophos_2 OrfB_IS605 OrfB_Zn_ribbon YopX Phage_lysozyme2 Peptidase_M23 Cauli_VI ResIII Helicase_C OrfB_IS605 DNA_pol3_alpha DNA_pol3_finger OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 LRR_5 zf-CHC2 Toprim_N Toprim_4 Toprim_2 Phage_Mu_Gam RNA_lig_T4_1 Metallophos AAA_33 DUF4406 SNF2_N Helicase_C ERCC3_RAD25_C SLH YadA_anchor YadA_stalk YadA_stalk YadA_head Bac_DNA_binding OrfB_Zn_ribbon HTH_OrfB_IS605 OrfB_IS605 DUF2997 UvrD_C UvrD-helicase UvrD-helicase AAA_19 YadA_stalk YadA_head Amidase_2 Rad52_Rad22 OrfB_Zn_ribbon OrfB_IS605 HTH_OrfB_IS605 UDG AAA Fer4_12 DnaB_C DNA_pol3_alpha PHP DNA_pol3_finger DHH DHHA1 HHH_6 Big_5 RecA RecA DNA_topoisoIV DHFR_1 Thymidylat_synt dUTPase LAGLIDADG_3 Intein_splicing Terminase_6 AP2 HNH_3 DNA_gyraseB_C Toprim SSB DNA_gyraseB HATPase_c Guanylate_kin CLP_protease AAA_2 ClpB_D2-small
+NODE_2_length_26016_cov_16.341455_cutoff_5,Plasmid,16.09,T4SS-DNA_transf HTH_3 MobA_MobL NES_C_h DUF87 Glucosaminidase CHAP YukC T4SS_CagC SSB AAA_31 LPD25 Peptidase_M78 Topoisom_bac Toprim zf-C4_Topoisom Resolvase
+NODE_3_length_6399_cov_5.265264_cutoff_5,Chromosome,0,HTH_3 MORN_2 MORN_2 Phage_integrase Phage_int_SAM_3
+NODE_4_length_6185_cov_6.876719_cutoff_5,Plasmid,7.61,MobC Ntox35 Relaxase
+NODE_5_length_2595_cov_23.391581_cutoff_5,Chromosome,0,UPF0236
+NODE_6_length_2311_cov_6.444494_cutoff_5,Chromosome,0,DDE_Tnp_1
+NODE_7_length_2179_cov_2.374881_cutoff_5,Chromosome,--
+NODE_8_length_2165_cov_1.582375_cutoff_5,Chromosome,0,LicD
+NODE_9_length_2048_cov_7.592085_cutoff_5,Chromosome,0,YadA_stalk Collagen
+NODE_10_length_1536_cov_3.346813_cutoff_5,Chromosome,--
+NODE_11_length_1168_cov_5.575619_cutoff_5,Chromosome,0,CbiM CbiN
+NODE_1_length_2102_cov_21.704691_cutoff_15,Chromosome,0,Big_6 Big_6 Big_6

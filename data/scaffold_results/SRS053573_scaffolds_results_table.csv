@@ -1,0 +1,15 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_50996_cov_10.519924_cutoff_0,Plasmid,2.61,Gp138_N DUF3383 Phage_Mu_F DUF1073 DUF2184 DUF2213 DUF4054 Baseplate_J DUF2612 DUF2612 dUTPase N6_N4_Mtase Rad52_Rad22 Terminase_2 Terminase_3 Terminase_3C RusA
+NODE_2_length_47251_cov_3.310574_cutoff_0,Plasmid,2.48,Phage_portal_2 CLP_protease Phage_cap_E Phage_tube Terminase_GpA AAA_31 Phage_terminase ParBc Phage_cap_E Minor_tail_Z Phage_TAC_7 PhageMin_Tail ASCH RecU DUF2786 HTH_3 HTH_38 rve HTH_38 Glucosaminidase RVT_1 Phage_P2_GpU Phage_tail_X Phage_GPD Tail_P2_I DUF3751 Baseplate_J
+NODE_3_length_43161_cov_76.884830_cutoff_0,Plasmid,2.67,DUF551 N6_N4_Mtase ParBc OrfB_IS605 OrfB_Zn_ribbon HTH_OrfB_IS605 Terminase_3 Terminase_3C Phage_min_cap2 Y1_Tnp DUF1653 LexA_DNA_bind zf-CHC2 Phage_holin_5_2 HTH_19 LytTR Response_reg tRNA_anti-like SSB ERF Minor_capsid_2 Peptidase_S74 Phage_Gp15 Glyco_hydro_25 DUF927 HTH_56 Phage_GP20 S-l_SbsC_C
+NODE_4_length_8630_cov_4.646089_cutoff_0,Plasmid,2.48,YoeB_toxin DUF5348 PhdYeFM_antitox PG_binding_1 PG_binding_1 AAA_31
+NODE_5_length_6825_cov_76.485922_cutoff_0,Plasmid,11.07,T4SS-DNA_transf TraG-D_C CRISPR_Cas2 Rep_3
+NODE_6_length_6153_cov_9.852041_cutoff_0,Plasmid,3.86,RelB Mob_Pre YafQ_toxin
+NODE_7_length_5671_cov_453.484269_cutoff_0,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_8_length_4954_cov_2.213451_cutoff_0,Chromosome,0,DUF4906 AAA-ATPase_like PDDEXK_9
+NODE_9_length_4225_cov_669.785198_cutoff_0,Plasmid,8.86,YoeB_toxin Rep_3 Relaxase
+NODE_10_length_2943_cov_9.368458_cutoff_0,Chromosome,0,Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Methylase_S
+NODE_11_length_1539_cov_1.734610_cutoff_0,Chromosome,0,OMP_b-brl_2 Ferritin
+NODE_12_length_965_cov_2.597973_cutoff_0,Chromosome,--
+NODE_1_length_2156_cov_2.322751_cutoff_5,Chromosome,0,HATPase_c HisKA Metallophos
+NODE_1_length_2275_cov_15.954959_cutoff_15,Chromosome,0,SBP_bac_5 SBP_bac_5

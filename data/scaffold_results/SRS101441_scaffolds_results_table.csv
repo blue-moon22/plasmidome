@@ -1,0 +1,13 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_4570_cov_17.788337_cutoff_0,Plasmid,5.35,Rep_3 Cation_efflux ParE_toxin
+NODE_2_length_2828_cov_33.479826_cutoff_0,Chromosome,--
+NODE_3_length_1469_cov_3.277299_cutoff_0,Chromosome,--
+NODE_4_length_1003_cov_2.251620_cutoff_0,Chromosome,0,Acetyltransf_1
+NODE_5_length_764_cov_1.371179_cutoff_0,Chromosome,--
+NODE_6_length_698_cov_3.764895_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_7_length_602_cov_4.885714_cutoff_0,Chromosome,--
+NODE_8_length_598_cov_0.598848_cutoff_0,Chromosome,--
+NODE_1_length_9194_cov_17.071405_cutoff_20,Chromosome,-6.7379035020416715,PhoU PhoU SBP_bac_3 ArsC UPF0223 Inositol_P Methyltr_RsmB-F RsmF_methylt_CI Methyltranf_PUA Methyltr_RsmF_N PBP_like_2 BPD_transp_1 BPD_transp_1 ABC_tran ABC_tran
+NODE_1_length_5897_cov_14.276289_cutoff_5,Plasmid,8.86,PhdYeFM_antitox Rep_3 Relaxase YoeB_toxin
+NODE_2_length_5672_cov_14.638248_cutoff_5,Plasmid,5.48,Rep_1 PemK_toxin
+NODE_3_length_1522_cov_2.451211_cutoff_5,Chromosome,0,EamA EamA

@@ -1,0 +1,12 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_5259_cov_37.569471_cutoff_0,Plasmid,5.48,Zot Rep_1
+NODE_2_length_4471_cov_5.292899_cutoff_0,Plasmid,5.35,Integrase_1 Phage_int_SAM_1 HTH_3 Rep_3
+NODE_3_length_4214_cov_3.197244_cutoff_0,Plasmid,8.86,YoeB_toxin Relaxase Rep_3
+NODE_4_length_1590_cov_1.262393_cutoff_0,Chromosome,--
+NODE_5_length_1472_cov_1.730466_cutoff_0,Chromosome,--
+NODE_6_length_1058_cov_1.667686_cutoff_0,Chromosome,--
+NODE_7_length_995_cov_1.518519_cutoff_0,Chromosome,--
+NODE_8_length_698_cov_1.040258_cutoff_0,Chromosome,0,Mub_B2 MucBP_2 MucBP
+NODE_9_length_665_cov_2.003401_cutoff_0,Chromosome,0,Antigen_C
+NODE_10_length_593_cov_2.608527_cutoff_0,Chromosome,0,Big_6 Big_6 Big_11
+NODE_1_length_8788_cov_21.503501_cutoff_26,Plasmid,2.52,HTH_3 Rep_2 HTH_17 Phage_integrase

@@ -1,0 +1,25 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+NODE_1_length_31273_cov_64.914316_cutoff_10,Plasmid,3.57,AAA_25 RepB_primase Phage_capsid Peptidase_S78 DNA_pol_A DNA_pol_A_exo1 AAA_24 PhageMin_Tail Thioredoxin SNF2_N dCMP_cyt_deam_1 Thymidylat_synt PDDEXK_1 HNH Terminase_4 Terminase_1 Phage_portal Glyco_hydro_16
+NODE_2_length_1109_cov_6.893411_cutoff_10,Chromosome,--
+NODE_1_length_24149_cov_6.869973_cutoff_0,Plasmid,31.91,CagE_TrbE_VirB TrbM T2SSE T4SS-DNA_transf CagX TrbI VirB8 T4SS TrbL CbiA MobC LPD7 Topoisom_bac Toprim_Crpt Toprim zf-C4_Topoisom SSB CbiA SLT
+NODE_2_length_4978_cov_27.663334_cutoff_0,Chromosome,0,ABC_tran GerE
+NODE_3_length_1878_cov_3.845086_cutoff_0,Chromosome,--
+NODE_4_length_1801_cov_3.189095_cutoff_0,Chromosome,--
+NODE_5_length_1706_cov_8.347452_cutoff_0,Chromosome,-17.332617920646072,DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542 DUF1542
+NODE_6_length_1591_cov_8.928005_cutoff_0,Chromosome,--
+NODE_7_length_1247_cov_6.206838_cutoff_0,Chromosome,--
+NODE_8_length_1223_cov_0.787086_cutoff_0,Chromosome,0,Fic
+NODE_9_length_1023_cov_4.535941_cutoff_0,Chromosome,0,AIM24
+NODE_10_length_808_cov_2.005472_cutoff_0,Chromosome,--
+NODE_11_length_739_cov_2.194864_cutoff_0,Chromosome,--
+NODE_12_length_635_cov_3.116487_cutoff_0,Chromosome,--
+NODE_13_length_593_cov_1.744186_cutoff_0,Chromosome,0,FIVAR FIVAR
+NODE_1_length_4125_cov_50.067194_cutoff_26,Chromosome,0,RHS_repeat RHS_repeat RHS_repeat RHS_repeat RHS_repeat RHS RHS_repeat
+NODE_1_length_1578_cov_25.055296_cutoff_42,Chromosome,-5.514636601859419,GTP-bdg_N GTP-bdg_M MMR_HSR1
+NODE_1_length_43941_cov_10.160405_cutoff_5,Chromosome,0,HNH_3 Guanylate_kin DUF2800 Terminase_1 Sipho_tail CHAP Spherulin4 Collagen Collagen Collagen Phage_holin_Dp1 Phage_portal Peptidase_S78 Phage_capsid
+NODE_2_length_3776_cov_4.149770_cutoff_5,Chromosome,--
+NODE_3_length_1745_cov_17.880096_cutoff_5,Chromosome,0,Lipocalin_4 Lipocalin_4
+NODE_4_length_1484_cov_2.906183_cutoff_5,Chromosome,--
+NODE_5_length_1326_cov_2.855885_cutoff_5,Chromosome,0,Cad
+NODE_1_length_41928_cov_14.436095_cutoff_15,Chromosome,-5.687430547704224,P22_AR_N Phage_integrase Phage_int_SAM_4 DUF4406 Peptidase_S49 Toprim_N Toprim_4 zf-CHC2 Toprim_2 Toprim DnaB_bind Phage_holin_4_1 DUF5053 Glucosaminidase
+NODE_2_length_18732_cov_15.795122_cutoff_15,Chromosome,-41.353031778371445,RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 NusG KOW SecE Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 Ribosom_S12_S23 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7
