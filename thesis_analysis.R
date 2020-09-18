@@ -338,7 +338,9 @@ ggplot(plasmid_prof_summary, aes(perc, fill = Location_sampletype)) +
   facet_grid(~Location_sampletype) +
   theme_classic() +
   scale_fill_manual("GIT site - Country", values = cohort_cols) +
-  xlab("% samples") + ylab("Frequency")
+  xlab("% samples") + ylab("Frequency") +
+  theme(axis.title = element_text(size = 16)) +
+  scale_y_continuous(breaks = seq(0,1000,100))
 dev.off()
 
 #### BETA-DIVERSITY ####
@@ -1050,9 +1052,9 @@ ggplot(plasmid_args_long_summary, aes(as.character(no_tp), n, fill = sample_type
   xlab("No. timepoints") + ylab("No. individuals") +
   scale_y_continuous(breaks = seq(0, 80, 5)) +
   theme(strip.text.x = element_text(angle = 90, size = 8),
-        axis.title = element_text(size = 10),
-        legend.text = element_text(size = 10),
-        legend.title = element_text(size = 10),
+        axis.title = element_text(size = 14),
+        legend.text = element_text(size = 14),
+        legend.title = element_text(size = 14),
         panel.grid.major.x = element_blank(),
         panel.grid.minor.x = element_blank())
 dev.off()
