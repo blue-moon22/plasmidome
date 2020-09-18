@@ -285,6 +285,9 @@ plasmid_taxa <- plasmid_taxa %>%
 
 metadata <- metadata[metadata$ID %in% plasmid_prof$ID,]
 
+# Save metadata for combined analysis
+saveRDS(metadata, "data/metadata_plasmids.RDS")
+
 # Summarise new metadata
 metadata_summary <- metadata %>% group_by(Location, sample_type, Sample.name) %>%
   mutate(timepoint = rank(as.numeric(Visit_Number))) %>%
@@ -826,10 +829,19 @@ arg_res$Drug.Class.alt <- arg_res$Drug.Class
 arg_res$Drug.Class.alt[sapply(arg_res$Drug.Class.alt, function(x) str_count(x, ";")) > 1] <- "multidrug"
 arg_res$Drug.Class.alt[arg_res$Resistance.Mechanism == "antibiotic efflux"] <- paste(arg_res$Drug.Class.alt[arg_res$Resistance.Mechanism == "antibiotic efflux"], "efflux")
 arg_res$Drug.Class.alt <- gsub(";", " and ", arg_res$Drug.Class.alt)
+
+# Save for combined analysis
+arg_res_save <- arg_res %>% 
+  group_by(ID, qseqid) %>%
+  summarise_all(paste, collapse = ",") %>%
+  inner_join(plasmid_prof, by = c("ID", "qseqid"="name"), suffix = c(".plasmid", ".arg")) %>%
+  select(ID, qseqid, ARO.Name, AMR.Gene.Family, Drug.Class.alt, Resistance.Mechanism, plasmid_name_cluster)
+saveRDS(arg_res_save, file = "data/arg_plasmids.RDS")
+
 arg_res <- arg_res %>% 
   group_by(ID, qseqid) %>%
   summarise_all(paste, collapse = ",") %>%
-  select(qseqid, ARO.Name, AMR.Gene.Family, Drug.Class.alt, Resistance.Mechanism)
+  select(ID, qseqid, ARO.Name, AMR.Gene.Family, Drug.Class.alt, Resistance.Mechanism)
 
 # Combine plasmid and ARG results
 plasmid_args <- inner_join(plasmid_prof_sing, arg_res, by = c("ID", "name"="qseqid"), suffix = c(".plasmid", ".arg"))
