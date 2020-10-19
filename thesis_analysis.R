@@ -1044,7 +1044,7 @@ plasmid_args_long_summary <- cluster_args_no_tp %>%
   summarise(n = n_distinct(Sample.name))
 
 # Plot
-tiff("figures/longitudinal_three_timepoints.tiff", height = 800, width = 1500, res = 120)
+tiff("figures/longitudinal_three_timepoints.tiff", height = 1300, width = 1500, res = 120)
 ggplot(plasmid_args_long_summary, aes(as.character(no_tp), n, fill = sample_type)) +
   geom_bar(stat = "identity") +
   facet_grid(~plasmid_arg, scale = "free", space = "free") +
@@ -1052,8 +1052,9 @@ ggplot(plasmid_args_long_summary, aes(as.character(no_tp), n, fill = sample_type
   scale_fill_manual("GIT Site", values = cols) +
   xlab("No. timepoints") + ylab("No. individuals") +
   scale_y_continuous(breaks = seq(0, 80, 5)) +
-  theme(strip.text.x = element_text(angle = 90, size = 8),
-        axis.title = element_text(size = 14),
+  theme(strip.text.x = element_text(angle = 90, size = 12),
+        axis.title = element_text(size = 16),
+        axis.text = element_text(size = 12),
         legend.text = element_text(size = 14),
         legend.title = element_text(size = 14),
         panel.grid.major.x = element_blank(),
