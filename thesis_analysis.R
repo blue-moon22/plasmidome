@@ -910,30 +910,31 @@ point_loc$label <- paste0(point_loc$Location_sample_type_group, "\nn = ", as.cha
 
 args_summary_pnts <- left_join(args_summary_pnts, point_loc, by = c("Location", "sample_type_group"))
 
-args_summary_pnts$x_labels <- paste0(args_summary_pnts$ARO.Name, "\n(", args_summary_pnts$Drug.Class.alt, ")")
+args_summary_pnts$x_labels <- paste0(args_summary_pnts$ARO.Name, " (", sapply(args_summary_pnts$Drug.Class.alt, function(x) unique(strsplit(x, ",")[[1]])), ")")
 
 # Colours
 cohort_cols <- c("grey", brewer.pal(9, "Blues")[c(5,7)], "gold", brewer.pal(9, "YlOrRd")[c(5,7)], brewer.pal(9, "RdPu")[c(3,5)])
 names(cohort_cols) <- sort(unique(metadata$Location_sampletype)) 
 
 # Summary graph
-tiff("figures/resistant_plasmids.tiff", height = 2500, width = 4000, res = 150)
+tiff("figures/resistant_plasmids.tiff", height = 3000, width = 6750, res = 200)
 ggplot(args_summary_pnts, aes(sample_type, loc)) +
-  geom_label(aes(label = type), size = 2, nudge_x = -0.4, alpha = 0) +
+  #geom_label(aes(label = type), size = 2, nudge_x = -0.4, alpha = 0) +
   geom_point(aes(colour = Location_sampletype, size = log10(av_size))) +
   coord_flip() +
   geom_text(aes(label = labels), colour = "black", size = 3) +
   facet_grid(plasmid_name_cluster + x_labels ~ ., scale = "free", space = "free", switch = "both") +
   theme_bw() +
-  theme(strip.text.y = element_text(angle = 180, size = 6),
-        axis.title = element_text(size = 10),
-        legend.text = element_text(size = 10),
-        legend.title = element_text(size = 10),
+  theme(strip.text.y = element_text(angle = 180, size = 8),
+        axis.title = element_text(size = 16),
+        axis.text = element_text(size = 10),
+        legend.text = element_text(size = 16),
+        legend.title = element_text(size = 16),
         axis.text.y = element_blank(),
         axis.ticks.y = element_blank(),
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank()) +
-  scale_colour_manual("Body Site - Country", 
+  scale_colour_manual("GIT Site - Country", 
                       values = cohort_cols[names(cohort_cols) %in% args_summary_pnts$Location_sampletype], 
                       labels = names(cohort_cols)[names(cohort_cols) %in% args_summary_pnts$Location_sampletype]) +
   scale_size(name = "log10(mean size [bp])") +
